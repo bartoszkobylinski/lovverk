@@ -11,11 +11,11 @@ ministry:
 date_in_force: "1927-07-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-07-01"
-xml_hash: "0c532ae017dc13731c8c51570540fb4ebbf851a22586a3a741fcd187deb4eb44"
+xml_hash: "61617aa6c0376a133b9cb4fd7549c8140c711a98c0fb5cc9a1d1bc027ffab79a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -28,7 +28,7 @@ eu_basis: []
 
 Bestemmelsene i dette kapittel kommer til anvendelse på skjønn som styres av tingretten, samt på skjønn som styres av jordskifteretten i den utstrekning det følger av [jordskiftelova § 5-7](lov/2013-06-21-100/§5-7).
 
-> Endret ved [lover 8 juni 1973 nr. 50](lov/1973-06-08-50), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved [lover 8 juni 1973 nr. 50](lov/1973-06-08-50), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 2
 
@@ -36,11 +36,11 @@ De bestemmelser, som er git i tvisteloven første, annen, fjerde, femte og sjett
 
 Det samme gjælder bestemmelserne i [lov om domstolene §§ 145](lov/1915-08-13-5/§145) og [187](lov/1915-08-13-5/§187).
 
-> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 3. (Opphevet)
 
-> Opphevet ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Opphevet ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 4
 
@@ -56,7 +56,7 @@ Når ikke annet er bestemt ved lov, skal skjønnsforretninger holdes av tingrett
 
 En dommerfullmektig kan ikke styre skjønnsforretning uten etter særskilt bemyndigelse eller i uforutsette forfallstilfelle. Bemyndigelse gis av domstoladministrasjonen eller av domstolens leder etter bestemmelser gitt av domstoladministrasjonen.
 
-> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [16 juni 1989 nr. 64](lov/1989-06-16-64), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [16 juni 1989 nr. 64](lov/1989-06-16-64), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 6
 
@@ -66,11 +66,11 @@ Ligger en fast eiendom eller den del, forretningen gjælder, i flere kredser, el
 
 Gjælder forretningen ikke en bestemt ting, holdes den i den kreds, hvor saksøkte har sit almindelige verneting. Som saksøkt betragtes den eller de, mot hvem en paastand agtes bygget paa forretningen, eller mot hvem den ellers antages at kunne faa umiddelbar betydning.
 
-> Endret ved [lover 25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved [lover 25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret [lov 17 juni 2005 nr. 84](lov/2005-06-17-84)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 7. (Opphevet)
 
-> Endret ved [lov 25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), opphevet ved [lov 11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved [lov 25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84)), opphevet ved [lov 11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 8
 
@@ -80,7 +80,7 @@ Begjæringen må oppgi forretningens gjenstand og øyemed og redegjøre for det 
 
 Kart, tegninger og andre dokumenter som det må antas å være av betydning å få framlagt på et tidlig tidspunkt, skal så vidt mulig følge som vedlegg til skjønnsbegjæringen, eller i tilfelle skjønn er begjært etter [§ 4](lov/1917-06-01-1/§4) annet ledd, som vedlegg til ekspropriantens uttalelse, jfr. [§ 21](lov/1917-06-01-1/§21) første ledd. Det samme gjelder utkast til skjønnsforutsetninger dersom det antas nødvendig å oppstille slike.
 
-> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 9
 
@@ -104,7 +104,7 @@ Får høyst et skjønnsmedlem forfall etter at forhandlingene er begynt i sak, h
 
 Kjennelse etter tredje ledd første punktum kan bare angripes ved anke som erklæres innen tre dager. Anken har oppsettende virkning.
 
-> Endret ved lover 29 mai 1928 nr. 2, 17 juni 1966 nr. 8, [26 jan 1973 nr. 3](lov/1973-01-26-3), 13 feb 1976 nr. 2, [1 juni 1979 nr. 24](lov/1979-06-01-24), [17 des 1982 nr. 88](lov/1982-12-17-88), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
+> Endret ved lover 29 mai 1928 nr. 2, 17 juni 1966 nr. 8, [26 jan 1973 nr. 3](lov/1973-01-26-3), 13 feb 1976 nr. 2, [1 juni 1979 nr. 24](lov/1979-06-01-24), [17 des 1982 nr. 88](lov/1982-12-17-88), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
 
 ### § 12
 
@@ -116,13 +116,13 @@ Er det nødvendig for å få skjønnsmedlemmer med særlig kyndighet på et elle
 
 Er partene blitt enige om hvilke skjønnsmedlemmer de vil ha, skal som regel disse oppnevnes.
 
-> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 13
 
 Når det etter [domstolloven § 20](lov/1915-08-13-5/§20) er oppnevnt en særskilt skjønnsstyrer for en forretning som strekker seg gjennom flere kretser, skal de samme skjønnsmedlemmer gjøre tjeneste i alle kretser. Skjønnsmedlemmer oppnevnes av skjønnsstyreren.
 
-> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 14
 
@@ -132,7 +132,7 @@ Ved oppnevningen skal det tas sikte på at utvalget får en allsidig sammensetni
 
 Fylkesrådmannen skal innen 1. november året etter hvert kommunestyrevalg sende oppgave over alle skjønnsmedlemmer i det fylkesvise utvalg til tingrettene og jordskifterettene i fylket og til vedkommende lagmannsrett. Oppgaven skal inneholde fullt navn, adresse, fødselsnummer, eventuell telefon til arbeidsted og privat, stilling og yrke, samt angivelse av hva vedkommende er særlig kyndig i.
 
-> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [22 mai 1981 nr. 24](lov/1981-05-22-24), [17 des 1982 nr. 88](lov/1982-12-17-88), [13 mars 1987 nr. 14](lov/1987-03-13-14), [6 des 1991 nr. 80](lov/1991-12-06-80), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [25 juni 2010 nr. 47](lov/2010-06-25-47), [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)).
+> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [22 mai 1981 nr. 24](lov/1981-05-22-24), [17 des 1982 nr. 88](lov/1982-12-17-88), [13 mars 1987 nr. 14](lov/1987-03-13-14), [6 des 1991 nr. 80](lov/1991-12-06-80), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [25 juni 2010 nr. 47](lov/2010-06-25-47), [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)).
 
 ### § 15
 
@@ -140,19 +140,19 @@ Sletting av skjønnsmedlemmer fra utvalget, jf [§ 14](lov/1917-06-01-1/§14), f
 
 Beslutning om endringer i skjønnsmedlemutvalget meddeles tingrettene og jordskifterettene i fylket og vedkommende lagmannsrett.
 
-> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)).
+> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 juni 2007 nr. 38](lov/2007-06-15-38) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 654](forskrift/2007-06-15-654)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)).
 
 ### § 16
 
 Ektefeller, foreldre og barn, søsken eller noen, som er i like så nært svogerskap, må ikke ta del i samme forretning som bestyrer eller skjønnsmedlemmer.
 
-> Endret ved [lover 21 juni 1963 nr. 5](lov/1963-06-21-5), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 21 juni 1963 nr. 5](lov/1963-06-21-5), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 17
 
 Om ugildhet for skjønsbestyrere og skjønnsmedlemmer gjælder de samme regler som for dommere.
 
-> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 18
 
@@ -164,7 +164,7 @@ Varamedlemmer kan efter omstændighetene tilsiges til at møte eller til at hold
 
 Uteblir et skjønnsmedlem, eller maa medlemmet fratræde, kan bestyreren i ethvert tilfælde tilkalde et av de skjønnsmedlemmene, som bor nærmest forretningsstedet.
 
-> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 19
 
@@ -172,19 +172,19 @@ Hvis et skjønnsmedlem har gyldig fravær, pligter vedkommende at melde det i ti
 
 Til gyldig fravær medregnes saadanne omstændigheter som, at skjønnsmedlemmet ikke uten fare for helbred eller velfærd eller uten at forsømme vigtige og uopsættelige forretninger eller pligter kunde ha møtt. Av offentlige hverv regnes bare hvervet som medlem av fylkesting samt militær tjeneste og tjeneste ved høiere ret som gyldig fravær.
 
-> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 20
 
 Første gang nogen gjør tjeneste som skjønnsmedlem, skal bestyreren foreholde medlemmet de pligter, som paahviler et skjønnsmedlem, og ta imot medlemmets forsikring om, at medlemmet saavel i denne sak som i alle fremtidige saker vil utføre sit hverv som skjønnsmedlem samvittighetsfuldt og efter bedste overbevisning.
 
-> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 20 a
 
 Godtgjørelse til skjønnsmedlemmer fastsettes av skjønnsstyreren etter forskrifter gitt av Kongen. Fastsettingen kan ankes etter reglene i [rettshjelploven § 27](lov/1980-06-13-35/§27).
 
-> Tilføyd ved [lov 17 des 1982 nr. 86](lov/1982-12-17-86), endret ved [lover 29 juni 1990 nr. 47](lov/1990-06-29-47), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft fra den tid Kongen bestemmer).
+> Tilføyd ved [lov 17 des 1982 nr. 86](lov/1982-12-17-86), endret ved [lover 29 juni 1990 nr. 47](lov/1990-06-29-47), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)). **Endres** ved lov [20 juni 2025 nr. 82](lov/2025-06-20-82) (i kraft fra den tid Kongen bestemmer).
 
 ### § 21
 
@@ -194,7 +194,7 @@ Fører ikke saksforberedelsesmøtet til at saken i sin helhet blir avgjort eller
 
 Forretningen kan fremmes uten varsel til saksøkte, hvis den ellers vilde bli frugtesløs eller mangelfuld, fordi gjenstanden er utsat for forandring, eller hvis det særlig er bestemt ved lov. Har saksøkte en fuldmægtig paa stedet eller i nærheten, skal dog han om mulig indkaldes. I ethvert fald skal saksøkte eller hans fuldmægtig snarest mulig underrettes om forretningen.
 
-> Endret ved [lover 23 okt 1959 nr. 3](lov/1959-10-23-3), [26 jan 1973 nr. 3](lov/1973-01-26-3), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 23 okt 1959 nr. 3](lov/1959-10-23-3), [26 jan 1973 nr. 3](lov/1973-01-26-3), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 22
 
@@ -202,7 +202,7 @@ Under skjønnsforretningen skal skjønnsstyreren avklare skjønnsforutsetningene
 
 Saksøkte bør gi spesifisert oppgave over hva han krever erstatning for.
 
-> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 23
 
@@ -212,11 +212,11 @@ Har saksøkeren fravær i saken, uten at det er oplyst eller sandsynlig, at han 
 
 Har saksøkte fravær i saken, uten at det er oplyst eller sandsynlig, at han har gyldig fravær, men saksøkeren møter, skal forretningen efter hans forlangende fremmes eller utsættes.
 
-> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 24. (Opphevet)
 
-> Endret ved [lover 14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved [lov 11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved [lover 14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved [lov 11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 25. (Opphevet)
 
@@ -232,7 +232,7 @@ I alle avgjørelser under forretningen tar saavel bestyreren som skjønnsmedlemm
 
 Avgjørelsene treffes med stemmeflerhet når ikke annet er bestemt ved lov. Er der fler end to meninger, naar pengebeløp eller andre størrelser skal fastsættes, og ingen har stemmeflerhet, legges stemmerne for høiere beløp eller størrelser sammen med stemmerne for de nærmest følgende, til der blir flertal.
 
-> Endret ved lover 13 feb 1976 nr. 2, [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover 13 feb 1976 nr. 2, [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 28
 
@@ -256,11 +256,11 @@ Forkynnelsen kan foregå gjennom rekommandert brev.
 
 Kjendelser og beslutninger som træffes under en retslig skjønsforretning kan ikke ankes av parterne uten i følgende tilfælde:naar de avviser saken eller hæver, stanser eller utsætter den, eller naar de forkaster en avvisningspaastand i tilfælde, hvor retsmøtet paa forhaand er begrænset til avvisningsspørsmaalet;naar de angaar straf-, omkostnings- eller erstatningsansvar eller tredjemands pligt til at avgi forklaring eller forsikring, at gi tilgang til realbevis eller at gjøre tjeneste som sakkyndig.Når kjennelsen tillater fortsatt behandling av saken i forfallstilfelle, jfr. [§ 11](lov/1917-06-01-1/§11) tredje og fjerde ledd.
 
-> Endret ved lover 13 feb 1976 nr. 2, [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved lover 13 feb 1976 nr. 2, [14 juni 1985 nr. 71](lov/1985-06-14-71), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 31. (Opphevet)
 
-> Endret ved lover 29 mai 1928 nr. 2, [18 juni 1965 nr. 5](lov/1965-06-18-5), [17 des 1982 nr. 88](lov/1982-12-17-88), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved [lov 11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved lover 29 mai 1928 nr. 2, [18 juni 1965 nr. 5](lov/1965-06-18-5), [17 des 1982 nr. 88](lov/1982-12-17-88), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved [lov 11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 32
 
@@ -272,13 +272,13 @@ For samtykke til fremme av overskjønn for lagmannsretten gjelder bestemmelsene 
 
 Når den ene part begjærer overskjønn over deler av et skjønn, får også den annen part rett til å begjære overskjønn, selv om kravet til ankegjenstandens verdi ikke er oppfylt eller fristen til å begjære overskjønn er oversittet. Slik aksessorisk begjæring må framsettes innen den frist som fastsettes etter [§ 33 a](lov/1917-06-01-1/§33a) første ledd. Bestemmelsene i [tvisteloven § 29-7](lov/2005-06-17-90/§29-7) tredje og fjerde ledd gjelder tilsvarende så langt de passer.
 
-> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88). Endret ved [lover 27 juni 1986 nr. 48](lov/1986-06-27-48), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88). Endret ved [lover 27 juni 1986 nr. 48](lov/1986-06-27-48), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 33
 
 Begjæring om overskjønn må nevne:den rett overskjønnet hører under, partene i overskjønnssaken og i tilfelle deres lovlige stedfortredere,det underskjønn som kreves overprøvd,om det er hele underskjønnets avgjørelse eller bare deler av den som kreves overprøvd,de feil ved avgjørelsen som begjæringen om overskjønn grunnes på, ogde omstendigheter som er avgjørende for retten til å kreve overskjønn.
 
-> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lover 28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lover 28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 33 a
 
@@ -286,7 +286,7 @@ Begjæring om overskjønn framsettes for den retten som har avsagt underskjønne
 
 Etter utløpet av fristen sendes sakens dokumenter til lagmannsretten når overskjønnet hører under denne rett. Er det kommet inn uttalelse fra den annen part, skal denne meddeles den som har begjært overskjønn.
 
-> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lover 28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lover 28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 34
 
@@ -296,7 +296,7 @@ Førstelagmannen kan bestemme at en jordskiftelagdommer kan delta og styre overs
 
 Under skjønnsforretningen tiltrer skjønnsmedlemmer i samme antall som ved underskjønnet. Når en part krever det og rettens leder finner det påkrevet, kan antallet skjønnsmedlemmer økes til fire ved overskjønn over skjønn med to skjønnsmedlemmer og til seks ved overskjønn over skjønn med fire skjønnsmedlemmer. Når tre dommere deltar, avgjør rettens leder om det skal være med to eller fire skjønnsmedlemmer.
 
-> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lover 2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [9 juni 2023 nr. 32](lov/2023-06-09-32) (i kraft 1 juli 2023 iflg. [res. 9 juni 2023 nr. 829](forskrift/2023-06-09-829)).
+> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lover 2 juni 1995 nr. 26](lov/1995-06-02-26) (ikr. 1 aug 1995 iflg. [res. 2 juni 1995 nr. 514](forskrift/1995-06-02-514)), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [9 juni 2023 nr. 32](lov/2023-06-09-32) (i kraft 1 juli 2023 iflg. [res. 9 juni 2023 nr. 829](forskrift/2023-06-09-829)).
 
 ### § 35
 
@@ -308,7 +308,7 @@ Under overskjønnet kan hver av partene inndra nye skjønnskrav som står i samm
 
 For øvrig får de regler som foran er gitt om rettslig skjønn, også anvendelse på overskjønn så langt de passer. Tvistelovens bestemmelser om anke i [§§ 29-6](lov/2005-06-17-90/§29-6), [29-10](lov/2005-06-17-90/§29-10) første ledd, [29-16](lov/2005-06-17-90/§29-16) annet til fjerde ledd og [29-19](lov/2005-06-17-90/§29-19) gjelder tilsvarende så langt de passer.
 
-> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 37
 
@@ -316,19 +316,19 @@ Underskjønnet faller bort så langt overskjønn blir avsagt.
 
 Er underskjønnet avsagt av feil skjønnsmyndighet, kan saken fremmes til avgjørelse dersom retten er rett domstol for overprøving og hensynet til partene ikke tilsier ny prøving av rett skjønnsmyndighet. Ellers skal skjønnet oppheves på grunn av feilen. Etterpå sendes da saken til rett skjønnsmyndighet, eller skjønnet avvises dersom det ikke er adgang til fortsatt behandling.
 
-> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lover 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 38
 
 Et overskjønn kan bare ankes på grunn av feil i rettsanvendelsen eller den saksbehandling som ligger til grunn for avgjørelsen. Anken behandles etter reglene om anke over dommer i [tvisteloven kapittel 29](lov/2005-06-17-90/kap29) eller [30](lov/2005-06-17-90/kap30).
 
-> Endret ved lover 25 feb 1927, [26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved lover 25 feb 1927, [26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 39
 
 Ved fortsatt behandling av et opphevet skjønn skal skjønnsmyndigheten sammensettes med annen skjønnsstyrer og andre skjønnsmedlemmer med mindre partene erklærer at de ikke ønsker dette. Statsforvalteren oppnevner om nødvendig den nye skjønnsstyrer.
 
-> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lover 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
+> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lover 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
 ### § 40
 
@@ -336,13 +336,13 @@ En skjønsforretning kan forlanges gjenåpnet efter reglerne i [tvisteloven kapi
 
 Det, som der er bestemt om dommere og domme, faar tilsvarende anvendelse paa skjønsmedlemmer og skjøn.
 
-> Endret ved [lover 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved [lover 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 41
 
 En avgjørelse truffet i en skjønnsforretning har virkning som en dom. [Tvisteloven § 19-13](lov/2005-06-17-90/§19-13) tredje og fjerde ledd gjelder tilsvarende.
 
-> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [26 juni 1992 nr. 86](lov/1992-06-26-86), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 26 jan 1973 nr. 3](lov/1973-01-26-3), [26 juni 1992 nr. 86](lov/1992-06-26-86), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 42
 
@@ -360,7 +360,7 @@ I andre saker enn de som er nevnt i [§ 42](lov/1917-06-01-1/§42), avgjøres sp
 
 I saker hvor ingen av partene etter rettens mening kan sies å ha vunnet, avgjør retten i hvilken utstrekning den ene parten helt eller delvis skal erstatte motparten hans nødvendige utgifter i anledning skjønnssaken. Det skal her særlig legges vekt på om parten har avslått et rimelig forlikstilbud og om han ellers har forlangt skjønn uten rimelig grunn.
 
-> Endret ved [lover 4 des 1964 nr. 2](lov/1964-12-04-2), [26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+> Endret ved [lover 4 des 1964 nr. 2](lov/1964-12-04-2), [26 jan 1973 nr. 3](lov/1973-01-26-3), [17 des 1982 nr. 88](lov/1982-12-17-88), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
 ### § 44. (Opphevet)
 
@@ -368,7 +368,7 @@ I saker hvor ingen av partene etter rettens mening kan sies å ha vunnet, avgjø
 
 ### § 45. (Opphevet)
 
-> Endret ved [lover 14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved [lov 11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved [lover 14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved [lov 11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ## 2net kapitel. Ekspropriationssaker.
 
@@ -390,11 +390,11 @@ Oppstår det under en skjønnsforretning som styres av en dommer, tvist om rette
 
 En kjennelse hvorved saken som følge av en slik tvist nektes fremmet, er gjenstand for anke etter reglene for anke over dommer.
 
-> Endret ved [lover 23 okt 1959 nr. 3](lov/1959-10-23-3), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
+> Endret ved [lover 23 okt 1959 nr. 3](lov/1959-10-23-3), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)).
 
 ### § 49. (Opphevet)
 
-> Endret ved [lover 23 okt 1959 nr. 3](lov/1959-10-23-3), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), opphevet ved [lov 11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved [lover 23 okt 1959 nr. 3](lov/1959-10-23-3), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), opphevet ved [lov 11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 50
 
@@ -446,7 +446,7 @@ Er overskjønn begjært av begge parter, gjelder bestemmelsene i første til tre
 
 Ved anke fra saksøkerens side gjelder bestemmelsene i [§ 54](lov/1917-06-01-1/§54). Tilsvarende gjelder når det er saksøkte som anker, dersom han helt eller i det vesentlige får medhold. Ellers avgjøres spørsmålet om erstatning av saksomkostninger etter reglene i [tvisteloven kapittel 20](lov/2005-06-17-90/kap20).
 
-> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lover 14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Tilføyd ved [lov 17 des 1982 nr. 88](lov/1982-12-17-88), endret ved [lover 14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ### § 55
 
@@ -470,7 +470,7 @@ Iverksættes ikke ekspropriation efter et optat ekspropriationsskjøn, skal saks
 
 Erstatningen fastsettes av skjønnsstyreren ved kjennelse.
 
-> Endret ved [lover 14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901)) som endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
+> Endret ved [lover 14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved [lov 17 juni 2005 nr. 84](lov/2005-06-17-84)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
 ## 3dje kapitel. Odelsløsning.
 
