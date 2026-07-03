@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: null
+last_change_in_force: "2026-06-26"
 last_updated: null
-xml_hash: "3b0e7aaadb8b27da4dfd4e53fd208524161374e41a26350f0a88354cee2785c9"
+xml_hash: "ff15709eeaeb8ce8eb404eb2ae9ef8098893168a36b854d9a7545e7b9aa12c5a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -40,11 +40,13 @@ Fartøy med adgang til å delta i fisket med konvensjonelle redskap kan fiske og
 
 ## § 4. Maksimalkvoter for fartøy som fisker med konvensjonelle redskap
 
-Fartøy med adgang til å delta i lukket gruppe i fisket etter torsk med konvensjonelle redskap i Nordsjøen, kan maksimalt fiske og lande følgende kvanta torsk i Nordsjøen:*Fartøyets hjemmelslengde:**Garanterte kvoter (tonn)**Maksimalkvote (tonn)*0–14,99 meter2415,00–20,99 meter48på eller over 21,00 meter816
+Fartøy med adgang til å delta i lukket gruppe i fisket etter torsk med konvensjonelle redskap i Nordsjøen, kan maksimalt fiske og lande følgende kvanta torsk i Nordsjøen:*Fartøyets hjemmelslengde:**Garanterte kvoter (tonn)**Maksimalkvote (tonn)*0–14,99 meter2615,00–20,99 meter412på eller over 21,00 meter824
 
 Fartøy med adgang til å delta i åpen gruppe i fisket etter torsk for fartøy med mindre enn 500m3 lasteromvolum som fisker med konvensjonelle redskap i Nordsjøen, kan maksimalt fiske og lande følgende kvanta torsk i Nordsjøen:*Fartøyets hjemmelslengde:**Garanterte kvoter (tonn)**Maksimalkvote (tonn)*0–9,99 meter2310,00–20,99 meter23på eller over 21,00 meter23
 
 Fartøy som i 2004 fikk dispensasjon fra forbudet mot å fiske direkte etter torsk i Skagerrak utenfor grunnlinjene, kan maksimalt fiske og lande 3 tonn torsk i Skagerrak utenfor grunnlinjene. Andre fartøy med største lengde under 11 meter, kan i perioden fra og med 1. april til og med 30. juni maksimalt fiske og lande 3 tonn torsk med juksa i Skagerrak utenfor grunnlinjene dersom eier/høvedsmann er registrert på blad B i fiskermanntallet og fartøyet ikke har adgang til å delta i lukket gruppe i fisket etter torsk med konvensjonelle redskap i Nordsjøen.
+
+> Endret ved forskrift [26 juni 2026 nr. 1451](forskrift/2026-06-26-1451).
 
 ## § 5. Bifangst
 
