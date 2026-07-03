@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2007-08-01"
 last_change_in_force: "2026-02-01"
 last_updated: "2020-02-26"
-xml_hash: "0dc0c331aaa51ae98cd28bfc2016b92d04a90dce271a17a9519027a2ae82e982"
+xml_hash: "bc8d60c510bbb44306b7d258cdb1770bf66a4cb64e9759717f1670515f0d8497"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -37,6 +37,10 @@ Vegdirektoratet kan gjøre unntak fra bestemmelsene i denne forskriften i den ut
 Forordning [(EF) nr. 561/2006](eu/32006r0561*) artikkel 8 nr. 6 gjelder ikke for transport i samsvar med forordning [(EF) nr. 561/2006](eu/32006r0561*) artikkel 8 nr. 6a inntatt ved forordning [(EF) nr. 1073/2009](eu/32009r1073*) artikkel 29.
 
 > Endret ved [forskrifter 17 juli 2008 nr. 813](forskrift/2008-07-17-813) (i kraft 1 aug 2008), [29 juni 2010 nr. 1027](forskrift/2010-06-29-1027), [7 juni 2018 nr. 815](forskrift/2018-06-07-815), [26 sep 2018 nr. 1476](forskrift/2018-09-26-1476) (i kraft 1 okt 2018), [13 april 2021 nr. 1142](forskrift/2021-04-13-1142) (i kraft 30 april 2021).
+
+## § 2a. Innenlands godstransport med kjøretøy over 2 500 kg
+
+> **Tilføyes** ved forskrift [1 juli 2026 nr. 1458](forskrift/2026-07-01-1458) (i kraft 1 april 2027).
 
 ## § 3. (Opphevet)
 
