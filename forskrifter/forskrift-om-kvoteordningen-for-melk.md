@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2012-01-01"
-last_change_in_force: "2026-06-10"
+last_change_in_force: "2026-06-30"
 last_updated: "2012-02-07"
-xml_hash: "33be8043c822b9dc5c2af8bf3ed0c36b153c5cb64551294a849b40c7d20f62a6"
+xml_hash: "9f8f5e076c2a76ade29bf55c0fdc0e62cc27aa6536927d1e6afa40f233a78eb5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-13T07:43:12.899363+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,9 @@ Med produksjonsregion for geitemelkkvoter menes i denne forskrift henholdsvis No
 
 Uten hensyn til hva som følger ellers av forskriften, kan geitemelkkvote, eller produksjon på slik kvote, ikke flyttes til kommuner uten geitemelkkvote fra før. Geitemelkkvoter kan heller ikke flyttes til kommunene Indre Fosen, Namsskogan, Røyrvik og Ås.
 
-> Endret ved [forskrifter 19 feb 2014 nr. 197](forskrift/2014-02-19-197) (i kraft 1 mars 2014), [30 juni 2017 nr. 1088](forskrift/2017-06-30-1088), [29 juni 2018 nr. 1096](forskrift/2018-06-29-1096), [18 des 2018 nr. 2133](forskrift/2018-12-18-2133) (i kraft 1 jan 2019), [6 des 2019 nr. 1655](forskrift/2019-12-06-1655) (i kraft 1 jan 2020), [30 juni 2025 nr. 1367](forskrift/2025-06-30-1367) (i kraft 1 mars 2026).
+Flytting som nevnt i tredje ledd kan likevel tillates dersom produksjonen på den kvoten som søkes flyttet skal foregå langs etablerte henteruter for geitemelk og meieriet som skal hente melken har behov for den. Slik tillatelse skal ikke danne grunnlag for ytterligere flytting av geitemelkkvote eller -produksjon til kommunen, jf. tredje ledd.
+
+> Endret ved [forskrifter 19 feb 2014 nr. 197](forskrift/2014-02-19-197) (i kraft 1 mars 2014), [30 juni 2017 nr. 1088](forskrift/2017-06-30-1088), [29 juni 2018 nr. 1096](forskrift/2018-06-29-1096), [18 des 2018 nr. 2133](forskrift/2018-12-18-2133) (i kraft 1 jan 2019), [6 des 2019 nr. 1655](forskrift/2019-12-06-1655) (i kraft 1 jan 2020), [30 juni 2025 nr. 1367](forskrift/2025-06-30-1367) (i kraft 1 mars 2026), [30 juni 2026 nr. 1457](forskrift/2026-06-30-1457).
 
 ## § 4. Disponibel kvote
 
