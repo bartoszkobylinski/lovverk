@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2023-06-15"
-xml_hash: "c28c2a20fe5fd9801db4458869fdf47968eba88408edbb7ea36f4afbbedcb148"
+xml_hash: "38cf27aa5723d654d1ebd9cc39d6957b82b5360b38a2c92c7cde6f3fae5aebb8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis:
   - "32014L0024"
@@ -38,7 +38,7 @@ Loven gjelder når oppdragsgiver som nevnt i annet ledd inngår vare-, tjeneste-
 
 Loven gjelder for følgende oppdragsgivere:statlige myndigheter,fylkeskommunale og kommunale myndigheter,offentligrettslige organer,sammenslutninger med en eller flere oppdragsgivere som nevnt i bokstav a til c,offentlige foretak som utøver forsyningsaktivitet som definert i internasjonale avtaler som Norge er forpliktet av ogandre virksomheter som utøver forsyningsaktivitet på grunnlag av enerett eller særrett som definert i internasjonale avtaler som Norge er forpliktet av.
 
-Loven gjelder ikke for anskaffelser som kan unntas etter [EØS-avtalen artikkel 123](lov/1992-11-27-109/eøsl/a123). Bestemmelsene i [§§ 5a](lov/2016-06-17-73/§5a) til 5p om samfunnshensyn gjelder ikke for forsvars- og sikkerhetsanskaffelser med mindre annet er fastsatt i forskrift med hjemmel i denne loven. Bestemmelsene om samfunnshensyn i [§§ 5a](lov/2016-06-17-73/§5a), 5b, 5c, 5e, 5f, 5g, 5h, 5i, 5j, 5k og 5l gjelder ikke for forsynings- eller konsesjonskontrakter. Departementet kan i forskrift fastsette ytterligere unntak fra lovens virkeområde.
+Loven gjelder ikke for anskaffelser som kan unntas etter [EØS-avtalen artikkel 123](lov/1992-11-27-109/eøsl/a123). Bestemmelsene i [§§ 5a](lov/2016-06-17-73/§5a) til [5p](lov/2016-06-17-73/§5p) om samfunnshensyn gjelder ikke for forsvars- og sikkerhetsanskaffelser med mindre annet er fastsatt i forskrift med hjemmel i denne loven. Bestemmelsene om samfunnshensyn i [§§ 5a](lov/2016-06-17-73/§5a), [5b](lov/2016-06-17-73/§5b), [5c](lov/2016-06-17-73/§5c), [5e](lov/2016-06-17-73/§5e), [5f](lov/2016-06-17-73/§5f), [5g](lov/2016-06-17-73/§5g), [5h](lov/2016-06-17-73/§5h), [5i](lov/2016-06-17-73/§5i), [5j](lov/2016-06-17-73/§5j), [5k](lov/2016-06-17-73/§5k) og [5l](lov/2016-06-17-73/§5l) gjelder ikke for forsynings- eller konsesjonskontrakter. Departementet kan i forskrift fastsette ytterligere unntak fra lovens virkeområde.
 
 Departementet kan i forskrift fastsette at loven skal gjelde for bygge- og anleggskontrakter og tilknyttede tjenestekontrakter som oppdragsgivere som nevnt i annet ledd bokstav a til d ikke selv inngår, men yter direkte tilskudd til med mer enn 50 prosent.
 
@@ -66,9 +66,9 @@ Oppdragsgiveren skal opptre i samsvar med grunnleggende prinsipper om konkurrans
 
 ## § 5a. Plikt til å ha anskaffelsesstrategi og -rutiner
 
-Oppdragsgiver skal ha en anskaffelsesstrategi for å ivareta de samfunnshensynene i §§ 5b til 5p som er relevante for oppdragsgivers virksomhet. Strategien skal være offentlig tilgjengelig.
+Oppdragsgiver skal ha en anskaffelsesstrategi for å ivareta de samfunnshensynene i [§§ 5b](lov/2016-06-17-73/§5b) til [5p](lov/2016-06-17-73/§5p) som er relevante for oppdragsgivers virksomhet. Strategien skal være offentlig tilgjengelig.
 
-Oppdragsgiver skal ha egnede rutiner for å ivareta de samfunnshensynene i §§ 5b til 5p som er relevante for oppdragsgivers virksomhet.
+Oppdragsgiver skal ha egnede rutiner for å ivareta de samfunnshensynene i [§§ 5b](lov/2016-06-17-73/§5b) til [5p](lov/2016-06-17-73/§5p) som er relevante for oppdragsgivers virksomhet.
 
 > Tilføyd ved lov [16 juni 2023 nr. 68](lov/2023-06-16-68), endret ved lov [6 mars 2026 nr. 8](lov/2026-03-06-8) (i kraft 1 juli 2026 iflg. [res. 6 mars 2026 nr. 358](forskrift/2026-03-06-358)).
 
@@ -84,7 +84,7 @@ Forpliktelsene etter første og andre ledd gjelder ikke dersom anskaffelsen ette
 
 ## § 5c. Standardiserte minimumskrav og -kriterier om klima og miljø
 
-Forpliktelsene etter § 5b gjelder ikke dersom oppdragsgiver i lov eller forskrift fastsatt med hjemmel i denne loven er pålagt å stille standardiserte minimumskrav eller -kriterier til klimaavtrykk eller miljøbelastning. Kravene eller kriteriene må gjelde hovedytelsen som anskaffes.
+Forpliktelsene etter [§ 5b](lov/2016-06-17-73/§5b) gjelder ikke dersom oppdragsgiver i lov eller forskrift fastsatt med hjemmel i denne loven er pålagt å stille standardiserte minimumskrav eller -kriterier til klimaavtrykk eller miljøbelastning. Kravene eller kriteriene må gjelde hovedytelsen som anskaffes.
 
 Departementet kan gi forskrift om standardiserte minimumskrav og -kriterier om klimaavtrykk og miljøbelastning.
 
@@ -150,9 +150,9 @@ Kontraktsvilkåret er oppfylt dersom en leverandør som er tilknyttet en lærlin
 
 ## § 5i. Krav til kontroll
 
-Oppdragsgiver skal føre nødvendig kontroll av at kontraktsvilkårene som nevnt i §§ 5e første ledd, 5f første ledd, 5g og 5h overholdes. Risikovurderingen og etterfølgende dokumentasjonskontroll skal dokumenteres.
+Oppdragsgiver skal føre nødvendig kontroll av at kontraktsvilkårene som nevnt i §§ 5e første ledd, 5f første ledd, [5g](lov/2016-06-17-73/§5g) og [5h](lov/2016-06-17-73/§5h) overholdes. Risikovurderingen og etterfølgende dokumentasjonskontroll skal dokumenteres.
 
-Leverandører og underleverandører skal på forespørsel utlevere nødvendig dokumentasjon til oppdragsgiver for å dokumentere overholdelse av kontraktsvilkår som nevnt i §§ 5e, 5f og 5g.
+Leverandører og underleverandører skal på forespørsel utlevere nødvendig dokumentasjon til oppdragsgiver for å dokumentere overholdelse av kontraktsvilkår som nevnt i [§§ 5e](lov/2016-06-17-73/§5e), [5f](lov/2016-06-17-73/§5f) og [5g](lov/2016-06-17-73/§5g).
 
 > Tilføyd ved lov [6 mars 2026 nr. 8](lov/2026-03-06-8) (i kraft 1 juli 2026 iflg. [res. 6 mars 2026 nr. 358](forskrift/2026-03-06-358)).
 
@@ -210,7 +210,7 @@ En innovativ anskaffelse kan eksempelvis skje gjennom bruk av konkurranse med fo
 
 ## § 5p. Krav om sanksjoner for brudd på kontraktsvilkår om samfunnshensyn
 
-Der oppdragsgiver skal, eller har valgt å, innta kontraktsvilkår for å ivareta samfunnshensyn etter §§ 5b til 5m, skal oppdragsgiver i kontrakten innta egnede sanksjoner for leverandørens eller underleverandørens brudd på kontraktsvilkårene.
+Der oppdragsgiver skal, eller har valgt å, innta kontraktsvilkår for å ivareta samfunnshensyn etter [§§ 5b](lov/2016-06-17-73/§5b) til [5m](lov/2016-06-17-73/§5m), skal oppdragsgiver i kontrakten innta egnede sanksjoner for leverandørens eller underleverandørens brudd på kontraktsvilkårene.
 
 > Tilføyd ved lov [6 mars 2026 nr. 8](lov/2026-03-06-8) (i kraft 1 juli 2026 iflg. [res. 6 mars 2026 nr. 358](forskrift/2026-03-06-358)).
 
