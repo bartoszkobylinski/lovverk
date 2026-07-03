@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2001-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2022-03-25"
-xml_hash: "3fe1898f546107ab749769d1befb1e3c99a116ed975b64a9ab3d3b16f97f3d91"
+xml_hash: "46976eda4e83d72a1f4292b3080cc6f3960190b950a67eb6aa22d1b4315cfac6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -292,7 +292,7 @@ Første og andre ledd gjelder også opplysninger som kan røpe identiteten til p
 
 Første til tredje ledd gjelder tilsvarende for andre som mottar opplysninger etter [§§ 25](lov/1999-07-02-64/§25), [28](lov/1999-07-02-64/§28), [29 a](lov/1999-07-02-64/§29a), [29 e](lov/1999-07-02-64/§29e) og [29 f](lov/1999-07-02-64/§29f).
 
-> Endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402), tidligere § 21 og § 21a).
 
 ### § 21 a. (Opphevet)
 
@@ -332,7 +332,7 @@ Personellet som skal bruke opplysningene, har ansvar for å vurdere om opplysnin
 
 Departementet kan gi forskrift om tilgjengeliggjøring av opplysninger til helsehjelp og adgangen til å motsette seg slik tilgjengeliggjøring.
 
-> Endret ved lover [19 juni 2009 nr. 68](lov/2009-06-19-68), [19 juni 2009 nr. 70](lov/2009-06-19-70) (ikr. 1 jan 2010 iflg. [res. 11 des 2009 nr. 1501](forskrift/2009-12-11-1501)), [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lover [19 juni 2009 nr. 68](lov/2009-06-19-68), [19 juni 2009 nr. 70](lov/2009-06-19-70) (ikr. 1 jan 2010 iflg. [res. 11 des 2009 nr. 1501](forskrift/2009-12-11-1501)), [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951)), [20 juni 2025 nr. 67](lov/2025-06-20-67) (i kraft 1 juni 2026 iflg. [res. 20 juni 2025 nr. 1109](forskrift/2025-06-20-1109)), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402), tidligere § 25 og § 45).
 
 ### § 25 a. (Opphevet)
 
@@ -350,7 +350,7 @@ Dersom det ikke er mulig å sende epikrisen samtidig med utskrivning eller avslu
 
 Departementet kan gi forskrift om plikten etter første og andre ledd, herunder hvem epikrisen skal sendes til, hvilke opplysninger epikrisen skal inneholde, og når epikrisen skal være sendt.
 
-> Endret ved lover [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Tilføyd ved [lov 14 juni 2013 nr. 39](lov/2013-06-14-39) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 641](forskrift/2013-06-14-641)), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402), tidligere § 45a).
 
 ### § 27. Tilgjengeliggjøring av opplysninger til helsepersonell uten behandlerrelasjon
 
@@ -360,7 +360,7 @@ Opplysninger som tilgjengeliggjøres etter første ledd, skal være relevante og
 
 Departementet kan gi forskrift om at enkelte personellgrupper med særskilte oppgaver i et behandlingsforløp kan få tilgjengeliggjort opplysninger etter første ledd bokstav b på samme vilkår som helsepersonell med autorisasjon eller lisens.
 
-> Endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Tilføyd ved [lov 11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)), endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402), tidligere § 25a og 25b).
 
 ### § 28. Tilgjengeliggjøring av opplysninger til undervisning, ekstern veiledning mv.
 
@@ -368,7 +368,7 @@ Taushetsplikt er ikke til hinder for at opplysninger gjøres tilgjengelige forhe
 
 Opplysninger som tilgjengeliggjøres etter første ledd, skal være relevante og nødvendige for det aktuelle formålet. Personidentifikasjon skal ikke skje i større utstrekning enn det som er nødvendig for å ivareta formålet. Opplysningene skal så langt det er mulig, tilgjengeliggjøres uten at pasientens navn eller fødselsnummer fremgår. Ved tilgjengeliggjøring etter første ledd bokstav h skal navn eller fødselsnummer ikke fremgå.
 
-> Endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Tilføyd ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
 
 ### § 29. Rett til å motsette seg tilgjengeliggjøring
 
@@ -378,7 +378,7 @@ Opplysningene kan heller ikke tilgjengeliggjøres dersom det er grunn til å tro
 
 Tilgjengeliggjøring kan likevel skje dersom tungtveiende grunner taler for det.
 
-> Endret ved lover [19 juni 2009 nr. 73](lov/2009-06-19-73) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 866](forskrift/2009-06-26-866)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), [11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)), [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 juni 2026 iflg. [res. 13 mars 2026 nr. 400](forskrift/2026-03-13-400)), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Tilføyd ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402))
 
 ### § 29 a. Opplysninger til virksomhetens ledelse
 
@@ -388,7 +388,7 @@ Taushetsplikt er heller ikke til hinder for at ledelsen i en annen virksomhet f�
 
 Opplysninger som tilgjengeliggjøres etter første og andre ledd, skal være relevante og nødvendige for det aktuelle formålet. Personidentifikasjon skal ikke skje i større utstrekning enn det som er nødvendig for å ivareta formålet. Opplysningene skal så langt det er mulig, tilgjengeliggjøres uten at pasientens navn eller fødselsnummer fremgår.
 
-> Tilføyd ved [lov 24 apr 2015 nr. 22](lov/2015-04-24-22) (ikr. 1 mai 2015 iflg. [res. 24 apr 2015 nr. 405](forskrift/2015-04-24-405)), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lover [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402), tidligere § 26).
 
 ### § 29 b. Opplysninger som sakkyndig
 
@@ -396,13 +396,13 @@ Taushetsplikt er ikke til hinder for at helsepersonell som opptrer som sakkyndig
 
 Den som opptrer som sakkyndig, skal gjøre pasienten oppmerksom på oppdraget og hva dette innebærer.
 
-> Tilføyd ved lov [9 apr 2010 nr. 14](lov/2010-04-09-14), endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), opphevet ved lov [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), tilføyd ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 juni 2026 iflg. [res. 13 mars 2026 nr. 400](forskrift/2026-03-13-400)), endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402), tidligere § 27).
 
 ### § 29 c. Opplysninger til arbeidsgiver
 
 Departementet kan gi forskrift om adgangen til å gi opplysninger om en arbeidstakers helseforhold videre til arbeidsgiveren, i den grad opplysningene gjelder arbeidstakerens skikkethet til et bestemt arbeid eller oppdrag.
 
-> Tilføyd ved [lov 14 juni 2013 nr. 39](lov/2013-06-14-39) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 641](forskrift/2013-06-14-641)), endret ved lover [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 134](lov/2020-12-04-134) (ikr. 1 jan 2021 iflg. [res. 4 des 2020 nr. 2622](forskrift/2020-12-04-2622)), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402), tidligere § 28)
 
 ### § 29 d. Opplysninger om særreaksjonsdømte utlendinger
 
@@ -410,7 +410,7 @@ Taushetsplikt er ikke til hinder for at det gis nødvendige opplysninger om sær
 
 Ved utvisning av en utlending som utholder en strafferettslig særreaksjon, er taushetsplikt ikke til hinder for at det til helse- og omsorgstjenesten i mottakerstaten gis opplysninger som er nødvendige for at mottakerstaten skal kunne vurdere vedkommendes behov for helsemessig oppfølging eller behov for å underlegges en behandling som kan beskytte samfunnet der mot gjentakelsesfare som nevnt i [straffeloven § 62](lov/2005-05-20-28/§62).
 
-> Tilføyd ved [lov 7 mai 2021 nr. 31](lov/2021-05-07-31) (ikr. 1 juli 2021 iflg. [res. 7 mai 2021 nr. 1444](forskrift/2021-05-07-1444)), endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Tilføyd ved [lov 24 apr 2015 nr. 22](lov/2015-04-24-22) (ikr. 1 mai 2015 iflg. [res. 24 apr 2015 nr. 405](forskrift/2015-04-24-405)), endret ved lover [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402), tidligere § 29a).
 
 ### § 29 e. Dispensasjon fra taushetsplikt
 
@@ -426,7 +426,7 @@ Myndigheten etter første ledd kan delegeres til underordnet forvaltningsorgan e
 
 Departementet kan gi forskrift om bruk av taushetsbelagte opplysninger i forskning og om helsepersonells adgang til tilgjengeliggjøring og bruk av taushetsbelagte opplysninger til formål som ikke gjelder helsehjelp, og som pasienten samtykker til.
 
-> Tilføyd ved [lov 11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)), endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Endret ved lover [19 juni 2009 nr. 73](lov/2009-06-19-73) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 866](forskrift/2009-06-26-866)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), [11 juni 2021 nr. 67](lov/2021-06-11-67) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1869](forskrift/2021-06-11-1869)), [22 des 2025 nr. 126](lov/2025-12-22-126) (i kraft 15 april 2026 iflg. [res. 13 mars 2026 nr. 401](forskrift/2026-03-13-401)), [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 juni 2026 iflg. [res. 13 mars 2026 nr. 400](forskrift/2026-03-13-400)), [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402), tidligere § 29).
 
 ### § 29 f. Deltakende observasjon av helsepersonells yrkesutøvelse
 
@@ -434,7 +434,7 @@ Departementet kan etter søknad bestemme at taushetsplikt ikke skal være til hi
 
 Myndigheten etter første ledd kan delegeres til underordnet forvaltningsorgan eller legges til den regionale komiteen for medisinsk og helsefaglig forskningsetikk.
 
-> Tilføyd ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402)).
+> Tilføyd ved lov [9 apr 2010 nr. 14](lov/2010-04-09-14), endret ved lover [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [20 juni 2014 nr. 43](lov/2014-06-20-43) (ikr. 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732)), [15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse [17 juli 2018 nr. 1195](forskrift/2018-07-17-1195)), opphevet ved lov [4 des 2020 nr. 133](lov/2020-12-04-133) (ikr. 1 juni 2021 iflg. [res. 21 mai 2021 nr. 1578](forskrift/2021-05-21-1578)), tilføyd ved lov [20 juni 2025 nr. 71](lov/2025-06-20-71) (i kraft 1 juni 2026 iflg. [res. 13 mars 2026 nr. 400](forskrift/2026-03-13-400)), endret ved lov [23 jan 2026 nr. 1](lov/2026-01-23-1) (i kraft 1 juli 2026 iflg. [res. 13 mars 2026 nr. 402](forskrift/2026-03-13-402), tidligere § 29b).
 
 ## Kapittel 6. Opplysningsplikt m.v.
 
