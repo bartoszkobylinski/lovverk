@@ -276,15 +276,15 @@
     "nl-19170601-001": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-01T08:08:55.828874Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "lover/skjønnsprosessloven-skjl.md",
       "slug": "skjønnsprosessloven-skjl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om skjønn og ekspropriasjonssaker [skjønnsprosessloven]",
-      "total_changes": 5,
-      "xml_hash": "0c532ae017dc13731c8c51570540fb4ebbf851a22586a3a741fcd187deb4eb44"
+      "total_changes": 6,
+      "xml_hash": "61617aa6c0376a133b9cb4fd7549c8140c711a98c0fb5cc9a1d1bc027ffab79a"
     },
     "nl-19171214-016": {
       "doc_type": "lov",
@@ -2313,15 +2313,15 @@
     "nl-19800613-035": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-05-13",
-      "last_seen": "2026-05-13T06:46:02.636283Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "lover/rettshjelploven-rhjl.md",
       "slug": "rettshjelploven-rhjl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om fri rettshjelp [rettshjelploven]",
-      "total_changes": 4,
-      "xml_hash": "50ccb9cfa4196988590175985a35a6ab015ae755c111b6de298f37bd779e275b"
+      "total_changes": 5,
+      "xml_hash": "b5caae75266fc45a16de93813fa241f74218adecb338c4b51924498483b03e04"
     },
     "nl-19810306-005": {
       "doc_type": "lov",
@@ -3213,15 +3213,15 @@
       "eu_basis": [
         "32019R0006"
       ],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-01T08:08:55.828874Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "lover/legemiddelloven.md",
       "slug": "legemiddelloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om legemidler m.v. (legemiddelloven)",
-      "total_changes": 7,
-      "xml_hash": "0627056c57691001be7db2d515128b2aceee84d8c25360bb91999350b7925a07"
+      "total_changes": 8,
+      "xml_hash": "79786bdc119b550d53316b21579613887c45bed11c0945a8f51039d81b89dc49"
     },
     "nl-19930312-032": {
       "doc_type": "lov",
@@ -3524,15 +3524,15 @@
     "nl-19950804-053": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-01T08:08:55.828874Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "lover/politiloven-politil.md",
       "slug": "politiloven-politil",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om politiet (politiloven)",
-      "total_changes": 7,
-      "xml_hash": "1d842eb7b1ebfffd271f326afd45013692aa37d9365fada239428b631fbfc8da"
+      "total_changes": 8,
+      "xml_hash": "33d69446f7bd7f2a75fe5db1c05b279105345b6d621ed55f478fdd51f8e8c2f6"
     },
     "nl-19951222-085": {
       "doc_type": "lov",
@@ -4062,15 +4062,15 @@
     "nl-19990702-064": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-01T08:08:55.828874Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "lover/helsepersonelloven-hpl.md",
       "slug": "helsepersonelloven-hpl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om helsepersonell m.v. (helsepersonelloven)",
-      "total_changes": 6,
-      "xml_hash": "3fe1898f546107ab749769d1befb1e3c99a116ed975b64a9ab3d3b16f97f3d91"
+      "total_changes": 7,
+      "xml_hash": "46976eda4e83d72a1f4292b3080cc6f3960190b950a67eb6aa22d1b4315cfac6"
     },
     "nl-19990716-066": {
       "doc_type": "lov",
@@ -5094,15 +5094,15 @@
     "nl-20050520-028": {
       "doc_type": "lov",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-01T08:08:55.828874Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "lover/straffeloven-strl.md",
       "slug": "straffeloven-strl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om straff (straffeloven)",
-      "total_changes": 7,
-      "xml_hash": "0bcfbc6f1a82fd27a8b2f8bba3c475b5dc6ecc44046b533f0166e2984ab03e7d"
+      "total_changes": 8,
+      "xml_hash": "df9b1c3fa7d6595cca59f6f3dc0ca7d79a94cc51fcf3403542ef7d401330e81d"
     },
     "nl-20050527-031": {
       "doc_type": "lov",
@@ -5634,15 +5634,15 @@
       "eu_basis": [
         "32004L0038"
       ],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-01T08:08:55.828874Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "lover/utlendingsloven-utlendl.md",
       "slug": "utlendingsloven-utlendl",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om utlendingers adgang til riket og deres opphold her (utlendingsloven)",
-      "total_changes": 8,
-      "xml_hash": "51796efb31039f5085d0a4b3e6478f30c402958b8c673a044d7c24c92ea8068e"
+      "total_changes": 9,
+      "xml_hash": "52f819017f92178b92eea7a5e652c3d4cea334ba153076516d5323bfdce012d7"
     },
     "nl-20080606-037": {
       "doc_type": "lov",
@@ -7108,15 +7108,15 @@
         "31989L0665",
         "32014L0023"
       ],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-01T08:08:55.828874Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "lover/anskaffelsesloven.md",
       "slug": "anskaffelsesloven",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om offentlige anskaffelser (anskaffelsesloven)",
-      "total_changes": 4,
-      "xml_hash": "c28c2a20fe5fd9801db4458869fdf47968eba88408edbb7ea36f4afbbedcb148"
+      "total_changes": 5,
+      "xml_hash": "38cf27aa5723d654d1ebd9cc39d6957b82b5360b38a2c92c7cde6f3fae5aebb8"
     },
     "nl-20160812-077": {
       "doc_type": "lov",
@@ -10092,15 +10092,15 @@
       "eu_basis": [
         "32024L1619"
       ],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-01T08:08:55.828874Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "lover/endringslov-til-finansforetaksloven-mv-3.md",
       "slug": "endringslov-til-finansforetaksloven-mv-3",
       "source_dataset": "gjeldende-lover",
       "status": "current",
       "title": "Lov om endringer i finansforetaksloven mv. (gjennomføring av endringer i kapitalkravsdirektivet, taushetsplikt, overtredelsesgebyr mv.)",
-      "total_changes": 4,
-      "xml_hash": "76be48810d66ffe152fd423f8223528107a26e349394418eb67f3204b058c4e4"
+      "total_changes": 5,
+      "xml_hash": "c39f1cb145041613000dffa9f3221cc15c6146f779870aefbf821fa852a51bf0"
     },
     "nl-20260619-041": {
       "doc_type": "lov",
@@ -36892,15 +36892,15 @@
     "sf-20070702-0877": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs.md",
       "slug": "forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS",
-      "total_changes": null,
-      "xml_hash": "0dc0c331aaa51ae98cd28bfc2016b92d04a90dce271a17a9519027a2ae82e982"
+      "total_changes": 4,
+      "xml_hash": "bc8d60c510bbb44306b7d258cdb1770bf66a4cb64e9759717f1670515f0d8497"
     },
     "sf-20070810-0957": {
       "doc_type": "forskrift",
@@ -40805,15 +40805,15 @@
     "sf-20100326-0488": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-01T08:08:55.828874Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/byggesaksforskriften-sak-10.md",
       "slug": "byggesaksforskriften-sak-10",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om byggesak (byggesaksforskriften)",
-      "total_changes": 5,
-      "xml_hash": "4885a8f83f13ef37c2d71542000e56f023fc6579a8b34c1d2716526fcfaf7900"
+      "total_changes": 6,
+      "xml_hash": "e9b4e4edc1632ffc659be2a29fd3d5f6337b597b6d9a8f32a4a8dbbc5221f241"
     },
     "sf-20100419-0576": {
       "doc_type": "forskrift",
@@ -43691,15 +43691,15 @@
     "sf-20111223-1502": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-06-13",
-      "last_seen": "2026-06-13T07:43:12.899363Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/forskrift-om-kvoteordningen-for-melk.md",
       "slug": "forskrift-om-kvoteordningen-for-melk",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om kvoteordningen for melk",
-      "total_changes": 4,
-      "xml_hash": "33be8043c822b9dc5c2af8bf3ed0c36b153c5cb64551294a849b40c7d20f62a6"
+      "total_changes": 5,
+      "xml_hash": "9f8f5e076c2a76ade29bf55c0fdc0e62cc27aa6536927d1e6afa40f233a78eb5"
     },
     "sf-20120103-0008": {
       "doc_type": "forskrift",
@@ -50347,15 +50347,15 @@
     "sf-20151215-1681": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/forskrift-om-opptak-til-studier-ved-oslomet.md",
       "slug": "forskrift-om-opptak-til-studier-ved-oslomet",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om opptak til studier ved OsloMet – storbyuniversitetet",
-      "total_changes": null,
-      "xml_hash": "cf67ea2f940d6b5687df8a39ce4b8ecdc0373c07d3c32d21ef5ed5a34676f98b"
+      "total_changes": 4,
+      "xml_hash": "080ed1e90809e09a7454e00e0fa4166f92b3254aa44e4658fee2b53dd9259014"
     },
     "sf-20151215-1729": {
       "doc_type": "forskrift",
@@ -51738,15 +51738,15 @@
     "sf-20160830-1042": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/forskrift-om-skipsutstyr.md",
       "slug": "forskrift-om-skipsutstyr",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om skipsutstyr",
-      "total_changes": null,
-      "xml_hash": "2e48910a98bec498bab9b5bbb91206dcf7520645722866756821a8013e2a2cf6"
+      "total_changes": 4,
+      "xml_hash": "1f3a8a4638e3f1ecc845f33cfa9933f2bfb4c6b892165c4e923cb1c6ac17d028"
     },
     "sf-20160905-1035": {
       "doc_type": "forskrift",
@@ -53311,15 +53311,15 @@
     "sf-20170619-0840": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-01T08:08:55.828874Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/byggteknisk-forskrift-tek17.md",
       "slug": "byggteknisk-forskrift-tek17",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om tekniske krav til byggverk (Byggteknisk forskrift)",
-      "total_changes": 5,
-      "xml_hash": "1f4fa2278cd8603267bd9cc95c4ba7ed572e34ed1139ae48da4df46ee4d13372"
+      "total_changes": 6,
+      "xml_hash": "c2240d077865028fb8ea7a91db154a7edd07ac52e8d310b29c310441323d2e83"
     },
     "sf-20170619-0941": {
       "doc_type": "forskrift",
@@ -53974,15 +53974,15 @@
     "sf-20171013-1615": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/forskrift-om-kontroll-av-kjøretøy-langs-veg.md",
       "slug": "forskrift-om-kontroll-av-kjøretøy-langs-veg",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om kontroll av kjøretøy langs veg",
-      "total_changes": null,
-      "xml_hash": "3554a9bdeef3d08885b5891d94f870d2b51932b4141926495005b06a4bea22bd"
+      "total_changes": 4,
+      "xml_hash": "661385a8936b7c1448ab590ca65761b657f523cfc03e0021b63a3f9b5e26908d"
     },
     "sf-20171017-1637": {
       "doc_type": "forskrift",
@@ -55183,15 +55183,15 @@
     "sf-20180615-0889": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/cites-forskriften.md",
       "slug": "cites-forskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om innførsel, utførsel, besittelse mv. av truede arter av vill fauna og flora (CITES-forskriften)",
-      "total_changes": null,
-      "xml_hash": "4b1d967155a15918855fce98ac50f10e0e59fba996d815a7b3e6418b75bf40cf"
+      "total_changes": 4,
+      "xml_hash": "fb78564877fb515429be4d4525464be1c6ae531e0854e6fa5973b97b63e3cc24"
     },
     "sf-20180615-0890": {
       "doc_type": "forskrift",
@@ -61033,15 +61033,15 @@
     "sf-20210210-0523": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/sjøtrafikkforskriften.md",
       "slug": "sjøtrafikkforskriften",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften)",
-      "total_changes": null,
-      "xml_hash": "83fae4085b378aa84003181461d4133e47f49d0499befe79c86e260921e61259"
+      "total_changes": 4,
+      "xml_hash": "0112cbbc2556ed524f4e63fa78cf7df8d4b4ecd1610c6f656bef785abe78e5ac"
     },
     "sf-20210215-0524": {
       "doc_type": "forskrift",
@@ -66051,15 +66051,15 @@
     "sf-20221216-2322": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-07-01",
-      "last_seen": "2026-07-01T08:08:55.828874Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/økonomiforskrift-til-barnehageloven.md",
       "slug": "økonomiforskrift-til-barnehageloven",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regnskapsplikt mv. for private barnehager (økonomiforskrift til barnehageloven)",
-      "total_changes": 4,
-      "xml_hash": "77237e5da0b4cefc8dbb8ad72fc445d7a734d18906c17e85dc1840cce0af90c6"
+      "total_changes": 5,
+      "xml_hash": "a7439837593d96b26f6d03b3541fc4b9f25130897a9a074f2b6c7bea8348a16a"
     },
     "sf-20221219-2289": {
       "doc_type": "forskrift",
@@ -66831,15 +66831,15 @@
     "sf-20230615-1310": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/forskrift-om-studier-og-eksamen-ved-oslomet-storbyuniversitetet.md",
       "slug": "forskrift-om-studier-og-eksamen-ved-oslomet-storbyuniversitetet",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om studier og eksamen ved OsloMet – storbyuniversitetet (OsloMet)",
-      "total_changes": null,
-      "xml_hash": "659f6d29d0a80ba713b46b14c92dcb27b6bf46a972ddd6ad442f2662b6131fcd"
+      "total_changes": 4,
+      "xml_hash": "049f4346a4a93af4868996fa231cc8865792dbfaf26dcf02a5e5c6ab169bbd8b"
     },
     "sf-20230615-1359": {
       "doc_type": "forskrift",
@@ -69196,13 +69196,13 @@
     },
     "sf-20240625-1217": {
       "doc_type": "forskrift",
-      "eu_basis": [],
+      "eu_basis": null,
       "last_changed": null,
       "last_seen": "2026-04-29T11:20:30.048320Z",
       "markdown_path": "forskrifter/overgangsregler-om-integreringsloven-kapittel-6a-2.md",
       "slug": "overgangsregler-om-integreringsloven-kapittel-6a-2",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Overgangsregler om integreringsloven kapittel 6A",
       "total_changes": null,
       "xml_hash": "7eceddc20a0f786669c9fc00cdc7daa8837670d70749df51977db7d1fe7c1ba1"
@@ -74748,15 +74748,15 @@
     "sf-20251219-2737": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-sei-i-nordsjøen-og-skagerrak-i-2026.md",
       "slug": "forskrift-om-regulering-av-fisket-etter-sei-i-nordsjøen-og-skagerrak-i-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter sei i Nordsjøen og Skagerrak i 2026",
-      "total_changes": null,
-      "xml_hash": "8784463426f14654285f4b09773436c6d9edb8c02a2fdf26e6d4533c65ccf4a8"
+      "total_changes": 4,
+      "xml_hash": "1fb4df97cf84a26b64185d9dcf635b822640ef587e7d8fea5f4af38a04b65eef"
     },
     "sf-20251219-2742": {
       "doc_type": "forskrift",
@@ -74852,15 +74852,15 @@
     "sf-20251219-2805": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": null,
-      "last_seen": "2026-04-29T11:20:30.048320Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-torsk-i-nordsjøen-og-skagerrak-i-2026.md",
       "slug": "forskrift-om-regulering-av-fisket-etter-torsk-i-nordsjøen-og-skagerrak-i-2026",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om regulering av fisket etter torsk i Nordsjøen og Skagerrak i 2026",
-      "total_changes": null,
-      "xml_hash": "3b0e7aaadb8b27da4dfd4e53fd208524161374e41a26350f0a88354cee2785c9"
+      "total_changes": 4,
+      "xml_hash": "ff15709eeaeb8ce8eb404eb2ae9ef8098893168a36b854d9a7545e7b9aa12c5a"
     },
     "sf-20251219-2806": {
       "doc_type": "forskrift",
@@ -76227,6 +76227,19 @@
       "total_changes": 2,
       "xml_hash": "d98e65cb57e9a74a9bd2623f12936047bb2c55083b4de32726260f94835ab824"
     },
+    "sf-20260508-1479": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
+      "markdown_path": "forskrifter/forskrift-om-opptak-studier-og-eksamen-ved-oslomet-storbyuniversitetet.md",
+      "slug": "forskrift-om-opptak-studier-og-eksamen-ved-oslomet-storbyuniversitetet",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om opptak, studier og eksamen ved OsloMet – storbyuniversitetet (OsloMet)",
+      "total_changes": 1,
+      "xml_hash": "b21cf05fa6bda7839f5ac7074fecb536aef869e43e1c6e981a66082f1b4e67b5"
+    },
     "sf-20260512-0780": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -76438,15 +76451,15 @@
     "sf-20260604-1436": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-07-02",
-      "last_seen": "2026-07-02T07:28:16.500138Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-opptak-eksamen-og-sensur-for-fagskolen-møre-og-romsdal.md",
       "slug": "forskrift-om-endring-i-forskrift-om-opptak-eksamen-og-sensur-for-fagskolen-møre-og-romsdal",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om endring i forskrift om opptak, eksamen og sensur for Fagskolen Møre og Romsdal",
-      "total_changes": 1,
-      "xml_hash": "6b41d19bff24ddcef6670cc38e4f77547bf86400c778c69370d2bce4487bc81b"
+      "total_changes": 2,
+      "xml_hash": "d5d914f9b7a008e60fde74b42b546d7bf6e30a069330878c962b359edb96a725"
     },
     "sf-20260605-1024": {
       "doc_type": "forskrift",
@@ -76555,15 +76568,15 @@
     "sf-20260612-1077": {
       "doc_type": "forskrift",
       "eu_basis": [],
-      "last_changed": "2026-06-16",
-      "last_seen": "2026-06-16T09:23:10.172217Z",
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
       "markdown_path": "forskrifter/overgangsregler-til-lov-12-juni-2026-nr-22-om-midlertidige-endringer-i-lovverket-som-følge-av-ankomst-av-fordrevne-fra-ukraina-del-viii.md",
       "slug": "overgangsregler-til-lov-12-juni-2026-nr-22-om-midlertidige-endringer-i-lovverket-som-følge-av-ankomst-av-fordrevne-fra-ukraina-del-viii",
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Overgangsregler til lov 12. juni 2026 nr. 22 om midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m) del VIII (integreringsloven kapittel 6A)",
-      "total_changes": 1,
-      "xml_hash": "eb29e6e71cc35b61799c17fc3739cddc7edc7a707bb56e4b6dbfff4d040d524e"
+      "total_changes": 2,
+      "xml_hash": "b52af59cbc1780277e99d7c496d8aea796ef046a128b16f52a0901d7607a374a"
     },
     "sf-20260612-1092": {
       "doc_type": "forskrift",
@@ -77007,19 +77020,6 @@
       "total_changes": 1,
       "xml_hash": "2cfcdbf95adaf5b61d561fed2ac6fb52b81190b62bcddb2a5ac07160a0645e25"
     },
-    "sf-20260624-1260": {
-      "doc_type": "forskrift",
-      "eu_basis": null,
-      "last_changed": null,
-      "last_seen": "2026-06-26T07:48:15.016944Z",
-      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-omsetningsavgift-på-jordbruksvarer-og-om-overproduksjonsavgift-på-mjølk.md",
-      "slug": "forskrift-om-endring-i-forskrift-om-omsetningsavgift-på-jordbruksvarer-og-om-overproduksjonsavgift-på-mjølk",
-      "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "removed",
-      "title": "Forskrift om endring i forskrift om omsetningsavgift på jordbruksvarer, og om overproduksjonsavgift på mjølk",
-      "total_changes": null,
-      "xml_hash": "daf6bd8b5d1207bebc39e4ff7c39aee1395014cf37bc9ffb8d1dec993795259a"
-    },
     "sf-20260624-1327": {
       "doc_type": "forskrift",
       "eu_basis": [],
@@ -77201,8 +77201,60 @@
       "title": "Forskrift om tilsynsmyndighet etter romloven",
       "total_changes": 1,
       "xml_hash": "32f0445266377dba7e9b044e8dd427885567da85e501595a7b691b146cb23933"
+    },
+    "sf-20260630-1456": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
+      "markdown_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-reker-i-nordsjøen-og-skagerrak-i-2026-2027.md",
+      "slug": "forskrift-om-regulering-av-fisket-etter-reker-i-nordsjøen-og-skagerrak-i-2026-2027",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om regulering av fisket etter reker i Nordsjøen og Skagerrak i 2026–2027",
+      "total_changes": 7,
+      "xml_hash": "09037f2a460d99626b1243e047e1f5c7aeac1f74f7d5d61f72e57740b8bad8d9"
+    },
+    "sf-20260701-1458": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS",
+      "total_changes": 1,
+      "xml_hash": "303dc6a95164d943fce4c4e3b81b21f77862169ef9c1a433e23a193c0709a6bb"
+    },
+    "sf-20260701-1459": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
+      "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-om-kontroll-av-kjøretøy-langs-veg.md",
+      "slug": "forskrift-om-endring-i-forskrift-om-kontroll-av-kjøretøy-langs-veg",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Forskrift om endring i forskrift om kontroll av kjøretøy langs veg",
+      "total_changes": 1,
+      "xml_hash": "6b8086008ba18c7f2fe702c36adfe41aff16e280f0ee26a2dec1d0f00561fca2"
+    },
+    "sf-20260701-1482": {
+      "doc_type": "forskrift",
+      "eu_basis": [],
+      "last_changed": "2026-07-03",
+      "last_seen": "2026-07-03T06:58:59.359597Z",
+      "markdown_path": "forskrifter/midlertidig-forskrift-om-kompensasjon-som-følge-av-innføring-av-lavere-grenseverdi-for-kadmium-i-løk.md",
+      "slug": "midlertidig-forskrift-om-kompensasjon-som-følge-av-innføring-av-lavere-grenseverdi-for-kadmium-i-løk",
+      "source_dataset": "gjeldende-sentrale-forskrifter",
+      "status": "current",
+      "title": "Midlertidig forskrift om kompensasjon som følge av innføring av lavere grenseverdi for kadmium i løk",
+      "total_changes": 1,
+      "xml_hash": "7225a01a45a718cc3349272b1d5e893503684473e6d592ee4e168fdc82e8a05f"
     }
   },
-  "generated_at": "2026-07-02T07:28:16.500138Z",
+  "generated_at": "2026-07-03T06:58:59.359597Z",
   "version": 1
 }

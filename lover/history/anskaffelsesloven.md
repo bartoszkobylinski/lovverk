@@ -1,6 +1,11 @@
 # anskaffelsesloven — Change history
 
-_4 events; doc_id `nl-20160617-073`._
+_5 events; doc_id `nl-20160617-073`._
+
+## 2026-07-03 — Content updated
+Lines: +9 -9.
+Subject: `update(lov): anskaffelsesloven`
+Commit: `45703dc`.
 
 ## 2026-07-01 — Content updated
 Lines: +156 -28.

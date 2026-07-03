@@ -2,6 +2,16 @@
   "doc_id": "sf-20221216-2322",
   "events": [
     {
+      "commit": "4df5803",
+      "date": "2026-07-03",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): økonomiforskrift-til-barnehageloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

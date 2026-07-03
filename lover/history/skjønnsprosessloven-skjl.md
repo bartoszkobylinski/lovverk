@@ -1,6 +1,11 @@
 # skjønnsprosessloven-skjl — Change history
 
-_5 events; doc_id `nl-19170601-001`._
+_6 events; doc_id `nl-19170601-001`._
+
+## 2026-07-03 — Content updated
+Lines: +43 -43.
+Subject: `update(lov): skjønnsprosessloven-skjl`
+Commit: `a2c3d15`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.

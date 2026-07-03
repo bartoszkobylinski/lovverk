@@ -1,6 +1,16 @@
 # sjøtrafikkforskriften — Change history
 
-_2 events; doc_id `sf-20210210-0523`._
+_4 events; doc_id `sf-20210210-0523`._
+
+## 2026-07-03 — Content updated
+Lines: +358 -184.
+Subject: `update(forskrift): sjøtrafikkforskriften`
+Commit: `427ce5f`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20210210-0523.md` → `"forskrifter/sj\303\270trafikkforskriften.md"`.

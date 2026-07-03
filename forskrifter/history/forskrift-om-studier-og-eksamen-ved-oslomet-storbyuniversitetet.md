@@ -1,6 +1,16 @@
 # forskrift-om-studier-og-eksamen-ved-oslomet-storbyuniversitetet — Change history
 
-_2 events; doc_id `sf-20230615-1310`._
+_4 events; doc_id `sf-20230615-1310`._
+
+## 2026-07-03 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): forskrift-om-studier-og-eksamen-ved-oslomet-storbyuniversitetet`
+Commit: `0e6de36`.
+
+## 2026-04-29 — Filename renamed
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20230615-1310.md` → `forskrifter/forskrift-om-studier-og-eksamen-ved-oslomet-storbyuniversitetet.md`.

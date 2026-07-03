@@ -1,6 +1,11 @@
 # byggesaksforskriften-sak-10 — Change history
 
-_5 events; doc_id `sf-20100326-0488`._
+_6 events; doc_id `sf-20100326-0488`._
+
+## 2026-07-03 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): byggesaksforskriften-sak-10`
+Commit: `f4efe18`.
 
 ## 2026-07-01 — Content updated
 Lines: +43 -13.

@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260508-1479",
+  "events": [
+    {
+      "commit": "7055af1",
+      "date": "2026-07-03",
+      "from_path": null,
+      "lines_added": 533,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-oslomet-storbyuniversitetet",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-opptak-studier-og-eksamen-ved-oslomet-storbyuniversitetet"
+}

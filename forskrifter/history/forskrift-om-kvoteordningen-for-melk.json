@@ -2,6 +2,16 @@
   "doc_id": "sf-20111223-1502",
   "events": [
     {
+      "commit": "2a92b06",
+      "date": "2026-07-03",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-om-kvoteordningen-for-melk",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "0e4f6fb",
       "date": "2026-06-13",
       "from_path": null,

@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260701-1482",
+  "events": [
+    {
+      "commit": "37cfff5",
+      "date": "2026-07-03",
+      "from_path": null,
+      "lines_added": 61,
+      "lines_removed": 0,
+      "subject": "add(forskrift): midlertidig-forskrift-om-kompensasjon-som-følge-av-innføring-av-lavere-grenseverdi-for-kadmium-i-løk",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "midlertidig-forskrift-om-kompensasjon-som-følge-av-innføring-av-lavere-grenseverdi-for-kadmium-i-løk"
+}

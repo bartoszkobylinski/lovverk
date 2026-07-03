@@ -2,6 +2,16 @@
   "doc_id": "nl-20260619-040",
   "events": [
     {
+      "commit": "7f613a5",
+      "date": "2026-07-03",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(lov): endringslov-til-finansforetaksloven-mv-3",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,

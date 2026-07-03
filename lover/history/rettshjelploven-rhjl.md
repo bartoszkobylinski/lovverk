@@ -1,6 +1,11 @@
 # rettshjelploven-rhjl — Change history
 
-_4 events; doc_id `nl-19800613-035`._
+_5 events; doc_id `nl-19800613-035`._
+
+## 2026-07-03 — Content updated
+Lines: +4 -4.
+Subject: `update(lov): rettshjelploven-rhjl`
+Commit: `3a207fc`.
 
 ## 2026-05-13 — Content updated
 Lines: +3 -3.

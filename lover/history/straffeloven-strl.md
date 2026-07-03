@@ -1,6 +1,11 @@
 # straffeloven-strl — Change history
 
-_7 events; doc_id `nl-20050520-028`._
+_8 events; doc_id `nl-20050520-028`._
+
+## 2026-07-03 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): straffeloven-strl`
+Commit: `a380042`.
 
 ## 2026-07-01 — Content updated
 Lines: +19 -9.

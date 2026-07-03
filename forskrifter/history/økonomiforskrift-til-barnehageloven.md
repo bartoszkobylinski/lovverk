@@ -1,6 +1,11 @@
 # økonomiforskrift-til-barnehageloven — Change history
 
-_4 events; doc_id `sf-20221216-2322`._
+_5 events; doc_id `sf-20221216-2322`._
+
+## 2026-07-03 — Content updated
+Lines: +2 -2.
+Subject: `update(forskrift): økonomiforskrift-til-barnehageloven`
+Commit: `4df5803`.
 
 ## 2026-07-01 — Content updated
 Lines: +3 -3.

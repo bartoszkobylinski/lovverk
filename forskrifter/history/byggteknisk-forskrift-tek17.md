@@ -1,6 +1,11 @@
 # byggteknisk-forskrift-tek17 — Change history
 
-_5 events; doc_id `sf-20170619-0840`._
+_6 events; doc_id `sf-20170619-0840`._
+
+## 2026-07-03 — Content updated
+Lines: +4 -4.
+Subject: `update(forskrift): byggteknisk-forskrift-tek17`
+Commit: `ffc94d3`.
 
 ## 2026-07-01 — Content updated
 Lines: +23 -41.

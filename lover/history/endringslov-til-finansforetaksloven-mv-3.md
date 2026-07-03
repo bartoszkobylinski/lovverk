@@ -1,6 +1,11 @@
 # endringslov-til-finansforetaksloven-mv-3 — Change history
 
-_4 events; doc_id `nl-20260619-040`._
+_5 events; doc_id `nl-20260619-040`._
+
+## 2026-07-03 — Content updated
+Lines: +2 -2.
+Subject: `update(lov): endringslov-til-finansforetaksloven-mv-3`
+Commit: `7f613a5`.
 
 ## 2026-07-01 — Content updated
 Lines: +2 -44.

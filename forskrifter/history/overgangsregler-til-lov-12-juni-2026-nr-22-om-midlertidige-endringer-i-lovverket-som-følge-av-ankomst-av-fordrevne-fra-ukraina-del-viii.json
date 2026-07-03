@@ -2,6 +2,16 @@
   "doc_id": "sf-20260612-1077",
   "events": [
     {
+      "commit": "ddd3502",
+      "date": "2026-07-03",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 2,
+      "subject": "update(forskrift): overgangsregler-til-lov-12-juni-2026-nr-22-om-midlertidige-endringer-i-lovverket-som-følge-av-ankomst-av-fordrevne-fra-ukraina-del-viii",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "0601ba9",
       "date": "2026-06-16",
       "from_path": null,

@@ -1,6 +1,11 @@
 # utlendingsloven-utlendl — Change history
 
-_8 events; doc_id `nl-20080515-035`._
+_9 events; doc_id `nl-20080515-035`._
+
+## 2026-07-03 — Content updated
+Lines: +3 -3.
+Subject: `update(lov): utlendingsloven-utlendl`
+Commit: `a74ef1c`.
 
 ## 2026-07-01 — Content updated
 Lines: +25 -27.

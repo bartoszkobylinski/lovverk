@@ -2,6 +2,16 @@
   "doc_id": "sf-20260604-1436",
   "events": [
     {
+      "commit": "42888cd",
+      "date": "2026-07-03",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-endring-i-forskrift-om-opptak-eksamen-og-sensur-for-fagskolen-møre-og-romsdal",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "99f2589",
       "date": "2026-07-02",
       "from_path": null,

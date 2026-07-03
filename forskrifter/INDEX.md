@@ -1,6 +1,6 @@
 # Sentrale forskrifter
 
-_5138 current documents_
+_5142 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1923,6 +1923,8 @@ _5138 current documents_
 - [forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-graden-philosophiae-doctor-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om graden philosophiae doctor (ph.d.) ved Handelshøyskolen BI
 - [forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen](forskrift-om-endring-i-forskrift-om-håndtering-av-brannfarlig-reaksjonsfarlig-og-trykksatt-stoff-samt-utstyr-og-anlegg-som-benyttes-ved-håndteringen.md) — Forskrift om endring i forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff)
 - [forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv](forskrift-om-endring-i-forskrift-om-innhold-i-og-merking-og-utforming-av-tobakksvarer-mv.md) — Forskrift om endring i forskrift om innhold i og merking og utforming av tobakksvarer mv.
+- [forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs](forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs.md) — Forskrift om endring i forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS
+- [forskrift-om-endring-i-forskrift-om-kontroll-av-kjøretøy-langs-veg](forskrift-om-endring-i-forskrift-om-kontroll-av-kjøretøy-langs-veg.md) — Forskrift om endring i forskrift om kontroll av kjøretøy langs veg
 - [forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sosionomutdanning](forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sosionomutdanning.md) — Forskrift om endring i forskrift om nasjonal retningslinje for sosionomutdanning
 - [forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning](forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning.md) — Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning
 - [forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-2](forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-2.md) — Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning
@@ -3033,6 +3035,7 @@ _5138 current documents_
 - [forskrift-om-opptak-studier-og-eksamen-ved-nski-høyskole](forskrift-om-opptak-studier-og-eksamen-ved-nski-høyskole.md) — Forskrift om opptak, studier og eksamen ved NSKI Høyskole
 - [forskrift-om-opptak-studier-og-eksamen-ved-oslo-nye-fagskole](forskrift-om-opptak-studier-og-eksamen-ved-oslo-nye-fagskole.md) — Forskrift om opptak, studier og eksamen ved Oslo Nye Fagskole
 - [forskrift-om-opptak-studier-og-eksamen-ved-oslo-nye-høyskole](forskrift-om-opptak-studier-og-eksamen-ved-oslo-nye-høyskole.md) — Forskrift om opptak, studier og eksamen ved Oslo Nye Høyskole
+- [forskrift-om-opptak-studier-og-eksamen-ved-oslomet-storbyuniversitetet](forskrift-om-opptak-studier-og-eksamen-ved-oslomet-storbyuniversitetet.md) — Forskrift om opptak, studier og eksamen ved OsloMet – storbyuniversitetet (OsloMet)
 - [forskrift-om-opptak-studier-og-eksamen-ved-sirius-naturterapeutisk-skole-as](forskrift-om-opptak-studier-og-eksamen-ved-sirius-naturterapeutisk-skole-as.md) — Forskrift om opptak, disiplinære sanksjoner, klagebestemmelser og eksamen ved fagskolen Sirius Naturterapeutisk skole AS
 - [forskrift-om-opptak-studier-og-eksamen-ved-stiftelsen-norsk-hestesenter](forskrift-om-opptak-studier-og-eksamen-ved-stiftelsen-norsk-hestesenter.md) — Forskrift om opptak, studier og eksamen ved Stiftelsen Norsk Hestesenter
 - [forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet](forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet.md) — Forskrift om opptak, studier og eksamen ved Universitetet i Innlandet
@@ -3300,6 +3303,7 @@ _5138 current documents_
 - [forskrift-om-regulering-av-fisket-etter-makrell-i-2026](forskrift-om-regulering-av-fisket-etter-makrell-i-2026.md) — Forskrift om regulering av fisket etter makrell i 2026
 - [forskrift-om-regulering-av-fisket-etter-makrellstørje-i-2026](forskrift-om-regulering-av-fisket-etter-makrellstørje-i-2026.md) — Forskrift om regulering av fisket etter makrellstørje (Thunnus thynnus) i 2026
 - [forskrift-om-regulering-av-fisket-etter-norsk-vårgytende-sild-i-2026](forskrift-om-regulering-av-fisket-etter-norsk-vårgytende-sild-i-2026.md) — Forskrift om regulering av fisket etter norsk vårgytende sild (nvg) i 2026
+- [forskrift-om-regulering-av-fisket-etter-reker-i-nordsjøen-og-skagerrak-i-2026-2027](forskrift-om-regulering-av-fisket-etter-reker-i-nordsjøen-og-skagerrak-i-2026-2027.md) — Forskrift om regulering av fisket etter reker i Nordsjøen og Skagerrak i 2026–2027
 - [forskrift-om-regulering-av-fisket-etter-rognkjeks-i-2026](forskrift-om-regulering-av-fisket-etter-rognkjeks-i-2026.md) — Forskrift om regulering av fisket etter rognkjeks i 2026
 - [forskrift-om-regulering-av-fisket-etter-rødspette-i-nordsjøen-og-skagerrak-i-2026](forskrift-om-regulering-av-fisket-etter-rødspette-i-nordsjøen-og-skagerrak-i-2026.md) — Forskrift om regulering av fisket etter rødspette i Nordsjøen og Skagerrak i 2026
 - [forskrift-om-regulering-av-fisket-etter-sei-i-nordsjøen-og-skagerrak-i-2026](forskrift-om-regulering-av-fisket-etter-sei-i-nordsjøen-og-skagerrak-i-2026.md) — Forskrift om regulering av fisket etter sei i Nordsjøen og Skagerrak i 2026
@@ -4471,6 +4475,7 @@ _5138 current documents_
 - [midlertidig-forskrift-om-automatiske-vekter-og-automatiske-veiesystemer-ved-mottak-av-pelagisk-fisk](midlertidig-forskrift-om-automatiske-vekter-og-automatiske-veiesystemer-ved-mottak-av-pelagisk-fisk.md) — Midlertidig forskrift om automatiske vekter og automatiske veiesystemer ved mottak av pelagisk fisk
 - [midlertidig-forskrift-om-bruk-av-flaskehalsinntekter](midlertidig-forskrift-om-bruk-av-flaskehalsinntekter.md) — Midlertidig forskrift om bruk av flaskehalsinntekter
 - [midlertidig-forskrift-om-endring-i-forskrifter-etter-barnevernloven-for-å-håndtere-høyt-antall-ankomster-av-fordrevne-fra-ukraina](midlertidig-forskrift-om-endring-i-forskrifter-etter-barnevernloven-for-å-håndtere-høyt-antall-ankomster-av-fordrevne-fra-ukraina.md) — Midlertidig forskrift om endring i forskrifter etter barnevernloven for å håndtere høyt antall ankomster av fordrevne fra Ukraina
+- [midlertidig-forskrift-om-kompensasjon-som-følge-av-innføring-av-lavere-grenseverdi-for-kadmium-i-løk](midlertidig-forskrift-om-kompensasjon-som-følge-av-innføring-av-lavere-grenseverdi-for-kadmium-i-løk.md) — Midlertidig forskrift om kompensasjon som følge av innføring av lavere grenseverdi for kadmium i løk
 - [midlertidig-forskrift-om-krav-til-vekter-og-automatiske-veiesystemer-til-bruk-ved-landing-av-pelagisk-fisk](midlertidig-forskrift-om-krav-til-vekter-og-automatiske-veiesystemer-til-bruk-ved-landing-av-pelagisk-fisk.md) — Midlertidig forskrift om krav til vekter og automatiske veiesystemer til bruk ved landing av pelagisk fisk
 - [midlertidig-forskrift-om-midlertidig-godkjenning-av-ordinære-barnehager-og-midlertidig-tilskudd-for-enklere-bosetting-av-fordrevne-fra-ukraina-og-flyktninger](midlertidig-forskrift-om-midlertidig-godkjenning-av-ordinære-barnehager-og-midlertidig-tilskudd-for-enklere-bosetting-av-fordrevne-fra-ukraina-og-flyktninger.md) — Midlertidig forskrift om midlertidig godkjenning av ordinære barnehager og midlertidig tilskudd for enklere bosetting av fordrevne fra Ukraina og flyktninger
 - [midlertidig-forskrift-om-stønad-til-kunder-av-nærvarmeleverandører](midlertidig-forskrift-om-stønad-til-kunder-av-nærvarmeleverandører.md) — Midlertidig forskrift om stønad til kunder av nærvarmeleverandører
@@ -4633,7 +4638,6 @@ _5138 current documents_
 - [overgangsregler-om-behandling-av-personopplysninger](overgangsregler-om-behandling-av-personopplysninger.md) — Overgangsregler om behandling av personopplysninger
 - [overgangsregler-om-forsikringsformidling](overgangsregler-om-forsikringsformidling.md) — Overgangsregler om forsikringsformidling
 - [overgangsregler-om-integreringsloven-kapittel-6a](overgangsregler-om-integreringsloven-kapittel-6a.md) — Overgangsregler om integreringsloven kapittel 6A
-- [overgangsregler-om-integreringsloven-kapittel-6a-2](overgangsregler-om-integreringsloven-kapittel-6a-2.md) — Overgangsregler om integreringsloven kapittel 6A
 - [overgangsregler-til-endr-i-inkassoloven](overgangsregler-til-endr-i-inkassoloven.md) — Forskrift om overgangsregler til lov av 16. mars 2001 nr. 8 om endringer i inkassoloven.
 - [overgangsregler-til-lov-10-april-2025-nr-10-om-endringer-i-eiendomsmeglingsloven](overgangsregler-til-lov-10-april-2025-nr-10-om-endringer-i-eiendomsmeglingsloven.md) — Overgangsregler til lov 10. april 2025 nr. 10 om endringer i eiendomsmeglingsloven (budgivning, egnethetskrav og sanksjoner mv.)
 - [overgangsregler-til-lov-11-mai-2023-nr-13-om-endringer-i-tvisteloven-mv](overgangsregler-til-lov-11-mai-2023-nr-13-om-endringer-i-tvisteloven-mv.md) — Overgangsregler til lov 11. mai 2023 nr. 13 om endringer i tvisteloven mv. (rettsmekling, ankenektelse mv.)
