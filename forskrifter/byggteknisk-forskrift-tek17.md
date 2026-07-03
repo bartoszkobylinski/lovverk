@@ -10,12 +10,12 @@ ministry:
   - "Kommunal- og distriktsdepartementet"
 date_in_force: "2017-07-01"
 last_change_in_force: "2026-07-01"
-last_updated: "2017-08-30"
-xml_hash: "1f4fa2278cd8603267bd9cc95c4ba7ed572e34ed1139ae48da4df46ee4d13372"
+last_updated: "2026-07-02"
+xml_hash: "c2240d077865028fb8ea7a91db154a7edd07ac52e8d310b29c310441323d2e83"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-03T06:58:59.359597+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1105,7 +1105,7 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 ### § 16-2. Krav til sikkerhetskontrollør for utføring av periodisk sikkerhetskontroll
 
-(1) Periodisk sikkerhetskontroll kan utføres avsikkerhetskontrollør tilsatt i kommunal heiskontrollordningsikkerhetskontrollør tilsatt i landsdekkende heiskontrollordning med bemyndigelse fradepartementetsikkerhetskontrollør som utfører sikkerhetskontroll på midlertidig grunnlagsikkerhetskontrollør tilsatt i Direktoratet for byggkvalitet.
+(1) Periodisk sikkerhetskontroll kan utføres avsikkerhetskontrollør tilsatt i kommunal heiskontrollordningsikkerhetskontrollør tilsatt i landsdekkende heiskontrollordning med bemyndigelse fra departementetsikkerhetskontrollør som utfører sikkerhetskontroll på midlertidig grunnlagsikkerhetskontrollør tilsatt i Direktoratet for byggkvalitet.
 
 (2) Sikkerhetskontrollør skal godkjennes av Direktoratet for byggkvalitet.
 
