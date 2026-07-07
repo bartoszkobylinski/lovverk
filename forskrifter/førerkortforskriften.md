@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2004-03-01"
 last_change_in_force: "2026-06-01"
 last_updated: "2024-01-09"
-xml_hash: "ff3bc5cdea709d7621880c4a7d0e7dea69344c4b1f398b2b8a2c1e6c1fdc3b00"
+xml_hash: "0394b02f9ef9049d9f3182d4a4856e30c0cfc2b46d3fc8745124d65dc82e2a61"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-02T08:26:01.859598+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -742,7 +742,7 @@ Personen må oppfylle det norske alderskravet i klasse AM med kode 146.
 
 Statens vegvesen kan gi tillatelse til arrangerte gruppeturer med deltakere som ikke har førerett i klasse S. Deltakerne skal ha førerett i annen klasse, anerkjent i Norge, og tilstrekkelig ferdighet. Arrangøren er ansvarlig for å kontrollere deltakernes førerett og ferdigheter. Turene må skje innen turistnæringen eller lignende, ha guide med førerett i klasse S og følge en på forhånd fastsatt løype. Det skal settes vilkår om antall deltakere pr. guide og det kan settes andre vilkår av betydning for sikkerhet, natur og miljø. Vilkårene skal fastsettes ut fra hvor, når og hvordan kjøringen skal foregå.
 
-Førerett for beltemotorsykkel fra Sverige anerkjennes i tråd med [avtale mellom Norge og Sverige om grenseoverskridende trafikk med beltemotorsykkel.](https://www.regjeringen.no/contentassets/4ea39884f0404ba09d4b564506ba6422/overenskomst-i-norsk-versjon-docx.pdf)
+Førerett for beltemotorsykkel fra Sverige anerkjennes i tråd med [avtale mellom Norge og Sverige om grenseoverskridende trafikk med beltemotorsykkel](https://www.regjeringen.no/contentassets/4ea39884f0404ba09d4b564506ba6422/overenskomst-i-norsk-versjon-docx.pdf).
 
 Personer med midlertidig opphold i Norge kan gis førerett for beltemotorsykkel. Søker må være innehaver av et gyldig utenlandsk førerkort som anerkjennes etter [kapittel 8](forskrift/2004-01-19-298/kap8), ha gjennomført obligatorisk opplæring og bestått teoretisk prøve etter trafikkopplæringsforskriften og dokumentere et arbeidsforhold i Norge som innebærer kjøring med beltemotorsykkel. Føreretten følger av enkeltvedtak utstedt av Statens vegvesen og gis gyldighet i to år. Vedtaksbrev og gyldig utenlandsk førerkort må medbringes under kjøring.
 
@@ -1108,9 +1108,16 @@ Helsedirektoratet kan gi retningslinjer til utfylling og gjennomføring av vedle
 
 ### § 9. Helsekrav til synsfunksjon
 
-Helsekravene til syn er oppfylt når søker om førerett fyller følgende krav til synsfunksjon:*A**B**C**Førerkortgruppe 1**Førerkortgruppe 2 og 3*1.SynsstyrkeMinst 0,5 for begge øyne samlet eller 0,5 for ett øyeMinst 0,8 for det ene øyet og 0,1 for det andre øyet2.Synsfelta) minst 120 grader vidt i horisontalplanet, 50 grader til hver side og 20 grader opp- og nedadgående ved blikkretning rett fram og
-b) ingen utfall innenfor en radius på 20 grader ved blikk rett fram.a) minst 160 grader vidt i horisontalplanet, 70 grader til hver side og 30 grader opp- og nedadgående ved blikkretning rett fram og
-b) ingen utfall innenfor en radius på 30 grader ved blikk rett fram.3.DobbeltsynHelsekravet er oppfylt etter tre måneder dersom optiker eller øyelege attesterer at det er gjennomført tilfredsstillende kompenserende tiltak og det deretter er gjennomført kjørevurdering med bestått resultat.Helsekrav ikke oppfylt.4.Nylig konstatert betydelig reduksjon av syn på ett øyeHelsekravet er oppfylt når optiker eller øyelege attesterer for tilfredsstillende generell synsfunksjon.Helsekravet er oppfylt etter seks måneder dersom øyelege attesterer for tilfredsstillende generell synsfunksjon og det deretter er gjennomført kjørevurdering med bestått resultat.5.Tap av syn på ett øyeHelsekravet er oppfylt etter seks måneder dersom optiker eller øyelege attesterer for tilfredsstillende generell synsfunksjon og det deretter er gjennomført kjørevurdering med bestått resultat.Helsekrav ikke oppfylt.
+Helsekravene til syn er oppfylt når søker om førerett fyller følgende krav til synsfunksjon:
+
+|  | *A* | *B* | *C* |
+| --- | --- | --- | --- |
+|  |  | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+| 1. | Synsstyrke | Minst 0,5 for begge øyne samlet eller 0,5 for ett øye | Minst 0,8 for det ene øyet og 0,1 for det andre øyet |
+| 2. | Synsfelt | a) minst 120 grader vidt i horisontalplanet, 50 grader til hver side og 20 grader opp- og nedadgående ved blikkretning rett fram og<br>b) ingen utfall innenfor en radius på 20 grader ved blikk rett fram. | a) minst 160 grader vidt i horisontalplanet, 70 grader til hver side og 30 grader opp- og nedadgående ved blikkretning rett fram og<br>b) ingen utfall innenfor en radius på 30 grader ved blikk rett fram. |
+| 3. | Dobbeltsyn | Helsekravet er oppfylt etter tre måneder dersom optiker eller øyelege attesterer at det er gjennomført tilfredsstillende kompenserende tiltak og det deretter er gjennomført kjørevurdering med bestått resultat. | Helsekrav ikke oppfylt. |
+| 4. | Nylig konstatert betydelig reduksjon av syn på ett øye | Helsekravet er oppfylt når optiker eller øyelege attesterer for tilfredsstillende generell synsfunksjon. | Helsekravet er oppfylt etter seks måneder dersom øyelege attesterer for tilfredsstillende generell synsfunksjon og det deretter er gjennomført kjørevurdering med bestått resultat. |
+| 5. | Tap av syn på ett øye | Helsekravet er oppfylt etter seks måneder dersom optiker eller øyelege attesterer for tilfredsstillende generell synsfunksjon og det deretter er gjennomført kjørevurdering med bestått resultat. | Helsekrav ikke oppfylt. |
 
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016).
 
@@ -1166,17 +1173,43 @@ Helsekrav er ikke oppfylt når nevrologisk sykdom, skade eller operative inngrep
 
 ### § 17. Spesielle bestemmelser ved noen nevrologiske sykdommer
 
-For nevrologisk sykdom som inngår i tabellen i annet ledd, gjelder bestemmelsene i tabellen. Listen i tabellen er ikke uttømmende. De generelle helsekravene i [§ 16](forskrift/2004-01-19-298/§16) gjelder ved all nevrologisk sykdom.*A**B**C**Nevrologisk sykdom**Førerkortgruppe 1**Førerkortgruppe 2 og 3*1.Enkeltstående TIA (transitorisk iskemisk attakk) med remisjon innen 24 timer eller hjerneslag med remisjon innen en ukeHelsekrav oppfylt etter en måned dersom det ikke er synsfeltutfall, kognitiv svikt, pareser eller følgetilstander som påvirker kjøreevnen.Helsekrav oppfylt etter tre måneder dersom det ikke er synsfeltutfall, kognitiv svikt, pareser eller følgetilstander som påvirker kjøreevnen.Helseattest kan deretter gis med anbefaling om førerett for inntil to år av gangen i fire år, før førerett kan gis med vanlig varighet.Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fire år, før førerett kan gis med vanlig varighet.2.TIA eller hjerneslag med
-a) remisjon innen en uke og
-b) atrieflimmer uten synkoper.Helsekrav oppfylt etter tre måneder med stabil antikoagulasjon.Helsekrav oppfylt etter seks måneder med stabil antikoagulasjon og etter vurdering av relevant spesialist.Helseattest kan deretter gis med anbefaling om førerett for inntil to år av gangen i fire år, før førerett kan gis med vanlig varighet.Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fire år, før førerett kan gis med vanlig varighet.3.TIA eller hjerneslag i sammenheng med carotisstenose over 70 % som ikke behandlesHelsekrav oppfylt etter seks måneder der relevant spesialist vurderer lav årlig risiko for nytt anfall.Helsekrav oppfylt etter ett år der relevant spesialist vurderer svært lav årlig risiko for nytt anfall.Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fire år før førerett kan gis med vanlig varighet.Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fire år, før førerett kan gis med vanlig varighet.4.Flere TIA eller et hjerneslag med
-a) remisjon innen en uke og
-b) god rehabilitering.Helsekrav oppfylt etter tre måneder.Helsekrav oppfylt etter seks måneder etter vurdering av relevant spesialist.Helseattest kan deretter gis med anbefaling om førerett for inntil to år av gangen i fire år, før førerett kan gis med vanlig varighet.Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fire år, før førerett kan gis med vanlig varighet.5.Hjerneslag med
-a) remisjonstid lengre enn en uke
-b) tilfredsstillende syn, førlighet og kognitiv funksjon og
-c) risikofaktorer kartlagt og tilfredsstillende behandletHelsekrav oppfylt etter seks måneder.Helsekrav oppfylt etter ett år etter vurdering av relevant spesialist.Helseattest kan deretter gis med anbefaling om førerett for inntil to år av gangen i fire år, før førerett kan gis med vanlig varighet.Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i to år før førerett kan gis med vanlig varighet.6.Multippel skleroseHelsekrav oppfylt dersom nevrolog vurderer at det er tilfredsstillende fysisk og kognitiv funksjonsevne.Helsekrav oppfylt dersom nevrolog vurderer at det er tilfredsstillende fysisk og kognitiv funksjonsevne.Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen, eller lenger dersom nevrolog anbefaler det.Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fem år. Krav om vurdering av nevrolog hvert femte år.7.Degenerative nevrologiske sykdommer med sannsynlig sen progresjonHelsekrav oppfylt dersom nevrolog vurderer at det er tilfredsstillende fysisk og kognitiv funksjonsevne.Helsekrav oppfylt dersom nevrolog vurderer at det er tilfredsstillende fysisk og kognitiv funksjonsevne.Helseattest kan deretter gis med anbefaling om førerett for inntil to år, før førerett kan gis med inntil fem års varighet av gangen.Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen.8.Degenerative nevrologiske sykdommer med mulig rask progresjonHelsekrav oppfylt dersom nevrolog vurderer at det er tilfredsstillende fysisk og kognitiv funksjonsevne.
-Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen.Helsekrav ikke oppfylt.9.Akutt meningitt og encefalittHelsekrav oppfylt ved full restitusjon inkludert kognitive funksjoner og dersom pasienten ikke har hatt kramper.Helsekrav oppfylt ved full restitusjon inkludert kognitive funksjoner og dersom pasienten ikke har hatt kramper.Ved kramper i akuttfase er helsekrav oppfylt etter seks måneder.Ved meningitt med kramper i akuttfase er helsekrav oppfylt etter fem år uten antikonvulsiva.Ved kramper etter akuttfase gjelder helsekrav som ved epilepsi, jf. [kapittel 8](forskrift/2004-01-19-298/kap8).Ved encefalitt med kramper i akuttfase er helsekrav oppfylt etter ti år uten antikonvulsiva.
-Ved kramper etter akuttfase gjelder helsekrav som ved epilepsi, jf. [kapittel 8](forskrift/2004-01-19-298/kap8).10.Transitorisk global amnesi (TGA)Helsekrav oppfylt.Helsekrav oppfylt etter tre måneders observasjonstid uten nye episoder.11.Traumatisk hjerneskade med intrakranielt hematom, skade av dura eller kontusjon av hjernevevHelsekrav oppfylt etter seks måneder dersom relevant spesialist vurderer at det er tilfredsstillende syn, førlighet og kognitiv funksjon.Helsekrav oppfylt etter ett år dersom relevant spesialist vurderer at det er tilfredsstillende syn, førlighet og kognitiv funksjon, og at det er svært lav risiko for krampeanfall.Ved kramper gjelder helsekrav som ved epilepsi.Ved kramper gjelder helsekrav som ved epilepsi.12.Subduralt hematomHelsekrav oppfylt ved full restitusjon inkludert kognitive funksjoner.Helsekrav oppfylt etter ett år ved full restitusjon inkludert kognitive funksjoner.13.Intrakranielle aneurismer – tilfeldig påvistHelsekrav oppfylt.Helsekrav ikke oppfylt.14.Intrakranielle aneurismer – opererteHelsekrav oppfylt ved full restitusjon.Helsekrav oppfylt etter ett år etter vurdering av relevant spesialist.
-Helseattest kan deretter gis med anbefaling om førerett for inntil to år, før førerett kan gis med vanlig varighet.15.NeoplasmerHelsekrav oppfylt etter vurdering av relevant spesialist.Helsekrav oppfylt etter vurdering av relevant spesialist.16.Intracerebral absess, subduralt empyemHelsekrav oppfylt etter to år etter vurdering av relevant spesialist.Helsekrav oppfylt etter ti år etter vurdering av relevant spesialist.Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fem år, før førerett kan gis med vanlig varighet.Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fem år, før førerett kan gis med vanlig varighet.17.RyggmargsbrokkHelsekrav oppfylt etter tilrettelegging og vurdering ved relevant spesialist.Helsekrav oppfylt etter tilrettelegging og vurdering ved relevant spesialist.18.Morbus MenièreHelsekrav oppfylt der anfallene kommer varslet.Helsekrav oppfylt etter vurdering av spesialist i øre-nese-halssykdommer etter to år uten anfall.Helseattest kan deretter gis med anbefaling om førerett for inntil to år, før førerett kan gis med vanlig varighet.Helseattest kan deretter gis med anbefaling om førerett for inntil to år før førerett kan gis med vanlig varighet.19.VestibularisnevrittHelsekrav oppfylt når tilstanden er stabil og kompensert.Helsekrav oppfylt når tilstanden er stabil og kompensert.20.Cerebral pareseHelsekrav oppfylt dersom en tverrfaglig spesialistvurdering finner tilfredsstillende fysisk og kognitiv funksjonsevne.Helsekrav oppfylt ved svært lette former dersom en tverrfaglig spesialistvurdering finner tilfredsstillende fysisk og kognitiv funksjonsevne.
+For nevrologisk sykdom som inngår i tabellen i annet ledd, gjelder bestemmelsene i tabellen. Listen i tabellen er ikke uttømmende. De generelle helsekravene i [§ 16](forskrift/2004-01-19-298/§16) gjelder ved all nevrologisk sykdom.
+
+|  | *A* | *B* | *C* |
+| --- | --- | --- | --- |
+|  | *Nevrologisk sykdom* | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+| 1. | Enkeltstående TIA (transitorisk iskemisk attakk) med remisjon innen 24 timer eller hjerneslag med remisjon innen en uke | Helsekrav oppfylt etter en måned dersom det ikke er synsfeltutfall, kognitiv svikt, pareser eller følgetilstander som påvirker kjøreevnen. | Helsekrav oppfylt etter tre måneder dersom det ikke er synsfeltutfall, kognitiv svikt, pareser eller følgetilstander som påvirker kjøreevnen. |
+|  |  | Helseattest kan deretter gis med anbefaling om førerett for inntil to år av gangen i fire år, før førerett kan gis med vanlig varighet. | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fire år, før førerett kan gis med vanlig varighet. |
+| 2. | TIA eller hjerneslag med<br>a) remisjon innen en uke og<br>b) atrieflimmer uten synkoper. | Helsekrav oppfylt etter tre måneder med stabil antikoagulasjon. | Helsekrav oppfylt etter seks måneder med stabil antikoagulasjon og etter vurdering av relevant spesialist. |
+|  |  | Helseattest kan deretter gis med anbefaling om førerett for inntil to år av gangen i fire år, før førerett kan gis med vanlig varighet. | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fire år, før førerett kan gis med vanlig varighet. |
+| 3. | TIA eller hjerneslag i sammenheng med carotisstenose over 70 % som ikke behandles | Helsekrav oppfylt etter seks måneder der relevant spesialist vurderer lav årlig risiko for nytt anfall. | Helsekrav oppfylt etter ett år der relevant spesialist vurderer svært lav årlig risiko for nytt anfall. |
+|  |  | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fire år før førerett kan gis med vanlig varighet. | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fire år, før førerett kan gis med vanlig varighet. |
+| 4. | Flere TIA eller et hjerneslag med<br>a) remisjon innen en uke og<br>b) god rehabilitering. | Helsekrav oppfylt etter tre måneder. | Helsekrav oppfylt etter seks måneder etter vurdering av relevant spesialist. |
+|  |  | Helseattest kan deretter gis med anbefaling om førerett for inntil to år av gangen i fire år, før førerett kan gis med vanlig varighet. | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fire år, før førerett kan gis med vanlig varighet. |
+| 5. | Hjerneslag med<br>a) remisjonstid lengre enn en uke<br>b) tilfredsstillende syn, førlighet og kognitiv funksjon og<br>c) risikofaktorer kartlagt og tilfredsstillende behandlet | Helsekrav oppfylt etter seks måneder. | Helsekrav oppfylt etter ett år etter vurdering av relevant spesialist. |
+|  |  | Helseattest kan deretter gis med anbefaling om førerett for inntil to år av gangen i fire år, før førerett kan gis med vanlig varighet. | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i to år før førerett kan gis med vanlig varighet. |
+| 6. | Multippel sklerose | Helsekrav oppfylt dersom nevrolog vurderer at det er tilfredsstillende fysisk og kognitiv funksjonsevne. | Helsekrav oppfylt dersom nevrolog vurderer at det er tilfredsstillende fysisk og kognitiv funksjonsevne. |
+|  |  | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen, eller lenger dersom nevrolog anbefaler det. | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fem år. Krav om vurdering av nevrolog hvert femte år. |
+| 7. | Degenerative nevrologiske sykdommer med sannsynlig sen progresjon | Helsekrav oppfylt dersom nevrolog vurderer at det er tilfredsstillende fysisk og kognitiv funksjonsevne. | Helsekrav oppfylt dersom nevrolog vurderer at det er tilfredsstillende fysisk og kognitiv funksjonsevne. |
+|  |  | Helseattest kan deretter gis med anbefaling om førerett for inntil to år, før førerett kan gis med inntil fem års varighet av gangen. | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen. |
+| 8. | Degenerative nevrologiske sykdommer med mulig rask progresjon | Helsekrav oppfylt dersom nevrolog vurderer at det er tilfredsstillende fysisk og kognitiv funksjonsevne.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen. | Helsekrav ikke oppfylt. |
+| 9. | Akutt meningitt og encefalitt | Helsekrav oppfylt ved full restitusjon inkludert kognitive funksjoner og dersom pasienten ikke har hatt kramper. | Helsekrav oppfylt ved full restitusjon inkludert kognitive funksjoner og dersom pasienten ikke har hatt kramper. |
+|  |  | Ved kramper i akuttfase er helsekrav oppfylt etter seks måneder. | Ved meningitt med kramper i akuttfase er helsekrav oppfylt etter fem år uten antikonvulsiva. |
+|  |  | Ved kramper etter akuttfase gjelder helsekrav som ved epilepsi, jf. [kapittel 8](forskrift/2004-01-19-298/kap8). | Ved encefalitt med kramper i akuttfase er helsekrav oppfylt etter ti år uten antikonvulsiva.<br>Ved kramper etter akuttfase gjelder helsekrav som ved epilepsi, jf. [kapittel 8](forskrift/2004-01-19-298/kap8). |
+| 10. | Transitorisk global amnesi (TGA) | Helsekrav oppfylt. | Helsekrav oppfylt etter tre måneders observasjonstid uten nye episoder. |
+| 11. | Traumatisk hjerneskade med intrakranielt hematom, skade av dura eller kontusjon av hjernevev | Helsekrav oppfylt etter seks måneder dersom relevant spesialist vurderer at det er tilfredsstillende syn, førlighet og kognitiv funksjon. | Helsekrav oppfylt etter ett år dersom relevant spesialist vurderer at det er tilfredsstillende syn, førlighet og kognitiv funksjon, og at det er svært lav risiko for krampeanfall. |
+|  |  | Ved kramper gjelder helsekrav som ved epilepsi. | Ved kramper gjelder helsekrav som ved epilepsi. |
+| 12. | Subduralt hematom | Helsekrav oppfylt ved full restitusjon inkludert kognitive funksjoner. | Helsekrav oppfylt etter ett år ved full restitusjon inkludert kognitive funksjoner. |
+| 13. | Intrakranielle aneurismer – tilfeldig påvist | Helsekrav oppfylt. | Helsekrav ikke oppfylt. |
+| 14. | Intrakranielle aneurismer – opererte | Helsekrav oppfylt ved full restitusjon. | Helsekrav oppfylt etter ett år etter vurdering av relevant spesialist.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil to år, før førerett kan gis med vanlig varighet. |
+| 15. | Neoplasmer | Helsekrav oppfylt etter vurdering av relevant spesialist. | Helsekrav oppfylt etter vurdering av relevant spesialist. |
+| 16. | Intracerebral absess, subduralt empyem | Helsekrav oppfylt etter to år etter vurdering av relevant spesialist. | Helsekrav oppfylt etter ti år etter vurdering av relevant spesialist. |
+|  |  | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fem år, før førerett kan gis med vanlig varighet. | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fem år, før førerett kan gis med vanlig varighet. |
+| 17. | Ryggmargsbrokk | Helsekrav oppfylt etter tilrettelegging og vurdering ved relevant spesialist. | Helsekrav oppfylt etter tilrettelegging og vurdering ved relevant spesialist. |
+| 18. | Morbus Menière | Helsekrav oppfylt der anfallene kommer varslet. | Helsekrav oppfylt etter vurdering av spesialist i øre-nese-halssykdommer etter to år uten anfall. |
+|  |  | Helseattest kan deretter gis med anbefaling om førerett for inntil to år, før førerett kan gis med vanlig varighet. | Helseattest kan deretter gis med anbefaling om førerett for inntil to år før førerett kan gis med vanlig varighet. |
+| 19. | Vestibularisnevritt | Helsekrav oppfylt når tilstanden er stabil og kompensert. | Helsekrav oppfylt når tilstanden er stabil og kompensert. |
+| 20. | Cerebral parese | Helsekrav oppfylt dersom en tverrfaglig spesialistvurdering finner tilfredsstillende fysisk og kognitiv funksjonsevne. | Helsekrav oppfylt ved svært lette former dersom en tverrfaglig spesialistvurdering finner tilfredsstillende fysisk og kognitiv funksjonsevne. |
 
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016).
 
@@ -1198,6 +1231,19 @@ Det kreves uttalelse fra spesialist i nevrologi etter første gangs anfall og ve
 
 For epilepsi og epilepsilignende anfall som inngår i tabellen i annet ledd, gjelder bestemmelsene i tabellen. Listen i tabellen er ikke uttømmende. [§ 18](forskrift/2004-01-19-298/§18) og [§ 19](forskrift/2004-01-19-298/§19) gjelder for alle former for epilepsi og epilepsilignende anfall så langt det ikke er i motstrid med bestemmelsene i annet ledd.
 
+|  | *A* | *B* | *C* |
+| --- | --- | --- | --- |
+|  |  | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+| 1. | Enkeltstående uprovosert anfall | Helsekrav oppfylt etter ett år uten anfall dersom nevrolog vurderer lav årlig risiko for nytt anfall.<br>Ved vurdering av anfallsrisiko skal det legges vekt på om det er påvist epileptiform aktivitet ved EEG og om det er påviste strukturelle endringer i hjernen som kan være årsak til anfallet. | Helsekrav oppfylt etter fem år uten anfall og uten behandling med anfallsforebyggende legemidler, dersom nevrolog vurderer svært lav årlig risiko for nytt anfall.<br>Ved vurdering av anfallsrisiko skal det legges vekt på om det er påvist epileptiform aktivitet ved EEG og om det er påviste strukturelle endringer i hjernen som kan være årsak til anfallet. |
+| 2. | Enkeltstående anfall med kjent årsak som er behandlet, herunder epilepsilignende anfall etter mangel på søvn, feber, psykisk og fysisk belastning, dehydrering og legemiddelbivirkning | Helsekrav oppfylt etter seks måneder uten anfall dersom nevrolog vurderer lav årlig risiko for nytt anfall.<br>Ved vurdering av anfallsrisiko skal det legges vekt på om det er påvist epileptiform aktivitet ved EEG og om det er påviste strukturelle endringer i hjernen som kan være årsak til anfallet. | Helsekrav oppfylt etter tre år uten anfall dersom nevrolog vurderer svært lav årlig risiko for nytt anfall.<br>Ved vurdering av anfallsrisiko skal det legges vekt på om det er påvist epileptiform aktivitet ved EEG og om det er påviste strukturelle endringer i hjernen som kan være årsak til anfallet. |
+| 3. | Enkeltstående, epilepsilignende anfall på grunn av rus | Helsekrav oppfylt etter seks måneder uten anfall og seks måneders rusfrihet dokumentert ved egnede prøver, dersom nevrolog vurderer lav årlig risiko for nytt anfall.<br>Ved vurdering av anfallsrisiko skal det legges vekt på om det er påvist epileptiform aktivitet ved EEG og om det er påviste strukturelle endringer i hjernen som kan være årsak til anfallet. | Helsekrav oppfylt etter tre år uten anfall og tre års rusfrihet dokumentert ved egnede prøver, dersom nevrolog vurderer svært lav årlig risiko for nytt anfall.<br>Ved vurdering av anfallsrisiko skal det legges vekt på om det er påvist epileptiform aktivitet ved EEG og om det er påviste strukturelle endringer i hjernen som kan være årsak til anfallet. |
+| 4. | To eller flere epileptiske og epilepsilignende anfall | Helsekrav oppfylt etter fem år uten anfall.<br>Helseattest kan likevel gis med anbefaling om førerett for ett år etter ett år uten anfall dersom nevrolog vurderer lav årlig risiko for nytt anfall.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett års varighet frem til fører har vært anfallsfri i fem år, før førerett kan gis med vanlig varighet. | Helsekrav oppfylt etter ti år uten anfall og uten bruk av anfallsforebyggende legemidler. Helseattest kan deretter gis med anbefaling om førerett for inntil ett år i to år, før førerett kan gis med vanlig varighet. |
+| 5. | Epilepsianfall bare under søvn | Helsekrav oppfylt etter ett år uten anfall i våken tilstand dersom nevrolog vurderer lav årlig risiko for nytt anfall i våken tilstand. | Helsekrav oppfylt etter ti år uten anfall og uten bruk av anfallsforebyggende legemidler. |
+| 6. | Anfall under legestyrt nedtrapping eller egenseponering der behandling gjenopptas | Helsekrav oppfylt etter tre måneder uten anfall dersom a) medikamentell beskyttelse er gjenopptatt og b) nevrolog vurderer lav årlig risiko for nytt anfall | Helsekrav ikke oppfylt. |
+| 7. | Legestyrt nedtrapping eller egenseponering uten anfall | Helsekrav oppfylt etter tre måneder uten anfall etter avsluttet behandling.<br>Helsekrav ikke oppfylt under nedtrapping. | Helsekrav oppfylt etter ti år uten anfall etter avsluttet behandling og etter vurdering av nevrolog.<br><br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år i to år, før førerett kan gis med vanlig varighet. |
+| 8. | Fokale anfall uten påvirkning av bevisstheten | Helsekrav oppfylt dersom anfallsmønsteret har vært uforandret i minst ett år og nevrolog kan bekrefte at kjøreevnen ikke er påvirket. | Helsekrav ikke oppfylt. |
+| 9. | Psykogene eller funksjonelle anfall/PNES | Helsekrav oppfylt etter tre måneder uten anfall dersom relevant spesialist vurderer lav årlig risiko for nytt anfall. | Helsekrav oppfylt etter fem år uten anfall.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fem år, før førerett kan gis med vanlig varighet. |
+
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016), endret ved [forskrifter 7 mars 2017 nr. 288](forskrift/2017-03-07-288), [25 okt 2017 nr. 1661](forskrift/2017-10-25-1661), [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020).
 
 ### Kapittel 9. Bevissthetstap og bevissthetsforstyrrelser av annen årsak enn epilepsi, hjerte-/karsykdom og diabetes
@@ -1211,6 +1257,15 @@ Helsekrav er ikke oppfylt der bevissthetsforstyrrelse kan medføre en trafikksik
 ### § 22. Spesielle bestemmelser ved noen former for bevissthetstap (synkope) og bevissthetsforstyrrelser
 
 For bevissthetstap og bevissthetsforstyrrelser som inngår i tabellen i annet ledd, gjelder bestemmelsene i tabellen. Listen i tabellen over bevissthetstap og bevissthetsforstyrrelser er ikke uttømmende. Ved alle former for bevissthetstap og bevissthetsforstyrrelse av annen årsak enn epilepsi, hjertesykdom og diabetes gjelder helsekravet i [§ 21](forskrift/2004-01-19-298/§21).
+
+|  | *A* | *B* | *C* |
+| --- | --- | --- | --- |
+|  | *Klassifisering* | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+| 1. | Enkeltstående bevissthetforstyrrelse/ synkope uten avklart årsak. | Helsekrav oppfylt etter seks måneder uten anfall dersom det er lav årlig risiko for nytt anfall.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil to år av gangen, før førerett kan gis med vanlig varighet fem år etter siste anfall. | Helsekrav oppfylt etter to år uten anfall dersom relevant spesialist vurderer svært lav årlig risiko for nytt anfall.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen, før førerett kan gis med vanlig varighet fem år etter siste anfall. |
+| 2. | Gjentatte bevissthetsforstyrrelser/synkoper uten avklart årsak | Helsekrav oppfylt etter ett år uten anfall dersom det er lav årlig risiko for nytt anfall.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil to år av gangen, før førerett kan gis med vanlig varighet fem år etter siste anfall. | Helsekrav oppfylt etter fem år uten anfall dersom relevant spesialist vurderer svært lav årlig risiko for nytt anfall. Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i fem år, før førerett kan gis med vanlig varighet ti år etter siste anfall. |
+| 3. | Reflekssynkope, vasovagal synkope, situasjonssynkope, carotid sinus-synkope og ortostatisme. | Helsekrav oppfylt. | Helsekrav oppfylt dersom relevant spesialist vurderer svært lav årlig risiko for ny synkope. |
+| 4. | Flere anfall med synkope under hoste eller svelging | Helsekrav oppfylt etter seks måneder uten anfall dersom relevant spesialist vurderer lav årlig risiko for ny synkope. | Helsekrav oppfylt etter fem år uten anfall dersom relevant spesialist vurderer svært lav årlig risiko for nytt anfall. |
+| 5. | Bevissthetsforstyrrelse/synkope under migrene | Helsekrav oppfylt. | Helsekrav oppfylt etter seks måneder dersom relevant spesialist vurderer at det er stabilt anfallsmønster med forvarsel. |
 
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016), endret ved [forskrift 27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020).
 
@@ -1226,6 +1281,12 @@ Helsekrav er ikke oppfylt når bevisstheten kan svekkes av påtrengende søvnigh
 
 For søvnsykdommer som inngår i tabellen i annet ledd, gjelder bestemmelsene i tabellen. Listen i tabellen over søvnsykdommer er ikke uttømmende. Ved alle former for søvnsykdommer gjelder helsekravet i [§ 23](forskrift/2004-01-19-298/§23).
 
+|  | *A* | *B* | *C* |
+| --- | --- | --- | --- |
+|  | *Sykdom* | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+| 1. | Moderat og alvorlig obstruktivt søvnapné-syndrom (OSAS) når apné-hypopnéindeks er over 15. | Helsekrav oppfylt dersom relevant spesialist attesterer at tilfredsstillende symptomkontroll er oppnådd og føreren følger legens råd og anbefalinger.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil tre år av gangen. | Helsekrav oppfylt dersom relevant spesialist attesterer at tilfredsstillende symptomkontroll er oppnådd og føreren følger legens råd og anbefalinger.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen. |
+| 2. | Narkolepsi/katapleksi | Helsekrav oppfylt etter at behandlende spesialist har bekreftet at søkeren har oppnådd stabil fase med god funksjon.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen. | Helsekrav ikke oppfylt |
+
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016), endret ved [forskrift 27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020).
 
 ### Kapittel 11. Hjerte- og karsykdommer
@@ -1240,11 +1301,31 @@ Helsekrav er ikke oppfylt der svikt i hjerte- eller kretsløpssystemet kan føre
 
 Ved koronarsykdom som inngår i tabellen i annet ledd, gjelder bestemmelsene i tabellen. Listen over koronarsykdom i tabellen er ikke uttømmende. Ved all koronarsykdom gjelder helsekravet i [§ 25](forskrift/2004-01-19-298/§25).
 
+|  | *A* | *B* | *C* |
+| --- | --- | --- | --- |
+|  | *Koronarsykdom* | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+| 1. | Stabil angina pectoris eller asymptomatisk iskemisk hjertesykdom | Helsekrav oppfylt dersom<br>a) det ikke er angina i hvile eller ved emosjonell belastning<br>b) det ikke er malign arytmi og<br>c) det ikke er hjertesvikt i funksjonsklasse IV. | Helsekrav oppfylt dersom<br>a) det ikke er angina i hvile eller ved emosjonell belastning<br>b) det ikke er malign arytmi<br>c) arbeids-EKG er normalt ved 75 % belastning<br>d) ejeksjonsfraksjon er over 35 % og<br>e) funksjonsklasse er I eller II.<br>Det kreves bruk av medikamentell behandling som reduserer risiko for videreutvikling av sykdommen. |
+| 2. | Ustabil angina (UAP), gjennomgått hjerteinfarkt med ST-heving (STEMI) og uten ST-heving (NSTEMI) | Helsekrav oppfylt etter fire uker dersom<br>a) det ikke er angina i hvile eller ved emosjonell belastning<br>b) det ikke er malign arytmi og<br>c) det ikke er hjertesvikt i funksjonsklasse IV. | Helsekrav oppfylt etter seks uker dersom<br>a) det ikke er angina i hvile eller ved emosjonell belastning<br>b) det ikke er malign arytmi<br>c) arbeids-EKG er normalt ved 75 % belastning<br>d) ejeksjonsfraksjon er over 35 % og<br>e) funksjonsklasse er I eller II.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år, før førerett kan gis med vanlig varighet.<br>Det kreves bruk av medikamentell behandling som reduserer risiko for videreutvikling av sykdommen. |
+| 3. | Etter utført perkutan koronar intervensjon (PCI). | Helsekrav oppfylt ved utskrivelse dersom<br>a) det ikke er angina i hvile eller ved emosjonell belastning<br>b) det ikke er malign arytmi og<br>c) det ikke er hjertesvikt i funksjonsklasse IV. | Helsekrav oppfylt etter fire uker dersom<br>a) det ikke er angina i hvile eller ved emosjonell belastning<br>b) det ikke er malign arytmi<br>c) arbeids-EKG er normalt ved 75 % belastning<br>d) ejeksjonsfraksjon er over 35 % og<br>e) funksjonsklasse er I eller II.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år, før førerett kan gis med vanlig varighet.<br>Det kreves bruk av medikamentell behandling som reduserer risiko for videreutvikling av sykdommen. |
+| 4. | Etter koronar by-pass (CABG) | Helsekrav oppfylt ved tilfredsstillende tilheling dersom<br>a) det ikke er angina i hvile eller ved emosjonell belastning<br>b) det ikke er malign arytmi og<br>c) det ikke er hjertesvikt i funksjonsklasse IV. | Helsekrav oppfylt etter tilfredsstillende tilheling dersom<br>a) det ikke er angina i hvile eller ved emosjonell belastning<br>b) det ikke er malign arytmi<br>c) arbeids-EKG er normalt ved 75 % belastning<br>d) ejeksjonsfraksjon er over 35 % og<br>e) funksjonsklasse er I eller II.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år, før førerett kan gis med vanlig varighet.<br>Det kreves bruk av medikamentell behandling som reduserer risiko for videreutvikling av sykdommen. |
+
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016), endret ved [forskrift 27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020).
 
 ### § 27. Helsekrav ved spesifikke hjertearytmier
 
 Ved spesifikke hjertearytmier som inngår i tabellen i annet ledd, gjelder bestemmelsene i tabellen. Listen over hjertearytmier i tabellen er ikke uttømmende. Ved alle hjertearytmier gjelder helsekravet i [§ 25](forskrift/2004-01-19-298/§25).
+
+|  | *A* | *B* | *C* |
+| --- | --- | --- | --- |
+|  | *Arytmitype* | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+| 1. | Atrieflimmer og flutter uten synkope | Helsekrav oppfylt. | Helsekrav oppfylt forutsatt at hjerneslagsforebyggende medikasjon brukes etter nasjonalefaglige retningslinjer. |
+| 2. | Supraventrikulær takykardi uten synkope | Helsekrav oppfylt. | Helsekrav oppfylt. |
+| 3. | Atrieflimmer og -flutter med synkope | Helsekrav oppfylt en uke etter vellykket behandling og etter anbefaling fra relevant spesialist. | Helsekrav oppfylt tre måneder etter vellykket behandling og etter anbefaling fra relevant spesialist. |
+| 4. | Wolf-Parkinson-White (WPW), AV-knute re-entry takykardi (AVNRT) og AV-re-entry-takykardi (AVRT) uten synkope | Helsekrav oppfylt. | Helsekrav oppfylt dersom det ikke foreligger palpitasjoner eller er påvist atrieflimmer.<br>Ved atrieflimmer er helsekrav oppfylt en uke etter vellykket ablasjon og etter anbefaling fra relevant spesialist. |
+| 5. | WPW, AVNRT og AVRT med synkope | Helsekrav oppfylt en uke etter vellykket behandling og etter anbefaling fra relevant spesialist. | Helsekrav oppfylt tre måneder etter vellykket behandling og etter anbefaling fra relevant spesialist. |
+| 6. | Bradykardi uten synkope med indikasjon for pacemaker | Helsekrav oppfylt en uke etter vellykket implantasjon av pacemaker, dersom tilstanden følges opp av relevant spesialist. | Helsekrav oppfylt en uke etter vellykket implantasjon av pacemaker, dersom tilstanden følges opp av relevant spesialist. |
+| 7. | Bradykardi med synkope med indikasjon for pacemaker | Helsekrav oppfylt en uke etter vellykket implantasjon av pacemaker, dersom tilstanden følges opp av relevant spesialist. | Helsekrav oppfylt fire uker etter vellykket implantasjon av pacemaker, dersom tilstanden følges opp av relevant spesialist. |
+| 8. | Ventrikkeltakykardi (VT) | Helsekrav oppfylt etter behandling og oppfølging hos relevant spesialist dersom denne vurderer lav årlig risiko for anfall med bevissthetspåvirkning.<br>Helsekrav ikke oppfylt ved strukturell hjertesykdom og vedvarende VT. | Helsekrav oppfylt etter behandling og oppfølging hos relevant spesialist dersom denne vurderer svært lav årlig risiko for anfall med bevissthetspåvirkning. Helsekrav ikke oppfylt ved polymorf ikke-vedvarende VT og vedvarende VT. |
 
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016), endret ved [forskrifter 27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020), [16 april 2024 nr. 641](forskrift/2024-04-16-641).
 
@@ -1252,11 +1333,45 @@ Ved spesifikke hjertearytmier som inngår i tabellen i annet ledd, gjelder beste
 
 Ved bruk av implanterte defibrillatorer som inngår i tabellen i annet ledd, gjelder bestemmelsene i tabellen. Listen over sykdomstilstander med bruk av ICD i tabellen er ikke uttømmende. Ved all bruk av ICD gjelder helsekravet i [§ 25](forskrift/2004-01-19-298/§25).
 
+|  | *A* | *B* | *C* |
+| --- | --- | --- | --- |
+|  | *Type/indikasjon/behandling* | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+| 1. | Primærprofylaktisk ICD | Helsekrav oppfylt etter en uke dersom kontroll viser god funksjon. | Helsekrav ikke oppfylt. |
+| 2. | Sekundærprofylaktisk ICD | Helsekrav oppfylt etter tre måneder dersom vurdering ved ICD-senter viser at arytmisituasjonen er akseptabel.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år, før førerett kan gis for inntil fem år av gangen. | Helsekrav ikke oppfylt. |
+| 3. | Etter berettiget støt fra ICD | Helsekrav oppfylt etter tre måneder dersom vurdering ved ICD-senter viser at arytmisituasjonen er akseptabel.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år, før førerett kan gis for inntil fem år av gangen. | Helsekrav ikke oppfylt. |
+| 4. | Etter uberettiget støt fra ICD | Helsekrav oppfylt når ICD-senter har avklart og rettet feilen. | Helsekrav ikke oppfylt. |
+| 5. | Etter skifte av ICD | Helsekrav oppfylt etter en uke med smertefrihet. | Helsekrav ikke oppfylt. |
+| 6. | Etter replassering eller skifte av ledning | Helsekrav oppfylt etter en uke dersom kontroll viser god funksjon. | Helsekrav ikke oppfylt. |
+| 7. | ICD indisert til sekundær profylakse, men pasienten ønsker ikke dette | Helsekrav gjelder ved spesifikke hjertearytmier, jf. [§ 27](forskrift/2004-01-19-298/§27). Etter ventrikulære arytmier kan helsekrav tidligst vurderes etter seks måneder. Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen. | Helsekrav ikke oppfylt. |
+
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016), endret ved [forskrift 27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020).
 
 ### § 29. Helsekrav ved hjertesvikt, klaffesykdommer og kardiomyopatier
 
 Ved hjertesvikt, klaffesykdommer og kardiomyopatier som inngår i tabellen i annet ledd, gjelder bestemmelsene i tabellen. Listen i tabellen er ikke uttømmende. Ved all hjertesvikt, klaffesykdom og kardiomyopati gjelder helsekravet i [§ 25](forskrift/2004-01-19-298/§25).
+
+|  | *A* | *B* | *C* |
+| --- | --- | --- | --- |
+|  | *Diagnose* | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+| 1. | Hjertesvikt, funksjonsklasse I–II | Helsekrav oppfylt. | Helsekrav oppfylt dersom<br>a) ejeksjonsfraksjon er over 35 % og<br>b) EKG er uten tegn til iskemi eller arytmi ved 75 % belastning.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen. |
+| 2. | Hjertesvikt, funksjonsklasse III | Helsekrav oppfylt. | Helsekrav ikke oppfylt. |
+| 3. | Hjertesvikt, funksjonsklasse IV | Helsekrav ikke oppfylt. | Helsekrav ikke oppfylt. |
+| 4. | Kunstig hjerte – «left ventricular assist device» (LVAD) | Helsekrav oppfylt etter tre måneder etter vurdering av behandlende spesialist.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen. | Helsekrav ikke oppfylt. |
+| 5. | Hjertetransplanterte | Helsekrav oppfylt en måned etter utskrivelse dersom<br>a) det ikke er angina i hvile eller ved emosjonell belastning<br>b) det ikke er malign arytmi<br>c) det ikke er hjertesvikt i funksjonsklasse IV<br>d) ejeksjonsfraksjon er over 35 %. | Helsekrav oppfylt for førerkortgruppe 2 etter ett år dersom<br>a) ejeksjonsfraksjon er over 40 %<br>b) arbeids-EKG er uten tegn til iskemi eller arytmi ved 75 % belastning og<br>c) det ikke er graft-rejeksjon av betydning.<br>Helseattest kan deretter gis med anbefaling om førerett for førerkortgruppe 2 for inntil ett år av gangen.<br>Helsekrav ikke oppfylt for førerkortgruppe 3. |
+| 6. | Aortastenose | Helsekrav er oppfylt dersom<br>a) stenosen ikke har gitt synkope og<br>b) det ikke er hjertesvikt i funksjonsklasse IV. | Helsekrav er oppfylt dersom<br>a) stenosen ikke har gitt synkope<br>b) det ikke er hjertesvikt i funksjonsklasse III eller IV og<br>c) stenosen ikke er vurdert som «alvorlig» ved ekkokardiografi. |
+|  |  | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen. | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen. |
+| 7. | Aortainsuffisiens | Helsekrav oppfylt, med mindre klaffefeilen gir hjertesvikt i funksjonsklasse IV. | Helsekrav er oppfylt, med mindre klaffefeilen gir hjertesvikt i funksjonsklasse III eller IV. |
+| 8. | Mitralstenose | Helsekrav oppfylt, med mindre det har vært synkope. | Helsekrav er oppfylt, med mindre<br>a) klaffefeilen gir hjertesvikt i funksjonsklasse III eller IV eller<br>b) det er alvorlig pulmonal hypertensjon. |
+| 9. | Mitralinsuffisiens | Helsekrav er oppfylt, med mindre klaffefeilen gir hjertesvikt i funksjonsklasse IV | Helsekrav er oppfylt, med mindre<br>a) klaffefeilen gir hjertesvikt i funksjonsklasse III eller IV, eller<br>b) ejeksjonsfraksjon er under 35 %. |
+| 10. | Klaffeopererte | Helsekrav oppfylt etter tilstrekkelig sårtilheling dersom<br>a) det ikke er alvorlige arytmier og<br>b) det ikke er hjertesvikt i funksjonsklasse IV og<br>c) antikoagulasjonsbehandling er gitt der dette er indisert etter medisinske retningslinjer. | Helsekrav oppfylt etter tilstrekkelig sårtilheling dersom<br>a) det ikke er alvorlige arytmier<br>b) det ikke er hjertesvikt i funksjonsklasse III eller IV og<br>c) ejeksjonsfraksjon er over 35 %<br>d) antikoagulasjonsbehandling er gitt etter medisinske retningslinjer. |
+|  |  | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år, før førerett kan gis for inntil fem år av gangen. | Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen. |
+| 11. | Aortaaneurisme | Helsekrav oppfylt ved symptomfrihet. | Helsekrav oppfylt ved<br>symptomfrihet og aortaaneurismet har en diameter mindre enn 5,5 cm.<br>Helseattest kan gis med anbefaling om førerett for inntil ett år av gangen. |
+| 12. | Aortadisseksjon | Helsekrav oppfylt etter vurdering av relevant spesialist dersom det foreligger<br>a) symptomfrihet over fire uker og<br>b) velkontrollert blodtrykk. | Helsekrav ikke oppfylt. |
+| 13. | Hypertensjon | Helsekrav oppfylt dersom det etter medisinsk vurdering ikke foreligger økt trafikksikkerhetsrisiko. | Helsekrav oppfylt dersom<br>a) gjentatte målinger viser systolisk blodtrykk under 180 mmHg og diastolisk blodtrykk under 110 mmHg og<br>b) det er oppnådd stabile verdier uten bivirkninger som påvirker kjøreevnen. |
+| 14. | Hypertrofisk kardiomyopati | Helsekrav oppfylt, med mindre det har vært synkope.<br>Etter synkope er helsekrav oppfylt bare dersom tilstanden er tilfredsstillende behandlet og spesialist vurderer lav årlig risiko for ny synkope. | Helsekrav er oppfylt, med mindre det har vært synkope eller to av følgende risikofaktorer er til stede:<br>a) veggtykkelse mer enn 30 mm<br>b) ikke-vedvarende VT eller vedvarende (NVST)<br>c) plutselig død hos førstegradsslektning<br>d) manglende blodtrykksrespons ved arbeidsbelastning. |
+| 15. | Brugada syndrom | Helsekrav ikke oppfylt dersom det har vært hjertestans.<br>Helsekrav kan være oppfylt etter spesialistvurdering ved velfungerende ICD. | Helsekrav ikke oppfylt dersom det har vært hjertestans. |
+| 16. | Lang QT-syndrom | Helsekrav ikke oppfylt dersom det har vært<br>a) sannsynlig LQT-relatert synkope<br>b) ventrikkelarytmi av typen Torsade eller<br>c) QTc mer enn 500 ms.<br>Helsekrav oppfylt dersom spesialist vurderer lav årlig risiko for arytmi med bevissthetspåvirkning ved<br>a) iverksatt behandling eller<br>b) velfungerende ICD.<br>Helseattest kan gis med anbefaling om førerett for inntil ett år første gang, siden fem år av gangen. | Helsekrav ikke oppfylt dersom det har vært<br>a) sannsynlig LQT-relatert synkope<br>b) ventrikkelarytmi av typen Torsade eller<br>c) QTc mer enn 500 ms. |
+| 17. | Andre kardiomyopatier (ARVC etc.) | Helsekrav oppfylt dersom relevant spesialist vurderer lav årlig risiko for arytmi med bevissthetspåvirkning ved<br>a) iverksatt behandling eller<br>b) velfungerende ICD.<br>Helseattest kan gis med anbefaling om førerett for inntil ett år første gang, siden fem år av gangen. | Helsekrav ikke oppfylt. |
 
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016), endret ved [forskrift 27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020).
 
@@ -1275,6 +1390,11 @@ Ved bruk av insulin eller andre legemidler som kan gi hypoglykemi, gjelder beste
 ### § 31. Spesifikke helsekrav ved bruk av legemidler som kan gi hypoglykemi
 
 Ved behandling med insulin eller andre legemidler som kan gi hypoglykemi, gjelder bestemmelsene i tabellen i annet ledd i tillegg til kravene i [§ 30](forskrift/2004-01-19-298/§30) første ledd.
+
+|  | *A* | *B* | *C* |
+| --- | --- | --- | --- |
+|  | *Diabetes* | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+|  | Personer som behandles med insulin eller andre legemidler som kan gi hypoglykemi | Helsekravet er oppfylt tre måneder etter det siste av flere anfall i våken tilstand av hypoglykemi med behov for bistand fra andre, dersom<br>a. relevant spesialist bekrefter at risikoen for nytt anfall i våken tilstand av hypoglykemi med behov for bistand fra andre er svært lav, og at føreren følges opp med jevnlig legekontroll<br>b. føreren har full innsikt i utvikling av hypoglykemi og farene det kan medføre og<br>c. føreren følger legens anbefalinger, herunder anbefaling om egenmåling av blodsukker i forbindelse med føring av motorvogn.<br>Helseattest kan deretter gis med anbefaling om førerett med inntil ett års varighet, deretter med inntil fem års varighet dersom det ikke har vært nye anfall av hypoglykemi i våken tilstand med behov for bistand fra andre.<br>Dersom det har vært ett eller ingen anfall av hypoglykemi med behov for bistand fra andre siste tolv måneder, kan helseattest gis med anbefaling om førerett med inntil fem års varighet, forutsatt at vilkårene i kolonnens første ledd bokstav b og c er oppfylt.<br>Dersom relevant spesialist bekrefter at det kun under søvn har vært anfall av hypoglykemi med behov for bistand fra andre, og at det ikke er fare for bevissthetspåvirkning under føring av motorvogn, kan det gis helseattest med anbefaling om førerett for inntil ett år, deretter med inntil fem års varighet. Det er en forutsetning at det er jevnlig oppfølging av lege, og at vilkårene i kolonnens første ledd bokstav b og c er oppfylt. | Helsekrav oppfylt dersom føreren<br>a ikke har hatt noe anfall av hypoglykemi med behov for bistand fra andre i løpet av de siste tolv månedene<br>b har full innsikt i utvikling av hypoglykemi og farene det kan medføre<br>c følger legens råd og anbefalinger<br>d kontrollerer blodsukkeret minst to ganger daglig, ikke mer enn to timer før kjørestart og siden hver andre time, eller oftere dersom det er nødvendig, inntil kjøringen avsluttes<br>e har årlig oppfølging av sykdommen etter nasjonale faglige retningslinjer med fremleggelse av logg med måling av blodsukker for de siste tre månedene.<br>Helseattest kan gis med anbefaling om førerett for inntil tre års varighet.<br>Ved ett anfall av hypoglykemi med behov for bistand fra andre gjelder egne bestemmelser i [§ 32](forskrift/2004-01-19-298/§32).<br>Helsekrav er ikke oppfylt for kompetansebevis for utrykningskjøring og kjøreseddel for persontransport med buss. |
 
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016), endret ved [forskrifter 7 mars 2017 nr. 288](forskrift/2017-03-07-288), [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020), [18 okt 2021 nr. 3068](forskrift/2021-10-18-3068).
 
@@ -1298,73 +1418,20 @@ Helsekrav er ikke oppfylt ved psykisk lidelse eller svekkelse dersom liten sykdo
 
 ### § 34. Helsekrav ved noen spesifikke psykiske lidelser og svekkelser
 
-For psykiske lidelser og svekkelser som inngår i tabellen i annet ledd, gjelder bestemmelsene i tabellen. Listen i tabellen er ikke uttømmende. Ved all psykisk helsesvekkelse gjelder bestemmelsene i [§ 33](forskrift/2004-01-19-298/§33).*A**B**C**Psykisk tilstand**Førerkortgruppe 1**Førerkortgruppe 2 og 3*1.SchizofreniHelsekrav oppfylt etter vurdering av relevant spesialist ved
-a) stabil tilstand i tre måneder
-b) god etterlevelse og oppfølging av behandlingen fra pasienten
-c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og
-d) god kognitiv funksjonsevne.
-Helseattest kan deretter gis med anbefaling om førerett for inntil to års varighet, før førerett, etter to år kan gis med vanlig varighet.Helsekrav oppfylt etter vurdering av relevant spesialist ved
-a) stabil tilstand i ett år
-b) god etterlevelse og oppfølging av behandlingen fra pasienten
-c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og
-d) god kognitiv funksjonsevne.
-Helseattest kan deretter gis med anbefaling om førerett for inntil to års varighet, før førerett etter to år kan gis med vanlig varighet.2.En manisk episodeHelsekrav oppfylt etter vurdering av relevant spesialist ved
-a) stabil tilstand uten maniske episoder i tre måneder
-b) god etterlevelse og oppfølging av behandlingen fra pasienten
-c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og
-d) god sykdomsinnsikt.
-Helseattest kan deretter gis med anbefaling om førerett med inntil to års varighet, før førerett kan gis med vanlig varighet.Helsekrav oppfylt etter vurdering av relevant spesialist ved
-a) stabil tilstand uten maniske episoder i ett år for gruppe 2 og i to år for gruppe 3
-b) god etterlevelse og oppfølging av behandlingen fra pasienten
-c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og
-d) god sykdomsinnsikt.
-Helseattest kan deretter gis med anbefaling om førerett med inntil to års varighet, før førerett kan gis med vanlig varighet.3.Flere sykluser med maniske episoderHelsekrav oppfylt etter vurdering av relevant spesialist ved
-a) stabil tilstand uten maniske episoder i seks måneder
-b) god etterlevelse og oppfølging av behandlingen fra pasienten
-c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og
-d) god sykdomsinnsikt.
-Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i to år, før førerett kan gis med vanlig varighet.Helsekrav oppfylt etter vurdering av relevant spesialist ved
-a) stabil tilstand uten maniske episoder i tre år
-b) god etterlevelse og oppfølging av behandlingen fra pasienten
-c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og
-d) god sykdomsinnsikt.
-Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i to år, før førerett kan gis med vanlig varighet.4.Andre psykotiske lidelserHelsekrav oppfylt etter vurdering av relevant spesialist ved
-a) stabil tilstand i tre måneder og
-b) god etterlevelse og oppfølging av behandlingen fra pasienten
-c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og
-d) god sykdomsinnsikt.
-Helseattest kan deretter gis med anbefaling om førerett med vanlig varighet, dersom relevant spesialist anbefaler det.Helsekrav oppfylt etter vurdering av relevant spesialist ved
-a) stabil tilstand i ett år og
-b) god etterlevelse og oppfølging av behandlingen fra pasienten
-c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og
-d) god sykdomsinnsikt.
-Helseattest kan deretter gis med anbefaling om førerett med vanlig varighet, dersom relevant spesialist anbefaler det.5.Personlighetsforstyrrelse med impulskontrollproblemer eller svekket dømmekraftHelsekrav oppfylt etter vurdering av relevant spesialist dersom
-a) dømmekraften vurderes god under stress
-b) det er tilstrekkelig impulskontroll og
-c) det ikke foreligger atferdsavvik som medfører økt trafikksikkerhetsrisiko.
-Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i to år, før førerett kan gis med vanlig varighet.Helsekrav oppfylt etter vurdering av relevant spesialist dersom
-a) dømmekraften vurderes god under stress og
-b) det er tilstrekkelig impulskontroll og
-c) det ikke foreligger atferdsavvik som medfører økt trafikksikkerhetsrisiko.
-Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i to år, før førerett kan gis for inntil tre år av gangen.6.Hyperkinetiske forstyrrelser (ADHD og ADD) uten atferdsforstyrrelse F 90.0 i ICD-10Helsekrav oppfylt etter klar anbefaling fra behandlende lege/psykolog dersom
-a) det ikke er samtidig sykdom som medfører økt trafikksikkerhetsrisiko og
-b) det er god kognitiv funksjonsevne.
-Helseattest kan gis med anbefaling om førerett for inntil to års varighet, før førerett etter to år kan gis med vanlig varighet.Helsekrav oppfylt etter klar anbefaling fra behandlende lege/psykolog dersom
-a) det ikke er samtidig sykdom som medfører økt trafikksikkerhetsrisiko og
-b) det er god kognitiv funksjonsevne.
-Helseattest kan gis med anbefaling om førerett for inntil to års varighet, før førerett etter to år kan gis med vanlig varighet.7.Hyperkinetiske forstyrrelser med atferdsforstyrrelse F90.1 i ICD-10Helsekrav oppfylt etter klar anbefaling fra behandlende lege/psykolog dersom
-a) behandling sikrer kjøreevne
-b) det ikke er samtidig sykdom som medfører økt trafikksikkerhetsrisiko og
-c) det er god kognitiv funksjonsevne.
-Helseattest kan gis med anbefaling om førerett for inntil to år av gangen.Helsekrav oppfylt etter klar anbefaling fra behandlende lege/psykolog dersom
-a) behandling sikrer kjøreevne
-b) det ikke er samtidig sykdom som medfører økt trafikksikkerhetsrisiko og
-c) det er god kognitiv funksjonsevne.
-Helseattest kan gis med anbefaling om førerett for inntil ett år, før førerett kan gis for inntil to år av gangen.8AutismespekterforstyrrelserHelsekrav oppfylt etter klar anbefaling fra behandlende lege/psykolog dersom funksjonsnivået er forenlig med sikker føring av motorvogn.Helsekrav oppfylt etter klar anbefaling fra behandlende lege/psykolog dersom
-a) behandling sikrer kjøreevne
-b) det ikke er samtidig sykdom som medfører økt trafikksikkerhetsrisiko og
-c) det er god kognitiv funksjonsevne.
-Helseattest kan gis med anbefaling om førerett for inntil ett år, før førerett kan gis for inntil to år av gangen.9.Psykisk utviklingshemmingHelsekrav oppfylt dersom relevant spesialist vurderer at funksjonsnivået er forenlig med sikker føring av motorvogn.Helsekrav ikke oppfylt.
+For psykiske lidelser og svekkelser som inngår i tabellen i annet ledd, gjelder bestemmelsene i tabellen. Listen i tabellen er ikke uttømmende. Ved all psykisk helsesvekkelse gjelder bestemmelsene i [§ 33](forskrift/2004-01-19-298/§33).
+
+|  | *A* | *B* | *C* |
+| --- | --- | --- | --- |
+|  | *Psykisk tilstand* | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+| 1. | Schizofreni | Helsekrav oppfylt etter vurdering av relevant spesialist ved<br>a) stabil tilstand i tre måneder<br>b) god etterlevelse og oppfølging av behandlingen fra pasienten<br>c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og<br>d) god kognitiv funksjonsevne.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil to års varighet, før førerett, etter to år kan gis med vanlig varighet. | Helsekrav oppfylt etter vurdering av relevant spesialist ved<br>a) stabil tilstand i ett år<br>b) god etterlevelse og oppfølging av behandlingen fra pasienten<br>c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og<br>d) god kognitiv funksjonsevne.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil to års varighet, før førerett etter to år kan gis med vanlig varighet. |
+| 2. | En manisk episode | Helsekrav oppfylt etter vurdering av relevant spesialist ved<br>a) stabil tilstand uten maniske episoder i tre måneder<br>b) god etterlevelse og oppfølging av behandlingen fra pasienten<br>c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og<br>d) god sykdomsinnsikt.<br>Helseattest kan deretter gis med anbefaling om førerett med inntil to års varighet, før førerett kan gis med vanlig varighet. | Helsekrav oppfylt etter vurdering av relevant spesialist ved<br>a) stabil tilstand uten maniske episoder i ett år for gruppe 2 og i to år for gruppe 3<br>b) god etterlevelse og oppfølging av behandlingen fra pasienten<br>c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og<br>d) god sykdomsinnsikt.<br>Helseattest kan deretter gis med anbefaling om førerett med inntil to års varighet, før førerett kan gis med vanlig varighet. |
+| 3. | Flere sykluser med maniske episoder | Helsekrav oppfylt etter vurdering av relevant spesialist ved<br>a) stabil tilstand uten maniske episoder i seks måneder<br>b) god etterlevelse og oppfølging av behandlingen fra pasienten<br>c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og<br>d) god sykdomsinnsikt.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i to år, før førerett kan gis med vanlig varighet. | Helsekrav oppfylt etter vurdering av relevant spesialist ved<br>a) stabil tilstand uten maniske episoder i tre år<br>b) god etterlevelse og oppfølging av behandlingen fra pasienten<br>c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og<br>d) god sykdomsinnsikt.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i to år, før førerett kan gis med vanlig varighet. |
+| 4. | Andre psykotiske lidelser | Helsekrav oppfylt etter vurdering av relevant spesialist ved<br>a) stabil tilstand i tre måneder og<br>b) god etterlevelse og oppfølging av behandlingen fra pasienten<br>c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og<br>d) god sykdomsinnsikt.<br>Helseattest kan deretter gis med anbefaling om førerett med vanlig varighet, dersom relevant spesialist anbefaler det. | Helsekrav oppfylt etter vurdering av relevant spesialist ved<br>a) stabil tilstand i ett år og<br>b) god etterlevelse og oppfølging av behandlingen fra pasienten<br>c) ingen bivirkninger av legemidler som kan påvirke trafikksikkerheten og<br>d) god sykdomsinnsikt.<br>Helseattest kan deretter gis med anbefaling om førerett med vanlig varighet, dersom relevant spesialist anbefaler det. |
+| 5. | Personlighetsforstyrrelse med impulskontrollproblemer eller svekket dømmekraft | Helsekrav oppfylt etter vurdering av relevant spesialist dersom<br>a) dømmekraften vurderes god under stress<br>b) det er tilstrekkelig impulskontroll og<br>c) det ikke foreligger atferdsavvik som medfører økt trafikksikkerhetsrisiko.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i to år, før førerett kan gis med vanlig varighet. | Helsekrav oppfylt etter vurdering av relevant spesialist dersom<br>a) dømmekraften vurderes god under stress og<br>b) det er tilstrekkelig impulskontroll og<br>c) det ikke foreligger atferdsavvik som medfører økt trafikksikkerhetsrisiko.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i to år, før førerett kan gis for inntil tre år av gangen. |
+| 6. | Hyperkinetiske forstyrrelser (ADHD og ADD) uten atferdsforstyrrelse F 90.0 i ICD-10 | Helsekrav oppfylt etter klar anbefaling fra behandlende lege/psykolog dersom<br>a) det ikke er samtidig sykdom som medfører økt trafikksikkerhetsrisiko og<br>b) det er god kognitiv funksjonsevne.<br>Helseattest kan gis med anbefaling om førerett for inntil to års varighet, før førerett etter to år kan gis med vanlig varighet. | Helsekrav oppfylt etter klar anbefaling fra behandlende lege/psykolog dersom<br>a) det ikke er samtidig sykdom som medfører økt trafikksikkerhetsrisiko og<br>b) det er god kognitiv funksjonsevne.<br>Helseattest kan gis med anbefaling om førerett for inntil to års varighet, før førerett etter to år kan gis med vanlig varighet. |
+| 7. | Hyperkinetiske forstyrrelser med atferdsforstyrrelse F90.1 i ICD-10 | Helsekrav oppfylt etter klar anbefaling fra behandlende lege/psykolog dersom<br>a) behandling sikrer kjøreevne<br>b) det ikke er samtidig sykdom som medfører økt trafikksikkerhetsrisiko og<br>c) det er god kognitiv funksjonsevne.<br>Helseattest kan gis med anbefaling om førerett for inntil to år av gangen. | Helsekrav oppfylt etter klar anbefaling fra behandlende lege/psykolog dersom<br>a) behandling sikrer kjøreevne<br>b) det ikke er samtidig sykdom som medfører økt trafikksikkerhetsrisiko og<br>c) det er god kognitiv funksjonsevne.<br>Helseattest kan gis med anbefaling om førerett for inntil ett år, før førerett kan gis for inntil to år av gangen. |
+| 8 | Autismespekterforstyrrelser | Helsekrav oppfylt etter klar anbefaling fra behandlende lege/psykolog dersom funksjonsnivået er forenlig med sikker føring av motorvogn. | Helsekrav oppfylt etter klar anbefaling fra behandlende lege/psykolog dersom<br>a) behandling sikrer kjøreevne<br>b) det ikke er samtidig sykdom som medfører økt trafikksikkerhetsrisiko og<br>c) det er god kognitiv funksjonsevne.<br>Helseattest kan gis med anbefaling om førerett for inntil ett år, før førerett kan gis for inntil to år av gangen. |
+| 9. | Psykisk utviklingshemming | Helsekrav oppfylt dersom relevant spesialist vurderer at funksjonsnivået er forenlig med sikker føring av motorvogn. | Helsekrav ikke oppfylt. |
 
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016).
 
@@ -1380,6 +1447,19 @@ Helsekrav er ikke oppfylt dersom alkohol, rusmidler eller legemidler brukes i et
 
 Helsekrav ved noen midler som kan påvirke kjøreevnen, fremgår av tabellen i annet ledd. Listen er ikke uttømmende. Ved all bruk av midler som kan påvirke kjøreevnen, gjelder kravene i [§ 35](forskrift/2004-01-19-298/§35).
 
+|  | *A* | *B* | *C* |
+| --- | --- | --- | --- |
+|  | Alkohol | Førerkortgruppe 1 | Førerkortgruppe 2 og 3 |
+| 1. | Avhengighet av alkohol, langvarig høyt inntak av alkohol eller skadelig bruk av alkohol, der alkoholbruken kan føre til forstyrrelse i atferd og gi helsesvekkelse med økt trafikksikkerhetsrisiko | Helsekrav oppfylt etter seks måneder der månedlig oppfølging viser avholdenhet og normalisering av biologiske prøver som avspeiler alkoholforbruket.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i tre år forutsatt at minimum kvartalsvis oppfølging viser kontrollert bruk.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil fem års varighet, før førerett kan gis med vanlig varighet. | Helsekrav oppfylt etter ett år der månedlig oppfølging viser avholdenhet og normalisering av biologiske prøver som avspeiler alkoholforbruket.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i tre år forutsatt at minimum kvartalsvis oppfølging viser kontrollert bruk.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil tre års varighet, før førerett kan gis med vanlig varighet. |
+|  | *Gjentatt eller vedvarende bruk av rusmidler og legemidler til rusformål* | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+| 2. | Helseskadelig bruk som gir økt trafikksikkerhetsrisiko, eller avhengighet av illegale, rusgivende stoffer, eksempelvis:<br>Cannabis<br>Amfetamin/Metamfetamin<br>Heroin<br>Kokain<br>Ecstasy<br>LSD og hallusinogener.<br>Gjentatt eller vedvarende bruk av legemidler til rusformål. | Helsekrav oppfylt etter seks måneders rusfrihet dokumentert ved egnede prøver.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i tre år forutsatt at umeldte kvartalsvise kontroller viser fortsatt rusfrihet.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil fem års varighet, før førerett kan gis med vanlig varighet. | Helsekrav oppfylt etter tre års rusfrihet dokumentert ved egnede prøver.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett år av gangen i tre år forutsatt at umeldte kvartalsvise kontroller viser fortsatt rusfrihet.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil fem års varighet. |
+|  | *Legemidler* | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+| 3. | LAR-behandling | Helsekrav oppfylt etter ett år med stabil behandling forutsatt<br>a) fortsatt oppfølging og kontroll av forskrivende lege og<br>b) ingen bruk av andre midler som påvirker kjøreevnen.<br>Helseattest kan deretter gis med anbefaling om førerett for inntil ett års varighet i tre år, og deretter med inntil fem års varighet så lenge behandling pågår.<br>Ved avsluttet substitusjonsbehandling kan helseattest gis med anbefaling om førerett for inntil ett år av gangen i tre år forutsatt at umeldte kvartalsvise kontroller viser fortsatt rusfrihet. Helseattest kan deretter gis med anbefaling om førerett for inntil fem år.<br>Etter 8 års dokumentert rusfrihet etter avsluttet substitusjonsbehandling kan helseattest gis med anbefaling om førerett med vanlig varighet. | Helsekrav ikke oppfylt.<br>Etter avsluttet substitusjonsbehandling og deretter tre år rusfrihet dokumentert ved egnede prøver, kan helseattest gis med anbefaling om førerett for inntil ett år av gangen i tre år forutsatt at umeldte kvartalsvise kontroller viser fortsatt rusfrihet. Helseattest kan deretter gis med anbefaling om førerett for inntil fem års varighet. |
+| 4. | Benzodiazepiner og benzodiazepinlignende legemidler – døgndoser | Helsekrav oppfylt ved bruk av:<br>Oksazepam inntil 30 mg/døgn eller<br>Diazepam inntil 10 mg/døgn.<br>Helsekrav er også oppfylt ved bruk av:<br>Zopiklon inntil 7,5 mg /døgn,<br>Zolpidem inntil 10 mg/døgn eller<br>Nitrazepam inntil 10 mg /døgn,<br>dersom legemiddelet er inntatt minimum 8 timer før kjøring.<br>Helsekrav er ikke oppfylt ved bruk av andre benzodiazepiner. | Helsekrav oppfylt ved sporadisk bruk i en periode på maksimum fem dager av:<br>Zopiklon inntil 7,5 mg /døgn,<br>Zolpidem inntil 10 mg/døgn eller<br>Nitrazepam inntil 10 mg /døgn, dersom legemiddelet er inntatt minimum 8 timer før kjøring.<br>Helsekrav er ikke oppfylt ved bruk av andre benzodiazepiner. |
+| 5. | Opioider ved langvarig smertebehandling. | Helsekrav oppfylt dersom<br>a) det er klar medisinsk indikasjon<br>b) det er minst en uke etter siste doseøkning<br>c) det brukes en maksimal døgndose som tilsvarer inntil 300 mg morfinekvivalenter per os<br>d) legemidlene er langtidsvirkende, og<br>e) det har gått 8 timer etter inntak av ekstra dose korttidsvirkende opioid. | Helsekrav ikke oppfylt. |
+| 6. | Opioider – kortvarig smertebehandling | Helsekravene ikke oppfylt ved kontinuerlig medisinering gjennom døgnet, selv om dette er innenfor rammen av anbefalte døgndoser.<br>Ved inntak av enkeltdose er helsekravet bare oppfylt dersom enkeltdosen er anbefalt av lege og legemiddelet inntas minimum 8 timer før kjøring. | Helsekravene ikke oppfylt ved kontinuerlig medisinering gjennom døgnet, selv om dette er innenfor rammen av anbefalte døgndoser.<br>Ved inntak av enkeltdose er helsekravet bare oppfylt dersom enkeltdosen er anbefalt av lege og legemiddelet inntas minimum 8 timer før kjøring. |
+| 7. | Antihistaminer som sovemiddel – døgndoser | Helsekrav oppfylt ved bruk av:<br>Alimemazin inntil 30 mg/døgn,<br>Prometazin inntil 25 mg/døgn eller<br>Hydroksyzin inntil 30 mg/døgn.<br>Siste dose må være inntatt minst 8 timer før kjøring. | Helsekrav ikke oppfylt. |
+
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016), endret ved [forskrifter 25 okt 2017 nr. 1661](forskrift/2017-10-25-1661), [27 okt 2020 nr. 2168](forskrift/2020-10-27-2168) (i kraft 1 nov 2020).
 
 ### § 37. Bruk av flere legemidler opplistet i § 36
@@ -1394,6 +1474,13 @@ Helsekrav er ikke oppfylt ved bruk av tre eller flere legemidler opplistet i [§
 
 ### § 38. Helsekrav ved respirasjonssvikt
 
+|  | *A* | *B* | *C* |
+| --- | --- | --- | --- |
+|  | *Blodgassmåling ved havnivå* | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+|  | Blodgassmåling ved havnivå | Førerkortgruppe 1 | Førerkortgruppe 2 og 3 |
+| 1. | Stabile verdier for blodgasser: pO2 > 7,3 kPa og pCO2 < 6,7 kPa | Helsekrav oppfylt. | Helsekrav oppfylt dersom vurdering av spesialist bekrefter at det ikke er fare for episoder med lavere verdier for blodgasser. |
+| 2. | Når stabile verdier for blodgasser: pO2 > 7,3 kPa og pCO2 < 6,7 kPa oppnås ved sikker tilførsel av oksygen under kjøring | Helsekrav oppfylt etter vurdering av spesialist dersom<br>a) tilstanden er stabil<br>b) det ikke foreligger kognitiv svekkelse og<br>c) det er tilstrekkelig muskelkraft til sikker kjøring.<br>Helseattest kan gis med anbefaling om førerett for inntil ett år av gangen. | Helsekrav ikke oppfylt. |
+
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016).
 
 ### Kapittel 16. Nyresykdommer
@@ -1405,6 +1492,13 @@ Helsekrav er ikke oppfylt dersom nyresykdom medfører trafikksikkerhetsrisiko.
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016).
 
 ### § 40. Spesifikke helsekrav ved nyresykdommer
+
+|  | *A* | *B* | *C* |
+| --- | --- | --- | --- |
+|  | *Sykdom* | *Førerkortgruppe 1* | *Førerkortgruppe 2 og 3* |
+| 1. | Kronisk nyresvikt | Helsekrav oppfylt ved godt allment funksjonsnivå.<br>Helseattest kan gis med anbefaling om førerett for inntil fem år av gangen. | Helsekrav oppfylt ved godt allment funksjonsnivå og etter anbefaling fra relevant spesialist.<br>Helseattest kan gis med anbefaling om førerett for inntil to år av gangen. |
+| 2. | Dialysebehandlede | Helsekrav oppfylt etter uttalelse fra relevant spesialist.<br>Helseattest kan gis med anbefaling om førerett for inntil tre år av gangen. | Helsekrav oppfylt etter uttalelse fra relevant spesialist.<br>Helseattest kan gis med anbefaling om førerett for inntil tre år av gangen. |
+| 3. | Nyretransplanterte | Helsekrav oppfylt etter tilheling.<br>Helseattest kan gis med anbefaling om førerett med vanlig varighet. | Helsekrav oppfylt etter tilheling.<br>Helseattest kan gis med anbefaling om førerett med vanlig varighet. |
 
 > Tilføyd ved [forskrift 13 juni 2016 nr. 655](forskrift/2016-06-13-655) (i kraft 1 okt 2016).
 
@@ -1510,11 +1604,144 @@ Tilleggsopplysninger, bevis for kompetanse og begrensninger i føreretten skal a
 
 ## Vedlegg 3 – Førerkortmodell
 
+Side 1:
+
+Side 2:
+
 > Endret ved [forskrifter 10 des 2004 nr. 1877](forskrift/2004-12-10-1877), [11 jan 2013 nr. 27](forskrift/2013-01-11-27) (i kraft 19 jan 2013), [1 mars 2013 nr. 240](forskrift/2013-03-01-240), [3 sep 2018 nr. 1289](forskrift/2018-09-03-1289), [1 sep 2022 nr. 1532](forskrift/2022-09-01-1532), [20 feb 2023 nr. 233](forskrift/2023-02-20-233) (i kraft 1 mars 2023).
 
 ## Vedlegg 4 – Førerkortkoder
 
 I de tilfeller det fastsettes utvidelse eller begrensninger i føreretten etter denne forskrift, eller det nye førerkortet er en utskifting, duplikat eller innbytte av tidligere utstedt førerkort, eller er et bevis for kompetanse som utrykningsfører, skal dette angis på førerkortet med følgende tallkoder med eventuell tekst:
+
+*EU-koder*
+
+*FØRER*
+
+|  |  |
+| --- | --- |
+| 01 | Korreksjon av synet og/eller beskyttelse |
+| 02 | Høreapparat/kommunikasjonshjelpemiddel |
+| 03 | Arm- eller benprotese/ortose |
+| 04 | Gyldig helseattest skal medbringes (denne koden skal ikke benyttes etter 28. februar 2002) |
+| 05 | Begrenset kjørerett av helsemessige grunner (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 05.01 | Begrenset til kjøring om dagen (for eksempel en time etter soloppgang til en time før solnedgang) (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 05.02 | Begrenset til kjøring innenfor en radius av .... km fra førerkortinnehavers bolig eller bare innenfor by/område ....... (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 05.03 | Begrenset til kjøring uten passasjer (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 05.04 | Begrenset til kjøring med en hastighet høyst ..... km/t (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 05.05 | Begrenset til kjøring med ledsager med førerkort (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 05.06 | Begrenset til kjøring uten tilhenger (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 05.07 | Ingen kjøring på motorveg (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 05.08 | Alkoholforbud (denne koden skal ikke benyttes etter 1. januar 2017) |
+
+*KJØRETØYTILPASNINGER*
+
+|  |  |
+| --- | --- |
+| 10 | Tilpasset girkasse |
+| 15 | Tilpasset kopling |
+| 20 | Tilpasset bremseanlegg |
+| 25 | Tilpasset gassbetjening |
+| 30 | Tilpasset kombinert bremse- og gasspedal (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 31 | Tilpasning av pedaler og pedalvern |
+| 32 | Kombinert driftsbrems og gassbetjening |
+| 33 | Kombinert driftsbrems, gassbetjening og styringssystem |
+| 35 | Tilpasset instrumentpanel |
+| 40 | Tilpasset styring |
+| 42 | Tilpasset førerspeil |
+| 43 | Tilpasset førersete |
+| 44 | Tilpasset motorsykkel |
+| 44.01 | Kombinert betjening av begge bremser |
+| 44.02 | Tilpasset forhjulsbrems |
+| 44.03 | Tilpasset bakhjulsbrems |
+| 44.04 | (Tilpasset) manuelt gasshåndtak |
+| 44.05 | (Tilpasset) manuelt gir og manuell kopling (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 44.06 | (Tilpassede) førerspeil (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 44.07 | (Tilpassede) betjeningsinnretninger (retningsvisere, bremselys..) (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 44.08 | Tilpasset gass |
+| 44.09. | Maksimal betjeningskraft forhjulsbrems ... N (\*) (for eksempel «44.09(140N)») |
+| 44.10. | Maksimal betjeningskraft bakhjulsbrems ... N (\*) (for eksempel «44.10(140N)») |
+| 44.11. | Tilpasset fotstøtte |
+| 44.12. | Tilpasset håndtak |
+| 45 | Kun for motorsykkel med sidevogn |
+| 46 | Begrenset til trehjuls motorsykkel |
+| 47 | Begrenset til kjøretøy med flere enn to hjul, som ikke krever at føreren holder balansen ved start, stopp og stillstand |
+| 50 | Begrenset til ett bestemt kjøretøy: registreringsnummer, eller understellsnummer for ikke registreringspliktige kjøretøy |
+| 51 | Begrenset til ett bestemt kjøretøy/registreringsnummer VRN (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 55 | Kombinasjon av kjøretøytilpasninger (denne koden skal ikke benyttes etter 28. februar 2002) |
+
+*BEGRENSET BRUK AV FØRERETTEN*
+
+|  |  |
+| --- | --- |
+| 61 | Begrenset til kjøring på dagtid (for eksempel én time etter soloppgang til én time etter solnedgang) |
+| 62 | Begrenset til kjøring innen en radius av ... km fra førerkortinnehaverens bopel eller kun innenfor by/område |
+| 63 | Begrenset til kjøring uten passasjerer |
+| 64 | Begrenset til kjøring med en hastighet på høyst ... km/t |
+| 65 | Begrenset til kjøring under ledsagelse av en person som er innehaver av førerkort i minimum samme førerkortklasse |
+| 66 | Begrenset til kjøring uten tilhenger |
+| 67 | Ingen kjøring på motorvei |
+| 68 | Ingen alkohol |
+| 69 | Begrenset til kjøring med kjøretøy utstyrt med alkolås i overenstemmelse med EN 50436. En utløpsdato for koden kan angis (f.eks. «69» eller «69(10.10.2016)») |
+
+*ADMINISTRATIVE FORHOLD*
+
+|  |  |
+| --- | --- |
+| 70 | Innbyttet førerkort nr. ...... utstedt i ...... (EU-/FN-kode for land utenfor EØS) |
+| 71 | Duplikat/utskifting av norsk førerkort nr. ..... |
+| 72 | Begrenset til lett motorsykkel (A1) (denne koden skal ikke benyttes etter 31. desember 2013) |
+| 73 | Begrenset til firehjuls motorsykkel (B1) |
+| 74 | Begrenset til lett lastebil (C1) (denne koden skal ikke benyttes etter 31. desember 2013) |
+| 75 | Begrenset til minibuss (D1) (denne koden skal ikke benyttes etter 31. desember 2013) |
+| 76 | Begrenset til lett lastebil med tilhenger (C1E), det vil si at trekkbil i klasse C1 kan trekke tilhenger over 750 kg tillatt totalvekt forutsatt at a) vogntogets samlede tillatte totalvekt ikke overskrider 12000 kg og b) tilhengerens tillatte totalvekt ikke overskrider trekkvognens egenvekt. (Denne koden skal ikke benyttes etter 31. desember 2013) |
+| 77 | Begrenset til minibuss med tilhenger (D1E), dvs. at trekkbil i klasse D1 kan trekke tilhenger over 750 kg tillatt totalvekt forutsatt at a) vogntogets samlede tillatte totalvekt ikke overskrider 12000 kg og b) tilhengeren ikke brukes til persontransport (denne koden skal ikke benyttes etter 31. desember 2013) |
+| 78 | Begrenset til kjøretøy med automatgir |
+| 79 (...) | Begrenset til kjøretøy som angitt i parentesen |
+| 79.01 | Begrenset til tohjuls motorvogn med eller uten sidevogn |
+| 79.02 | Begrenset til motorvogn i klasse AM med tre hjul eller firehjuls moped |
+| 79.03 | Begrenset til trehjuls motorsykkel |
+| 79.04 | Begrenset til trehjuls motorsykkel med tilhenger med tillatt totalvekt ikke over 750 kg |
+| 79.05 | Motorsykkel klasse A1 med et forhold mellom effekt og egenvekt på over 0,1 kW/kg |
+| 79.06 | Klasse BE uten begrensning på tilhengers tillatte totalvekt til 3500 kg |
+| 80 | Begrenset til trehjuls motorsykkel for innehaver av førerkort klasse A som ikke har fylt 24 år |
+| 81 | Begrenset til innehaver av førerkort klasse A for tohjuls motorsykkel som ikke har fylt 21 år |
+| 90 | Koder benyttet i kombinasjon med koder som definerer tilpasninger av kjøretøyet (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 90.01 | til venstre (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 90.02 | til høyre (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 90.03 | venstre (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 90.04 | høyre (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 90.05 | hånd (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 90.06 | fot (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 90.07 | anvendelig (denne koden skal ikke benyttes etter 1. januar 2017) |
+| 95 | Fører som oppfyller kravene til yrkessjåførkompetanse etter direktiv [2003/59/EF](eu/32003l0059) artikkel 3, inntil ... |
+| 96 | Rett til å føre motorvogn i klasse B med tilhenger med tillatt totalvekt over 750 kg og hvor vogntogets samlede tillatte totalvekt er over 3500 kg, men ikke over 4250 kg. |
+| 97 | Ikke godkjent for føring av motorvogn klasse C1 som faller innenfor [forskrift 2. juli 2007 nr. 877](forskrift/2007-07-02-877) om kjøre- og hviletid for vegtransport i EØS |
+
+Nasjonale koder – gjelder bare kjøring i Norge:
+
+|  |  |
+| --- | --- |
+| 100 | To års prøveperiode – dato for utløp av prøveperioden |
+| 101 | Mangler opplæring i mørkekjøring |
+| 110 | Geografisk begrenset førerett (kommunenavn eller annet område angis på førerkortet (denne koden skal ikke benyttes etter 28. februar 2002) |
+| 120 | Begrenset til bestemt kjøretøy/kjennemerke i klasse AM, S eller T |
+| 130 | Gjelder også for bestemt kjøretøy/kjennemerke |
+| 131 | Gjelder også for brannbil (lastebil) avgiftsmessig klassifisert som motorredskap |
+| 132 | Gjelder også for kjøring med hhv. tilhenger og tilhengerredskap med tillatt totalvekt ikke over 2000 kg hhv. 3500 kg, tilkoplet kjøretøy i klasse C eller D |
+| 140 | Rett til å kjøre motorredskap |
+| 141 | Rett til å kjøre traktor og motorredskap, med konstruktiv hastighet 41–50 km/t, med eller uten tilhenger |
+| 142 | Traktor ubegrenset, med eller uten tilhenger. Gjelder også for motorredskap, som beskrevet i [§ 3-18](forskrift/2004-01-19-298/§3-18), med eller uten tilhenger |
+| 143 | Traktor ubegrenset, med eller uten tilhenger med tillatt totalvekt på høyst 750 kg. Gjelder også for motorredskap, som beskrevet i [§ 3-18](forskrift/2004-01-19-298/§3-18), med eller uten tilhenger med tillatt totalvekt på høyst 750 kg |
+| 144 | Traktor med maksimal konstruktiv hastighet ikke over 40 km/t – tillatt totalvekt ikke over 25 000 kg, med eller uten tilhenger. Gjelder også for tilsvarende motorredskap, som beskrevet i [§ 3-18](forskrift/2004-01-19-298/§3-18), med eller uten tilhenger |
+| 145 | Begrenset til å kjøre tohjuls moped og tre- eller firehjuls moped med egenvekt (minus batterienes vekt ved eldrift) ikke over 150 kg. Føreretten gir ikke fritak fra kravet om trafikalt grunnkurs for øvingskjøring |
+| 146 | Begrenset til å kjøre tohjuls moped, samt rett til å kjøre tre- eller firehjuls moped med egenvekt (minus batterienes vekt ved eldrift) ikke over 150 kg |
+| 147 | Rett til å kjøre tre- og firehjuls moped uten begrensinger for mopedens egenvekt |
+| 148 | Rett til å kjøre traktor og motorredskap, med konstruktiv hastighet 41–50 km/t, med eller uten tilhenger – med maksimal tillatt totalvekt ikke over 25 000 kg |
+| 149 | Rett til å kjøre tre- og firehjuls moped med egenvekt (minus batterienes vekt ved eldrift) ikke over 150 kg |
+| 150 | Rett til å kjøre beltemotorsykkel ubegrenset effektforhold |
+| 152 | Rett til å kjøre motorredskap opptil 7500 kg tillatt totalvekt og motorredskap over 7500 kg tillatt totalvekt, med maksimal konstruktiv hastighet 50 km/t |
+| 160 | Rett til å kjøre utrykning (dato for utløp av kompetansens gyldighet) |
 
 > Endret ved [forskrifter 12 mai 2004 nr. 740](forskrift/2004-05-12-740), [5 nov 2004 nr. 1448](forskrift/2004-11-05-1448) (i kraft 1 jan 2005), [7 okt 2005 nr. 1220](forskrift/2005-10-07-1220) (i kraft 1 juni 2006), [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [5 nov 2007 nr. 1210](forskrift/2007-11-05-1210), [2 sep 2008 nr. 985](forskrift/2008-09-02-985) (i kraft 10 sep 2008), [9 mars 2009 nr. 270](forskrift/2009-03-09-270), [16 juni 2010 nr. 894](forskrift/2010-06-16-894) (i kraft 1 juli 2010), [8 mars 2011 nr. 259](forskrift/2011-03-08-259) (i kraft 19 jan 2013), [21 juni 2012 nr. 632](forskrift/2012-06-21-632) (i kraft 19 jan 2013), [11 jan 2013 nr. 27](forskrift/2013-01-11-27) (i kraft 19 jan 2013), [20 des 2013 nr. 1666](forskrift/2013-12-20-1666) (i kraft 31 des 2013), [26 aug 2014 nr. 1116](forskrift/2014-08-26-1116) (i kraft 1 sep 2014), [19 des 2014 nr. 1824](forskrift/2014-12-19-1824) (i kraft 1 jan 2015), [8 nov 2016 nr. 1305](forskrift/2016-11-08-1305) (i kraft 5 des 2016), [16 aug 2018 nr. 1249](forskrift/2018-08-16-1249) (i kraft 1 sep 2018), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
 
