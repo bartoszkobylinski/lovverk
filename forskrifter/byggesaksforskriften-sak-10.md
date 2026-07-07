@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kommunal- og distriktsdepartementet"
 date_in_force: "2010-07-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-07-03"
 last_updated: "2026-07-02"
-xml_hash: "e9b4e4edc1632ffc659be2a29fd3d5f6337b597b6d9a8f32a4a8dbbc5221f241"
+xml_hash: "1be841b88d72f6398d9dbffa0f1281ff2aa1523e50c1bb0798e665d5b989619e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-03T06:58:59.359597+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -148,7 +148,7 @@ Vilkårene i [§ 4-1](forskrift/2010-03-26-488/§4-1) første ledd og [plan- og 
 
 For tiltak som er nevnt nedenfor under bokstav a til h og som er i samsvar med [plan- og bygningsloven § 1-6](lov/2008-06-27-71/§1-6) andre ledd, gjelder ikke reglene i [plan- og bygningsloven](lov/2008-06-27-71) kapitlene 20 (Søknadsplikt), 21 (Krav til innhold og behandling av søknader), 22 (Sentral godkjenning av foretak), 23 (Ansvar i byggesaker), 24 (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak), 25 (Tilsyn), 27 (Tilknytning til infrastruktur), 28 (Krav til byggetomta og ubebygd areal), 29 (Krav til tiltaket), 30 (Krav til særskilte tiltak) og 31 (Krav til eksisterende byggverk). Bestemmelsene i [plan- og bygningsloven § 29-5](lov/2008-06-27-71/§29-5) (Tekniske krav) og [§ 29-7](lov/2008-06-27-71/§29-7) (Krav til produkter til byggverk) med tilhørende deler av [byggteknisk forskrift](forskrift/2017-06-19-840) gjelder så langt de passer for nevnte tiltak.Offentlige veganlegg som anlegges etter bestemmelser gitt i eller med hjemmel i [veglov 21. juni 1963 nr. 23](lov/1963-06-21-23) så langt tiltaket er detaljert avklart i gjeldende reguleringsplan etter [plan- og bygningsloven](lov/2008-06-27-71). Selv om tiltaket ikke omfattes av unntaket i første punktum, kan offentlige veganlegg hvor Statens vegvesen, fylkeskommunen eller et statlig utbyggingsselskap for veg er tiltakshaver utføres uten at reglene i [plan- og bygningsloven](lov/2008-06-27-71) kapitlene 22 (Sentral godkjenning av foretak), 23 (Ansvar i byggesaker), 24 (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak) og 25 (Tilsyn) kommer til anvendelse. Bestemmelsene i [plan- og bygningsloven § 29-2](lov/2008-06-27-71/§29-2) (Visuelle kvaliteter) og [§ 29-3](lov/2008-06-27-71/§29-3) (Krav til universell utforming og forsvarlighet) skal likevel gjelde.Vannkraftanlegg eller andre tiltak i vassdrag som er gitt konsesjon etter bestemmelser gitt i eller med hjemmel i [lov 14. desember 1917 nr. 16 om konsesjon for rettigheter til vannfall mv. (vannfallrettighetsloven)](lov/1917-12-14-16), [lov 14. desember 1917 nr. 17 om regulering og kraftutbygging i vassdrag (vassdragsreguleringsloven)](lov/1917-12-14-17) og [lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven)](lov/2000-11-24-82). Tilsvarende gjelder for tiltak på eksisterende vassdragsanlegg uten konsesjon som godkjennes etter [forskrift 18. desember 2009 nr. 1600 om sikkerhet ved vassdragsanlegg (damsikkerhetsforskriften)](forskrift/2009-12-18-1600). Andre punktum omfatter ikke midlertidig eller varig bruk av omkringliggende arealer som tiltaket eventuelt krever, som etablering av rigg- og anleggsområder, adkomst, terrenginngrep, massehåndtering, landskapstilpasning eller andre forhold utenfor selve vassdragskonstruksjonen. Unntaket etter bokstaven her omfatter ikke dammer i konsekvensklasse 0.Anlegg for produksjon av elektrisk energi som er gitt anleggskonsesjon, anlegg for fordeling av elektrisk energi som bygges med hjemmel i områdekonsesjon samt fjernvarmeanlegg som er gitt fjernvarmekonsesjon etter bestemmelser gitt i eller med hjemmel i [lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven)](lov/1990-06-29-50).Nettanlegg, anlegg for fornybar energiproduksjon og andre anlegg som er gitt konsesjon etter bestemmelsene i eller i medhold av [lov 4. juni 2010 nr. 21 om fornybar energiproduksjon til havs (havenergilova)](lov/2010-06-04-21).Landbruksveier som er godkjent etter bestemmelser gitt i eller med hjemmel i [lov 27. mai 2005 nr. 31 om skogbruk (skogbrukslova)](lov/2005-05-27-31) eller [lov 12. mai 1995 nr. 23 om jord (jordlova)](lov/1995-05-12-23).Flytende akvakulturanlegg i sjø som er gitt tillatelse etter [lov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven)](lov/2005-06-17-79).Steinbrudd, gruver og massetak med tilhørende knuseverk og sorteringsanlegg som er i samsvar med gjeldende reguleringsplan og som er gitt konsesjon etter bestemmelser gitt i eller med hjemmel i [lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser (mineralloven)](lov/2009-06-19-101).Gjerder og anlegg i reindriften som er godkjent etter [reindriftsloven § 24](lov/2007-06-15-40/§24).
 
-For tiltak nevnt nedenfor under bokstav a til d gjelder ikke reglene i [plan- og bygningsloven](lov/2008-06-27-71) kapitlene 20 (Søknadsplikt), 21 (Krav til innhold og behandling av søknader), 22 (Sentral godkjenning av foretak), 23 (Ansvar i byggesaker), 24 (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak) og 25 (Tilsyn). Øvrige regler gjelder så langt de passer.Bygninger eller bygningstekniske installasjoner i tilknytning til anlegg som nevnt i første ledd bokstav b og c.Jernbaneanlegg, herunder sporvei, tunnelbane og forstadsbane, som anlegges etter bestemmelser gitt i eller med hjemmel i [lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven)](lov/1993-06-11-100), så langt tiltaket er detaljert avklart i gjeldende reguleringsplan. Selv om tiltaket ikke omfattes av unntaket i første punktum, kommer reglene i [plan- og bygningsloven](lov/2008-06-27-71) kapitlene 22 (Sentral godkjenning av foretak), 23 (Ansvar i byggesaker), 24 (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak) og 25 (Tilsyn) ikke til anvendelse for jernbaneanlegg som godkjennes av Statens jernbanetilsyn etter [jernbaneloven](lov/1993-06-11-100).Oppføring, gjenoppføring, reparasjon og riving av navigasjonsinnretninger, herunder tiltak i grunnen og sjøgrunnen ved slike innretninger, etter bestemmelser gitt i eller med hjemmel i [lov 21. juni 2019 nr. 70 om havner og farvann (havne- og farvannsloven)](lov/2019-06-21-70). Unntaket for riving omfatter bare riving av navigasjonsinnretninger som ikke medfører mer enn ti tonn bygg- og rivningsavfall.Gjenoppføring og reparasjon av navigasjonsinnretninger etter bestemmelser gitt i eller med hjemmel i [lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven)](lov/1993-06-11-101).Gjenoppføring og reparasjon av moloer og annet dekningsverk i sjø der Kystverket eller kommunen er tiltakshaver.
+For tiltak nevnt nedenfor under bokstav a til e gjelder ikke reglene i [plan- og bygningsloven kapitlene 20](lov/2008-06-27-71/kap20) (Søknadsplikt), [21](lov/2008-06-27-71/kap21) (Krav til innhold og behandling av søknader), [22](lov/2008-06-27-71/kap22) (Sentral godkjenning av foretak), [23](lov/2008-06-27-71/kap23) (Ansvar i byggesaker), [24](lov/2008-06-27-71/kap24) (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak) og [25](lov/2008-06-27-71/kap25) (Tilsyn). Øvrige regler gjelder så langt de passer.Bygninger eller bygningstekniske installasjoner i tilknytning til anlegg som nevnt i første ledd bokstav b og c.Jernbaneanlegg, herunder sporvei, tunnelbane og forstadsbane, som anlegges etter bestemmelser gitt i eller med hjemmel i [lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven)](lov/1993-06-11-100), så langt tiltaket er detaljert avklart i gjeldende reguleringsplan. Selv om tiltaket ikke omfattes av unntaket i første punktum, kommer reglene i [plan- og bygningsloven](lov/2008-06-27-71) kapitlene 22 (Sentral godkjenning av foretak), 23 (Ansvar i byggesaker), 24 (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak) og 25 (Tilsyn) ikke til anvendelse for jernbaneanlegg som godkjennes av Statens jernbanetilsyn etter [jernbaneloven](lov/1993-06-11-100).Oppføring, gjenoppføring, reparasjon og riving av navigasjonsinnretninger, herunder tiltak i grunnen og sjøgrunnen ved slike innretninger, etter bestemmelser gitt i eller med hjemmel i [lov 21. juni 2019 nr. 70 om havner og farvann (havne- og farvannsloven)](lov/2019-06-21-70). Unntaket for riving omfatter bare riving av navigasjonsinnretninger som ikke medfører mer enn ti tonn bygg- og rivningsavfall.Gjenoppføring og reparasjon av navigasjonsinnretninger etter bestemmelser gitt i eller med hjemmel i [lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven)](lov/1993-06-11-101).Gjenoppføring og reparasjon av moloer og annet dekningsverk i sjø der Kystverket eller kommunen er tiltakshaver.
 
 For anlegg og konstruksjoner som anlegges etter bestemmelser gitt i eller med hjemmel i [lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven)](lov/2002-06-14-20) gjelder ikke reglene i [plan- og bygningsloven](lov/2008-06-27-71) kapitlene 22 (Sentral godkjenning av foretak), 23 (Ansvar i byggesaker), 24 (Kvalitetssikring og kontroll med prosjektering og utførelse av tiltak) og 25 (Tilsyn). Unntakene omfatter også utbedring, utskiftning og reparasjon av slike anlegg og konstruksjoner, men ikke grunn- og terrengarbeider, herunder fundamentering. Øvrige regler gjelder så langt de passer.
 
@@ -156,7 +156,7 @@ For eksisterende taubaneanlegg, herunder bærende konstruksjoner, som er gitt dr
 
 Tiltakshaver skal underrette kommunen når tiltak etter denne bestemmelsen er godkjent etter andre lover, og angi tidspunktet for igangsetting. Alle opplysninger om tiltakets plassering som er nødvendige for ajourføring av det offentlige kartverket, herunder kommunenes og statens felles kartdatabaser, skal sendes kommunen sammen med underretningen, jf. [plan- og bygningsloven kapittel 2](lov/2008-06-27-71/kap2) (Krav om kartgrunnlag, stedfestet informasjon mv.). Slik underretning er ikke nødvendig når kommunen er godkjenningsmyndighet for tiltaket i henhold til annet lovverk. Tiltakshaver skal senest innen fire uker etter at tiltaket er ferdig, sende underretning til kommunen om tiltakets plassering slik det er utført.
 
-> Endret ved forskrifter [22 juni 2011 nr. 674](forskrift/2011-06-22-674) (i kraft 1 juli 2011), [8 mars 2015 nr. 206](forskrift/2015-03-08-206) (i kraft 1 juli 2015), [6 des 2016 nr. 1451](forskrift/2016-12-06-1451) (i kraft 1 jan 2017), [17 des 2017 nr. 2137](forskrift/2017-12-17-2137) (i kraft 1 jan 2018), [28 nov 2024 nr. 2911](forskrift/2024-11-28-2911) (i kraft 1 juli 2025), [12 juni 2026 nr. 1130](forskrift/2026-06-12-1130) (i kraft 1 juli 2026, tidligere § 4-3).
+> Endret ved forskrifter [22 juni 2011 nr. 674](forskrift/2011-06-22-674) (i kraft 1 juli 2011), [8 mars 2015 nr. 206](forskrift/2015-03-08-206) (i kraft 1 juli 2015), [6 des 2016 nr. 1451](forskrift/2016-12-06-1451) (i kraft 1 jan 2017), [17 des 2017 nr. 2137](forskrift/2017-12-17-2137) (i kraft 1 jan 2018), [28 nov 2024 nr. 2911](forskrift/2024-11-28-2911) (i kraft 1 juli 2025), [12 juni 2026 nr. 1130](forskrift/2026-06-12-1130) (i kraft 1 juli 2026, tidligere § 4-3), [3 juli 2026 nr. 1502](forskrift/2026-07-03-1502).
 
 ### § 4-7. Unntak for nødvendige sikringstiltak etter akutte hendelser
 
@@ -468,16 +468,24 @@ Tilsvarende gjelder for foretak som søker om sentral godkjenning.
 
 ### § 11-3. Krav til utdanning og praksis
 
-Foretakets faglige ledelse skal oppfylle krav til relevant utdanning og praksis etter inndelingen i tiltaksklasser og funksjoner i tabellen nedenfor. Kravet til praksis gjelder etter endt utdanning.*Tiltaksklasse**Funksjon**Utdanningsnivå, jf. [§ 11-2](forskrift/2010-03-26-488/§11-2)**Arbeidserfaring, antall år*1Søkerb
-c41Prosjekterendeb
-c41Utførendea21Kontrollerendeb
-c42Søkerb
-c62Prosjekterendec
-d10
-62Utførendeb
-c32Kontrollerended63Søkere83Prosjekterendee83Utførendec
-d8
-53Kontrollerendee8
+Foretakets faglige ledelse skal oppfylle krav til relevant utdanning og praksis etter inndelingen i tiltaksklasser og funksjoner i tabellen nedenfor. Kravet til praksis gjelder etter endt utdanning.
+
+| *Tiltaksklasse* | *Funksjon* | *Utdanningsnivå, jf. [§ 11-2](forskrift/2010-03-26-488/§11-2)* | *Arbeidserfaring, antall år* |
+| --- | --- | --- | --- |
+| 1 | Søker | b<br>c | 4 |
+| 1 | Prosjekterende | b<br>c | 4 |
+| 1 | Utførende | a | 2 |
+| 1 | Kontrollerende | b<br>c | 4 |
+|  |  |  |  |
+| 2 | Søker | b<br>c | 6 |
+| 2 | Prosjekterende | c<br>d | 10<br>6 |
+| 2 | Utførende | b<br>c | 3 |
+| 2 | Kontrollerende | d | 6 |
+|  |  |  |  |
+| 3 | Søker | e | 8 |
+| 3 | Prosjekterende | e | 8 |
+| 3 | Utførende | c<br>d | 8<br>5 |
+| 3 | Kontrollerende | e | 8 |
 
 Der foretakets faglige ledelse har tatt videreutdanning, skal hvert år med relevant praksis som er opparbeidet før videreutdanningen er avsluttet, godskrives med et 1/2 år ved søknad om sentral godkjenning.
 
