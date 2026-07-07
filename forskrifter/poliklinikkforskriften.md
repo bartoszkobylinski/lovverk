@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2008-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2020-01-20"
-xml_hash: "e86ebb54025476ea60667f8e57db7e613bde0fb9bde71584ff638d455a70c4ba"
+xml_hash: "fbd8ad31fd2165c4c46aa129cd997ababdea0a78af486b939e0b33392e523c5c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-02T07:28:16.500138+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -103,21 +103,31 @@ Helsedirektoratet kan i særlige tilfelle for et enkelt organ eller flere organe
 
 ## Kapittel 3 – Generelle merknader
 
+*Polikliniske pasienter versus innlagte pasienter*
+
 For vanlige polikliniske konsultasjoner og kortvarig observasjon skal pasienten registreres i det pasientadministrative systemet som poliklinisk og omsorgsnivå poliklinikk skal benyttes. Pasienten skal ikke registreres som innlagt i det pasientadministrative system.
 
 Dersom pasienten blir innlagt ved sykehuset samme dag som den polikliniske konsultasjonen har funnet sted, skal pasienten registreres i det pasientadministrative systemet for innlagte. Sykehusoppholdet omfattes da ikke av den tilskuddsordning som er fastsatt i denne forskriften og poliklinisk refusjon etter denne forskriften skal ikke kreves. Dette gjelder uavhengig om det er sammenheng mellom den polikliniske konsultasjonen og årsaken til innleggelsen. Helsedirektoratet kan gi nærmere retningslinjer om skillet mellom polikliniske og innlagte pasienter.
 
 Så lenge en pasient er innlagt ved et sykehus er det ikke anledning til å kreve refusjon etter denne forskriften. Dette gjelder enten pasienten behandles ved en av sykehusets egne poliklinikker eller ved en poliklinikk utenfor sykehuset.
 
-Enklere laboratorieundersøkelser merket med *, er inkludert i ISF poliklinikk. Dette gjelder enkle kvantitative undersøkelser innen medisinsk biokjemi. Refusjon for mer ressurskrevende laboratorieundersøkelser, som ikke er merket med *, kan kreves i tillegg. Det vises til «Regler for fremsettelse av refusjonskrav for polikliniske laboratorieanalyser 2026 – statlige helseinstitusjoner» med vedlegg der det framgår hvilke koder i norsk laboratoriekodeverk som er merket med *.
+*Koder merket med stjerne*
+
+Enklere laboratorieundersøkelser merket med \*, er inkludert i ISF poliklinikk. Dette gjelder enkle kvantitative undersøkelser innen medisinsk biokjemi. Refusjon for mer ressurskrevende laboratorieundersøkelser, som ikke er merket med \*, kan kreves i tillegg. Det vises til «Regler for fremsettelse av refusjonskrav for polikliniske laboratorieanalyser 2026 – statlige helseinstitusjoner» med vedlegg der det framgår hvilke koder i norsk laboratoriekodeverk som er merket med \*.
+
+*Konvensjonspasienter*
 
 I henhold til [spesialisthelsetjenesteloven § 5-3](lov/1999-07-02-61/§5-3) skal folketrygden dekke utgifter for konvensjonspasienter og for medlemmer som ikke har bosted i Norge.
+
+*Smittevern*
 
 Det ytes godtgjørelse for undersøkelse, behandling og kontroll for allmennfarlige smittsomme sykdommer når pasienten oppholder seg i Norge, selv om pasienten ikke er medlem av folketrygden, jf. [forskrift 1. januar 1995 nr. 100 om allmennfarlige smittsomme sykdommer](forskrift/1995-01-01-100).
 
 > Endret ved [forskrifter 15 des 2008 nr. 1393](forskrift/2008-12-15-1393) (i kraft 1 jan 2009), [12 des 2013 nr. 1503](forskrift/2013-12-12-1503) (i kraft 1 jan 2014), [20 des 2016 nr. 1848](forskrift/2016-12-20-1848) (i kraft 1 jan 2017), [15 des 2017 nr. 2344](forskrift/2017-12-15-2344) (i kraft 1 jan 2018), [22 des 2020 nr. 3092](forskrift/2020-12-22-3092) (i kraft 1 jan 2021), [19 des 2023 nr. 2195](forskrift/2023-12-19-2195) (i kraft 1 jan 2024), [19 des 2024 nr. 3292](forskrift/2024-12-19-3292) (i kraft 1 jan 2025), [18 des 2025 nr. 2687](forskrift/2025-12-18-2687) (i kraft 1 jan 2026).
 
 ## Kapittel 4 – Refusjonssatser
+
+*R Laboratorieundersøkelser og prøver*
 
 For at medisinske laboratorier skal kunne kreve inn takstene, må virksomheten være godkjent i henhold til [forskrift 1. desember 2000 nr. 1276 om medisinsk laboratorie- og røntgenvirksomhet](forskrift/2000-12-01-1276) gitt i medhold av [spesialisthelsetjenesteloven § 2-1 fjerde ledd](lov/1999-07-02-61/§2-1/ledd/4), [§ 4-1](lov/1999-07-02-61/§4-1) og [§ 5-2 fjerde ledd](lov/1999-07-02-61/§5-2/ledd/4). For at sykehus skal kunne kreve inn takstene, må laboratorievirksomheten være en del av den godkjente virksomheten ved sykehuset i henhold til bestemmelser gitt i medhold av [spesialisthelsetjenesteloven § 4-1](lov/1999-07-02-61/§4-1).
 
@@ -135,19 +145,173 @@ Det kan kreves refusjon for de patologiske analysene som inngår i APAT. Se kode
 
 Et gyldig refusjonskrav må minst inneholde et prøvemateriale, samt det refusjonsbeløp som kreves, jf. merknad R4.
 
-Se følgende dokumenter på hjemmesidene til Helsedirektoratet ([www.helsedirektoratet.no](https://www.helsedirektoratet.no)): Norsk laboratoriekodeverk og veileder i norsk laboratoriekodeverk. Regelverket for den polikliniske finansieringsordningen finnes på Helfos nettsider ([www.helfo.no](https://www.helfo.no)): «Regler for fremsettelse av refusjonskrav for polikliniske laboratorieanalyser 2026 – statlige helseinstitusjoner» med vedlegg der det framgår hvilken refusjonskategori den enkelte laboratorieanalyse er plassert i.
+*1 Medisinsk biokjemi*
+
+| *Refusjonskategori* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| MB0 | 0,48 | R1 |
+| MB1 | 5,06 | R1 |
+| MB2 | 6,81 | R1 |
+| MB3 | 9,33 | R1 |
+| MB4 | 12,35 | R1 |
+| MB5 | 16,67 | R1 |
+| MB6 | 22,69 | R1 |
+| MB7 | 34,38 | R1 |
+| MB8 | 56,56 | R1 |
+| MB9 | 80,68 | R1 |
+| MB10 | 131,09 | R1 |
+| MB11 | 220,41 | R1 |
+| MB12 | 504,05 | R1 |
+| MB13 | 1 199,46 | R1 |
+| MB14 | 2 398,92 | R1 |
+| MB15 | 4 797,86 | R1 |
+
+*2 Klinisk farmakologi*
+
+| *Refusjonskategori* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| KF0 | 0,54 | R1 |
+| KF1 | 10,80 | R1 |
+| KF2 | 20,19 | R1 |
+| KF3 | 37,16 | R1 |
+| KF4 | 66,93 | R1 |
+| KF5 | 138,15 | R1 |
+| KF6 | 255,06 | R1 |
+| KF7 | 425,13 | R1 |
+| KF8 | 584,51 | R1 |
+| KF9 | 720,43 | R1 |
+| KF10 | 1 184,74 | R1 |
+| KF11 | 2 443,38 | R1 |
+
+*3 Medisinsk mikrobiologi*
+
+| *Refusjonskategori* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| MM0 | 0,85 | R1 |
+| MM1 | 28,96 | R1 |
+| MM2 | 37,65 | R1 |
+| MM3 | 49,22 | R1 |
+| MM4 | 75,86 | R1 |
+| MM5 | 121,63 | R1 |
+| MM6 | 185,38 | R1 |
+| MM7 | 260,66 | R1 |
+| MM8 | 420,51 | R1 |
+| MM9 | 810,89 | R1 |
+| MM10 | 1 303,22 | R1 |
+| MM11 | 1 991,19 | R1 |
+| MM12 | 2 960,29 | R1 |
+| MM13 | 4 219,77 | R1 |
+
+*4 Immunologi og transfusjonsmedisin*
+
+| *Refusjonskategori* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| IT0 | 0,90 | R1 |
+| IT1 | 22,39 | R1 |
+| IT2 | 31,33 | R1 |
+| IT3 | 43,64 | R1 |
+| IT4 | 58,16 | R1 |
+| IT5 | 73,85 | R1 |
+| IT6 | 112,31 | R1 |
+| IT7 | 201,39 | R1 |
+| IT8 | 447,52 | R1 |
+| IT9 | 1 107,63 | R1 |
+| IT10 | 4 389,84 | R1 |
+| IT11 | 6 311,71 | R1 |
+
+| *Takst* |  | *Refusjon* | *Merknad* |
+| --- | --- | --- | --- |
+| 703gg | Plasmautskifting | 584,11 | R11 |
+| 703hh | Substitusjonsveske v/plasmautskifting (etter regning) |  | R11 |
+
+*5 Medisinsk genetikk*
+
+| *Refusjonskategori* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| MG0 | 0,73 | R1, R2 |
+| MG1 | 146,66 | R1, R2 |
+| MG2 | 275,01 | R1, R2 |
+| MG3 | 495,00 | R1, R2 |
+| MG4 | 1 038,35 | R1, R2 |
+| MG5 | 2 408,08 | R1, R2 |
+| MG6 | 6 573,80 | R1, R2 |
+| MG7 | 11 244,16 | R1, R2 |
+| MG8 | 16 094,57 | R1, R2 |
+| MG9 | 18 177,67 | R1, R2 |
+
+*6 Generelle takster*
+
+| *Takst* |  | *Refusjon* | *Merknad* |
+| --- | --- | --- | --- |
+| 701j | Måling av beinmineralinnhold – måling med DXA | 51,69 | R3b |
+
+*7 Patologiske avdelinger (ny ordning)*
+
+| *Refusjonskategori prøvematerialer* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| PATP0 | 0 | R4, R5, R6 |
+| PATP1 | 109,86 | R4, R5, R6 |
+| PATP2 | 305,60 | R4, R5, R6 |
+| PATP3 | 452,40 | R4, R5, R6 |
+| PATP4 | 685,09 | R4, R5, R6 |
+| PATP5 | 891,80 | R4, R5, R6 |
+| PATP6 | 1 212,38 | R4, R5, R6 |
+| PATP7 | 1 472,01 | R4, R5, R6 |
+| PATP8 | 2 050,25 | R4, R5, R6 |
+| PATP9 | 2 749,32 | R4, R5, R6 |
+| PATP10 | 3 228,67 | R4, R5, R6 |
+| PATP11 | 4 737,64 | R4, R5, R6 |
+| PATP12 | 13 835,44 | R4, R5, R6 |
+
+| *Refusjonskategori additive tilleggskoder* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| PATA0 | 0 | R4, R5, R6 |
+| PATA1 | 28,68 | R4, R5, R6 |
+| PATA2 | 73,75 | R4, R5, R6 |
+| PATA3 | 114,72 | R4, R5, R6 |
+| PATA4 | 155,71 | R4, R5, R6 |
+| PATA5 | 307,32 | R4, R5, R6 |
+| PATA6 | 515,25 | R4, R5, R6 |
+| PATA7 | 819,50 | R4, R5, R6 |
+| PATA8 | 1 536,56 | R4, R5, R6 |
+| PATA9 | 2 970,65 | R4, R5, R6 |
+| PATA10 | 7 375,43 | R4, R5, R6 |
+| PATA11 | 12 763,59 | R4, R5, R6 |
+| PATA12 | 18 269,56 | R4, R5, R6 |
+
+*8 Takster for patologiske avdelinger (gammel ordning) (Opphevet)*
+
+*Merknad R1:*
+
+Se følgende dokumenter på hjemmesidene til Helsedirektoratet ( [www.helsedirektoratet.no](https://www.helsedirektoratet.no)): Norsk laboratoriekodeverk og veileder i norsk laboratoriekodeverk. Regelverket for den polikliniske finansieringsordningen finnes på Helfos nettsider ( [www.helfo.no](https://www.helfo.no)): «Regler for fremsettelse av refusjonskrav for polikliniske laboratorieanalyser 2026 – statlige helseinstitusjoner» med vedlegg der det framgår hvilken refusjonskategori den enkelte laboratorieanalyse er plassert i.
+
+*Merknad R2:*
 
 Refusjon for NOR-koder innen medisinsk genetikk kan kun kreves av medisinsk genetiske laboratorier med godkjente spesialister innen medisinsk genetikk. Refusjon kan kun kreves for undersøkelser av fødte individer. Det kan likevel kreves refusjon for non-invasive prenatal testing (NIPT) for påvisning av trisomi 13, 18 og 21 og for preimplantasjonsdiagnostikk (PGT).
 
+*Merknad R3b:*
+
 Takst 701j kan ikke benyttes ved screening-undersøkelser. Taksten kan kun kreves av spesialister innen endokrinologi, nukleærmedisin, radiologi, revmatologi eller andre med dokumentert spesialkunnskap innen fagområdet metabolske beinsykdommer. Taksten kan kun kreves én gang per år per pasient.
 
-Se følgende dokumenter på hjemmesidene til Helsedirektoratet ([www.helsedirektoratet.no](https://www.helsedirektoratet.no)): Koder for aktivitetsregistrering (APAT) og brukerveiledning. Reglene for den polikliniske finansieringsordningen finnes på Helfos nettsider ([www.helfo.no](https://www.helfo.no)): «Regler for fremsettelse av refusjonskrav for poliklinisk patologiaktivitet 2026 – statlige helseinstitusjoner» med vedlegg der det framgår hvilken refusjonskategori det enkelte prøvemateriale og den enkelte additive tilleggskode er plassert i, samt faktor for de enkelte multiplikative koder.
+*Merknad R4:*
+
+Se følgende dokumenter på hjemmesidene til Helsedirektoratet ( [www.helsedirektoratet.no](https://www.helsedirektoratet.no)): Koder for aktivitetsregistrering (APAT) og brukerveiledning. Reglene for den polikliniske finansieringsordningen finnes på Helfos nettsider ( [www.helfo.no](https://www.helfo.no)): «Regler for fremsettelse av refusjonskrav for poliklinisk patologiaktivitet 2026 – statlige helseinstitusjoner» med vedlegg der det framgår hvilken refusjonskategori det enkelte prøvemateriale og den enkelte additive tilleggskode er plassert i, samt faktor for de enkelte multiplikative koder.
+
+*Merknad R5:*
 
 Patologirefusjon kan kun kreves for analyser utført i patologiske avdelinger. Ordningen gjelder for alle helseforetak.
 
+*Merknad R6:*
+
 For obduksjoner kan det kreves refusjon i de tilfeller der dødsfallet har skjedd utenfor sykehus og der obduksjonen er rekvirert av lege.
 
+*Merknad R11:*
+
 Refusjon for plasmautskifting ytes kun etter godkjenning av Helse- og omsorgsdepartementet. I tillegg til selve undersøkelsen medgår det varierende og kostbar substitusjonsvæske som finansieres etter regning.
+
+*S Radiologi*
+
+*1 Radiologi*
 
 Til enhver poliklinisk radiologisk prosedyre er det knyttet én og bare én unik refusjonssats (kronebeløp). I «Regelverk for finansiering av poliklinisk radiologi ved statlige helseinstitusjoner i 2026» fremgår det hvilken refusjonskategori den enkelte prosedyre er plassert i.
 
@@ -155,7 +319,59 @@ Det kan kreves refusjon for de radiologiske prosedyrene som inngår i kodeverket
 
 Et gyldig refusjonskrav må minst inneholde en kode for enten en diagnostisk undersøkelse eller en bildeveiledet intervensjon, samt det refusjonsbeløp som kreves, jf. merknad S1.
 
+*Tabell S1: Refusjonskategorier og satser radiologi*
+
+| *Modalitet* | *Refusjonskategori* | *Refusjon* | *Merknad* |
+| --- | --- | --- | --- |
+| Røntgen | RG1 | 1,00 | S1 |
+| Røntgen | RG2 | 2,00 | S1 |
+| Røntgen | RG3 | 82,61 | S1 |
+| Røntgen | RG4 | 253,84 | S1 |
+| Røntgen | RG5 | 677,46 | S1 |
+| Computer Tomografi | CT1 | 45,79 | S1 |
+| Computer Tomografi | CT2 | 132,15 | S1 |
+| Computer Tomografi | CT3 | 293,73 | S1 |
+| Computer Tomografi | CT4 | 372,70 | S1 |
+| Computer Tomografi | CT5 | 484,18 | S1 |
+| MR | MR1 | 163,85 | S1 |
+| MR | MR2 | 395,20 | S1 |
+| MR | MR3 | 680,53 | S1 |
+| MR | MR4 | 858,81 | S1 |
+| MR | MR5 | 1 037,78 | S1 |
+| MR | MR6 | 2 204,67 | S1 |
+| Ultralyd | UL1 | 1,00 | S1 |
+| Ultralyd | UL2 | 2,00 | S1 |
+| Ultralyd | UL3 | 3,00 | S1 |
+| Ultralyd | UL4 | 11,01 | S1 |
+| Ultralyd | UL5 | 119,42 | S1 |
+| Intervensjon | INT1 | 1,00 | S1 |
+| Intervensjon | INT2 | 56,01 | S1 |
+| Intervensjon | INT3 | 164,87 | S1 |
+| Intervensjon | INT4 | 546,56 | S1 |
+| Intervensjon | INT5 | 1 818,09 | S1 |
+
+*2 Nukleærmedisin*
+
 Til enhver poliklinisk nukleærmedisinsk prosedyre er det knyttet én og bare én unik refusjonssats (kronebeløp). De prosedyrene det kan kreves refusjon for inngår i «Regelverk for finansiering av poliklinisk radiologi ved statlige helseinstitusjoner i 2026». Et gyldig refusjonskrav må i tillegg til en prosedyrekode alltid inneholde en tilleggskode for det radiofarmakum som benyttes. Se kodeveiledning og «Regelverk for finansiering av poliklinisk radiologi ved statlige helseinstitusjoner i 2026» for detaljer, jf. merknad S1. I regelverkene for finansiering av poliklinisk radiologi fremgår også hvilken refusjonskategori den enkelte prosedyre er plassert i.
+
+*Tabell S2: Refusjonskategorier og satser for nukleærmedisin inkludert PET*
+
+| *Refusjonskategori* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| NM 1 | 761,32 | S1 |
+| NM 2 | 964,14 | S1 |
+| NM 3 | 1 662,65 | S1 |
+| NM 4 | 3 410,41 | S1 |
+| NM 5 | 4 729,10 | S1 |
+| NM 6 | 8 693,03 | S1 |
+| NM 7 | 16 696,46 | S1 |
+| PET1 | 1 434,58 | S1 |
+| PET2 | 3 571,99 | S1 |
+| PET3 | 4 544 | S1 |
+| PET4 | 9 020,29 | S1 |
+| PET5 | 25 255,30 | S1 |
+
+*Merknad S1:*
 
 Se følgende dokumenter på hjemmesidene til Helsedirektoratet:Kodeverket «Norsk klassifikasjon av radiologiske prosedyrer (NCRP)» er samordnet med andre prosedyrekodeverk og inngår nå i kodeverket for medisinske, kirurgiske og radiologiske prosedyrer (NCMP, NCSP og NCRP).Kodeveiledning for NCRP inngår nå i «Regler og veiledning for kliniske kodeverk i spesialisthelsetjenesten (ICD 10, NCMP, NCSP og NCRP)».
 
