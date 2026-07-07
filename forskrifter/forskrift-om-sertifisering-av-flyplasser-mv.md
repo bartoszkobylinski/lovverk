@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2015-08-25"
-last_change_in_force: "2025-10-24"
+last_change_in_force: "2026-07-01"
 last_updated: "2015-09-22"
-xml_hash: "b9cb97705adad1f23d0faf27be2cc7821516f069db1b6ddfcf166e6a7010b13a"
+xml_hash: "f5e5252d47ff3cfd16c87e9771f64f709ebae1cea934d39e78c70f124d8e7af7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,9 +24,9 @@ eu_basis: []
 
 ## § 1. Gjennomføring av kommisjonsforordning (EU) nr. 139/2014
 
-[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66nh (forordning [(EU) nr. 139/2014](eu/32014r0139), som endret ved forordning [(EU) 2018/401](eu/32018r0401), [(EU) 2020/469](eu/32020r0469), [(EU) 2020/1177](eu/32020r1177), [(EU) 2020/1234](eu/32020r1234), [(EU) 2020/2148](eu/32020r2148), [(EU) 2022/208](eu/32022r0208), [(EU) 2022/2074](eu/32022r2074), [(EU) 2024/405](eu/32024r0405), [(EU) 2024/894](eu/32024r0894), [(EU) 2024/1400](eu/32024r1400), [(EU) 2022/1645](eu/32022r1645) og [(EU) 2023/203)](eu/32023r0203) om fastsettelse av krav og administrative prosedyrer relatert til flyplasser [...], gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66nh (forordning [(EU) nr. 139/2014](eu/32014r0139), som endret ved forordning [(EU) 2018/401](eu/32018r0401), [(EU) 2020/469](eu/32020r0469), [(EU) 2020/1177](eu/32020r1177), [(EU) 2020/1234](eu/32020r1234), [(EU) 2020/2148](eu/32020r2148), [(EU) 2022/208](eu/32022r0208), [(EU) 2022/2074](eu/32022r2074), [(EU) 2024/405](eu/32024r0405), [(EU) 2024/894](eu/32024r0894), [(EU) 2024/1400](eu/32024r1400), [(EU) 2022/1645](eu/32022r1645), [(EU) 2023/203](eu/32023r0203) og [(EU) 2025/2293](eu/32025r2293)) om fastsettelse av krav og administrative prosedyrer relatert til flyplasser [...], gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved [forskrifter 7 juni 2018 nr. 856](forskrift/2018-06-07-856), [2 sep 2024 nr. 2065](forskrift/2024-09-02-2065), [2 nov 2024 nr. 2657](forskrift/2024-11-02-2657), [27 juni 2025 nr. 1357](forskrift/2025-06-27-1357), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093).
+> Endret ved [forskrifter 7 juni 2018 nr. 856](forskrift/2018-06-07-856), [2 sep 2024 nr. 2065](forskrift/2024-09-02-2065), [2 nov 2024 nr. 2657](forskrift/2024-11-02-2657), [27 juni 2025 nr. 1357](forskrift/2025-06-27-1357), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [1 juli 2026 nr. 1499](forskrift/2026-07-01-1499).
 
 ## § 1a. (Opphevet)
 
@@ -72,13 +72,13 @@ Forskriften trer i kraft straks.
 
 ## § 9. Endringer i andre forskrifter
 
-1. I [forskrift 5. januar 2001 nr. 11](forskrift/2001-01-05-11) om kvalitetssystem i ervervsmessige luftfartsvirksomheter gjøres følgende endring: ---
+1\. I [forskrift 5. januar 2001 nr. 11](forskrift/2001-01-05-11) om kvalitetssystem i ervervsmessige luftfartsvirksomheter gjøres følgende endring: ---
 
-2. I [forskrift 30. oktober 2001 nr. 1231](forskrift/2001-10-30-1231) om krav til teknisk/operativ godkjenning av flyplasser gjøres følgende endring: ---
+2\. I [forskrift 30. oktober 2001 nr. 1231](forskrift/2001-10-30-1231) om krav til teknisk/operativ godkjenning av flyplasser gjøres følgende endring: ---
 
-3. I [forskrift 21. august 2003 nr. 1068](forskrift/2003-08-21-1068) om bruk av system for sikkerhetsstyring innen flysikringstjenesten og bakketjenesten (BSL A 1-9) gjøres følgende endring: ---
+3\. I [forskrift 21. august 2003 nr. 1068](forskrift/2003-08-21-1068) om bruk av system for sikkerhetsstyring innen flysikringstjenesten og bakketjenesten (BSL A 1-9) gjøres følgende endring: ---
 
-4. I [forskrift 6. juli 2006 nr. 968](forskrift/2006-07-06-968) om utforming av store flyplasser (BSL E 3-2) gjøres følgende endring: ---
+4\. I [forskrift 6. juli 2006 nr. 968](forskrift/2006-07-06-968) om utforming av store flyplasser (BSL E 3-2) gjøres følgende endring: ---
 
 ## Forordning (EU) nr. 139/2014
 
