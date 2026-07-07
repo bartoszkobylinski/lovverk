@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2022-06-25"
 last_change_in_force: "2026-05-15"
 last_updated: null
-xml_hash: "32ebaa56eae4731d8a1a3867b35fb9bc040e0b037d32c720de3e4d1cc93be28e"
+xml_hash: "96f1f5df905fa9d8ed27011db689a263325c235abf6626905a7dc3c717cb1b93"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-16T06:19:44.356932+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -113,7 +113,31 @@ For visse planter som selges sammen med potter til sluttforbruker eller til bruk
 
 ## § 12. Antall dyreenheter som tilsvarer grensen for tillatt nitrogentilførsel på landbruksareal
 
-Maksimalt antall dyreenheter på virksomhetens landbruksareal eller for samarbeidende virksomheters landbruksareal som tilsvarer grensen på 17 kg nitrogen per år og dekar for ulike typer husdyrproduksjon, jf. [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848](eu/32018r0848) vedlegg II del II punkt 1.6.7, fremgår av følgende:*Husdyrproduksjon**Maksimalt antall dyreenheter per dekar**Storfe:*Ungdyr opp til 18 måneder0,46Melkekyr0,14Ammekyr0,30*Småfe:*Sauer1,75Geiter1,31*Gris:*Slaktegriser6,40Avlsgriser (inkl. årsproduksjon av 30 smågriser opp til 30 kg)0,55Unggris til avl, 30 kg fram til bedekning5,41*Fjørfe:*Verpehøns28Avlsdyr av fjørfe24Livkyllinger383Slaktekyllinger196Ender og gjess194Kalkun45*Andre dyrearter:*Hest0,41Hjort, lama, alpakka1,67
+Maksimalt antall dyreenheter på virksomhetens landbruksareal eller for samarbeidende virksomheters landbruksareal som tilsvarer grensen på 17 kg nitrogen per år og dekar for ulike typer husdyrproduksjon, jf. [§ 2](forskrift/2022-06-11-1171/§2) jf. forordning [(EU) 2018/848](eu/32018r0848) vedlegg II del II punkt 1.6.7, fremgår av følgende:
+
+| *Husdyrproduksjon* | *Maksimalt antall dyreenheter per dekar* |
+| --- | --- |
+| *Storfe:* |  |
+| Ungdyr opp til 18 måneder | 0,46 |
+| Melkekyr | 0,14 |
+| Ammekyr | 0,30 |
+| *Småfe:* |  |
+| Sauer | 1,75 |
+| Geiter | 1,31 |
+| *Gris:* |  |
+| Slaktegriser | 6,40 |
+| Avlsgriser (inkl. årsproduksjon av 30 smågriser opp til 30 kg) | 0,55 |
+| Unggris til avl, 30 kg fram til bedekning | 5,41 |
+| *Fjørfe:* |  |
+| Verpehøns | 28 |
+| Avlsdyr av fjørfe | 24 |
+| Livkyllinger | 383 |
+| Slaktekyllinger | 196 |
+| Ender og gjess | 194 |
+| Kalkun | 45 |
+| *Andre dyrearter:* |  |
+| Hest | 0,41 |
+| Hjort, lama, alpakka | 1,67 |
 
 > Endret ved forskrift [26 feb 2026 nr. 332](forskrift/2026-02-26-332) (i kraft 4 mars 2026).
 
@@ -207,9 +231,27 @@ Liste over tredjestater og relevante spesifikasjoner nevnt i § 19
 
 > Endret ved forskrift [9 des 2024 nr. 2996](forskrift/2024-12-09-2996).
 
+*I dette vedlegg har produktkategoriene følgende koder:*
+
+|  |  |
+| --- | --- |
+| A: | Ubearbeidede planteprodukter |
+| B: | Levende dyr eller ubearbeidede animalske produkter |
+| C: | Uforedlede akvakulturprodukter og alger |
+| D: | Bearbeidede landbruksprodukter til bruk som næringsmidler |
+| E: | Bearbeidede landbruksprodukter til bruk som fôr |
+| F: | Vegetativt formeringsmateriale og frø til dyrking |
+
 ### CHILE:
 
 ### 1. Produktkategorier:
+
+| *Produktkategorier* | *Kategoribeskrivelse* | *Beskrivelse av produkter og begrensninger* |
+| --- | --- | --- |
+| Uforedlede planteprodukter | A | [(pdf)](static/SF/sf-20220611-1171-01-01.pdf) |
+| Honning | – |  |
+| Foredlede landbruksprodukter til bruk som næringsmidler | D |  |
+| Vegetative formeringsmateriale og frø til kultivering | F |  |
 
 ### 2. Opprinnelse:
 
@@ -225,6 +267,13 @@ Servicio Agricola y Ganadero (SAG), Ministry of Agriculture. [http://www.sag.cl/
 
 ### 5. Kontrollorganer:
 
+| *Kodenummer* | *Navn* | *Internettadresse* |
+| --- | --- | --- |
+| CL-BIO-001 | Ecocert Chile S.A. | [http://www.ecocert.cl](https://www.ecocert.com/es-CL/home) |
+| CL-BIO-005 | CERES- Certification of Environmental Standards GmbH | [https://www.ceres-cert.com/](https://www.ceres-cert.de/en/home) |
+| CL-BIO-010 | BIO CERTIFICADORA SERVICIOS LIMITADA O BIOAUDITA | [http://www.bioaudita.cl](https://bioaudita.cl/) |
+| CL-BIO-028 | Control Union Peru SAC | [www.cuperu.com/portal/](https://www.cuperu.com/portal/) |
+
 ### 6. Organer som utsteder sertifikater:
 
 Som i nr. 5.
@@ -236,6 +285,14 @@ ikke fastsatt
 ### SVEITS
 
 ### 1. Produktkategorier:
+
+| *Produktkategorier* | *Kategoribeskrivelse* | *Begrensninger* |
+| --- | --- | --- |
+| Uforedlede planteprodukter | A | Med unntak av produkter som er produsert i omleggingsperioden. |
+| Levende dyr eller uforedlede animalske produkter | B |  |
+| Foredlede landbruksprodukter til bruk som næringsmidler | D | Med unntak av produkter som inneholder en ingrediens av landbruksopprinnelse som er produsert i omleggingsperioden. |
+| Foredlede landbruksprodukter til bruk som fôr | E | Med unntak av produkter som inneholder en ingrediens av landbruksopprinnelse som er produsert i omleggingsperioden. |
+| Vegetativt formeringsmateriale og frø til dyrking | F |  |
 
 ### 2. Opprinnelse:
 
@@ -251,6 +308,13 @@ Federal Office for Agriculture FOAG, Federal Office for Agriculture FOAG, [http:
 
 ### 5. Kontrollorganer:
 
+| *Kodenummer* | *Navn* | *Internettadresse* |
+| --- | --- | --- |
+| CH-BIO-004 | Ecocert IMOswiss AG | [https://www.ecocert-imo.ch](https://www.ecocert.com/de-CH/home) |
+| CH-BIO-006 | bio.inspecta AG | [https://www.bio-inspecta.ch](https://www.bio-inspecta.ch/en/home) |
+| CH-BIO-038 | ProCert AG | [https://www.procert.ch](https://www.procert.ch/) |
+| CH-BIO-086 | Bio Test Agro (BTA) | [https://www.bio-test-agro.ch](https://www.bio-test-agro.ch/) |
+
 ### 6. Organer som utsteder sertifikater:
 
 Som i nr. 5.
@@ -262,6 +326,15 @@ Ikke fastsatt.
 ### STORBRITANNIA
 
 ### 1. Produktkategorier:
+
+| *Produktkategorier* | *Kategoribeskrivelse* | *Begrensninger* |
+| --- | --- | --- |
+| Uforedlede planteprodukter | A |  |
+| Levende dyr eller uforedlede animalske produkter inkludert honning | B |  |
+| Akvakulturprodukter og tang | C |  |
+| Foredlede planteprodukter til bruk som mat | D |  |
+| Foredlede landbruksprodukter til bruk som fòr | E |  |
+| Vegetative formeringsmateriale og frø til dyrking | F |  |
 
 ### 2. Opprinnelse:
 
@@ -275,9 +348,20 @@ Henvisninger i denne listen til beholdt unionslovgivning anses å være referans
 
 ### 4. Vedkommende myndighet:
 
-Kompetent myndighet: Department for Environment, Food and Rural Affairs ([www.gov.uk/government/organisations/department-for-environment-food-rural-affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs)) (DEFRA)
+Kompetent myndighet: Department for Environment, Food and Rural Affairs ( [www.gov.uk/government/organisations/department-for-environment-food-rural-affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs)) (DEFRA)
 
 ### 5. Kontrollorganer:
+
+| *Kodenummer* | *Navn* | *Internettadresse* |
+| --- | --- | --- |
+| GB-ORG-02 | Organic Farmers & Growers CIC | [https://ofgorganic.org](https://ofgorganic.org) |
+| GB-ORG-04 | Organic Food Federation | [http://www.orgfoodfed.com](https://www.orgfoodfed.com) |
+| GB-ORG-05 | Soil Association Certification Ltd | [https://www.soilassociation.org/certification](https://www.soilassociation.org/certification) |
+| GB-ORG-06 | Bio-Dynamic Association Certification | [https://bdcertification.org.uk](https://bdcertification.org.uk) |
+| GB-ORG-07 | Irish Organic Association | [https://www.irishorganicassociation.ie](https://www.irishorganicassociation.ie) |
+| GB-ORG-09 | Organic Trust CLG | [https://organictrust.ie](https://organictrust.ie) |
+| GB-ORG-13 | Quality Welsh Food Certification Ltd | [https://www.wlbp.co.uk](https://www.wlbp.co.uk) |
+| GB-ORG-17 | O F & G (Scotland) Ltd | [https://ofgorganic.org](https://ofgorganic.org) |
 
 ### 6. Organer som utsteder sertifikater:
 
@@ -307,6 +391,10 @@ Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(E
 
 ### Konsolidert forordning (EU) 2018/848
 
+►**B** Forordning [(EU) 2018/848](eu/32018r0848) av 3. mai 2018
+
+som er endret ved
+
 - ►**M1** Forordning [(EU) 2020/427](eu/32020r0427) av 13. januar 2020, endret ved ►**M2** Forordning [(EU) 2021/269](eu/32021r0269) av 4. desember 2020
 - ►**M3** Forordning [(EU) 2020/1693](eu/32020r1693) av 11. november 2020
 - ►**M4** Forordning [(EU) 2020/1794](eu/32020r1794) av 16. september 2020
@@ -321,6 +409,8 @@ Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(E
 - ►**M14** Forordning [(EU) 2024/2867](eu/32024r2867) av 2. september 2024
 - ►**EØS**-tilpasning som følge av [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII)
 
+[pdf-fil](static/SF/32018r0848k-06.pdf)
+
 ### Forordninger gjennomført i forskriftens § 3
 
 > Endret ved forskrifter [25 sep 2023 nr. 1513](forskrift/2023-09-25-1513), [11 des 2023 nr. 2001](forskrift/2023-12-11-2001), [24 juni 2024 nr. 1310](forskrift/2024-06-24-1310), [8 des 2025 nr. 2451](forskrift/2025-12-08-2451).
@@ -329,37 +419,65 @@ Nedenfor gjengis til informasjon uoffisielle norske oversettelser av forordninge
 
 ### Forordning (EU) 2020/2146
 
+[pdf-fil](static/SF/32020r2146u-01.pdf)
+
 ### Konsolidert forordning (EU) 2020/464
 
 Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(EU) 2020/464](eu/32020r0464). Den er endret ved forordning [(EU) 2020/2042](eu/32020r2042). Alle endringer av rettsakten er innarbeidet
 
+►**B** Forordning [(EU) 2020/464](eu/32020r0464)
+som er endret ved
+
 - ►**M1** Forordning [(EU) 2020/2042](eu/32020r2042)
+
+[pdf-fil](static/SF/32020r0464u-01.pdf)
 
 ### Forordning (EU) 2021/771
 
+[pdf-fil](static/SF/32021r0771u-01.pdf)
+
 ### Forordning (EU) 2021/1189
 
+[pdf-fil](static/SF/32021r1189u-01.pdf)
+
 ### Forordning (EU) 2021/279
+
+[pdf-fil](static/SF/32021r0279u-01.pdf)
 
 ### Konsolidert forordning [(EU) 2021/1165](eu/32021r1165)
 
 Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(EU) 2021/1165](eu/32021r1165). Den er endret ved forordning [(EU) 2023/121](eu/32023r0121) og forordning [(EU) 2025/973](eu/32025r0973). Alle endringer av rettsakten er innarbeidet.
 
+►**B** Forordning [(EU) 2021/1165](eu/32021r1165) av 15. juli 2021
+
+som er endret ved
+
 - ►**M1** Forordning [(EU) 2023/121](eu/32023r0121) av 17. januar 2023
 - ►**M2** Forordning [(EU) 2023/2229](eu/32023r2229) av 25. oktober 2023
 - ►**M3** Forordning [(EU) 2025/973](eu/32025r0973) av 23. mai 2025
+
+[pdf-fil](static/SF/32021r1165k-04.pdf)
 
 ### Konsolidert forordning (EU) 2021/2119
 
 Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(EU) 2021/2119](eu/32021r2119). Den er endret ved forordning [(EU) 2022/2240](eu/32022r2240). Alle endringer av rettsakten er innarbeidet
 
+►**B** Forordning [(EU) 2021/2119](eu/32021r2119) av 1. desember 2021
+som er endret ved
+
 - ►**M1** Forordning [(EU) 2022/2240](eu/32022r2240) av 20. oktober 2022
 
+[pdf-fil](static/SF/32021r2119k-02.pdf)
+
 ### Forordning (EU) 2023/1195
+
+[pdf-fil](static/SF/32023r1195u-01.pdf)
 
 ### Forordning om merking av økologisk fôr til kjæledyr gjennomført i forskriftens § 3a
 
 Nedenfor gjengis til informasjon uoffisielle norske oversettelser av forordninger om merking av økologisk fôr til kjæledyr.
+
+[pdf-fil](static/SF/32023r2419-01.pdf)
 
 > Tilføyd ved forskrift [24 juni 2024 nr. 1310](forskrift/2024-06-24-1310).
 
@@ -373,20 +491,34 @@ Nedenfor gjengis til informasjon uoffisielle norske oversettelser av forordninge
 
 Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(EU) 2021/2306](eu/32021r2306). Her er det innarbeidet tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII), og endringer som følger av forordning [(EU) 2022/760](eu/32022r0760), forordning [(EU) 2022/2238](eu/32022r2238) og forordning [(EU) 2024/2975](eu/32024r2975). Alle endringer av rettsakten er innarbeidet.
 
+►**B** Forordning [(EU) 2021/2306](eu/32021r2306) av 21. oktober 2021
+som er endret ved
+
 - ►**M1** Forordning [(EU) 2022/760](eu/32022r0760) av 8. april 2022
 - ►**M2** Forordning [(EU) 2022/2238](eu/32022r2238) av 22. april 2022
 - ►**M3** Forordning [(EU) 2024/2975](eu/32024r2975) av 25. september 2024
 - ►**EØS**-tilpasning som følge av [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII)
 
+[pdf-fil](static/SF/32021r2306k-03.pdf)
+
 ### Konsolidert forordning (EU) 2021/1342
 
 Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(EU) 2021/1342](eu/32021r1342). Den er endret ved forordning [(EU) 2024/230](eu/32024r0230). Alle endringer av rettsakten er innarbeidet.
 
+►**B** Forordning [(EU) 2021/1342](eu/32021r1342) av 27. mai 2021
+som er endret ved
+
 - ►**M1** Forordning [(EU) 2024/230](eu/32024r0230) av 25. oktober 2023
+
+[pdf-fil](static/SF/32021r1342k-01.pdf)
 
 ### Konsolidert forordning (EU) 2021/1378
 
 Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(EU) 2021/1378](eu/32021r1378). Den er endret ved forordning [(EU) 2021/2119](eu/32021r2119), forordning [(EU) 2022/2240](eu/32022r2240), forordning [(EU) 2024/1748](eu/32024r1748), forordning [(EU) 2024/2140](eu/32024r2140), forordning [(EU) 2024/2794](eu/32024r2794) forordning [(EU) 2024/3121](eu/32024r3121), forordning [(EU) 2025/882](eu/32025r0882), og forordning [(EU) 2025/2138](eu/32025r2138). Alle endringer av rettsakten er innarbeidet.
+
+►**B** Forordning [(EU) 2021/1378](eu/32021r1378) av 19. august 2021
+
+som er endret ved
 
 - ►**M1** Forordning [(EU) 2021/2119](eu/32021r2119) av 1. desember 2021
 - ►**M2** Forordning [(EU) 2022/2240](eu/32022r2240) av 20. oktober 2022
@@ -397,23 +529,39 @@ Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(E
 - ►**M7** Forordning [(EU) 2025/882](eu/32025r0882) av 14. mai 2025
 - ►**M8** Forordning [(EU) 2025/2138](eu/32025r2138) av 21. oktober 2025
 
+[pdf-fil](static/SF/32021r1378k-08.pdf)
+
 ### Konsolidert forordning [(EU) 2021/1698](eu/32021r1698)
 
 Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(EU) 2021/1608](eu/32021b1608). Den er endret ved forordning [(EU) 2023/1686](eu/32023r1686), forordning [(EU) 2024/2975](eu/32024r2975) og forordning [(EU) 2024/3095](eu/32024r3095). Alle endringer av rettsakten er innarbeidet.
+
+►**B** Forordning [(EU) 2021/1698](eu/32021r1698) av 13. juli 2021
+som er endret ved
 
 - ►**M1** Forordning [(EU) 2023/1686](eu/32023r1686) av 30. juni 2023
 - ►**M2** Forordning [(EU) 2024/2975](eu/32024r2975) av 25.september 2024
 - ►**M3** Forordning [(EU) 2024/3095](eu/32024r3095) av 29. juli 2024
 
+[pdf-fil](static/SF/32021r1698k-03.pdf)
+
 ### Konsolidert forordning (EU) 2021/2307
 
 Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(EU) 2021/2307](eu/32021r2307). Den er endret ved forordning [(EU) 2022/2240](eu/32022r2240). Alle endringer av rettsakten er innarbeidet.
 
+►**B** Forordning [(EU) 2021/2307](eu/32021r2307) av 21. oktober av 2021
+som er endret ved
+
 - ►**M1** Forordning [(EU) 2022/2240](eu/32022r2240) av 20. oktober 2022
+
+[pdf-fil](static/SF/32021r2307k-02.pdf)
 
 ### Konsolidert forordning (EU) 2021/2325
 
 Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(EU) 2021/2325](eu/32021r2325). Den er endret ved forordning [(EU) 2022/2047](eu/32022r2047), forordning [(EU) 2022/2049](eu/32022r2049), forordning [(EU) 2022/2468](eu/32022r2468), forordning [(EU) 2023/186](eu/32023r0186), forordning [(EU) 2023/1202](eu/32023r1202), forordning [(EU) 2023/2785](eu/32023r2785) og forordning [(EU) 2025/883](eu/32025r0883). Alle endringer av rettsakten er innarbeidet.
+
+►**B** Forordning [(EU) 2021/2325](eu/32021r2325) av 16. desember 2021 2021
+
+som er endret ved
 
 - ►**M1** Forordning [(EU) 2022/2047](eu/32022r2047) av 24. oktober 2022
 - ►**M2** Forordning [(EU) 2022/2049](eu/32022r2049) av 24. oktober 2022
@@ -423,4 +571,8 @@ Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(E
 - ►**M6** Forordning [(EU) 2023/2785](eu/32023r2785) av 14. desember 2023
 - ►**M7** Forordning [(EU) 2025/883](eu/32025r0883) av 14. mai 2025
 
+[pdf-fil](static/SF/32021r2325k-06.pdf)
+
 ### Forordning (EU) 2022/1450
+
+[pdf-fil](static/SF/32022r1450u-01.pdf)
