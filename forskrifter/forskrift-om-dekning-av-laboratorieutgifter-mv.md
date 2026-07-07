@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2003-07-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-04-19"
-xml_hash: "4c60fd51940b991993701c882cc246143c8dd654139deaa6abdd75ff69da1551"
+xml_hash: "f4c99d5da48cc6518e9c66a18a83325f98d309f0583faa3563f9e2a0915724dc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -117,23 +117,132 @@ Det kan kreves refusjon for de patologiske analysene som inngår i APAT. Se kode
 
 Et gyldig refusjonskrav må minst inneholde et prøvemateriale, samt det refusjonsbeløp som kreves, jf. merknad F2.
 
-Alminnelige undersøkelser*Takst**Tekst**Egenandel**Refusjon**Merknad**Rep.*701aTaking av blodprøver64,–0,–0
+Alminnelige undersøkelser
 
-Medisinsk biokjemi*Refusjonskategori**Refusjon**Merknad*MB00,47F1MB14,68F1MB26,33F1MB38,65F1MB411,48F1MB515,45F1MB621,10F1MB731,95F1MB852,57F1MB974,97F1MB10121,79F1MB11204,80F1MB12468,33F1MB131 114,40F1MB142 228,83F1MB154 457,65F1
+| *Takst* | *Tekst* | *Egenandel* | *Refusjon* | *Merknad* | *Rep.* |
+| --- | --- | --- | --- | --- | --- |
+| 701a | Taking av blodprøver | 64,– | 0,– |  | 0 |
 
-Klinisk farmakologi*Refusjonskategori**Refusjon**Merknad*KF00,54F1KF110,53F1KF220,01F1KF336,84F1KF466,36F1KF5136,97F1KF6252,83F1KF7421,40F1KF8579,44F1KF9714,18F1KF101 174,45F1KF112 422,18F1
+Medisinsk biokjemi
 
-Medisinsk mikrobiologi*Refusjonskategori**Refusjon**Merknad*MM00,81F1MM127,75F1MM236,08F1MM347,18F1MM472,69F1MM5116,58F1MM6177,63F1MM7249,77F1MM8402,97F1MM9777,06F1MM101 248,85F1
+| *Refusjonskategori* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| MB0 | 0,47 | F1 |
+| MB1 | 4,68 | F1 |
+| MB2 | 6,33 | F1 |
+| MB3 | 8,65 | F1 |
+| MB4 | 11,48 | F1 |
+| MB5 | 15,45 | F1 |
+| MB6 | 21,10 | F1 |
+| MB7 | 31,95 | F1 |
+| MB8 | 52,57 | F1 |
+| MB9 | 74,97 | F1 |
+| MB10 | 121,79 | F1 |
+| MB11 | 204,80 | F1 |
+| MB12 | 468,33 | F1 |
+| MB13 | 1 114,40 | F1 |
+| MB14 | 2 228,83 | F1 |
+| MB15 | 4 457,65 | F1 |
 
-Immunologi og transfusjonsmedisin*Refusjonskategori**Refusjon**Merknad*IT00,88F1IT122,28F1IT231,20F1IT343,46F1IT457,93F1IT573,55F1IT6102,52F1IT7200,58F1IT8445,74F1IT91 103,19F1IT104 407,18F1IT116 336,62F1
+Klinisk farmakologi
 
-Patologi*Refusjonskategori prøvematerialer**Refusjon**Merknad*PATP00,00F2PATP1109,41F2PATP2304,39F2PATP3450,60F2PATP4682,38F2PATP5879,62F2PATP61 207,60F2PATP71 466,24F2PATP82 042,17F2PATP92 738,48F2PATP103 215,94F2PATP114 718,97F2PATP1213 780,92F2*Refusjonskategori additive tilleggskoder**Refusjon**Merknad*PATA00,00F2PATA128,57F2PATA273,46F2PATA3114,28F2PATA4155,10F2PATA5306,09F2PATA6513,23F2PATA7816,26F2PATA81 530,49F2PATA92 958,95F2PATA107 346,37F2PATA1112 713,29F2PATA1218 197,55F2
+| *Refusjonskategori* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| KF0 | 0,54 | F1 |
+| KF1 | 10,53 | F1 |
+| KF2 | 20,01 | F1 |
+| KF3 | 36,84 | F1 |
+| KF4 | 66,36 | F1 |
+| KF5 | 136,97 | F1 |
+| KF6 | 252,83 | F1 |
+| KF7 | 421,40 | F1 |
+| KF8 | 579,44 | F1 |
+| KF9 | 714,18 | F1 |
+| KF10 | 1 174,45 | F1 |
+| KF11 | 2 422,18 | F1 |
 
-Andre undersøkelser*Takst**Tekst**Ref.**Merk.**Rep.*707aTaking av EKG*15,67*0707bTyding av EKG*15,67*0870Måling av benmineralinnhold – måling med DXA. Taksten kan ikke benyttes ved screeningundersøkelser. Taksten kan kun kreves av spesialister innen endokrinologi, nukleærmedisin, radiologi, revmatologi eller andre med dokumentert spesialkunnskap innen fagområdet metabolske bensykdommer. Taksten kan kun kreves 1 gang per år per pasient. Pasienten kan i tillegg avkreves egenandel iht. takst 899a.53,310
+Medisinsk mikrobiologi
 
-- Se følgende dokumenter på hjemmesidene til Helsedirektoratet ([www.helsedirektoratet.no](https://www.helsedirektoratet.no)): «Norsk laboratoriekodeverk» og «veileder i norsk laboratoriekodeverk». Regelverket for finansieringsordningen finnes på Helfos nettsider ([www.helfo.no](https://www.helfo.no)): «Regler for fremsettelse av refusjonskrav for polikliniske laboratorieanalyser 2026 – private laboratorier» med vedlegg der det framgår hvilken refusjonskategori den enkelte laboratorieanalyse er plassert i.
+| *Refusjonskategori* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| MM0 | 0,81 | F1 |
+| MM1 | 27,75 | F1 |
+| MM2 | 36,08 | F1 |
+| MM3 | 47,18 | F1 |
+| MM4 | 72,69 | F1 |
+| MM5 | 116,58 | F1 |
+| MM6 | 177,63 | F1 |
+| MM7 | 249,77 | F1 |
+| MM8 | 402,97 | F1 |
+| MM9 | 777,06 | F1 |
+| MM10 | 1 248,85 | F1 |
 
-Se følgende dokumenter på hjemmesidene til Helsedirektoratet ([www.helsedirektoratet.no](https://www.helsedirektoratet.no)): Koder for aktivitetsregistrering (APAT) og brukerveiledning. Reglene for den polikliniske finansieringsordningen finnes på Helfos nettsider ([www.helfo.no](https://www.helfo.no)): «Regler for fremsettelse av refusjonskrav for poliklinisk patologiaktivitet 2026 – private laboratorier» med vedlegg der det framgår hvilken refusjonskategori det enkelte prøvemateriale og den enkelte additive tilleggskode er plassert i, samt faktor for de enkelte multiplikative koder.
+Immunologi og transfusjonsmedisin
+
+| *Refusjonskategori* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| IT0 | 0,88 | F1 |
+| IT1 | 22,28 | F1 |
+| IT2 | 31,20 | F1 |
+| IT3 | 43,46 | F1 |
+| IT4 | 57,93 | F1 |
+| IT5 | 73,55 | F1 |
+| IT6 | 102,52 | F1 |
+| IT7 | 200,58 | F1 |
+| IT8 | 445,74 | F1 |
+| IT9 | 1 103,19 | F1 |
+| IT10 | 4 407,18 | F1 |
+| IT11 | 6 336,62 | F1 |
+
+Patologi
+
+| *Refusjonskategori prøvematerialer* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| PATP0 | 0,00 | F2 |
+| PATP1 | 109,41 | F2 |
+| PATP2 | 304,39 | F2 |
+| PATP3 | 450,60 | F2 |
+| PATP4 | 682,38 | F2 |
+| PATP5 | 879,62 | F2 |
+| PATP6 | 1 207,60 | F2 |
+| PATP7 | 1 466,24 | F2 |
+| PATP8 | 2 042,17 | F2 |
+| PATP9 | 2 738,48 | F2 |
+| PATP10 | 3 215,94 | F2 |
+| PATP11 | 4 718,97 | F2 |
+| PATP12 | 13 780,92 | F2 |
+
+| *Refusjonskategori additive tilleggskoder* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| PATA0 | 0,00 | F2 |
+| PATA1 | 28,57 | F2 |
+| PATA2 | 73,46 | F2 |
+| PATA3 | 114,28 | F2 |
+| PATA4 | 155,10 | F2 |
+| PATA5 | 306,09 | F2 |
+| PATA6 | 513,23 | F2 |
+| PATA7 | 816,26 | F2 |
+| PATA8 | 1 530,49 | F2 |
+| PATA9 | 2 958,95 | F2 |
+| PATA10 | 7 346,37 | F2 |
+| PATA11 | 12 713,29 | F2 |
+| PATA12 | 18 197,55 | F2 |
+
+Andre undersøkelser
+
+| *Takst* | *Tekst* | *Ref.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- |
+| 707a | Taking av EKG | *15,67* |  | 0 |
+| 707b | Tyding av EKG | *15,67* |  | 0 |
+| 870 | Måling av benmineralinnhold – måling med DXA. Taksten kan ikke benyttes ved screeningundersøkelser. Taksten kan kun kreves av spesialister innen endokrinologi, nukleærmedisin, radiologi, revmatologi eller andre med dokumentert spesialkunnskap innen fagområdet metabolske bensykdommer. Taksten kan kun kreves 1 gang per år per pasient. Pasienten kan i tillegg avkreves egenandel iht. takst 899a. | 53,31 |  | 0 |
+
+*Merknad F1*
+
+- Se følgende dokumenter på hjemmesidene til Helsedirektoratet ( [www.helsedirektoratet.no](https://www.helsedirektoratet.no)): «Norsk laboratoriekodeverk» og «veileder i norsk laboratoriekodeverk». Regelverket for finansieringsordningen finnes på Helfos nettsider ( [www.helfo.no](https://www.helfo.no)): «Regler for fremsettelse av refusjonskrav for polikliniske laboratorieanalyser 2026 – private laboratorier» med vedlegg der det framgår hvilken refusjonskategori den enkelte laboratorieanalyse er plassert i.
+
+*Merknad F2*
+
+Se følgende dokumenter på hjemmesidene til Helsedirektoratet ( [www.helsedirektoratet.no](https://www.helsedirektoratet.no)): Koder for aktivitetsregistrering (APAT) og brukerveiledning. Reglene for den polikliniske finansieringsordningen finnes på Helfos nettsider ( [www.helfo.no](https://www.helfo.no)): «Regler for fremsettelse av refusjonskrav for poliklinisk patologiaktivitet 2026 – private laboratorier» med vedlegg der det framgår hvilken refusjonskategori det enkelte prøvemateriale og den enkelte additive tilleggskode er plassert i, samt faktor for de enkelte multiplikative koder.
 
 Refusjon innen patologi kan kreves også for prøver og undersøkelser utført av odontolog som har spesialkompetanse innen oral patologi.
 
@@ -149,16 +258,66 @@ Det kan kreves refusjon for de radiologiske prosedyrene som inngår i kodeverket
 
 Et gyldig refusjonskrav må minst inneholde en kode for enten en diagnostisk undersøkelse eller en bildeveiledet intervensjon, samt det refusjonsbeløp som kreves, jf. merknad B1.
 
-*Tabell B1 Refusjonskategorier og satser radiologi**Modalitet**Refusjonskategori**Refusjon**Merknad*RøntgenRG11,00B1RøntgenRG22,00B1RøntgenRG379,74B1RøntgenRG4232,84B1RøntgenRG5548,53B1Computer TomografiCT1103,33B1Computer TomografiCT2334,59B1Computer TomografiCT3581,42B1Computer TomografiCT4788,00B1Computer TomografiCT5956,55B1MRMR1279,08B1MRMR2527,97B1MRMR3798,28B1MRMR41 144,64B1MRMR51 391,29B1MRMR62 485,87B1UltralydUL11,00B1UltralydUL22,00B1UltralydUL33,00B1UltralydUL422,19B1UltralydUL5112,63B1IntervensjonINT11,00B1IntervensjonINT268,43B1IntervensjonINT3214,34B1IntervensjonINT4570,11B1IntervensjonINT52 082,99B1*Takst**Tekst**Egenandel**Ref.**Merk.**Rep.*899aTillegg for undersøkelse/behandling for pasient fra helseregion hvor det regionale helseforetaket har avtale med instituttet.387,–0,–0
+*Tabell B1 Refusjonskategorier og satser radiologi*
+
+| *Modalitet* | *Refusjonskategori* | *Refusjon* | *Merknad* |
+| --- | --- | --- | --- |
+| Røntgen | RG1 | 1,00 | B1 |
+| Røntgen | RG2 | 2,00 | B1 |
+| Røntgen | RG3 | 79,74 | B1 |
+| Røntgen | RG4 | 232,84 | B1 |
+| Røntgen | RG5 | 548,53 | B1 |
+| Computer Tomografi | CT1 | 103,33 | B1 |
+| Computer Tomografi | CT2 | 334,59 | B1 |
+| Computer Tomografi | CT3 | 581,42 | B1 |
+| Computer Tomografi | CT4 | 788,00 | B1 |
+| Computer Tomografi | CT5 | 956,55 | B1 |
+| MR | MR1 | 279,08 | B1 |
+| MR | MR2 | 527,97 | B1 |
+| MR | MR3 | 798,28 | B1 |
+| MR | MR4 | 1 144,64 | B1 |
+| MR | MR5 | 1 391,29 | B1 |
+| MR | MR6 | 2 485,87 | B1 |
+| Ultralyd | UL1 | 1,00 | B1 |
+| Ultralyd | UL2 | 2,00 | B1 |
+| Ultralyd | UL3 | 3,00 | B1 |
+| Ultralyd | UL4 | 22,19 | B1 |
+| Ultralyd | UL5 | 112,63 | B1 |
+| Intervensjon | INT1 | 1,00 | B1 |
+| Intervensjon | INT2 | 68,43 | B1 |
+| Intervensjon | INT3 | 214,34 | B1 |
+| Intervensjon | INT4 | 570,11 | B1 |
+| Intervensjon | INT5 | 2 082,99 | B1 |
+
+| *Takst* | *Tekst* | *Egenandel* | *Ref.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- | --- |
+| 899a | Tillegg for undersøkelse/behandling for pasient fra helseregion hvor det regionale helseforetaket har avtale med instituttet. | 387,– | 0,– |  | 0 |
 
 ### 2. Nukleærmedisin
 
 Til enhver poliklinisk nukleærmedisinsk prosedyre er det knyttet én og bare én unik refusjonssats (kronebeløp). De prosedyrene det kan kreves refusjon for inngår i «Regelverk for finansiering av poliklinisk radiologi ved private røntgeninstitutt for 2026». Et gyldig refusjonskrav må i tillegg til en prosedyrekode alltid inneholde en tilleggskode for det radiofarmakum som benyttes. Se kodeveiledning og regelverket for finansiering av poliklinisk radiologi ved private røntgeninstitutt, for detaljer, jf. merknad B1. I regelverkene for finansiering av poliklinisk radiologi fremgår også hvilken refusjonskategori den enkelte prosedyre er plassert i.
 
-*Tabell B2: Refusjonskategorier og satser for nukleærmedisin inkludert PET**Refusjonskategori**Refusjon**Merknad*NM 1940,11B1NM 21 314,21B1NM 32 055,24B1NM 43 910,36B1NM 55 633,94B1NM 69 733,72B1NM 718 412,23B1PET11 495,11B1PET23 329,67B1PET34 334,83B1PET48 273,26B1PET522 552,00B1
+*Tabell B2: Refusjonskategorier og satser for nukleærmedisin inkludert PET*
+
+| *Refusjonskategori* | *Refusjon* | *Merknad* |
+| --- | --- | --- |
+| NM 1 | 940,11 | B1 |
+| NM 2 | 1 314,21 | B1 |
+| NM 3 | 2 055,24 | B1 |
+| NM 4 | 3 910,36 | B1 |
+| NM 5 | 5 633,94 | B1 |
+| NM 6 | 9 733,72 | B1 |
+| NM 7 | 18 412,23 | B1 |
+| PET1 | 1 495,11 | B1 |
+| PET2 | 3 329,67 | B1 |
+| PET3 | 4 334,83 | B1 |
+| PET4 | 8 273,26 | B1 |
+| PET5 | 22 552,00 | B1 |
+
+*Merknad B1*
 
 - Se følgende dokumenter på hjemmesidene til HelsedirektoratetKodeverket «Norsk klassifikasjon av radiologiske prosedyrer (NCRP)» er samordnet med andre prosedyrekodeverk og inngår nå i kodeverket for medisinske, kirurgiske og radiologiske prosedyrer (NCMP, NCSP og NCRP).Kodeveiledning for NCRP inngår nå i «Regler og veiledning for kliniske kodeverk i spesialisthelsetjenesten (ICD 10, NCMP, NCSP og NCRP)».
-- Regelverket for den polikliniske finansieringsordningen finnes på Helfos nettsider ([www.helfo.no](https://www.helfo.no)):«Regelverk for finansiering av poliklinisk radiologi ved private røntgeninstitutt i 2026».
+- Regelverket for den polikliniske finansieringsordningen finnes på Helfos nettsider ( [www.helfo.no](https://www.helfo.no)):«Regelverk for finansiering av poliklinisk radiologi ved private røntgeninstitutt i 2026».
 
 > Endret ved [forskrifter 30 des 2003 nr. 1801](forskrift/2003-12-30-1801) (i kraft 1 jan 2004), [31 mars 2004 nr. 609](forskrift/2004-03-31-609), [29 juni 2004 nr. 1058](forskrift/2004-06-29-1058) (i kraft 1 juli 2004), [21 des 2004 nr. 1823](forskrift/2004-12-21-1823) (i kraft 1 jan 2005), [1 sep 2005 nr. 1231](forskrift/2005-09-01-1231), [18 des 2005 nr. 1692](forskrift/2005-12-18-1692) (i kraft 1 jan 2006), [21 juni 2006 nr. 671](forskrift/2006-06-21-671) (i kraft 1 juli 2006), [18 des 2006 nr. 1511](forskrift/2006-12-18-1511) (i kraft 1 jan 2007), [19 des 2007 nr. 1657](forskrift/2007-12-19-1657) (i kraft 1 jan 2008), [26 juni 2008 nr. 733](forskrift/2008-06-26-733) (i kraft 1 juli 2008), [22 des 2008 nr. 1581](forskrift/2008-12-22-1581) (i kraft 1 jan 2009), [26 juni 2009 nr. 950](forskrift/2009-06-26-950) (i kraft 1 juli 2009), [21 des 2009 nr. 1732](forskrift/2009-12-21-1732) (i kraft 1 jan 2010), [23 juni 2010 nr. 962](forskrift/2010-06-23-962) (i kraft 1 juli 2010), [16 des 2010 nr. 1699](forskrift/2010-12-16-1699) (i kraft 1 jan 2011), [19 des 2011 nr. 1418](forskrift/2011-12-19-1418) (i kraft 1 jan 2012), [18 des 2012 nr. 1365](forskrift/2012-12-18-1365) (i kraft 1 jan 2013), [25. juni 2013 nr. 767](forskrift/2013-06-25-767) (i kraft 1 juli 2013), [17 des 2013 nr. 1562](forskrift/2013-12-17-1562) (i kraft 1 jan 2014), [24 juni 2014 nr. 858](forskrift/2014-06-24-858) (i kraft 1 juli 2014), [11 des 2014 nr. 1591](forskrift/2014-12-11-1591) (i kraft 1 jan 2015), [14 des 2015 nr. 1476](forskrift/2015-12-14-1476) (i kraft 1 jan 2016), [23 juni 2016 nr. 779](forskrift/2016-06-23-779) (i kraft 1 juli 2016), [20 des 2016 nr. 1773](forskrift/2016-12-20-1773) (i kraft 1 jan 2017), [15 des 2017 nr. 2343](forskrift/2017-12-15-2343) (i kraft 1 jan 2018), [27 juni 2018 nr. 1079](forskrift/2018-06-27-1079) (i kraft 1 juli 2018), [13 des 2018 nr. 1916](forskrift/2018-12-13-1916) (i kraft 1 jan 2019), [19 des 2018 nr. 2137](forskrift/2018-12-19-2137) (i kraft 1 jan 2019), [18 des 2019 nr. 1996](forskrift/2019-12-18-1996) (i kraft 1 jan 2020), [23 juni 2020 nr. 1350](forskrift/2020-06-23-1350) (i kraft 1 juli 2020), [10 des 2020 nr. 2744](forskrift/2020-12-10-2744) (i kraft 1 jan 2021), [18 des 2021 nr. 3774](forskrift/2021-12-18-3774) (i kraft 1 jan 2022), [19 des 2022 nr. 2369](forskrift/2022-12-19-2369) (i kraft 1 jan 2023), [30 juni 2023 nr. 1174](forskrift/2023-06-30-1174) (i kraft 1 juli 2023), [19 des 2023 nr. 2196](forskrift/2023-12-19-2196) (i kraft 1 jan 2024), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024), [26 juni 2024 nr. 1352](forskrift/2024-06-26-1352) (i kraft 1 juli 2024), [19 des 2024 nr. 3316](forskrift/2024-12-19-3316) (i kraft 1 jan 2025), [25 juni 2025 nr. 1323](forskrift/2025-06-25-1323) (i kraft 1 juli 2025), [18 des 2025 nr. 2686](forskrift/2025-12-18-2686) (i kraft 1 jan 2026), [4 feb 2026 nr. 145](forskrift/2026-02-04-145) (i kraft 9 feb 2026), [25 juni 2026 nr. 1359](forskrift/2026-06-25-1359) (i kraft 1 juli 2026).
 
