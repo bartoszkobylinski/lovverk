@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-07-03"
 last_change_in_force: "2026-06-09"
 last_updated: "2023-08-10"
-xml_hash: "e2b82a533560922e370c9778f042e8d9b07ede0d922472121b7dc6197d293048"
+xml_hash: "b453fa73f1add8ca9f5ed59e0db1c788a33839c6038d8b0f5180257579335367"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-12T08:22:38.160531+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,9 +66,23 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(EU) 2023/2782](eu/32023r2782) om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av nivåene av mykotoksiner i næringsmidler og om oppheving av forordning. Alle endringer av grunnrettsakten samt de endringene og tilleggene som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg II kapittel XII er innarbeidet nedenfor.
 
+►**B** Forordning [(EU) 2023/2782](eu/32023r2782) av 14. desember 2023 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av mykotoksiner i næringsmidler og om oppheving av forordning [(EF) nr. 401/2006](eu/32006r0401)
+
+som endret ved
+
+►**M1** Forordning [(EU) 2024/885](eu/32024r0885) om prøvetakingsmetoden for tørkede urter, urtete (tørkede produkter), te (tørkede produkter) og krydder i pulverform.
+
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2023/2782](eu/32023r2782)
 av 14. desember 2023
 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av mykotoksiner i næringsmidler og om oppheving av forordning [(EF) nr. 401/2006](eu/32006r0401)
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001) og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 34 nr. 6, og
+
+ut fra følgende betraktninger:
 
 1. Kommisjonsforordning [(EU) nr. 2023/915](eu/32023r0915)2 fastsetter øvre grenseverdier for visse mykotoksiner og meldrøyesklerotier i næringsmidler.
 2. Kommisjonsforordning [(EF) nr. 401/2006](eu/32006r0401)3 fastsetter prøvetakings- og analysemetodene som skal brukes ved offentlig kontroll av innholdet av mykotoksiner i næringsmidler.
@@ -80,17 +94,29 @@ om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av
 8. Ettersom endringene i forordning [(EF) nr. 401/2006](eu/32006r0401) er betydelige, bør den av klarhetshensyn oppheves og erstattes.
 9. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 95 av 7.4.2017, s. 1.
+
+2 Kommisjonsforordning [(EU) 2023/915](eu/32023r0915) av 25. april 2023 om grenseverdier for visse forurensende stoffer i næringsmidler og om oppheving av forordning [(EF) nr. 1881/2006](eu/32006r1881) (EUT L 119 av 5.5.2023, s. 103).
+
+3 Kommisjonsforordning [(EF) nr. 401/2006](eu/32006r0401) av 23. februar 2006 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av mykotoksiner i næringsmidler (EUT L 70 av 9.3.2006, s. 12).
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1
 
 I denne forordningen menes med«parti» en identifiserbar mengde av et næringsmiddel som er levert under ett, og som vedkommende myndighet har fastslått at har felles kjennetegn som f.eks. opprinnelse, art, emballasjetype, emballeringsbedrift, avsender eller merking,«delparti» en fysisk atskilt og identifiserbar del av et stort parti som er valgt ut med sikte på bruk av prøvetakingsmetoden,«enkeltprøve» en materialmengde som er tatt fra ett enkelt sted i partiet eller delpartiet,«samleprøve» summen av enkeltprøvene fra et parti eller delparti,«delprøve» en materialmengde som er tatt ut av samleprøven for kontroll av meldrøyesklerotier ved visuell undersøkelse,«laboratorieprøve» en representativ del eller mengde av samleprøven bestemt for laboratoriet,«gjenfinning (Rec, %)» den prosentandelen som oppnås ved å anvende følgende formel x/xref × 100 % der:x = målt konsentrasjon (for prøver med tilsetning korrigert for bakgrunnskonsentrasjon hvis det ikke er blindprøver), ogxref = referansekonsentrasjon (konsentrasjon i et sertifisert referansemateriale, i et materiale for sammenlignende laboratorieprøving eller i en prøve med tilsetning),«skjevhet» forskjellen mellom den målte verdien og referansekonsentrasjonen,«relativt standardavvik for repeterbarhet (RSDr)» det relative standardavviket (%) beregnet ut fra resultater oppnådd under repeterbarhetsvilkår (repeterbarhetspresisjon): bruk av den samme metoden på det samme prøvematerialet ved det samme laboratoriet av den samme personen, med det samme utstyret innenfor korte tidsintervaller (1 dag eller 1 sekvens),«relativt standardavvik for intern reproduserbarhet (RSDw R)» det relative standardavviket (%) beregnet ut fra resultater oppnådd under interne reproduserbarhetsforhold (intermediær presisjon): bruk av den samme metoden på det samme prøvematerialer ved det samme laboratoriet men på forskjellige dager (fortrinnsvis over et lengre tidsintervall), og kan omfatte andre forhold, for eksempel involvering av forskjellige personer og/eller ulikt (tilsvarende) utstyr,«relativt standardavvik for reproduserbarhet (RSDR)» det relative standardavviket (%) beregnet ut fra resultater som er oppnådd under reproduserbarhetsforhold (presisjon mellom laboratorier), det vil si at det samme materialet analyseres av forskjellige laboratorier. RSDR kan særlig utledes av undersøkelse foretatt ved flere laboratorier og sammenlignende laboratorieprøvinger,«grense for mengdebestemmelse (LOQ)» det laveste innholdet av en analytt som kan måles med rimelig statistisk sikkerhet. I forbindelse med denne forordningen betyr dette det laveste validerte nivået: den laveste testede konsentrasjonen av en analytt i et prøvemateriale, der det er påvist at kriteriene for gjenfinning, presisjon og identifikasjon er oppfylt4,«screeningmålkonsentrasjon (STC)» den relevante konsentrasjonen for påvisning av mykotoksinet i en prøve. Når målet er å teste samsvar med fastsatte grenser, tilsvarer STC gjeldende øvre grenseverdi. Til andre formål eller dersom ingen øvre grenseverdi er fastsatt, forhåndsdefineres STC av laboratoriet,«screeningmetode» en metode som brukes til utvelgelse av prøver med nivåer av mykotoksiner som overskrider screeningmålkonsentrasjonen (STC), med en gitt konfidensgrad. Ved mykotoksinscreening anses en konfidensgrad på 95 % som egnet for formålet. Resultatet av screeninganalysen er enten «negativt» eller «mistenkelig». Screeningmetodene skal sikre en kostnadseffektiv og høy analysekapasitet som øker muligheten til å oppdage nye tilfeller som innebærer høy eksponering og helsefare for forbrukerne. Metodene skal være basert på bioanalytiske metoder, LC-MS-metoder eller HPLC-metoder. Prøveresultater som overstiger grenseverdien, må kontrolleres ved å analysere den opprinnelige prøven på nytt med en bekreftelsesmetode,«negativ prøve» en prøve med et mykotoksininnhold på < STC med en konfidensgrad på 95 % (dvs. at det er 5 % mulighet for at prøven feilrapporteres som negativ),«falskt negativ prøve» en prøve med et mykotoksininnhold på > STC, men som er blitt identifisert som negativ,«mistenkelig prøve» (positivt resultat) en prøve som overstiger grenseverdien, og som kan ha et mykotoksininnhold som er høyere enn STC,«falskt mistenkelig prøve» en negativ prøve som er identifisert som mistenkelig,«bekreftelsesmetoder» metoder som gir fullstendige eller utfyllende opplysninger, for å sikre utvetydig identifisering og mengdebestemmelse av mykotoksinet,«grenseverdi» responsen, signalet eller konsentrasjonen som oppnås med screeningmetoden. Over denne verdien klassifiseres prøven som «mistenkelig». Grenseverdien bestemmes under valideringen, og det tas hensyn til målingens variabilitet,«negativ kontrollprøve (blindmatrise)» en prøve som er dokumentert fri for mykotoksinet det screenes for, ved forhåndsbestemmelse der det brukes en tilstrekkelig følsom bekreftelsesmetode eller ved hjelp av en annen metode eller, dersom en slik prøve ikke kan oppnås, materiale med det laveste oppnåelige nivået, så lenge nivået gjør det mulig å konkludere at screeningmetoden er egnet for dette formålet,«prøve som er dokumentert fri for» en prøve der mengden av påvist analytt ikke overstiger 1/5 av STC. Dersom nivået kan mengdebestemmes med en bekreftelsesmetode, skal det tas hensyn til dette nivået ved valideringsvurderingen,«positiv kontrollprøve» prøve som inneholder mykotoksinet ved screeningmålkonsentrasjonen, f.eks. sertifisert referansemateriale, materiale med kjent innhold (f.eks. analysemateriale fra sammenlignende laboratorieprøving) eller som er blitt tilstrekkelig karakterisert ved hjelp av en bekreftelsesmetode. Dersom ingenting av det ovenstående foreligger, kan det brukes en blanding av prøver med forskjellige forurensningsnivåer eller en spiket prøve som er framstilt på laboratoriet, forutsatt at det kan dokumenteres at forurensningsnivået er blitt kontrollert.
 
+4 For risikovurdering er egnede grenser for mengdebestemmelse generelt lavere sammenlignet med det som kreves ved offentlig kontroll for å kontrollere overholdelse av en grenseverdi (ML), ettersom målet er å generere numeriske data for hoveddelen av de analyserte prøvene (dvs. unngå verdier under kvantifiseringsgrensen) for å kunne utføre nøyaktige eksponeringsvurderinger. For overvåkingsformål kan det være akseptabelt å rapportere nivåer under grensene for mengdebestemmelse som er definert i forbindelse med denne forordningen.
+
 ### Artikkel 2
 
-1. Prøvetaking for kontroll av innholdet av mykotoksiner i næringsmidler skal utføres etter de metoder som er fastsatt i vedlegg I.
+1\. Prøvetaking for kontroll av innholdet av mykotoksiner i næringsmidler skal utføres etter de metoder som er fastsatt i vedlegg I.
 
-2. Dersom et næringsmiddel ikke kan klassifiseres i en næringsmiddelkategori som det er fastsatt en prøvetakingsprosedyre for i vedlegg I, skal prøvetakingsprosedyren fastsettes på grunnlag av partikkelstørrelsen til dette næringsmiddelet eller likheten mellom dette næringsmiddelet og et produkt som kan klassifiseres i en av næringsmiddelkategoriene i vedlegg I.
+2\. Dersom et næringsmiddel ikke kan klassifiseres i en næringsmiddelkategori som det er fastsatt en prøvetakingsprosedyre for i vedlegg I, skal prøvetakingsprosedyren fastsettes på grunnlag av partikkelstørrelsen til dette næringsmiddelet eller likheten mellom dette næringsmiddelet og et produkt som kan klassifiseres i en av næringsmiddelkategoriene i vedlegg I.
 
-3. Dersom et næringsmiddel ikke kan klassifiseres i noen av næringsmiddelkategoriene oppført i vedlegg I, og forutsatt at det er dokumentert at mykotoksinet er homogent fordelt i et slikt næringsmiddel, skal det tas prøver av næringsmiddelet ved hjelp av prøvetakingsmetoden fastsatt i del B i vedlegget til kommisjonsforordning [(EF) nr. 333/2007](eu/32007r0333)5.
+3\. Dersom et næringsmiddel ikke kan klassifiseres i noen av næringsmiddelkategoriene oppført i vedlegg I, og forutsatt at det er dokumentert at mykotoksinet er homogent fordelt i et slikt næringsmiddel, skal det tas prøver av næringsmiddelet ved hjelp av prøvetakingsmetoden fastsatt i del B i vedlegget til kommisjonsforordning [(EF) nr. 333/2007](eu/32007r0333)5.
+
+5 Kommisjonsforordning [(EF) nr. 333/2007](eu/32007r0333) av 28. mars 2007 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av sporstoffer og forurensende stoffer fra foredlingen i næringsmidler (EUT L 88 av 29.3.2007, s. 29).
 
 ### Artikkel 3
 
@@ -108,39 +134,68 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 1. april 2024.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 14. desember 2023.
 
-Utferdiget i Brussel 14. desember 2023.
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Ursula von der Leyen |
+|  | *President* |
 
 ### VEDLEGG I
 Prøvetakingsmetoder for kontroll av innholdet av mykotoksiner i næringsmidler6
 
+6 En veiledning for vedkommende myndigheter for kontroll av samsvaret med EUs regelverk for aflatoksiner er tilgjengelig på https://food.ec.europa.eu/document/download/5e7138d9-26c5-4f38-900c-933fe605a92_en?filename=cs_contaminants_sampling_analysis-guidance-2010_en.pdf Veiledningen inneholder praktiske tilleggsopplysninger, men opplysningene i veiledningen er underordnet bestemmelsene i denne forordningen.
+
 ### DEL I
 ALMINNELIGE BESTEMMELSER
 
+A.1.**Alminnelige bestemmelser**
+
+A.1.1.*Personell*
+
 Prøvetakingen skal utføres av en person som er utpekt for dette formålet av vedkommende myndighet i medlemsstaten.
 
+A.1.2.*Materiale til prøvetaking*
+
 Prøvetakingen skal foretas separat for hvert parti. I samsvar med de særlige bestemmelsene om prøvetaking for de ulike mykotoksinene, skal store partier deles opp i delpartier, som det skal tas separate prøver fra.
+
+A.1.3.*Forholdsregler*
 
 Under prøvetakingen og tillagingen av prøvene skal det tas forholdsregler for å unngå forandringer som kanha innvirkning på innholdet av mykotoksin, ha skadelig innvirkning på den analytiske bestemmelse, eller forårsake at samleprøvene ikke er representative,ha innvirkning på næringsmiddeltryggheten for partiene som det skal tas prøver fra.
 
 Alle nødvendige tiltak for å trygge sikkerheten for personene som tar prøvene, skal treffes.
 
+A.1.4.*Enkeltprøver*
+
 Enkeltprøver skal så langt det er mulig tas fra ulike steder i partiet eller delpartiet. Avvik fra denne framgangsmåten skal registreres i rapporten omhandlet i del I punkt A.1.8 i dette vedlegget.
+
+A.1.5.*Tillaging av samleprøven*
 
 Samleprøven skal framkomme ved å samle alle enkeltprøvene.
 
+A.1.6.*Parallellprøver*
+
 Parallellprøvene som tas for håndhevings-, klageadgangs- eller referanseformål, skal tas fra den homogeniserte samleprøven, med mindre en slik framgangsmåte er i strid med medlemsstatenes bestemmelser om rettighetene til den driftsansvarlige for næringsmiddelforetaket.
 
+A.1.7.*Emballering og forsendelse av prøver*
+
 Hver prøve skal plasseres i en ren beholder av inert materiale som gir tilstrekkelig beskyttelse mot forurensning og mot skader under transport. Alle nødvendige forholdsregler skal tas for å unngå endringer av prøvens sammensetning som kan oppstå under transport eller lagring.
+
+A.1.8.*Forsegling og merking av prøver*
 
 Hver prøve som er tatt til offentlig bruk, skal forsegles på prøvetakingsstedet og identifiseres i samsvar med gjeldende regler i medlemsstaten.
 
 Det skal utarbeides en rapport for hver prøvetaking, slik at hvert parti entydig kan identifiseres, med angivelse av dato og sted for prøvetakingen og ytterligere opplysninger som kan være til hjelp for den som foretar analysen.
 
+A.2.**Forskjellige typer partier**
+
 Næringsmidlene kan omsettes i bulk, i beholdere eller i enkeltemballasje, for eksempel sekker, poser eller forbrukerpakninger/enkeltemballasje. Prøvetakingsmetoden kan benyttes for varer som bringes i omsetning i bulk, i beholdere eller i enkeltemballasje, for eksempel sekker, poser, forbrukerpakninger/enkeltemballasje eller i en hvilken som helst annen form.
 
-Med forbehold for de særlige prøvetakingsbestemmelsene fastsatt i andre deler av dette vedlegget, skal følgende formel brukes som rettesnor for beregning av prøvetakingsfrekvensen for partier som bringes i omsetning i enkeltemballasje, for eksempel sekker, poser eller forbrukerpakninger/enkeltemballasje: $$\text{Prøvetakingsfrekvens n} = \frac{\text{Partiets vekt} \cdot \text{enkeltprøvens vekt}}{\text{Samleprøvens vekt} \cdot \text{enkeltemballasjens vekt}}$$vekt: i kgprøvetakingsfrekvens: hver ... enkeltemballasje som en enkeltprøve skal hentes fra (desimaler avrundes til nærmeste hele tall).
+Med forbehold for de særlige prøvetakingsbestemmelsene fastsatt i andre deler av dette vedlegget, skal følgende formel brukes som rettesnor for beregning av prøvetakingsfrekvensen for partier som bringes i omsetning i enkeltemballasje, for eksempel sekker, poser eller forbrukerpakninger/enkeltemballasje: $$\\text{Prøvetakingsfrekvens n} = \\frac{\\text{Partiets vekt} \\cdot \\text{enkeltprøvens vekt}}{\\text{Samleprøvens vekt} \\cdot \\text{enkeltemballasjens vekt}}$$vekt: i kgprøvetakingsfrekvens: hver ... enkeltemballasje som en enkeltprøve skal hentes fra (desimaler avrundes til nærmeste hele tall).
+
+A.3**Prøvetaking av varer med et høyt volum i forhold til vekt**
 
 Med unntak av næringsmidlene som omfattes av del L og M i del II i dette vedlegget, kan vektkravene ved prøvetaking av næringsmidler som har et høyt volum i forhold til vekten (dvs. volum (dm3)/vekt (kg) > 5), erstattes av et tilsvarende volumkrav (dvs. at 1 kg erstattes av 1 dm3).
 
@@ -149,7 +204,11 @@ PRØVETAKINGSMETODER
 
 I denne delen fastsettes prøvetakingsmetodene for følgende næringsmiddelkategorier:Korn, oljefrø, unntatt jordnøtter, korn- og oljefrøprodukter, unntatt jordnøttprodukterTørket frukt og avledede/bearbeidede produkter unntatt tørkede fikenerTørkede fikener og avledede/bearbeidede produkterJordnøtter (peanøtter), aprikoskjerner, nøtter og tørkede krydder med stor partikkelstørrelse og avledede/bearbeidede produkterTørkede krydder, unntatt tørkede krydder med stor partikkelstørrelse og krydder i pulverformMelk og melkeprodukter, morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn samt småbarnsnæringKaffe, kaffeprodukter, kakao, kakaoprodukter, lakrisrot og lakrisprodukterDrikkevarerFaste, bearbeidede produkter av frukt og grønnsakerBarnemat og bearbeidede kornbaserte næringsmidler til spedbarn og småbarnVegetabilske oljerKosttilskudd, pollen og pollenprodukterTørkede urter, urtete (tørkede produkter), te (tørkede produkter) og krydder i pulverformSvært store partier eller partier som lagres eller transporteres på en måte som gjør det umulig å ta prøver av hele partiet
 
+A.
+
 PRØVETAKINGSMETODER FOR KORN, OLJEFRØ, UNNTATT JORDNØTTER, KORN- OG OLJEFRØPRODUKTER, UNNTATT JORDNØTTPRODUKTER
+
+A.1.**Enkeltprøvens vekt**
 
 Enkeltprøven skal veie ca. 100 g, med mindre annet er oppgitt i denne delen, med unntak av oljefrø eller korn, der 1 000 frø/korn veier mindre enn 10 g («oljefrø eller korn med liten partikkelstørrelse»)
 
@@ -163,27 +222,74 @@ Dersom en slik prøvetakingsmetode vil kunne medføre uakseptable økonomiske ko
 
 Dersom forbrukerpakningene/enkeltemballasjene veier mindre enn 100 g (eller 25 g for oljefrø eller korn med liten partikkelstørrelse), og dersom forskjellen ikke er særlig stor (dvs. ikke mindre enn halvparten av 100 g eller 25 g), skal én forbrukerpakning/enkeltemballasje anses som én enkeltprøve, noe som gir en samleprøve som er mindre enn den påkrevde vekten som er angitt i tabell 1 og 2. Dersom forbrukerpakningen/enkeltemballasjen veier mye mindre enn 100 g (eller 25 g for oljefrø eller korn med liten partikkelstørrelse), skal én enkeltprøve bestå av to eller flere forbrukerpakninger/enkeltemballasjer, slik at enkeltprøvens vekt ligger så tett opptil 100 g (eller 25 g for oljefrø eller korn med liten partikkelstørrelse) som mulig.
 
+A.2.**Alminnelig oversikt over prøvetakingsmetode for korn, oljefrø, unntatt jordnøtter, korn- og oljefrøprodukter, unntatt jordnøttprodukter**
+
+*Tabell 1*
+**Underoppdeling av partier i delpartier etter produkt og partiets vekt**
+
+| *Vare* | *Partiets vekt (tonn)* | *Delpartienes vekt*<br>*eller antall* | *Antall enkeltprøver* | *Samleprøvens vekt (kg)* |
+| --- | --- | --- | --- | --- |
+| Korn, oljefrø, unntatt jordnøtter, korn- og oljefrøprodukter, unntatt jordnøttprodukter | > 300 og < 1 500 | 3 delpartier | 100 | 10<br>2,5 for oljefrø eller korn<br>med liten<br>partikkelstørrelse |
+|  | ≥ 100 og ≤ 300 | 100 tonn | 100 | 10<br>2,5 for oljefrø eller korn<br>med liten<br>partikkelstørrelse |
+|  | < 100 | – | 3-100\* | 1-10<br>0,25 – 2,5 for oljefrø eller korn med liten<br>partikkelstørrelse |
+
+\* Avhengig av partiets vekt – se tabell 2 i punkt A.4.
+
+A.3**Prøvetakingsmetoder for korn, oljefrø, unntatt jordnøtter, korn- og oljefrøprodukter, unntatt jordnøttprodukter i partier på ≥ 50 tonn**
+
 - Forutsatt at delpartiene fysisk kan atskilles, skal hvert parti deles opp i delpartier i henhold til tabell 1. Ettersom vekten på et parti ikke alltid vil være et eksakt multiplum av vekten av delpartiene, kan vekten av delpartiene overskride den angitte vekten med opptil 20 %. Dersom partiet ikke fysisk kan utskilles eller kan deles opp i delpartier, skal minst 100 enkeltprøver tas fra partiet. For partier på > 500 tonn er antall enkeltprøver fastsatt i punkt N.2.
 - Prøvetakingen skal foretas separat for hvert delparti.
 - Antall enkeltprøver: 100. Samleprøvens vekt = 10 kg (eller 2,5 kg for korn og oljefrø med liten partikkelstørrelse).
 - Dersom prøvetakingen ikke kan foretas etter metoden fastsatt ovenfor uten at det får uakseptable økonomiske konsekvenser som følge av skade på partiet (f.eks. på grunn av emballasjeformen eller transportmiddelet), kan det benyttes en annen prøvetakingsmetode, forutsatt at den er så representativ som mulig og at den beskrives og dokumenteres fullt ut. En annen prøvetakingsmetode kan også benyttes i tilfeller der det er praktisk umulig å benytte ovennevnte prøvetakingsmetode. Det gjelder når store partier med korn ligger på kornlagre eller i siloer7. Prøvetaking av slike partier skal utføres i samsvar med reglene fastsatt i del N.
 
+7 Prøvetaking av slike partier skal utføres i samsvar med reglene fastsatt i del N. En veiledning om prøvetaking av store partier finnes i et dokument som er tilgjengelig på følgende nettsted: https://food.ec.europa.eu/system/files/2016-10/cs_contaminants_sampling_guidance-sampling-final_en.pdf
+
+A.4**Prøvetakingsmetoder for korn, oljefrø, unntatt jordnøtter, korn- og oljefrøprodukter, unntatt jordnøttprodukter i partier på < 50 tonn**
+
 For partier med korn, oljefrø, unntatt jordnøtter, kornprodukter og oljefrøprodukter, unntatt jordnøttprodukter under 50 tonn, skal det brukes en prøvetakingsplan som, avhengig av partiets vekt, omfatter 10 til 100 enkeltprøver, noe som gir en samleprøve på mellom 1 og 10 kg (eller mellom 0,25 og 2,5 kg for oljefrø eller korn med liten partikkelstørrelse). For svært små partier (≤ 0,5 tonn) kan det tas et mindre antall enkeltprøver, men samleprøven som inneholder alle enkeltprøvene skal da også veie minst 1 kg (eller 0,25 kg for korn og oljefrø med liten partikkelstørrelse) og for påvisning av meldrøyesklerotier, minst 1 kg.
 
-Tallene i tabell 2 skal brukes til å bestemme hvor mange enkeltprøver det skal tas.*Tabell 2*
-**Antall enkeltprøver som skal tas avhengig av vekten på partiet med korn, oljefrø, unntatt jordnøtter, korn- og oljefrøprodukter, unntatt jordnøttprodukter***Partiets vekt (tonn)**Antall enkeltprøver**Samleprøvens vekt (kg)***Samleprøvens vekt (kg)***for oljefrø eller korn med liten partikkelstørrelse*≤ 0,05310,25> 0,05–≤ 0,5510,25> 0,5–≤ 11010,25> 1–≤ 32020,5> 3–≤ 104041,0> 10–≤ 206061,5> 20–≤ 100100102,5
+Tallene i tabell 2 skal brukes til å bestemme hvor mange enkeltprøver det skal tas.
+
+*Tabell 2*
+**Antall enkeltprøver som skal tas avhengig av vekten på partiet med korn, oljefrø, unntatt jordnøtter, korn- og oljefrøprodukter, unntatt jordnøttprodukter**
+
+| *Partiets vekt (tonn)* | *Antall enkeltprøver* | *Samleprøvens vekt (kg)*\* | *Samleprøvens vekt (kg)*\* *for oljefrø eller korn med liten partikkelstørrelse* |
+| --- | --- | --- | --- |
+| ≤ 0,05 | 3 | 1 | 0,25 |
+| > 0,05–≤ 0,5 | 5 | 1 | 0,25 |
+| > 0,5–≤ 1 | 10 | 1 | 0,25 |
+| > 1–≤ 3 | 20 | 2 | 0,5 |
+| > 3–≤ 10 | 40 | 4 | 1,0 |
+| > 10–≤ 20 | 60 | 6 | 1,5 |
+| > 20–≤ 100 | 100 | 10 | 2,5 |
+
+\* Ved kontroll for forekomst av meldrøyesklerotier skal samleprøven veie minst 1 kg.
+
+A.5**Prøvetaking i detaljistleddet**
 
 Prøvetaking av næringsmidler i detaljistleddet bør om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i denne del A.
 
 Dersom det ikke er mulig, kan det benyttes en annen prøvetakingsmetode i detaljistleddet, forutsatt at den sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at den beskrives og dokumenteres fullt ut. Samleprøven skal uansett veie minst 1 kg8.
 
+8 Dersom delen det skal tas prøver fra, er så liten at det er umulig å oppnå en samleprøve på 1 kg, kan samleprøven veie mindre enn 1 kg.
+
+A.6**Godkjenning av et parti eller delparti**
+
+**Kontroll for meldrøyesklerotier**
+
 Fra samleprøven skal det tas to delprøver på minst 0,5 kg for undersøkelse. Én delprøve skal undersøkes. Dersom resultatet av delprøvene er lik eller under 50 % (analytisk terskel) av øvre grenseverdi, oppfyller prøven kravene i henhold til øvre grenseverdi. Dersom resultatet er over 50 % av øvre grenseverdi, må en annen delprøve undersøkes, og gjennomsnittet av resultatet for de to delprøvene brukes for å kontrollere oppfyllelse av kravene i henhold til øvre grenseverdi. Resultatene skal lede til følgende:godkjenning dersom den første delprøven inneholder mindre enn 50 % av øvre grenseverdi for meldrøyesklerotier, eller dersom gjennomsnittet av to delprøver oppfyller kravene i henhold til øvre grenseverdi,avslag dersom gjennomsnittet av to delprøver overskrider øvre grenseverdi.
 
+**Kontroll av mykotoksiner**
+
 Resultatene skal lede til følgende:godkjenning dersom laboratorieprøven er i samsvar med øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet,avslag dersom det er hevet over enhver rimelig tvil at laboratorieprøven overskrider øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet. Dette er tilfellet når analyseresultatet (korrigert for gjenfinning dersom det er aktuelt) minus den utvidede måleusikkerheten som oppstår ved analysen, er over øvre grenseverdi.
+
+B.
 
 PRØVETAKINGSMETODE FOR TØRKET FRUKT OG AVLEDEDE/BEARBEIDEDE PRODUKTER, MED UNNTAK AV TØRKEDE FIKENER
 
 Denne prøvetakingsmetoden anvendes ved offentlig kontroll av innholdet av mykotoksiner i tørket frukt og avledede/bearbeidede produkter, med unntak av tørkede fikener og avledede/bearbeidede produkter (del II.C i dette vedlegget).
+
+B.1.**Enkeltprøvens vekt**
 
 Enkeltprøven skal veie ca. 100 gram, med mindre annet er angitt i denne del II.B.
 
@@ -193,28 +299,68 @@ For forbrukerpakninger/enkeltemballasjer på over 100 g vil dette medføre samle
 
 Dersom forbrukerpakningene/enkeltemballasjene veier mindre enn 100 g og forskjellen ikke er særlig stor (dvs. ikke mindre enn halvparten av 100 g), skal én forbrukerpakning/enkeltemballasje anses som én enkeltprøve, noe som gir en samleprøve som er mindre enn den påkrevde vekten som er angitt i tabell 1 og 2 i denne delen. Dersom forbrukerpakningene/enkeltemballasjene veier betydelig mindre enn 100 gram, skal én enkeltprøve bestå av to eller flere forbrukerpakninger/enkeltemballasjer slik at enkeltprøvens vekt ligger så tett opptil 100 gram som mulig.
 
-**Alminnelig oversikt over prøvetakingsmetoden for tørket frukt og avledede/bearbeidede produkter, med unntak av fikener***Tabell 1*
-**Underoppdeling av partier i delpartier etter produkt og partiets vekt***Vare**Partiets vekt (tonn)**Delpartienes vekt eller antall**Antall enkeltprøver**Samleprøvens vekt (kg)*Tørket frukt, unntatt tørkede fikener≥ 1515–30 tonn10010< 15–10–100*1–10
+B.2.
+
+**Alminnelig oversikt over prøvetakingsmetoden for tørket frukt og avledede/bearbeidede produkter, med unntak av fikener**
+
+*Tabell 1*
+**Underoppdeling av partier i delpartier etter produkt og partiets vekt**
+
+| *Vare* | *Partiets vekt (tonn)* | *Delpartienes vekt eller antall* | *Antall enkeltprøver* | *Samleprøvens vekt (kg)* |
+| --- | --- | --- | --- | --- |
+| Tørket frukt, unntatt tørkede fikener | ≥ 15 | 15–30 tonn | 100 | 10 |
+|  | < 15 | – | 10–100\* | 1–10 |
+
+\* Avhengig av partiets vekt – se tabell 2 i denne del B.
+
+B.3.**Prøvetakingsmetode for tørket frukt og avledede/bearbeidede produkter (partier på ≥ 15 tonn), med unntak av tørkede fikener**
 
 - Forutsatt at delpartiene fysisk kan atskilles, skal hvert parti deles opp i delpartier i henhold til tabell 1. Ettersom vekten på et parti ikke alltid vil være et eksakt multiplum av vekten av delpartiene, kan vekten av delpartiene overskride den angitte vekten med opptil 20 %.
 - Prøvetakingen skal foretas separat for hvert delparti.
 - Antall enkeltprøver: 100. Samleprøvens vekt = 10 kg.
 - Dersom prøvetakingen ikke kan foretas etter metoden beskrevet ovenfor uten at det får økonomiske konsekvenser som følge av skade på partiet (f.eks. pga. emballasjeformen eller transportmiddelet), kan det benyttes en annen prøvetakingsmetode, forutsatt at den er så representativ som mulig og at den beskrives og dokumenteres fullt ut.
 
+B.4.**Prøvetakingsmetode for tørket frukt og avledede/bearbeidede produkter (partier på < 15 tonn), med unntak av tørkede fikener**
+
 For partier med tørket frukt, med unntak av fikener, under 15 tonn skal det brukes en prøvetakingsplan som, avhengig av partiets vekt, omfatter 10 til 100 enkeltprøver, noe som gir en samleprøve på mellom 1 og 10 kg.
 
-Tallene i nedenstående tabell kan brukes til å bestemme hvor mange enkeltprøver det skal tas.*Tabell 2*
-**Antall enkeltprøver som skal tas avhengig av vekten på partiet med tørket frukt og avledede/bearbeidede produkter, med unntak av tørkede fikener***Partiets vekt (tonn)**Antall enkeltprøver**Samleprøvens vekt (kg)*≤ 0,1101> 0,1–≤ 0,2151,5> 0,2–≤ 0,5202> 0,5–≤ 1,0303> 1,0–≤ 2,0404> 2,0–≤ 5,0606> 5,0–≤ 10,0808> 10,0–≤ 15,010010
+Tallene i nedenstående tabell kan brukes til å bestemme hvor mange enkeltprøver det skal tas.
+
+*Tabell 2*
+**Antall enkeltprøver som skal tas avhengig av vekten på partiet med tørket frukt og avledede/bearbeidede produkter, med unntak av tørkede fikener**
+
+| *Partiets vekt (tonn)* | *Antall enkeltprøver* | *Samleprøvens vekt (kg)* |
+| --- | --- | --- |
+| ≤ 0,1 | 10 | 1 |
+| > 0,1–≤ 0,2 | 15 | 1,5 |
+| > 0,2–≤ 0,5 | 20 | 2 |
+| > 0,5–≤ 1,0 | 30 | 3 |
+| > 1,0–≤ 2,0 | 40 | 4 |
+| > 2,0–≤ 5,0 | 60 | 6 |
+| > 5,0–≤ 10,0 | 80 | 8 |
+| > 10,0–≤ 15,0 | 100 | 10 |
+
+B.5.**Prøvetaking i detaljistleddet**
 
 Prøvetaking av næringsmidler i detaljistleddet bør om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i denne del B.
 
 Dersom det ikke er mulig, kan det benyttes en annen prøvetakingsmetode i detaljistleddet, forutsatt at den sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at den beskrives og dokumenteres fullt ut. Samleprøven skal uansett veie minst 1 kg9.
 
+9 Dersom delen det skal tas prøver fra, er så liten at det er umulig å oppnå en samleprøve på 1 kg, kan samleprøven veie mindre enn 1 kg.
+
+B.6.**Særlige bestemmelser om prøvetaking for tørket frukt og avledede/bearbeidede produkter, med unntak av tørkede fikener, som omsettes i vakuumpakninger**
+
 For partier på eller over 15 tonn skal det tas minst 25 enkeltprøver for å få en samleprøve på 10 kg, og for partier under 15 tonn skal det tas 25 % av antallet enkeltprøver nevnt i tabell 2 i punkt B.4 for å få en samleprøve med en vekt som tilsvarer vekten på partiet som det er tatt prøver fra (se tabell 2 i punkt B.4).
+
+B.7.**Godkjenning av et parti eller delparti**
 
 Resultatene skal lede til følgende:godkjenning dersom laboratorieprøven er i samsvar med øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet,avslag dersom det er hevet over enhver rimelig tvil at laboratorieprøven overskrider øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet. Dette er tilfellet når analyseresultatet (korrigert for gjenfinning dersom det er aktuelt) minus den utvidede måleusikkerheten som oppstår ved analysen, er over øvre grenseverdi.
 
+C.
+
 PRØVETAKINGSMETODE FOR TØRKEDE FIKENER OG AVLEDEDE/BEARBEIDEDE PRODUKTER
+
+C.1.**Enkeltprøvens vekt**
 
 Enkeltprøven skal veie ca. 300 gram, med mindre annet er angitt i denne del II.C.
 
@@ -224,6 +370,20 @@ For forbrukerpakninger/enkeltemballasjer på over 300 g vil dette medføre samle
 
 Dersom forbrukerpakningene/enkeltemballasjene veier mindre enn 300 g og forskjellen ikke er særlig stor (dvs. ikke mindre enn halvparten av 300 g), skal én forbrukerpakning/enkeltemballasje anses som én enkeltprøve, noe som gir en samleprøve som er mindre enn den påkrevde vekten som er angitt i tabell 1, 2 og 3. Dersom forbrukerpakningene/enkeltemballasjene veier betydelig mindre enn 300 gram, skal én enkeltprøve bestå av to eller flere forbrukerpakninger/enkeltemballasjer slik at enkeltprøvens vekt ligger så tett opptil 300 gram som mulig.
 
+C.2.**Alminnelig oversikt over prøvetakingsmetoden for tørkede fikener**
+
+*Tabell 1*
+**Underoppdeling av partier i delpartier etter produkt og partiets vekt**
+
+| *Vare* | *Partiets vekt (tonn)* | *Delpartienes vekt eller antall* | *Antall enkeltprøver* | *Samleprøvens vekt (kg)* |
+| --- | --- | --- | --- | --- |
+| Tørkede fikener | ≥ 15 | 15-30 tonn | 100 | 30 |
+|  | < 15 | – | 10–100\* | ≤ 30 |
+
+\* Avhengig av partiets vekt – se tabell 2 i denne del C.
+
+C.3.**Prøvetakingsmetode for tørkede fikener (partier på minst 15 tonn)**
+
 - Forutsatt at delpartiene fysisk kan atskilles, skal hvert parti deles opp i delpartier i henhold til tabell 1. Ettersom vekten på et parti ikke alltid vil være et eksakt multiplum av vekten av delpartiene, kan vekten av delpartiene overskride den angitte vekten med opptil 20 %.
 - Prøvetakingen skal foretas separat for hvert delparti.
 - Antall enkeltprøver: 100
@@ -231,13 +391,33 @@ Dersom forbrukerpakningene/enkeltemballasjene veier mindre enn 300 g og forskjel
 - Hver laboratorieprøve på 10 kg skal finmales separat og blandes grundig for å sikre en fullstendig homogenisering i samsvar med bestemmelsene i vedlegg II.
 - Dersom prøvetakingen ikke kan foretas etter metoden beskrevet ovenfor uten at det får uakseptable økonomiske konsekvenser som følge av skade på partiet (f.eks. pga. emballasjeformen eller transportmiddelet), kan det benyttes en annen prøvetakingsmetode, forutsatt at den er så representativ som mulig og at den beskrives og dokumenteres fullt ut.
 
+C.4.**Prøvetakingsmetode for tørkede fikener (partier under 15 tonn)**
+
 Antall enkeltprøver som skal tas, avhenger av partiets vekt, og det skal tas minst 10 og høyst 100 prøver.
 
-Tallene i nedenstående tabell 2 kan brukes til å bestemme hvor mange enkeltprøver det skal tas og den påfølgende oppdelingen av samleprøven.*Tabell 2*
-**Antall enkeltprøver som skal tas avhengig av partiets vekt og antall underoppdelinger av samleprøven***Partiets vekt (tonn)**Antall enkeltprøver*
-*(for forbrukerpakninger/enkeltemballasje se også punkt C.1)*Samleprøvens vekt (kg) (ved forbrukerpakninger/enkeltemballasjer kan samleprøvens vekt avvike – se C.1)Antall laboratorieprøver fra samleprøve≤ 0,11031 (ingen oppdeling)> 0,1–≤ 0,2154,51 (ingen oppdeling)> 0,2–≤ 0,52061 (ingen oppdeling)> 0,5–≤ 1,0309 (– < 12 kg)1 (ingen oppdeling)> 1,0–≤ 2,040122> 2,0–≤ 5,06018 (– < 24 kg)2> 5,0–≤ 10,080243> 10,0–≤ 15,0100303Vekten av samleprøven på eller under 30 kg som skal blandes og deles opp i to eller tre like store laboratorieprøver på eller under 10 kg, og deretter males opp (oppdelingen i to eller tre laboratorieprøver er ikke nødvendig for tørkede fikener som skal sorteres eller gjennomgå andre former for fysisk behandling, dersom det tilgjengelige laboratorieutstyret har kapasitet til å homogenisere prøver på opptil 30 kg).
+Tallene i nedenstående tabell 2 kan brukes til å bestemme hvor mange enkeltprøver det skal tas og den påfølgende oppdelingen av samleprøven.
+
+*Tabell 2*
+**Antall enkeltprøver som skal tas avhengig av partiets vekt og antall underoppdelinger av samleprøven**
+
+| *Partiets vekt (tonn)* | *Antall enkeltprøver*<br>*(for forbrukerpakninger/enkeltemballasje se også punkt C.1)* | Samleprøvens vekt (kg) (ved forbrukerpakninger/enkeltemballasjer kan samleprøvens vekt avvike – se C.1) | Antall laboratorieprøver fra samleprøve |
+| --- | --- | --- | --- |
+| ≤ 0,1 | 10 | 3 | 1 (ingen oppdeling) |
+| > 0,1–≤ 0,2 | 15 | 4,5 | 1 (ingen oppdeling) |
+| > 0,2–≤ 0,5 | 20 | 6 | 1 (ingen oppdeling) |
+| > 0,5–≤ 1,0 | 30 | 9 (– < 12 kg) | 1 (ingen oppdeling) |
+| > 1,0–≤ 2,0 | 40 | 12 | 2 |
+| > 2,0–≤ 5,0 | 60 | 18 (– < 24 kg) | 2 |
+| > 5,0–≤ 10,0 | 80 | 24 | 3 |
+| > 10,0–≤ 15,0 | 100 | 30 | 3 |
+
+- Vekten av samleprøven på eller under 30 kg som skal blandes og deles opp i to eller tre like store laboratorieprøver på eller under 10 kg, og deretter males opp (oppdelingen i to eller tre laboratorieprøver er ikke nødvendig for tørkede fikener som skal sorteres eller gjennomgå andre former for fysisk behandling, dersom det tilgjengelige laboratorieutstyret har kapasitet til å homogenisere prøver på opptil 30 kg).
 
 Dersom samleprøven veier mindre enn 30 kg, skal den deles opp i laboratorieprøver på følgende måte:< 12 kg: ingen oppdeling i laboratorieprøver,≥ 12 – < 24 kg: oppdeling i to laboratorieprøver≥ 24 kg: oppdeling i tre laboratorieprøverHver laboratorieprøve skal finmales separat og blandes grundig for å sikre en fullstendig homogenisering i samsvar med bestemmelsene fastsatt i vedlegg II.Dersom prøvetakingen ikke kan foretas etter metoden beskrevet i ovenstående strekpunkt uten at det får uakseptable økonomiske konsekvenser som følge av skade på partiet (f.eks. pga. emballasjeformen eller transportmiddelet), kan det benyttes en annen prøvetakingsmetode, forutsatt at den er så representativ som mulig og at den beskrives og dokumenteres fullt ut.
+
+C.5.**Prøvetakingsmetode for avledede/bearbeidede produkter og næringsmidler som er sammensatt av flere ingredienser**
+
+C.5.1.*Avledede/bearbeidede**produkter med svært liten partikkelstørrelse (homogen fordeling av mykotoksinforurensningen)*
 
 - Partier med fikenmasse har ofte ikke en homogen fordeling av mykotoksinforurensning, derfor skal prøvetakingsmetoden og godkjenningen som gjelder for tørkede fikener (under punkt C.3 og C.4) benyttes for fikenmasse.
 - Antall enkeltprøver: 100. For partier under 50 tonn bør antall enkeltprøver være mellom 10 og 100, avhengig av partiets vekt (se tabell 3).*Tabell 3*
@@ -245,15 +425,29 @@ Dersom samleprøven veier mindre enn 30 kg, skal den deles opp i laboratorieprø
 - Enkeltprøven skal veie ca. 100 gram. For partier i forbrukerpakninger/enkeltemballasje avhenger enkeltprøvens vekt av forbrukerpakningens/enkeltemballasjens vekt.
 - Samleprøvens vekt = 1–10 kg, tilstrekkelig blandet.
 
+C.5.2.*Andre**avledede/bearbeidede produkter med relativt stor partikkelstørrelse (heterogen fordeling av mykotoksinforurensningen)*
+
 Prøvetakingsmetode og godkjenning som for tørkede fikener (C.3 og C.4).
+
+C.6.**Prøvetaking i detaljistleddet**
 
 Prøvetaking av næringsmidler i detaljistleddet bør om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i denne del C.
 
 Dersom det ikke er mulig, kan det benyttes andre effektive prøvetakingsmetoder i detaljistleddet, forutsatt at de sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at de beskrives og dokumenteres fullt ut. Samleprøven skal uansett veie minst 1 kg10.
 
+10 Dersom delen det skal tas prøver fra, er så liten at det er umulig å oppnå en samleprøve på 1 kg, kan samleprøven veie mindre enn 1 kg.
+
+C.7.**Særlig prøvetakingsmetode for tørkede fikener og avledede/bearbeidede produkter som omsettes i vakuumpakninger**
+
+C.7.1.*Tørkede fikener*
+
 For partier på eller over 15 tonn skal det tas minst 50 enkeltprøver for å få en samleprøve på 30 kg, og for partier under 15 tonn skal det tas 50 % av antallet enkeltprøver nevnt i tabell 2 for å få en samleprøve med en vekt som tilsvarer vekten på partiet som det er tatt prøver fra (se tabell 2).
 
+C.7.2.*Produkter avledet fra/framstilt av tørkede fikener med liten partikkelstørrelse*
+
 For partier på eller over 50 tonn skal det tas minst 25 enkeltprøver for å få en samleprøve på 10 kg, og for partier under 50 tonn skal det tas 25 % av antallet enkeltprøver nevnt i tabell 3 for å få en samleprøve med en vekt som tilsvarer vekten på partiet som det er tatt prøver fra (se tabell 3).
+
+C.8.**Godkjenning av et parti eller delparti**
 
 Resultatene skal lede til følgende:
 
@@ -261,9 +455,13 @@ For tørkede fikener:godkjenning dersom ingen av laboratorieprøvene overskrider
 
 Dersom samleprøven veier 12 kg eller mindre:godkjenning dersom laboratorieprøven er i samsvar med øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet,avslag dersom det er hevet over enhver rimelig tvil at laboratorieprøven overskrider øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet. Dette er tilfellet når analyseresultatet (korrigert for gjenfinning dersom det er aktuelt) minus den utvidede måleusikkerheten som oppstår ved analysen, er over øvre grenseverdi.
 
+D.
+
 PRØVETAKINGSMETODE FOR JORDNØTTER (PEANØTTER), APRIKOSKJERNER, NØTTER OG TØRKEDE KRYDDER MED STOR PARTIKKELSTØRRELSE SAMT AVLEDEDE/BEARBEIDEDE PRODUKTER
 
 Denne prøvetakingsmetoden kan anvendes ved offentlig kontroll av innholdet av mykotoksiner i jordnøtter (peanøtter), aprikoskjerner, nøtter og tørkede krydder med stor partikkelstørrelse og avledede/bearbeidede produkter. Denne prøvetakingsmetoden skal også anvendes ved offentlig kontroll av innholdet av mykotoksiner i krydder med en relativt stor partikkelstørrelse (en partikkelstørrelse som den hos peanøtter eller større, f.eks. muskatnøtt).
+
+D.1**Enkeltprøvens vekt**
 
 Enkeltprøven skal veie ca. 200 gram, med mindre annet er angitt i denne del D.
 
@@ -273,6 +471,22 @@ For forbrukerpakninger/enkeltemballasjer på over 200 g vil dette medføre samle
 
 Dersom forbrukerpakningene/enkeltemballasjene veier mindre enn 200 g og forskjellen ikke er særlig stor (dvs. ikke mindre enn halvparten av 200 g), skal én forbrukerpakning/enkeltemballasje anses som én enkeltprøve, noe som gir en samleprøve som er mindre enn den påkrevde vekten som er angitt i tabell 1, 2 og 3. Dersom forbrukerpakningene/enkeltemballasjene veier betydelig mindre enn 200 gram, skal én enkeltprøve bestå av to eller flere forbrukerpakninger/enkeltemballasjer slik at enkeltprøvens vekt ligger så tett opptil 200 gram som mulig.
 
+D.2**Alminnelig oversikt over prøvetakingsmetoden for jordnøtter (peanøtter), aprikoskjerner, nøtter og tørkede krydder med stor partikkelstørrelse**
+
+*Tabell 1*
+**Underoppdeling av partier i delpartier etter produkt og partiets vekt**
+
+| *Vare* | *Partiets vekt (tonn)* | *Delpartienes vekt eller antall* | *Antall enkeltprøver* | *Samleprøvens vekt (kg)* |
+| --- | --- | --- | --- | --- |
+| Jordnøtter (peanøtter), aprikoskjerner, nøtter og tørkede krydder med stor partikkelstørrelse | ≥ 500 | 100 tonn | 100 | 20 |
+|  | > 125 og < 500 | 5 delpartier | 100 | 20 |
+|  | ≥ 15 og ≤ 125 | 25 tonn | 100 | 20 |
+|  | < 15 | – | 10–100\* | ≤ 20 |
+
+\* Avhengig av partiets vekt – se tabell 2 i denne del D.
+
+D.3.**Prøvetakingsmetode for jordnøtter (peanøtter), aprikoskjerner, nøtter og tørkede krydder med stor partikkelstørrelse (partier på minst 15 tonn)**
+
 - Forutsatt at delpartiene fysisk kan atskilles, skal hvert parti deles opp i delpartier i henhold til tabell 1. Ettersom vekten på et parti ikke alltid vil være et eksakt multiplum av vekten av delpartiene, kan vekten av delpartiene overskride den angitte vekten med opptil 20 %.
 - Prøvetakingen skal foretas separat for hvert delparti.
 - Antall enkeltprøver: 100.
@@ -280,30 +494,67 @@ Dersom forbrukerpakningene/enkeltemballasjene veier mindre enn 200 g og forskjel
 - Hver laboratorieprøve på 10 kg skal finmales separat og blandes grundig for å sikre en fullstendig homogenisering i samsvar med bestemmelsene i vedlegg II.
 - Dersom prøvetakingen ikke kan foretas etter metoden beskrevet ovenfor uten at det får økonomiske konsekvenser som følge av skade på partiet (f.eks. pga. emballasjeformen eller transportmiddelet), kan det benyttes en annen prøvetakingsmetode, forutsatt at den er så representativ som mulig og at den beskrives og dokumenteres fullt ut.
 
+D.4.**Prøvetakingsmetode for jordnøtter (peanøtter), aprikoskjerner, nøtter og tørkede krydder med stor partikkelstørrelse (partier på over 15 tonn)**
+
 Antall enkeltprøver som skal tas, avhenger av partiets vekt, og det skal tas minst 10 og høyst 100 prøver.
 
-Tallene i nedenstående tabell 2 kan brukes til å bestemme hvor mange enkeltprøver det skal tas og den påfølgende oppdelingen av samleprøven.*Tabell 2*
-**Antall enkeltprøver som skal tas avhengig av partiets vekt og antall underoppdelinger av samleprøven***Partiets vekt (tonn)**Antall enkeltprøver*
-*(for forbrukerpakninger/enkelt-
-emballasje se også punkt D.1)**Samleprøvens vekt (kg) (ved forbrukerpakninger/
-enkeltemballasjer kan samleprøvens vekt avvike – se D.1)**Antall laboratorieprøver fra samleprøve*≤ 0,11021 (ingen oppdeling)> 0,1–≤ 0,21531 (ingen oppdeling)> 0,2–≤ 0,52041 (ingen oppdeling)> 0,5–≤ 1,03061 (ingen oppdeling)> 1,0–≤ 2,0408 (– < 12 kg)1 (ingen oppdeling)> 2,0–≤ 5,060122> 5,0–≤ 10,080162> 10,0–≤ 15,0100202Vekten av samleprøven ≤ 20 kg, som skal blandes og deles opp i to like store laboratorieprøver på ≤ 10 kg og deretter males opp (oppdelingen i to laboratorieprøver er ikke nødvendig for jordnøtter (peanøtter), aprikoskjerner, nøtter og tørkede krydder med stor partikkelstørrelse som skal sorteres eller gjennomgå andre former for fysisk behandling dersom det tilgjengelige laboratorieutstyret har kapasitet til å homogenisere prøver på opptil 20 kg).Dersom samleprøven veier mindre enn 20 kg, skal den deles opp i laboratorieprøver på følgende måte:< 12 kg: ingen oppdeling i laboratorieprøver,≥ 12 kg: oppdeling i to laboratorieprøver.Hver laboratorieprøve skal finmales separat og blandes grundig for å sikre en fullstendig homogenisering i samsvar med bestemmelsene fastsatt i vedlegg II.Dersom prøvetakingen ikke kan foretas etter metoden beskrevet ovenfor uten at det får uakseptable økonomiske konsekvenser som følge av skade på partiet (f.eks. pga. emballasjeformen eller transportmiddelet), kan det benyttes en annen prøvetakingsmetode, forutsatt at den er så representativ som mulig og at den beskrives og dokumenteres fullt ut.
+Tallene i nedenstående tabell 2 kan brukes til å bestemme hvor mange enkeltprøver det skal tas og den påfølgende oppdelingen av samleprøven.
+
+*Tabell 2*
+**Antall enkeltprøver som skal tas avhengig av partiets vekt og antall underoppdelinger av samleprøven**
+
+| *Partiets vekt (tonn)* | *Antall enkeltprøver*<br>*(for forbrukerpakninger/enkelt-<br>emballasje se også punkt D.1)* | *Samleprøvens vekt (kg) (ved forbrukerpakninger/<br>enkeltemballasjer kan samleprøvens vekt avvike – se D.1)* | *Antall laboratorieprøver fra samleprøve* |
+| --- | --- | --- | --- |
+| ≤ 0,1 | 10 | 2 | 1 (ingen oppdeling) |
+| > 0,1–≤ 0,2 | 15 | 3 | 1 (ingen oppdeling) |
+| > 0,2–≤ 0,5 | 20 | 4 | 1 (ingen oppdeling) |
+| > 0,5–≤ 1,0 | 30 | 6 | 1 (ingen oppdeling) |
+| > 1,0–≤ 2,0 | 40 | 8 (– < 12 kg) | 1 (ingen oppdeling) |
+| > 2,0–≤ 5,0 | 60 | 12 | 2 |
+| > 5,0–≤ 10,0 | 80 | 16 | 2 |
+| > 10,0–≤ 15,0 | 100 | 20 | 2 |
+
+- Vekten av samleprøven ≤ 20 kg, som skal blandes og deles opp i to like store laboratorieprøver på ≤ 10 kg og deretter males opp (oppdelingen i to laboratorieprøver er ikke nødvendig for jordnøtter (peanøtter), aprikoskjerner, nøtter og tørkede krydder med stor partikkelstørrelse som skal sorteres eller gjennomgå andre former for fysisk behandling dersom det tilgjengelige laboratorieutstyret har kapasitet til å homogenisere prøver på opptil 20 kg).
+- Dersom samleprøven veier mindre enn 20 kg, skal den deles opp i laboratorieprøver på følgende måte:< 12 kg: ingen oppdeling i laboratorieprøver,≥ 12 kg: oppdeling i to laboratorieprøver.
+- Hver laboratorieprøve skal finmales separat og blandes grundig for å sikre en fullstendig homogenisering i samsvar med bestemmelsene fastsatt i vedlegg II.
+- Dersom prøvetakingen ikke kan foretas etter metoden beskrevet ovenfor uten at det får uakseptable økonomiske konsekvenser som følge av skade på partiet (f.eks. pga. emballasjeformen eller transportmiddelet), kan det benyttes en annen prøvetakingsmetode, forutsatt at den er så representativ som mulig og at den beskrives og dokumenteres fullt ut.
+
+D.5.**Prøvetakingsmetode for avledede/bearbeidede produkter, unntatt vegetabilsk olje, og næringsmidler som er sammensatt av flere ingredienser**
+
+D.5.1.*Avledede/bearbeidede produkter (unntatt vegetabilsk olje) med liten partikkelstørrelse, f.eks. mel, peanøttsmør (homogen fordeling av mykotoksinforurensning) og næringsmidler som er sammensatt av flere ingredienser*
 
 - Antall enkeltprøver: 100. For partier under 50 tonn skal antall enkeltprøver være mellom 10 og 100, avhengig av partiets vekt (se tabell 3).*Tabell 3*
 **Antall enkeltprøver som skal tas avhengig av partiets vekt***Partiets vekt (tonn)**Antall enkeltprøver**Samleprøvens vekt (kg)*≤ 1101> 1–≤ 3202> 3–≤ 10404> 10–≤ 20606> 20–≤ 5010010
 - Enkeltprøven skal veie ca. 100 gram. For partier i forbrukerpakninger/enkeltemballasje avhenger enkeltprøvens vekt av forbrukerpakningens/enkeltemballasjens vekt.
 - Samleprøvens vekt = 1–10 kg, tilstrekkelig blandet,
 
+D.5.2.*Avledede/bearbeidede produkter med relativt stor partikkelstørrelse (heterogen fordeling av mykotoksinforurensningen) og næringsmidler som er sammensatt av flere ingredienser*
+
 Prøvetakingsmetode og godkjenning for jordnøtter (peanøtter), aprikoskjerner, nøtter og krydder med stor partikkelstørrelse (punkt D.3 og D.4).
+
+D.6.**Prøvetaking i detaljistleddet**
 
 Prøvetaking av næringsmidler i detaljistleddet bør om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i denne del D.
 
 Dersom det ikke er mulig, kan det benyttes andre effektive prøvetakingsmetoder i detaljistleddet, forutsatt at de sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at de beskrives og dokumenteres fullt ut. Samleprøven skal uansett veie minst 1 kg11.
 
+11 Dersom delen det skal tas prøver fra, er så liten at det er umulig å oppnå en samleprøve på 1 kg, kan samleprøven veie mindre enn 1 kg.
+
+D.7.**Prøvetakingsmetode for jordnøtter (peanøtter), aprikoskjerner, nøtter og tørkede krydder med stor partikkelstørrelse samt avledede/bearbeidede produkter som omsettes i vakuumpakker**
+
+D.7.1.*Pistasienøtter, jordnøtter (peanøtter), paranøtter*
+
 For partier på minst 15 tonn skal det tas minst 50 enkeltprøver for å få en samleprøve på 20 kg, og for partier under 15 tonn skal det tas 50 % av antallet enkeltprøver nevnt i tabell 2 for å få en samleprøve med en vekt som tilsvarer vekten på partiet som det er tatt prøver fra (se tabell 2).
+
+D.7.2.*Aprikoskjerner, nøtter, unntatt pistasienøtter og paranøtter, og tørkede krydder med stor partikkelstørrelse*
 
 For partier på eller over 15 tonn skal det tas minst 25 enkeltprøver for å få en samleprøve på 20 kg, og for partier under 15 tonn skal det tas 25 % av antallet enkeltprøver nevnt i tabell 2 for å få en samleprøve med en vekt som tilsvarer vekten på partiet som det er tatt prøver fra (se tabell 2).
 
+D.7.3.*Produkter avledet/bearbeidet fra jordnøtter (peanøtter), aprikoskjerner, nøtter og tørkede krydder med stor partikkelstørrelse*
+
 For partier på eller over 50 tonn skal det tas minst 25 enkeltprøver for å få en samleprøve på 10 kg, og for partier under 50 tonn skal det tas 25 % av antallet enkeltprøver nevnt i tabell 3 for å få en samleprøve med en vekt som tilsvarer vekten på partiet som det er tatt prøver fra (se tabell 3).
+
+D.8.**Godkjenning av et parti eller delparti**
 
 For jordnøtter (peanøtter), aprikoskjerner og nøtter som skal sorteres eller gjennomgå andre former for fysisk behandling:godkjenning dersom samleprøven eller gjennomsnittet av laboratorieprøvene er i samsvar med øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet,avslag dersom det er hevet over enhver rimelig tvil at samleprøven eller gjennomsnittet av laboratorieprøvene overskrider øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet. Dette er tilfellet når analyseresultatet (korrigert for gjenfinning dersom det er aktuelt) minus den utvidede måleusikkerheten som oppstår ved analysen, er over øvre grenseverdi.
 
@@ -311,9 +562,13 @@ For jordnøtter (peanøtter), aprikoskjerner, nøtter og tørkede krydder med st
 
 Dersom samleprøven veier 12 kg eller mindre:godkjenning dersom laboratorieprøven er i samsvar med øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet,avslag dersom det er hevet over enhver rimelig tvil at laboratorieprøven overskrider øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet. Dette er tilfellet når analyseresultatet (korrigert for gjenfinning dersom det er aktuelt) minus den utvidede måleusikkerheten som oppstår ved analysen, er over øvre grenseverdi.
 
+E.
+
 PRØVETAKINGSMETODE FOR TØRKEDE KRYDDER, UNNTATT TØRKEDE KRYDDER MED STOR PARTIKKELSTØRRELSE OG KRYDDER I PULVERFORM
 
 Denne prøvetakingsmetoden kan anvendes ved offentlig kontroll av innholdet av mykotoksiner i krydder. For tørkede krydder med en relativt stor partikkelstørrelse, dvs. en partikkelstørrelse som er sammenlignbar med peanøtter eller større, f.eks. muskatnøtt med heterogen fordeling av mykotoksinforurensningen, skal imidlertid prøvetakingsmetoden i del D i dette vedlegget benyttes. For krydder i pulverform skal prøvetakingsmetoden i del M i dette vedlegget benyttes.
+
+E.1.**Enkeltprøvens vekt**
 
 Enkeltprøven skal veie ca. 100 gram, med mindre annet er angitt i denne del E.
 
@@ -323,47 +578,107 @@ For forbrukerpakninger/enkeltemballasjer på over 100 g vil dette medføre samle
 
 Dersom forbrukerpakningene/enkeltemballasjene veier mindre enn 100 g og forskjellen ikke er særlig stor (dvs. ikke mindre enn halvparten av 100 g), skal én forbrukerpakning/enkeltemballasje anses som én enkeltprøve, noe som gir en samleprøve som er mindre enn den påkrevde vekten som er angitt i tabell 1 og 2. Dersom forbrukerpakningene/enkeltemballasjene veier betydelig mindre enn 100 gram, skal én enkeltprøve bestå av to eller flere forbrukerpakninger/enkeltemballasjer slik at enkeltprøvens vekt ligger så tett opptil 100 gram som mulig.
 
-**Alminnelig oversikt over prøvetakingsmetode for tørkede krydder, unntatt tørkede krydder med stor partikkelstørrelse og krydder i pulverform***Tabell 1*
-**Underoppdeling av partier i delpartier etter produkt og partiets vekt***Vare**Partiets vekt (tonn)**Delpartienes vekt eller antall**Antall enkeltprøver**Samleprøvens vekt (kg)*Tørket krydder≥ 1525 tonn10010< 15–5–100*0,5–10
+E.2.
+
+**Alminnelig oversikt over prøvetakingsmetode for tørkede krydder, unntatt tørkede krydder med stor partikkelstørrelse og krydder i pulverform**
+
+*Tabell 1*
+**Underoppdeling av partier i delpartier etter produkt og partiets vekt**
+
+| *Vare* | *Partiets vekt (tonn)* | *Delpartienes vekt eller antall* | *Antall enkeltprøver* | *Samleprøvens vekt (kg)* |
+| --- | --- | --- | --- | --- |
+| Tørket krydder | ≥ 15 | 25 tonn | 100 | 10 |
+|  | < 15 | – | 5–100\* | 0,5–10 |
+
+\* Avhengig av partiets vekt – se tabell 2 i denne del E.
+
+E.3.**Prøvetakingsmetode for tørkede krydder, unntatt tørkede krydder med stor partikkelstørrelse og krydder i pulverform (partier på minst 15 tonn)**
 
 - Forutsatt at delpartiene fysisk kan atskilles, skal hvert parti deles opp i delpartier i henhold til tabell 1. Ettersom vekten på et parti ikke alltid vil være et eksakt multiplum av vekten av delpartiene, kan vekten av delpartiene overskride den angitte vekten med opptil 20 %.
 - Prøvetakingen skal foretas separat for hvert delparti.
 - Antall enkeltprøver: 100. Samleprøvens vekt = 10 kg.
 - Dersom prøvetakingen ikke kan foretas etter metoden beskrevet ovenfor uten at det får uakseptable økonomiske konsekvenser som følge av skade på partiet (f.eks. pga. emballasjeformen eller transportmiddelet), kan det benyttes en annen prøvetakingsmetode, forutsatt at den er så representativ som mulig og at den beskrives og dokumenteres fullt ut.
 
+E.4.**Prøvetakingsmetode for tørkede krydder, unntatt tørkede krydder med stor partikkelstørrelse og krydder i pulverform (partier på under 15 tonn)**
+
 For partier med tørket krydder under 15 tonn skal det brukes en prøvetakingsplan som, avhengig av partiets vekt, omfatter 5 til 100 enkeltprøver, noe som gir en samleprøve på mellom 0,5 og 10 kg.
 
-Tallene i nedenstående tabell 2 kan brukes til å bestemme hvor mange enkeltprøver det skal tas.*Tabell 2*
-**Antall enkeltprøver som skal tas avhengig av vekten på partiet med tørket krydder**Partiets vekt (tonn)Antall enkeltprøverSamleprøvens vekt (kg)≤ 0,0150,5> 0,01–≤ 0,1101> 0,1–≤ 0,2151,5> 0,2–≤ 0,5202> 0,5–≤ 1,0303> 1,0–≤ 2,0404> 2,0–≤ 5,0606> 5,0–≤ 10,0808> 10,0–≤ 15,010010
+Tallene i nedenstående tabell 2 kan brukes til å bestemme hvor mange enkeltprøver det skal tas.
+
+*Tabell 2*
+**Antall enkeltprøver som skal tas avhengig av vekten på partiet med tørket krydder**
+
+| Partiets vekt (tonn) | Antall enkeltprøver | Samleprøvens vekt (kg) |
+| --- | --- | --- |
+| ≤ 0,01 | 5 | 0,5 |
+| > 0,01–≤ 0,1 | 10 | 1 |
+| > 0,1–≤ 0,2 | 15 | 1,5 |
+| > 0,2–≤ 0,5 | 20 | 2 |
+| > 0,5–≤ 1,0 | 30 | 3 |
+| > 1,0–≤ 2,0 | 40 | 4 |
+| > 2,0–≤ 5,0 | 60 | 6 |
+| > 5,0–≤ 10,0 | 80 | 8 |
+| > 10,0–≤ 15,0 | 100 | 10 |
+
+E.5.**Prøvetaking i detaljistleddet**
 
 Prøvetaking av næringsmidler i detaljistleddet bør om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i denne del E.
 
 Dersom det ikke er mulig, kan det benyttes en annen prøvetakingsmetode i detaljistleddet, forutsatt at den sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at den beskrives og dokumenteres fullt ut. Samleprøven skal uansett veie minst 0,5 kg12.
 
+12 Dersom delen det skal tas prøver fra, er så liten at det er umulig å oppnå en samleprøve på 0,5 kg, kan samleprøven veie mindre enn 0,5 kg.
+
+E.6.**Spesifikk prøvetakingsmetode for tørkede krydder, unntatt tørkede krydder med stor partikkelstørrelse og krydder i pulverform som omsettes i vakuumpakninger**
+
 For partier på eller over 15 tonn skal det tas minst 25 enkeltprøver for å få en samleprøve på 10 kg, og for partier under 15 tonn skal det tas 25 % av antallet enkeltprøver nevnt i tabell 2 for å få en samleprøve med en vekt som tilsvarer vekten på partiet som det er tatt prøver fra (se tabell 2).
+
+E.7.**Godkjenning av et parti eller delparti**
 
 - godkjenning dersom laboratorieprøven er i samsvar med øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet,
 - avslag dersom det er hevet over enhver rimelig tvil at laboratorieprøven overskrider øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet. Dette er tilfellet når analyseresultatet (korrigert for gjenfinning dersom det er aktuelt) minus den utvidede måleusikkerheten som oppstår ved analysen, er over øvre grenseverdi.
 
+F.
+
 PRØVETAKINGSMETODE FOR MELK OG MELKEPRODUKTER, MORSMELKERSTATNINGER, TILSKUDDSBLANDINGER OG NÆRINGSMIDLER TIL SPESIELLE MEDISINSKE FORMÅL BEREGNET PÅ SPEDBARN OG SMÅBARN SAMT SMÅBARNSNÆRING
+
+F.1.**Prøvetakingsmetode for melk og melkeprodukter, morsmelkerstatninger, tilskuddsblandinger og næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn samt småbarnsnæring**
 
 Samleprøven skal være på minst 1 kg eller 1 liter, med mindre det ikke lar seg gjøre, f.eks. når prøven består av én flaske.
 
 Det minste antall enkeltprøver som skal tas fra partiet, er angitt i tabell 1. Det fastsatte antall enkeltprøver er basert på den vanlige formen som de berørte produktene bringes i omsetning i. For flytende produkter i bulk skal partiet blandes så grundig som mulig uten at det påvirker kvaliteten på produktet, enten manuelt eller mekanisk, rett før prøvetaking. I så fall kan det antas at mykotoksin er homogent fordelt i et gitt parti. Det er derfor tilstrekkelig å ta tre enkeltprøver fra et parti som skal utgjøre samleprøven.
 
-Enkeltprøvene, som ofte kan bestå av en flaske eller en pakning, skal ha tilnærmet samme vekt. Enkeltprøvenes vekt skal være minst 100 gram, noe som gir en samleprøve på minst 1 kg eller 1 liter. Avvik fra denne metoden skal registreres i rapporten fastsatt i del I i punkt A.1.8. i dette vedlegget.*Tabell 1*
-**Minste antall enkeltprøver som skal tas fra partiet***Markedsføringsform**Partiets volum eller vekt (i liter eller kg)**Minste antall enkeltprøver som skal tas**Samleprøvens minste volum eller vekt (i liter eller kg)*Bulk–3-51Flasker/pakninger≤ 5031Flasker/pakninger50–50051Flasker/pakninger> 500101
+Enkeltprøvene, som ofte kan bestå av en flaske eller en pakning, skal ha tilnærmet samme vekt. Enkeltprøvenes vekt skal være minst 100 gram, noe som gir en samleprøve på minst 1 kg eller 1 liter. Avvik fra denne metoden skal registreres i rapporten fastsatt i del I i punkt A.1.8. i dette vedlegget.
+
+*Tabell 1*
+**Minste antall enkeltprøver som skal tas fra partiet**
+
+| *Markedsføringsform* | *Partiets volum eller vekt (i liter eller kg)* | *Minste antall enkeltprøver som skal tas* | *Samleprøvens minste volum eller vekt (i liter eller kg)* |
+| --- | --- | --- | --- |
+| Bulk | – | 3-5 | 1 |
+| Flasker/pakninger | ≤ 50 | 3 | 1 |
+| Flasker/pakninger | 50–500 | 5 | 1 |
+| Flasker/pakninger | > 500 | 10 | 1 |
+
+F.2.**Prøvetaking i detaljistleddet**
 
 Prøvetaking av næringsmidler i detaljistleddet bør om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i denne del F.
 
 Dersom det ikke er mulig, kan det benyttes en annen prøvetakingsmetode i detaljistleddet, forutsatt at den sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at den beskrives og dokumenteres fullt ut13.
 
+13 Dersom delen det skal tas prøver fra, er så liten at det er umulig å oppnå en samleprøve på 1 kg, kan samleprøven veie mindre enn 1 kg.
+
+F.3.**Godkjenning av et parti eller delparti**
+
 - godkjenning dersom laboratorieprøven er i samsvar med øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet,
 - avslag dersom det er hevet over enhver rimelig tvil at laboratorieprøven overskrider øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet. Dette er tilfellet når analyseresultatet (korrigert for gjenfinning dersom det er aktuelt) minus den utvidede måleusikkerheten som oppstår ved analysen, er over øvre grenseverdi.
+
+G.
 
 PRØVETAKINGSMETODE FOR KAFFE, KAFFEPRODUKTER, KAKAO, KAKAOPRODUKTER, LAKRISROT OG LAKRISPRODUKTER
 
 Denne prøvetakingsmetoden kan anvendes ved offentlig kontroll av innholdet av mykotoksiner i kaffe, kaffeprodukter, kakao, kakaoprodukter, lakrisrot og lakrisprodukter. Når det gjelder kaffe, kaffeprodukter, kakao og kakaoprodukter, gjelder prøvetakingsmetoden i denne del G for faste (tørkede) produkter. For drikkevarer (væske) gjelder prøvetakingsmetoden i del H.
+
+G.1.**Enkeltprøvens vekt**
 
 Enkeltprøven skal veie ca. 100 gram, med mindre annet er angitt i denne del G.
 
@@ -373,8 +688,21 @@ For forbrukerpakninger/enkeltemballasjer på over 100 g vil dette medføre samle
 
 Dersom forbrukerpakningene/enkeltemballasjene veier mindre enn 100 g og forskjellen ikke er særlig stor (dvs. ikke mindre enn halvparten av 100 g), skal én forbrukerpakning/enkeltemballasje anses som én enkeltprøve, noe som gir en samleprøve som er mindre enn den påkrevde vekten som er angitt i tabell 1 og 2. Dersom forbrukerpakningene/enkeltemballasjene veier betydelig mindre enn 100 gram, skal én enkeltprøve bestå av to eller flere forbrukerpakninger/enkeltemballasjer slik at enkeltprøvens vekt ligger så tett opptil 100 gram som mulig.
 
-**Alminnelig oversikt over prøvetakingsmetode for kaffe, kaffeprodukter, kakao, kakaoprodukter, lakrisrot og lakrisprodukter***Tabell 1*
-**Underoppdeling av partier i delpartier etter produkt og partiets vekt***Vare**Partiets vekt (tonn)**Delpartienes vekt eller antall**Antall enkeltprøver**Samleprøvens vekt (kg)*Kaffe, kaffeprodukter, kakao, kakaoprodukter, lakrisrot og lakrisprodukter≥ 1515–30 tonn10010< 15–10–100*1–10
+G.2.
+
+**Alminnelig oversikt over prøvetakingsmetode for kaffe, kaffeprodukter, kakao, kakaoprodukter, lakrisrot og lakrisprodukter**
+
+*Tabell 1*
+**Underoppdeling av partier i delpartier etter produkt og partiets vekt**
+
+| *Vare* | *Partiets vekt (tonn)* | *Delpartienes vekt eller antall* | *Antall enkeltprøver* | *Samleprøvens vekt (kg)* |
+| --- | --- | --- | --- | --- |
+| Kaffe, kaffeprodukter, kakao, kakaoprodukter, lakrisrot og lakrisprodukter | ≥ 15 | 15–30 tonn | 100 | 10 |
+|  | < 15 | – | 10–100\* | 1–10 |
+
+\* Avhengig av partiets vekt – se tabell 2 i denne del G.
+
+G.3.**Prøvetakingsmetode for kaffe, kaffeprodukter, kakao, kakaoprodukter, lakrisrot og lakrisprodukter (partier på minst 15 tonn)**
 
 - Forutsatt at delpartiene fysisk kan atskilles, skal hvert parti deles opp i delpartier i henhold til tabell 1. Ettersom vekten av et parti ikke alltid vil være et eksakt multiplum av vekten av delpartiene, kan vekten av delpartiene avvike fra den angitte vekten med opptil 20 %.
 - Prøvetakingen skal foretas separat for hvert delparti,
@@ -382,119 +710,219 @@ Dersom forbrukerpakningene/enkeltemballasjene veier mindre enn 100 g og forskjel
 - Samleprøvens vekt = 10 kg,
 - Dersom prøvetakingen ikke kan foretas etter metoden beskrevet ovenfor uten at det får uakseptable økonomiske konsekvenser som følge av skade på partiet (f.eks. pga. emballasjeformen eller transportmiddelet), kan det benyttes en annen prøvetakingsmetode, forutsatt at den er så representativ som mulig og at den beskrives og dokumenteres fullt ut.
 
+G.4.**Prøvetakingsmetode for kaffe, kaffeprodukter, kakao, kakaoprodukter, lakrisrot og lakrisprodukter (partier under 15 tonn)**
+
 For partier med kaffe, kaffeprodukter, kakao, kakaoprodukter, lakrisrot og lakrisprodukter under 15 tonn skal det brukes en prøvetakingsplan som, avhengig av partiets vekt, omfatter fra 10 til 100 enkeltprøver, noe som gir en samleprøve på mellom 1 og 10 kg.
 
-Tallene i nedenstående tabell 2 kan brukes til å bestemme hvor mange enkeltprøver det skal tas.*Tabell 2*
-**Antall enkeltprøver som skal tas avhengig av vekten av partiet av kaffe, kaffeprodukter, kakao, kakaoprodukter, lakrisrot og lakrisprodukter***Partiets vekt (tonn)**Antall enkeltprøver**Samleprøvens vekt (kg)*≤ 0,1101> 0,1–≤ 0,2151,5> 0,2–≤ 0,5202> 0,5–≤ 1,0303> 1,0–≤ 2,0404> 2,0–≤ 5,0606> 5,0–≤ 10,0808> 10,0–≤ 15,010010
+Tallene i nedenstående tabell 2 kan brukes til å bestemme hvor mange enkeltprøver det skal tas.
+
+*Tabell 2*
+**Antall enkeltprøver som skal tas avhengig av vekten av partiet av kaffe, kaffeprodukter, kakao, kakaoprodukter, lakrisrot og lakrisprodukter**
+
+| *Partiets vekt (tonn)* | *Antall enkeltprøver* | *Samleprøvens vekt (kg)* |
+| --- | --- | --- |
+| ≤ 0,1 | 10 | 1 |
+| > 0,1–≤ 0,2 | 15 | 1,5 |
+| > 0,2–≤ 0,5 | 20 | 2 |
+| > 0,5–≤ 1,0 | 30 | 3 |
+| > 1,0–≤ 2,0 | 40 | 4 |
+| > 2,0–≤ 5,0 | 60 | 6 |
+| > 5,0–≤ 10,0 | 80 | 8 |
+| > 10,0–≤ 15,0 | 100 | 10 |
+
+G.5.**Prøvetakingsmetode for kaffe, kaffeprodukter, kakao, kakaoprodukter, lakrisrot og lakrisprodukter som omsettes i vakuumpakninger**
 
 For partier på eller over 15 tonn skal det tas minst 25 enkeltprøver for å få en samleprøve på 10 kg, og for partier under 15 tonn skal det tas 25 % av antallet enkeltprøver nevnt i tabell 2 for å få en samleprøve med en vekt som tilsvarer vekten på partiet som det er tatt prøver fra (se tabell 2).
+
+G.6.**Prøvetaking i detaljistleddet**
 
 Prøvetaking av næringsmidler i detaljistleddet bør om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i denne del G.
 
 Dersom det ikke er mulig, kan det benyttes en annen prøvetakingsmetode i detaljistleddet, forutsatt at den sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at den beskrives og dokumenteres fullt ut. Samleprøven skal uansett veie minst 1 kg14.
 
+14 Dersom delen det skal tas prøver fra, er så liten at det er umulig å oppnå en samleprøve på 1 kg, kan samleprøven veie mindre enn 1 kg.
+
+G.7.**Godkjenning av et parti eller delparti**
+
 - godkjenning dersom laboratorieprøven er i samsvar med øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet,
 - avslag dersom det er hevet over enhver rimelig tvil at laboratorieprøven overskrider øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet. Dette er tilfellet når analyseresultatet (korrigert for gjenfinning dersom det er aktuelt) minus den utvidede måleusikkerheten som oppstår ved analysen, er over øvre grenseverdi.
+
+H.
 
 PRØVETAKINGSMETODE FOR DRIKKEVARER
 
 Denne prøvetakingsmetoden kan anvendes ved offentlig kontroll av innholdet av mykotoksiner i drikkevarer, med unntak av melk.
 
+H.1.**Prøvetakingsmetode**
+
 Samleprøven skal være på minst én liter, med mindre det ikke lar seg gjøre, f.eks. når prøven består av én flaske.
 
 Det minste antall enkeltprøver som skal tas fra partiet, er angitt i tabell 1. Det fastsatte antall enkeltprøver er basert på den vanlige formen som de berørte produktene bringes i omsetning i. For flytende produkter i bulk skal partiet blandes så grundig som mulig uten at det påvirker kvaliteten på produktet, enten manuelt eller mekanisk, rett før prøvetaking. I så fall kan det antas at mykotoksiner er homogent fordelt i et gitt parti. Det er derfor tilstrekkelig å ta tre enkeltprøver fra et parti som skal utgjøre samleprøven.
 
-Enkeltprøvene, som ofte kan bestå av en flaske eller en pakning, skal ha tilnærmet samme volum. Enkeltprøvenes volum skal være minst 100 milliliter, noe som gir en samleprøve på minst 1 liter. Avvik fra denne metoden skal registreres i rapporten fastsatt i del I i punkt A.1.8. i dette vedlegget.*Tabell 1*
-**Minste antall enkeltprøver som skal tas fra partiet***Markedsføringsform**Partiets volum (i liter)**Minste antall enkeltprøver som skal tas**Samleprøvens minste volum (i liter)*Bulk–31Flasker/pakninger (andre drikkevarer enn vin)≤ 5031Flasker/pakninger (andre drikkevarer enn vin)50–50051Flasker/pakninger (andre drikkevarer enn vin)> 500101Flasker/pakninger med vin≤ 5011Flasker/pakninger med vin50–50021Flasker/pakninger med vin> 50031
+Enkeltprøvene, som ofte kan bestå av en flaske eller en pakning, skal ha tilnærmet samme volum. Enkeltprøvenes volum skal være minst 100 milliliter, noe som gir en samleprøve på minst 1 liter. Avvik fra denne metoden skal registreres i rapporten fastsatt i del I i punkt A.1.8. i dette vedlegget.
+
+*Tabell 1*
+**Minste antall enkeltprøver som skal tas fra partiet**
+
+| *Markedsføringsform* | *Partiets volum (i liter)* | *Minste antall enkeltprøver som skal tas* | *Samleprøvens minste volum (i liter)* |
+| --- | --- | --- | --- |
+| Bulk | – | 3 | 1 |
+| Flasker/pakninger (andre drikkevarer enn vin) | ≤ 50 | 3 | 1 |
+| Flasker/pakninger (andre drikkevarer enn vin) | 50–500 | 5 | 1 |
+| Flasker/pakninger (andre drikkevarer enn vin) | > 500 | 10 | 1 |
+| Flasker/pakninger med vin | ≤ 50 | 1 | 1 |
+| Flasker/pakninger med vin | 50–500 | 2 | 1 |
+| Flasker/pakninger med vin | > 500 | 3 | 1 |
+
+H.2.**Prøvetaking i detaljistleddet**
 
 Prøvetaking av næringsmidler i detaljistleddet bør om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i denne del H15.
 
 Dersom det ikke er mulig, kan det benyttes en annen prøvetakingsmetode i detaljistleddet, forutsatt at den sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at den beskrives og dokumenteres fullt ut.
 
+15 Dersom delen som det skal tas prøver fra, er så liten at det er umulig å oppnå en samleprøve på 1 liter, kan samleprøvens volum være mindre enn 1 liter.
+
+H.3.**Godkjenning av et parti eller delparti**
+
 - godkjenning dersom laboratorieprøven er i samsvar med øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet,
 - avslag dersom det er hevet over enhver rimelig tvil at laboratorieprøven overskrider øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet. Dette er tilfellet når analyseresultatet (korrigert for gjenfinning dersom det er aktuelt) minus den utvidede måleusikkerheten som oppstår ved analysen, er over øvre grenseverdi.
+
+I.
 
 PRØVETAKINGSMETODE FOR FASTE, BEARBEIDEDE PRODUKTER AV FRUKT OG GRØNNSAKER
 
 Denne prøvetakingsmetoden kan anvendes ved offentlig kontroll av innholdet av mykotoksiner i bearbeidet produkter av frukt i fast form (med unntak av bearbeidede produkter av tørket frukt som omfattes av del B og C i dette vedlegget) og bearbeidede produkter av grønnsaker, herunder bearbeidede produkter av frukt og grønnsaker i fast form for spedbarn og småbarn.
 
+I.1.**Prøvetakingsmetode**
+
 Samleprøven skal veie minst 1 kg, med mindre det ikke lar seg gjøre, f.eks. ved prøvetaking av en enkeltpakning.
 
 Det minste antall enkeltprøver som skal tas fra partiet, er angitt i tabell 1.
 
-Enkeltprøvene skal ha tilnærmet samme vekt. Enkeltprøvenes vekt skal være minst 100 gram, noe som gir en samleprøve på minst 1 kg. Avvik fra denne metoden skal registreres i rapporten fastsatt i del I i punkt A.1.8. i dette vedlegget.*Tabell 1*
-**Minste antall enkeltprøver som skal tas fra partiet***Partiets vekt (kg)**Minste antall enkeltprøver som skal tas**Samleprøvens vekt (kg)*< 503150–50051> 500101
+Enkeltprøvene skal ha tilnærmet samme vekt. Enkeltprøvenes vekt skal være minst 100 gram, noe som gir en samleprøve på minst 1 kg. Avvik fra denne metoden skal registreres i rapporten fastsatt i del I i punkt A.1.8. i dette vedlegget.
 
-Dersom partiet består av enkeltpakninger, er antall pakninger som skal utgjøre en samleprøve, angitt i tabell 2.*Tabell 2*
-**Antall pakninger (enkeltprøver) som skal utgjøre samleprøven dersom partiet består av enkeltpakninger***Antall pakninger eller enheter i partiet**Antall pakninger eller enheter som skal inngå i prøvetakingen**Samleprøvens vekt (kg)*1–251 pakning eller enhet126–100Ca. 5 %, minst to pakninger eller enheter1> 100Ca. 5 %, høyst ti pakninger eller enheter1
+*Tabell 1*
+**Minste antall enkeltprøver som skal tas fra partiet**
+
+| *Partiets vekt (kg)* | *Minste antall enkeltprøver som skal tas* | *Samleprøvens vekt (kg)* |
+| --- | --- | --- |
+| < 50 | 3 | 1 |
+| 50–500 | 5 | 1 |
+| > 500 | 10 | 1 |
+
+Dersom partiet består av enkeltpakninger, er antall pakninger som skal utgjøre en samleprøve, angitt i tabell 2.
+
+*Tabell 2*
+**Antall pakninger (enkeltprøver) som skal utgjøre samleprøven dersom partiet består av enkeltpakninger**
+
+| *Antall pakninger eller enheter i partiet* | *Antall pakninger eller enheter som skal inngå i prøvetakingen* | *Samleprøvens vekt (kg)* |
+| --- | --- | --- |
+| 1–25 | 1 pakning eller enhet | 1 |
+| 26–100 | Ca. 5 %, minst to pakninger eller enheter | 1 |
+| > 100 | Ca. 5 %, høyst ti pakninger eller enheter | 1 |
+
+I.2.**Prøvetaking i detaljistleddet**
 
 Prøvetaking av næringsmidler i detaljistleddet bør om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i denne del I.
 
 Dersom det ikke er mulig, kan det benyttes en annen prøvetakingsmetode i detaljistleddet, forutsatt at den sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at den beskrives og dokumenteres fullt ut16.
 
+16 Dersom delen det skal tas prøver fra, er så liten at det er umulig å oppnå en samleprøve på 1 kg, kan samleprøven veie mindre enn 1 kg.
+
+I.3.**Godkjenning av et parti eller delparti**
+
 - godkjenning dersom laboratorieprøven ikke overskrider øvre grenseverdi, idet det tas hensyn til måleusikkerhet og korrigering for gjenfinning,
 - avslag dersom det er hevet over enhver rimelig tvil at laboratorieprøven overskrider øvre grenseverdi, idet det tas hensyn til måleusikkerhet og korrigering for gjenfinning. Dette er tilfellet når analyseresultatet (korrigert for gjenfinning dersom det er aktuelt) minus den utvidede måleusikkerheten som oppstår ved analysen, er over øvre grenseverdi.
+
+J.
 
 PRØVETAKINGSMETODE FOR BARNEMAT OG BEARBEIDEDE KORNBASERTE NÆRINGSMIDLER FOR SPEDBARN OG SMÅBARN
 
 Denne prøvetakingsmetoden anvendes ved offentlig kontroll av innholdet av mykotoksiner i barnemat og bearbeidede kornbaserte næringsmidler for spedbarn og småbarn, med unntak av drikkevarer nevnt i del H og bearbeidede produkter av frukt og grønnsaker i fast form nevnt i del I i dette vedlegget.
 
+J.1.**Prøvetakingsmetode**
+
 - Prøvetakingsmetoden for korn og kornprodukter fastsatt i A.4 i del II i dette vedlegget skal benyttes for næringsmidler beregnet på spedbarn og småbarn. Antall enkeltprøver som skal tas, avhenger derfor av partiets vekt, og det skal tas minst 10 og høyst 100 prøver, i samsvar med tabell 2 i vedlegg I punkt A.4 i del II i dette vedlegget. For svært små partier (på eller under 0,5 tonn) kan det tas et mindre antall enkeltprøver, men samleprøven som inneholder alle enkeltprøvene skal da veie minst 1 kg.
 - Enkeltprøven skal veie ca. 100 gram. For partier i forbrukerpakninger/enkeltemballasjer avhenger enkeltprøvens vekt av vekten på forbrukerpakningen/enkeltemballasjen, og for svært små partier (på eller under 0,5 tonn) skal enkeltprøvene ha en vekt som gjør at de sett under ett gir en samleprøve på minst 1 kg. Avvik fra denne metoden skal registreres i rapporten fastsatt i del I i punkt A.1.8. i dette vedlegget.
 - Samleprøvens vekt = 1-10 kg, tilstrekkelig blandet.
+
+J.2.**Prøvetaking i detaljistleddet**
 
 Prøvetaking av næringsmidler i detaljistleddet bør om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i denne del J.
 
 Dersom det ikke er mulig, kan det benyttes en annen prøvetakingsmetode i detaljistleddet, forutsatt at den sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at den beskrives og dokumenteres fullt ut17.
 
+17 Dersom delen det skal tas prøver fra, er så liten at det er umulig å oppnå en samleprøve på 1 kg, kan samleprøven veie mindre enn 1 kg.
+
+J.3.**Godkjenning av et parti eller delparti**
+
 - godkjenning dersom laboratorieprøven er i samsvar med øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet,
 - avslag dersom det er hevet over enhver rimelig tvil at laboratorieprøven overskrider øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet. Dette er tilfellet når analyseresultatet (korrigert for gjenfinning dersom det er aktuelt) minus den utvidede måleusikkerheten som oppstår ved analysen, er over øvre grenseverdi.
 
+K.
+
 PRØVETAKINGSMETODE FOR VEGETABILSKE OLJER
+
+K.1.**Prøvetakingsmetode for vegetabilske oljer**
 
 - Enkeltprøven skal veie minst 100 gram (ml) (avhengig av partiets art, f.eks. vegetabilsk olje i bulk, skal det tas minst tre enkeltprøver på ca. 350 ml), noe som gir en samleprøve på minst 1 kg (liter).
 - Forutsatt at delpartiene fysisk kan atskilles, skal hvert parti deles opp i delpartier i henhold til tabell 1. Ettersom vekten på et parti ikke alltid vil være et eksakt multiplum av vekten av delpartiene, kan vekten av delpartiene overskride den angitte vekten med opptil 20 %. Dersom partiet ikke fysisk kan utskilles eller kan deles opp i delpartier, skal minst 3 enkeltprøver tas fra partiet.
 - Det minste antall enkeltprøver som skal tas fra partiet, er angitt i tabell 2. Partiet skal blandes så grundig som mulig enten manuelt eller mekanisk rett før prøvetaking. I så fall kan det antas at mykotoksin er homogent fordelt i et gitt parti, og det er derfor tilstrekkelig å ta tre enkeltprøver fra et parti som skal utgjøre samleprøven.*Tabell 1*
 **Underoppdeling av partier i delpartier etter partiets vekt***Vare**Partiets vekt (tonn)**Delpartienes vekt eller antall**Minste antall enkeltprøver**Samleprøvens minstevekt (kg)*Vegetabilske oljer≥ 1 500500 tonn31> 300 og < 1 5003 delpartier31≥ 50 og ≤ 300100 tonn31< 50–31 *Tabell 2*
 **Minste antall enkeltprøver som skal tas fra partiet***Markedsføringsform**Partiets vekt (kg)*
-*Partiets volum (i liter)**Minste antall enkeltprøver som skal tas*Bulk*–3kolli≤ 503kolli> 50 til 5005kolli> 50010
+*Partiets volum (i liter)**Minste antall enkeltprøver som skal tas*Bulk\*–3kolli≤ 503kolli> 50 til 5005kolli> 50010
+
+\* Forutsatt at delpartiene fysisk kan atskilles, skal store forsendelser i bulk/partier med vegetabilske oljer deles opp i delpartier i samsvar med tabell 2 i denne del K.
+
+K.2.**Prøvingsmetode for vegetabilske oljer i detaljistleddet**
 
 Prøvetaking av næringsmidler i detaljistleddet bør om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i denne del K.
 
 Dersom det ikke er mulig, kan det benyttes andre effektive prøvetakingsmetoder i detaljistleddet, forutsatt at de sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at de beskrives og dokumenteres fullt ut. Samleprøven skal uansett veie minst 1 kg.
 
+K.3.**Godkjenning av et parti eller delparti**
+
 - godkjenning dersom laboratorieprøven er i samsvar med øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet,
 - avslag dersom det er hevet over enhver rimelig tvil at laboratorieprøven overskrider øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet. Dette er tilfellet når analyseresultatet (korrigert for gjenfinning dersom det er aktuelt) minus den utvidede måleusikkerheten som oppstår ved analysen, er over øvre grenseverdi.
 
+L.
+
 PRØVETAKINGSMETODE FOR KOSTTILSKUDD, POLLEN OG POLLENPRODUKTER
 
-Prøvetakingsprosedyren for kosttilskudd, pollen og pollenprodukter som kapsler/piller er basert på forbrukerpakninger/enkeltemballasjer som vanligvis inneholder 30 til 120 kapsler/piller per forbrukerpakning/enkeltemballasje*Partistørrelse (antall forbrukerpakninger/enkeltemballasjer)**Antall forbrukerpakninger/enkeltemballasjer det skal tas prøver av**Prøvestørrelse (minste mengde av samleprøven)*1–501Kosttilskudd som kapsler/piller: Samlet innhold i forbrukerpakning/enkeltemballasjeAndre former for kosttilskudd – enkeltprøver på ca. 20 g eller 20 ml
-– 100 g for kosttilskudd som inneholder urte-/plantebaserte ingredienser, inkludert ekstrakter (minst 5 enkeltprøver)
-– 50 g eller 50 ml for andre kosttilskudd (minimum 3 enkeltprøver)51-2502Kosttilskudd som kapsler/piller: samlet innhold av de to forbrukerpakningene/enkeltemballasjeneAndre former for kosttilskudd – enkeltprøver på ca. 20 g eller 20 ml
-– 200 g for kosttilskudd som inneholder urte-/plantebaserte ingredienser, inkludert ekstrakter (minst 10 enkeltprøver)
-– 100 g eller 100 ml for andre kosttilskudd (minimum 5 enkeltprøver)251-1 0004Kosttilskudd som kapsler/piller: fra hver forbrukerpakning/enkeltemballasje tatt for prøve, halvparten av kapslene/pilleneAndre former for kosttilskudd – enkeltprøver på ca. 20 g eller 20 ml
-– 200 g for kosttilskudd som inneholder urte-/plantebaserte ingredienser, inkludert ekstrakter (minst 10 enkeltprøver)
-– 100 g eller 100 ml for andre kosttilskudd (minimum 5 enkeltprøver)> 1 0004 + 1 forbrukerpakning/
-enkeltemballasje per 1 000 forbrukerpakninger/
-enkeltemballasjer med høyst 25 forbrukerpakninger/
-enkeltemballasjerKosttilskudd som kapsler/piller:
-≤ 10 forbrukerpakninger/enkeltemballasjer: halvparten av kapslene i hver forbrukerpakning/enkeltemballasje
-> 10 forbrukerpakninger/enkeltemballasjer: fra hver forbrukerpakning/enkeltemballasje tas det et likt antall kapsler/piller for å oppnå en prøve som tilsvarer innholdet i 5 forbrukerpakninger/enkeltemballasjerAndre former for kosttilskudd – enkeltprøver på ca. 20 g eller 20 ml
-≤ 10 forbrukerpakninger/enkeltemballasjer
-– 200 g for kosttilskudd som inneholder urte-/plantebaserte ingredienser, inkludert ekstrakter (minst 10 enkeltprøver)
-– 100 g eller 100 ml for andre kosttilskudd (minimum 5 enkeltprøver)
-> 10 forbrukerpakninger/enkeltemballasjer – per 5 forbrukerpakninger/enkeltemballasjer:
-– 100 g for kosttilskudd som inneholder urte-/plantebaserte ingredienser, inkludert ekstrakter (minst 5 enkeltprøver)
-– 50 g eller 50 ml for andre kosttilskudd (minimum 3 enkeltprøver)Ukjent (gjelder bare for e-handel)1Kosttilskudd som kapsler/piller: samlet innhold av forpakningen
+L.1.**Enkeltprøvens vekt og prøvetakingsmetode**
+
+Prøvetakingsprosedyren for kosttilskudd, pollen og pollenprodukter som kapsler/piller er basert på forbrukerpakninger/enkeltemballasjer som vanligvis inneholder 30 til 120 kapsler/piller per forbrukerpakning/enkeltemballasje
+
+| *Partistørrelse (antall forbrukerpakninger/enkeltemballasjer)* | *Antall forbrukerpakninger/enkeltemballasjer det skal tas prøver av* | *Prøvestørrelse (minste mengde av samleprøven)* |
+| --- | --- | --- |
+| 1–50 | 1 | Kosttilskudd som kapsler/piller: Samlet innhold i forbrukerpakning/enkeltemballasje |
+|  |  | Andre former for kosttilskudd – enkeltprøver på ca. 20 g eller 20 ml<br>– 100 g for kosttilskudd som inneholder urte-/plantebaserte ingredienser, inkludert ekstrakter (minst 5 enkeltprøver)<br>– 50 g eller 50 ml for andre kosttilskudd (minimum 3 enkeltprøver) |
+| 51-250 | 2 | Kosttilskudd som kapsler/piller: samlet innhold av de to forbrukerpakningene/enkeltemballasjene |
+|  |  | Andre former for kosttilskudd – enkeltprøver på ca. 20 g eller 20 ml<br>– 200 g for kosttilskudd som inneholder urte-/plantebaserte ingredienser, inkludert ekstrakter (minst 10 enkeltprøver)<br>– 100 g eller 100 ml for andre kosttilskudd (minimum 5 enkeltprøver) |
+| 251-1 000 | 4 | Kosttilskudd som kapsler/piller: fra hver forbrukerpakning/enkeltemballasje tatt for prøve, halvparten av kapslene/pillene |
+|  |  | Andre former for kosttilskudd – enkeltprøver på ca. 20 g eller 20 ml<br>– 200 g for kosttilskudd som inneholder urte-/plantebaserte ingredienser, inkludert ekstrakter (minst 10 enkeltprøver)<br>– 100 g eller 100 ml for andre kosttilskudd (minimum 5 enkeltprøver) |
+| > 1 000 | 4 + 1 forbrukerpakning/<br>enkeltemballasje per 1 000 forbrukerpakninger/<br>enkeltemballasjer med høyst 25 forbrukerpakninger/<br>enkeltemballasjer | Kosttilskudd som kapsler/piller:<br>≤ 10 forbrukerpakninger/enkeltemballasjer: halvparten av kapslene i hver forbrukerpakning/enkeltemballasje<br>> 10 forbrukerpakninger/enkeltemballasjer: fra hver forbrukerpakning/enkeltemballasje tas det et likt antall kapsler/piller for å oppnå en prøve som tilsvarer innholdet i 5 forbrukerpakninger/enkeltemballasjer |
+|  |  | Andre former for kosttilskudd – enkeltprøver på ca. 20 g eller 20 ml<br>≤ 10 forbrukerpakninger/enkeltemballasjer<br>– 200 g for kosttilskudd som inneholder urte-/plantebaserte ingredienser, inkludert ekstrakter (minst 10 enkeltprøver)<br>– 100 g eller 100 ml for andre kosttilskudd (minimum 5 enkeltprøver)<br>> 10 forbrukerpakninger/enkeltemballasjer – per 5 forbrukerpakninger/enkeltemballasjer:<br>– 100 g for kosttilskudd som inneholder urte-/plantebaserte ingredienser, inkludert ekstrakter (minst 5 enkeltprøver)<br>– 50 g eller 50 ml for andre kosttilskudd (minimum 3 enkeltprøver) |
+| Ukjent (gjelder bare for e-handel) | 1 | Kosttilskudd som kapsler/piller: samlet innhold av forpakningen |
+
+L.2.**Prøvetaking i detaljistleddet**
 
 Prøvetaking av kosttilskudd, pollen og pollenprodukter i detaljistleddet bør om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i denne del L.
 
 Dersom det ikke er mulig, kan det benyttes en annen prøvetakingsmetode i detaljistleddet, forutsatt at den sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at den beskrives og dokumenteres fullt ut. Samleprøven skal uansett veie minst 0,05 kg.
 
+L.3.**Godkjenning av et parti**
+
 - godkjenning dersom laboratorieprøven er i samsvar med øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet,
 - avslag dersom det er hevet over enhver rimelig tvil at laboratorieprøven overskrider øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet. Dette er tilfellet når analyseresultatet (korrigert for gjenfinning dersom det er aktuelt) minus den utvidede måleusikkerheten som oppstår ved analysen, er over øvre grenseverdi.
 
+►**M1**
+
+M.
+
 PRØVETAKINGSMETODE FOR TØRKEDE URTER, URTETE (TØRKEDE PRODUKTER), TE (TØRKEDE PRODUKTER) OG KRYDDER I PULVERFORM
+
+M.1.**Enkeltprøvens vekt**
 
 Enkeltprøven skal veie ca. 80 gram, med mindre annet er angitt i denne del M.
 
@@ -504,8 +932,21 @@ For forbrukerpakninger/enkeltemballasjer på over 80 g vil dette medføre samlep
 
 Dersom forbrukerpakningene/enkeltemballasjene veier mindre enn 80 g og forskjellen ikke er særlig stor (dvs. ikke mindre enn halvparten av 80 g), skal én forbrukerpakning/enkeltemballasje anses som én enkeltprøve, noe som gir en samleprøve som er mindre enn den påkrevde vekten som er angitt i tabell 1 og 2. Dersom forbrukerpakningene/enkeltemballasjene veier betydelig mindre enn 80 gram, skal én enkeltprøve bestå av to eller flere forbrukerpakninger/enkeltemballasjer slik at enkeltprøvens vekt ligger så tett opptil 80 gram som mulig.
 
-**Oppdeling av partier i delpartier med henblikk på prøvetaking av tørkede urter, urtete (tørkede produkter), te (tørkede produkter) og krydder i pulverform***Tabell 1*
-**Underoppdeling av partier i delpartier etter partiets vekt***Vare**Partiets vekt (tonn)**Delpartienes vekt eller antall**Antall enkeltprøver**Samleprøvens vekt (kg)*Tørkede urter, urtete (tørkede produkter), te (tørkede produkter) og krydder i pulverform≥ 1525 tonn504< 15–3–50*0,2–4,0
+M.2.
+
+**Oppdeling av partier i delpartier med henblikk på prøvetaking av tørkede urter, urtete (tørkede produkter), te (tørkede produkter) og krydder i pulverform**
+
+*Tabell 1*
+**Underoppdeling av partier i delpartier etter partiets vekt**
+
+| *Vare* | *Partiets vekt (tonn)* | *Delpartienes vekt eller antall* | *Antall enkeltprøver* | *Samleprøvens vekt (kg)* |
+| --- | --- | --- | --- | --- |
+| Tørkede urter, urtete (tørkede produkter), te (tørkede produkter) og krydder i pulverform | ≥ 15 | 25 tonn | 50 | 4 |
+|  | < 15 | – | 3–50\* | 0,2–4,0 |
+
+\* Avhengig av partiets vekt – se tabell 2.
+
+M.3.**Prøvetakingsmetode for tørkede urter, urtete (tørkede produkter), te (tørkede produkter) og krydder i pulverform (partier på minst 15 tonn)**
 
 Forutsatt at delpartiene fysisk kan atskilles, skal hvert parti deles opp i delpartier i henhold til tabell 1. Ettersom vekten på et parti ikke alltid vil være et eksakt multiplum av vekten av delpartiene, kan vekten av delpartiene overskride den angitte vekten med opptil 20 %.
 
@@ -515,22 +956,46 @@ Antallet enkeltprøver skal være 50. Samleprøven skal veie 4,0 kg.
 
 Dersom prøvetakingen ikke kan foretas etter metoden beskrevet ovenfor uten at det får uakseptable økonomiske konsekvenser som følge av skade på partiet (f.eks. pga. emballasjeformen eller transportmiddelet eller andre årsaker), kan det benyttes en annen prøvetakingsmetode, forutsatt at den er så representativ som mulig og at den beskrives og dokumenteres fullt ut.
 
+M.4.**Prøvetakingsmetode for tørkede urter, urtete (tørkede produkter), te (tørkede produkter) og krydder i pulverform (partier under 15 tonn)**
+
 For partier med tørkede urter, urtete (tørkede produkter), te (tørkede produkter) og krydder i pulverform under 15 tonn skal prøvetakingsplanen, avhengig av partiets vekt, omfatte 3–50 enkeltprøver, hvilket gir en samleprøve på 0,2–4,0 kg.
 
-Tallene i nedenstående tabell 2 kan brukes til å bestemme hvor mange enkeltprøver det skal tas.*Tabell 2*
-**Minste antall enkeltprøver som skal tas avhengig av vekten på partiet med tørkede urter, urtete (tørkede produkter), te (tørkede produkter) og krydder i pulverform***Partiets vekt (tonn)**Minste antall enkeltprøver**Samleprøvens minstevekt (kg)*≤ 0,130,2> 0,1–≤ 0,5100,8> 0,5–≤ 5,0252,0> 5,0–≤ 10,0352,8> 10,0–≤ 15,0504,0
+Tallene i nedenstående tabell 2 kan brukes til å bestemme hvor mange enkeltprøver det skal tas.
+
+*Tabell 2*
+**Minste antall enkeltprøver som skal tas avhengig av vekten på partiet med tørkede urter, urtete (tørkede produkter), te (tørkede produkter) og krydder i pulverform**
+
+| *Partiets vekt (tonn)* | *Minste antall enkeltprøver* | *Samleprøvens minstevekt (kg)* |
+| --- | --- | --- |
+| ≤ 0,1 | 3 | 0,2 |
+| > 0,1–≤ 0,5 | 10 | 0,8 |
+| > 0,5–≤ 5,0 | 25 | 2,0 |
+| > 5,0–≤ 10,0 | 35 | 2,8 |
+| > 10,0–≤ 15,0 | 50 | 4,0 |
+
+M.5.**Prøvetaking i detaljistleddet**
 
 Prøvetaking av næringsmidler i detaljistleddet bør om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i denne del M.
 
 Dersom dette ikke er mulig, kan det benyttes en annen prøvetakingsmetode i detaljistleddet, forutsatt at den sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at den beskrives og dokumenteres fullt ut. Samleprøven skal uansett veie minst 0,2 kg.
 
+M.6.**Prøvetaking av kosttilskudd som inneholder tørkede urter i bulk, før de pakkes i forbrukerpakninger/enkeltemballasje til sluttforbrukeren**
+
 For prøvetaking av kosttilskudd som inneholder tørkede urter i bulk, før de pakkes i forbrukerpakninger/enkeltemballasje, gjelder prøvetakingsbestemmelsene i denne del M, og de skal anvendes basert på vekten av det tørkede urteinnholdet i kosttilskuddene i bulk.
+
+M.7.**Godkjenning av et parti eller delparti**
 
 Godkjenning dersom laboratorieprøven er i samsvar med øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet.
 
 Avslag dersom det er hevet over enhver rimelig tvil at laboratorieprøven overskrider øvre grenseverdi, idet det tas hensyn til korrigering for gjenfinning og måleusikkerhet. Dette er tilfellet når analyseresultatet (korrigert for gjenfinning dersom det er aktuelt) minus den utvidede måleusikkerheten som oppstår ved analysen, er over øvre grenseverdi.
 
+◄**M1**
+
+N.
+
 PRØVETAKINGSMETODE FOR SVÆRT STORE PARTIER ELLER PARTIER SOM LAGRES ELLER TRANSPORTERES PÅ EN MÅTE SOM GJØR DET UMULIG Å TA PRØVER AV HELE PARTIET
+
+N.1.**Generelle prinsipper**
 
 Dersom transport eller lagring av et parti gjør det umulig å ta enkeltprøver av hele partiet, skal det tas prøver av slike partier når partiet er i flyt (dynamisk prøvetaking).
 
@@ -542,7 +1007,13 @@ Prøvetaking av en del av partiet er tillatt, under forutsetning av at den delen
 
 De relevante prøvetakingsbestemmelsene om for eksempel enkeltprøvens vekt fastsatt i andre deler av dette vedlegget anvendes ved prøvetaking av svært store partier eller partier som lagres eller transporteres på en måte som gjør det umulig å ta prøver av hele partiet.
 
+N.2.**Antall enkeltprøver som skal tas dersom partiene er svært store**
+
 Dersom de delene av et parti som tas ut for prøvetaking, er store (> 500 tonn), er antall enkeltprøver som skal tas = 100 enkeltprøver + √tonn. Dersom partiet veier mindre enn 1 500 tonn og kan inndeles i delpartier i samsvar med tabell 1 i del A, og under forutsetning av at delpartiene kan atskilles fysisk, skal det imidlertid tas det antall enkeltprøver som er angitt i del A.
+
+N.3.**Store partier som transporteres med skip**
+
+N.3.1.*Dynamisk prøvetaking av store partier som transporteres med skip*
 
 Prøvetaking av store partier i skip skal fortrinnsvis foretas mens produktet er i flyt (dynamisk prøvetaking).
 
@@ -552,24 +1023,44 @@ Det kan ta flere dager å losse et skip. Vanligvis skal prøvetaking foretas med
 
 Selv om den offisielle prøven tas automatisk, skal en inspektør være til stede. Dersom den automatiske prøvetakingen foretas med forhåndsinnstilte parametrer som ikke kan endres under prøvetakingen, og enkeltprøvene samles i en forseglet beholder som hindrer mulig svindel, kreves det at inspektøren er til stede bare når prøvetakingen starter, hver gang prøvebeholderen skal skiftes ut og når prøvetakingen avsluttes.
 
+N.3.2.*Statisk prøvetaking av partier som transporteres med skip*
+
 Dersom prøvetakingen foretas på en statisk måte, må det benyttes samme framgangsmåte som den som gjelder for lagringssteder (siloer) som er tilgjengelige ovenfra (se N.5.1).
 
 Prøvene skal tas (ovenfra) fra den tilgjengelige delen av partiet/lasterommet. Antall enkeltprøver fastsettes ut fra størrelsen på den delen som tas ut for prøvetaking.
 
-Prøvene skal tas fra den tilgjengelige delen av partiet. Antall enkeltprøver fastsettes ut fra størrelsen på den delen som tas ut for prøvetaking.
+N.4.**Prøvetaking av store partier som oppbevares i lagre**
 
 Prøvene skal tas fra den tilgjengelige delen av partiet. Antall enkeltprøver fastsettes ut fra størrelsen på den delen som tas ut for prøvetaking.
+
+N.5.**Prøvetaking fra lagre (siloer)**
+
+N.5.1.*Prøvetaking fra siloer som er (lett) tilgjengelige ovenfra*
+
+Prøvene skal tas fra den tilgjengelige delen av partiet. Antall enkeltprøver fastsettes ut fra størrelsen på den delen som tas ut for prøvetaking.
+
+N.5.2.*Prøvetaking fra siloer som ikke er tilgjengelige ovenfra (lukkede siloer)*
+
+N.5.2.1.*Siloer som ikke er tilgjengelige ovenfra (lukkede siloer), med en individuell størrelse på > 100 tonn*
 
 Det kan ikke tas prøver på en statisk måte av næringsmidler som lagres i slike siloer. Dersom det skal tas prøver av næringsmidler i en slik silo og det ikke er mulig å flytte partiet, skal det derfor inngås avtale med den driftsansvarlige om at han/hun skal underrette inspektøren om når siloen vil bli tømt, helt eller delvis, slik at det kan tas prøver mens næringsmidlene er i flyt.
 
+N.5.2.2.*Siloer som ikke er tilgjengelige ovenfra (lukkede siloer), med en individuell størrelse på < 100 tonn*
+
 I motsetning til bestemmelsen i del N.1 (den delen som tas ut for prøvetaking, utgjør minst 10 %) innebærer prøvetakingsmetoden overføring til en beholder med en størrelse på 50-100 kg, som prøven tas fra. Samleprøvens størrelse skal tilsvare hele partiet, og antall enkeltprøver skal beregnes ut fra mengden i den siloen som næringsmidlene overføres til en beholder fra med sikte på prøvetaking.
+
+N.6.**Prøvetaking av uemballerte næringsmidler i store lukkede beholdere**
 
 Prøver fra slike partier kan ofte ikke tas før de losses. Det er i enkelte tilfeller ikke mulig å losse slike beholdere på innførsels- eller kontrollstedet, og prøvetakingen bør derfor utføres når beholderne losses. Den driftsansvarlige skal underrette inspektøren om stedet og tidspunktet for lossing av beholderne, slik at inspektøren har mulighet til å være til stede.
 
 ### VEDLEGG II
 Kriterier for tillaging av prøver og for analysemetoder brukt ved kontroll av innholdet av mykotoksiner i næringsmidler
 
+1\.
+
 INNLEDNING
+
+1.1.**Forholdsregler**
 
 Ettersom fordelingen av mykotoksiner vanligvis er heterogen, bør prøvene tillages (og særlig homogeniseres) med den største omhu.
 
@@ -577,11 +1068,15 @@ Dersom homogeniseringen utføres av laboratoriet, skal hele prøven som mottas, 
 
 Dagslys skal i størst mulig grad unngås under analysen av aflatoksiner, da det skjer en gradvis nedbryting av aflatoksin når det utsettes for ultrafiolett lys.
 
+1.2.**Beregning av forholdet skall/kjerner i hele nøtter / oljeholdige frø (peanøtter og andre)**
+
 De øvre grenseverdiene fastsatt i forordning [(EU) 2023/915](eu/32023r0915) gjelder for den spiselige delen. Innholdet av mykotoksiner i den spiselige delen kan bestemmes på følgende måter:De hele nøttene og oljeholdige frøene i prøvene avskalles, og innholdet av mykotoksiner bestemmes direkte i den spiselige delen.Prøven tillages med uavskallede nøtter og oljeholdige frø. Prøvetakings- og analysemetoden må i så fall gjøre det mulig å beregne kjernenes vekt i samleprøven. Kjernenes vekt i samleprøven skal beregnes etter at det er fastlagt en egnet faktor for forholdet mellom skall og kjerne i hele nøtter og oljeholdige frø. Ved hjelp av dette forholdet beregnes andelen av kjerner i samleprøven som brukes til tillaging og analyse av prøven.
 
 Ca. 100 hele nøtter/oljeholdige frø skal for dette formål tas ut vilkårlig fra partiet eller samleprøven. Forholdet kan for hver laboratorieprøve fastlegges ved at hele nøtter og oljeholdige frø veies og avskalles, hvoretter skall og kjerner veies på nytt.
 
 Forholdet mellom skall og nøtter kan imidlertid fastslås av laboratoriet ut fra et visst antall prøver og på den måten antas i framtidige analyser. Dersom det fastslås at en laboratorieprøve overskrider den øvre grenseverdien, skal imidlertid forholdet mellom skall og kjerne for denne prøven bestemmes ved hjelp av de ca. 100 nøttene / oljeholdige frøene som er tatt ut.
+
+2\.
 
 BEHANDLING AV PRØVEN I LABORATORIET
 
@@ -591,26 +1086,50 @@ Dersom laboratorieprøven skal analyseres for kontroll av forekomst av meldrøye
 
 Dersom grenseverdien gjelder tørrstoffet, skal tørrstoffinnholdet i produktet bestemmes for en del av den homogeniserte prøven etter en metode som sikrer nøyaktig bestemmelse av tørrstoffinnholdet.
 
+3\.
+
 PARALLELLPRØVER
 
 Parallellprøvene som tas for håndhevings-, klageadgangs- eller referanseformål, skal tas fra den homogeniserte samleprøven, med mindre en slik framgangsmåte er i strid med medlemsstatenes bestemmelser om rettighetene til den driftsansvarlige for næringsmiddelforetaket.
 
+4\.
+
 ANALYSEMETODE SOM LABORATORIET SKAL BRUKE SAMT KRAV TIL LABORATORIEKONTROLL
+
+4.1.**Generelle krav**
 
 De bekreftende analysemetodene som benyttes ved kontroll av næringsmidler, skal være i samsvar med bestemmelsene i nr. 1 og 2 i vedlegg III til forordning (EU) nr. 2017/625.
 
 Når det er mulig, bør metodens riktighet verifiseres gjennom analyse av et sertifisert referansemateriale og/eller regelmessig deltakelse med vellykket resultat i sammenlignende laboratorieprøving.
 
+4.2.**Særlige krav**
+
+4.2.1.*Særlige krav til bekreftelsesmetoder*
+
+4.2.1.1.
+
 Ytelseskriterier
 
-For bekreftelsesmetoder gjelder følgende ytelseskriterier:***Gjenfinning:*** Gjennomsnittlig gjenfinning bør være mellom 70 og 120 %.Gjennomsnittlig gjenfinning er gjennomsnittsverdien fra parallellprøver som oppnås under validering ved fastsettelse av presisjonsparametrene RSDr og RSDwR. Kriteriet gjelder alle konsentrasjoner og alle individuelle toksiner, med unntak av meldrøyealkaloider.For meldrøyealkaloider gjelder kriteriet for summen av hvert epimerpar.I unntakstilfeller kan gjennomsnittlige gjenfinninger utenfor det ovennevnte området være akseptable, men de skal ligge innenfor 50–130 %, og bare når presisjonskriteriene for RSDr og RSDwR er oppfylt.***Presisjon***RSDrskal være ≤ 20 %.RSDwRskal være ≤ 20 %.RSDRbør være ≤ 25 %.Disse kriteriene gjelder for alle konsentrasjoner.Dersom et laboratorium framlegger bevis for at RSDwR-kriteriet er oppfylt, er det ikke nødvendig å framlegge bevis for RSDr-kriteriet, ettersom samsvar med RSDwR garanterer samsvar med RSDr-kriteriet.Dersom øvre grenseverdi gjelder for en sum av toksiner, gjelder presisjonskriteriene både for summen og de enkelte toksinene. For meldrøyealkaloider gjelder kriteriet for individuelle toksiner for summen av hvert epimerpar.***Grense for mengdebestemmelse***Når det er angitt et spesifikt krav for grense for mengdebestemmelse av et mykotoksin i tabell 1 nedenfor, skal metoden ha en grense for mengebestemmelse på eller under denne verdien.*Tabell 1*
-**Kriterier som gjelder grense for mengdebestemmelse for visse mykotoksiner***Mykotoksin**Næringsmidler**Kriterier som gjelder grense for mengdebestemmelse (μg/kg)***Aflatoksiner**Aflatoksin B1Barnemat og bearbeidede kornbaserte næringsmidler beregnet på spedbarn og småbarn samt næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn≤ 0,1Aflatoksin B1, B2, G1, G2, hver av aflatoksineneAlle andre næringsmidler≤ 1**Okratoksin A**Lakrisvarer som inneholder< 97 % lakrisekstrakt (tørrstoff)≤ 10,0Kakaopulver≤ 3,0**Meldrøyealkaloider (hver av de tolv epimerene som er omfattet i grenseverdidefinisjonen)**Korn og kornbaserte næringsmidler≤ 4Bearbeidet kornbasert næringsmiddel for spedbarn og småbarn≤ 2I alle andre tilfeller gjelder følgende:Grense for mengdebestemmelse skal være ≤ 0,5*ML og bør helst være lavere (≤ 0,2*ML).Dersom øvre grenseverdi gjelder for en sum av toksiner, skal grense for mengdebestemmelse for de enkelte toksinene være ≤ 0,5*ML/n, der n er antall toksiner som er inkludert i definisjonen av ML.***Identifikasjon***For identifikasjon skal kriteriene som er fastsatt i veiledningsdokumentet om identifikasjon av mykotoksiner og plantetoksiner i næringsmidler og fôr18, benyttes.
+For bekreftelsesmetoder gjelder følgende ytelseskriterier:***Gjenfinning:*** Gjennomsnittlig gjenfinning bør være mellom 70 og 120 %.Gjennomsnittlig gjenfinning er gjennomsnittsverdien fra parallellprøver som oppnås under validering ved fastsettelse av presisjonsparametrene RSDr og RSDwR. Kriteriet gjelder alle konsentrasjoner og alle individuelle toksiner, med unntak av meldrøyealkaloider.For meldrøyealkaloider gjelder kriteriet for summen av hvert epimerpar.I unntakstilfeller kan gjennomsnittlige gjenfinninger utenfor det ovennevnte området være akseptable, men de skal ligge innenfor 50–130 %, og bare når presisjonskriteriene for RSDr og RSDwR er oppfylt.***Presisjon*** RSDrskal være ≤ 20 %.RSDwRskal være ≤ 20 %.RSDRbør være ≤ 25 %.Disse kriteriene gjelder for alle konsentrasjoner.Dersom et laboratorium framlegger bevis for at RSDwR-kriteriet er oppfylt, er det ikke nødvendig å framlegge bevis for RSDr-kriteriet, ettersom samsvar med RSDwR garanterer samsvar med RSDr-kriteriet.Dersom øvre grenseverdi gjelder for en sum av toksiner, gjelder presisjonskriteriene både for summen og de enkelte toksinene. For meldrøyealkaloider gjelder kriteriet for individuelle toksiner for summen av hvert epimerpar.***Grense for mengdebestemmelse***Når det er angitt et spesifikt krav for grense for mengdebestemmelse av et mykotoksin i tabell 1 nedenfor, skal metoden ha en grense for mengebestemmelse på eller under denne verdien.*Tabell 1*
+**Kriterier som gjelder grense for mengdebestemmelse for visse mykotoksiner***Mykotoksin**Næringsmidler**Kriterier som gjelder grense for mengdebestemmelse (μg/kg)***Aflatoksiner**Aflatoksin B1Barnemat og bearbeidede kornbaserte næringsmidler beregnet på spedbarn og småbarn samt næringsmidler til spesielle medisinske formål beregnet på spedbarn og småbarn≤ 0,1Aflatoksin B1, B2, G1, G2, hver av aflatoksineneAlle andre næringsmidler≤ 1**Okratoksin A**Lakrisvarer som inneholder< 97 % lakrisekstrakt (tørrstoff)≤ 10,0Kakaopulver≤ 3,0**Meldrøyealkaloider (hver av de tolv epimerene som er omfattet i grenseverdidefinisjonen)**Korn og kornbaserte næringsmidler≤ 4Bearbeidet kornbasert næringsmiddel for spedbarn og småbarn≤ 2I alle andre tilfeller gjelder følgende:Grense for mengdebestemmelse skal være ≤ 0,5\*ML og bør helst være lavere (≤ 0,2\*ML).Dersom øvre grenseverdi gjelder for en sum av toksiner, skal grense for mengdebestemmelse for de enkelte toksinene være ≤ 0,5\*ML/n, der n er antall toksiner som er inkludert i definisjonen av ML.***Identifikasjon***For identifikasjon skal kriteriene som er fastsatt i veiledningsdokumentet om identifikasjon av mykotoksiner og plantetoksiner i næringsmidler og fôr18, benyttes.
+
+18 Tilgjengelig på: https://food.ec.europa.eu/document/download/f16cac78-9318-4f1f-b2fa-efb25d2f1880_en
+
+4.2.1.2.
 
 Utvidelse av metodens bruksområde
 
+4.2.1.2.1.*Utvidelse av bruksområde til andre mykotoksiner:*
+
 Når bruksområdet for en eksisterende bekreftelsesmetode utvides til andre analytter, kreves det en fullstendig validering for å dokumentere at metoden er egnet for formålet.
 
+4.2.1.2.2.*Utvidelse til andre varer:*
+
 Dersom det er kjent eller kan antas at bekreftelsesmetoden kan brukes på andre varer, må det kontrolleres at metoden er gyldig for andre varer. Dersom den nye varen tilhører en varegruppe (se tabell 2 i dette vedlegget) som det allerede er foretatt en innledende validering for, er det tilstrekkelig å foreta en begrenset tilleggsvalidering.
+
+4.2.2.*Særlige krav til semikvantitative screeningmetoder*
+
+4.2.2.1.
 
 Virkeområde
 
@@ -622,32 +1141,65 @@ Kravene gjelder ikke for de metodene som ikke genererer tallverdier (som f.eks. 
 
 Dette dokumentet beskriver framgangsmåtene for validering av screeningmetoder ved hjelp av en validering som foretas ved flere laboratorier, kontroll av ytelsen til en metode validert ved flere laboratorier og validering av en screeningmetode ved ett laboratorium.
 
+4.2.2.2.
+
 Framgangsmåte for validering
 
 Målet med valideringen er å vise at screeningmetoden er egnet for formålet. Dette gjøres ved å bestemme grenseverdien og andelen falskt negative og falskt mistenkelige prøver. I disse to parametrene inngår ytelsesegenskaper som påvisningsevne, selektivitet og presisjon.
 
 Screeningmetodene kan valideres ved flere laboratorier eller ved ett laboratorium. Dersom det allerede foreligger opplysninger om en validering foretatt ved flere laboratorier for en bestemt kombinasjon av mykotoksin/matrise/STC, er det tilstrekkelig at metodens ytelse kontrolleres på et laboratorium som bruker metoden.
 
+4.2.2.2.1.*Innledende validering ved validering som foretas ved ett laboratorium*
+
+*Mykotoksiner*
+
 Det skal foretas en validering for hvert enkelt mykotoksin innenfor bruksområdet. Når det gjelder bioanalytiske metoder som gir en kombinert respons for en bestemt mykotoksingruppe (f.eks. aflatoksin B1, B2, G1 og G2, fumonisin B1 og B2), skal det dokumenteres at disse kan brukes, og analysens begrensninger skal angis i definisjonen av metodens bruksområde. Uønsket kryssreaktivitet (f.eks. DON-3-glykosid, 3- eller 15-acetyl-DON for immunbaserte metoder for DON) antas ikke å øke andelen falskt negative resultater for målmykotoksinene, men kan øke andelen falskt mistenkelige resultater. Denne uønskede økningen skal minskes ved å utføre en bekreftelsesanalyse for å sikre utvetydig identifikasjon og mengdebestemmelse av mykotoksinene.
+
+*Matriser*
 
 Det skal foretas en innledende validering for hver enkelt vare eller, dersom det er vist at metoden kan brukes på flere varer, for hver varegruppe. I sistnevnte tilfelle skal det velges en representativ og relevant vare fra den aktuelle gruppen (se tabell 2).
 
+*Prøveserie*
+
 Det minste antallet forskjellige prøver som kreves med tanke på validering, er 20 homogene negative kontrollprøver og 20 homogene positive kontrollprøver som inneholder mykotoksinet ved STC, og som er analysert under forhold med intermediær presisjon (RSDRi) spredt over fem forskjellige dager. Flere serier med 20 prøver som inneholder andre nivåer av mykotoksinet, kan legges til serien som inngår i valideringen, for å få kunnskap om i hvilken grad metoden kan skille mellom forskjellige mykotoksinkonsentrasjoner.
+
+*Konsentrasjon*
 
 For hver STC som skal brukes rutinemessig, skal det foretas en validering.
 
+4.2.2.2.2.*Innledende validering ved undersøkelser foretatt ved flere laboratorier*
+
 Validering ved undersøkelser foretatt ved flere laboratorier, skal utføres i samsvar med ISO 5725:1994 eller IUPAC International Harmonised Protocol eller andre internasjonalt anerkjente protokoller for undersøkelser foretatt ved flere laboratorier, der det kreves bruk av gyldige opplysninger fra minst åtte forskjellige laboratorier. Den eneste andre forskjellen sammenlignet med valideringer som foretas ved ett laboratorium, skal være at de ≥ 20 prøvene per vare/nivå kan fordeles jevnt blant laboratoriene som deltar, med minst to prøver per laboratorium.
+
+4.2.2.3.
 
 Bestemmelse av grenseverdi og andelen falskt mistenkelige resultater av blindprøver
 
 Den (relative) responsen fra de negative og positive kontrollprøvene skal brukes som grunnlag for beregning av de nødvendige parametrene.
 
-For screeningmetoder med en respons som er omvendt proporsjonal med mykotoksinkonsentrasjonen, bestemmes grenseverdien på følgende måte: $$\text{Grenseverdi} = R_{STC} + \text{t-verdi}_{0,05} \cdot {SA_{STC}}$$
+***Screeningmetoder med en respons som er proporsjonal med mykotoksinkonsentrasjonen***
+
+For screeningmetoder med en respons som er proporsjonal med mykotoksinkonsentrasjonen, gjelder følgende: $$\\text{Grenseverdi} = R_{STC} - \\text{t-verdi}_{0,05} \\cdot {SA_{STC}}$$
+
+RSTC = gjennomsnittlig respons fra de positive kontrollprøvene (ved STC)
+
+t-verdi: = ensidig t-verdi for en andel falskt negative resultater på 5 % (se tabell 3)
+
+SASTC = standardavvik
+
+***Screeningmetoder med en respons som er omvendt proporsjonal med mykotoksinkonsentrasjonen***
+
+For screeningmetoder med en respons som er omvendt proporsjonal med mykotoksinkonsentrasjonen, bestemmes grenseverdien på følgende måte: $$\\text{Grenseverdi} = R_{STC} + \\text{t-verdi}_{0,05} \\cdot {SA_{STC}}$$
 
 Ved å bruke denne særlige t-verdien for å fastsette grenseverdien fastsettes andelen falskt negative resultater som standard til 5 %.
 
-Resultatene fra de negative kontrollprøvene brukes til å anslå den tilsvarende andelen falskt mistenkelige resultater. T-verdien beregnes slik at den tilsvarer en situasjon der et resultat av en negativ kontrollprøve er høyere enn grenseverdien og dermed feilaktig klassifiseres som mistenkelig. $$\text{t-verdi} = (\text{grenseverdi} - gjennomsnitt_{blindprøve})/SA_{blindprøve}$$
+***Vurdering av egnethet for formålet***
+
+Resultatene fra de negative kontrollprøvene brukes til å anslå den tilsvarende andelen falskt mistenkelige resultater. T-verdien beregnes slik at den tilsvarer en situasjon der et resultat av en negativ kontrollprøve er høyere enn grenseverdien og dermed feilaktig klassifiseres som mistenkelig. $$\\text{t-verdi} = (\\text{grenseverdi} - gjennomsnitt_{blindprøve})/SA_{blindprøve}$$
 for screeningmetoder med en respons som er proporsjonal med mykotoksinkonsentrasjonen
+
+eller $$\\text{t-verdi} = gjennomsnitt_{blindprøve} - \\text{grenseverdi})/SA_{blindprøve}$$
+for screeningmetoder med en respons som er omvendt proporsjonal med mykotoksinkonsentrasjonen
 
 Med utgangspunkt i den beregnede t-verdien, basert på frihetsgradene som beregnes ut fra antall eksperimenter, kan sannsynligheten for falskt mistenkelige prøver for en ensidig fordeling enten beregnes (f.eks. med regnearkfunksjonen «TDIST») eller hentes fra en tabell over t-fordeling (se tabell 3).
 
@@ -655,15 +1207,25 @@ Den tilsvarende verdien for den ensidige t-fordelingen angir andelen falskt mist
 
 Dette er beskrevet nærmere med et eksempel i «Analytical and Bioanalytical Chemistry DOI 10.1007/s00216 -013-6922-1».
 
+4.2.2.4.
+
 Utvidelse av metodens bruksområde
+
+4.2.2.4.1.*Utvidelse av bruksområde til andre mykotoksiner:*
 
 Når bruksområdet for en eksisterende screeningmetode utvides til andre analytter, skal det kreves en fullstendig validering for å dokumentere at metoden er egnet for formålet.
 
+4.2.2.4.2.*Utvidelse til andre varer:*
+
 Dersom det er kjent eller kan antas at screeningmetoden kan brukes på andre varer, må det kontrolleres at metoden er gyldig for andre varer. Dersom den nye varen tilhører en varegruppe (se tabell 2 i dette vedlegget) som det allerede er foretatt en innledende validering for, er det tilstrekkelig å foreta en begrenset tilleggsvalidering. Da skal minst ti homogene negative kontrollprøver og ti homogene positive kontrollprøver (ved STC) analyseres under forhold med intermediær presisjon. Alle positive kontrollprøver må være over grenseverdien. Dersom dette kriteriet ikke oppfylles, må det foretas en fullstendig validering.
+
+4.2.2.5.
 
 Kontroll av metoder som allerede er validert, ved hjelp av undersøkelser foretatt ved flere laboratorier
 
 Når det gjelder screeningmetoder som allerede er blitt validert ved en undersøkelse foretatt ved flere laboratorier, må metodens ytelse kontrolleres. Da skal minst seks negative og seks positive kontrollprøver (ved STC) analyseres. Alle positive kontrollprøver må være over grenseverdien. Dersom dette kriteriet ikke oppfylles, må laboratoriet utføre en omfattende årsaksanalyse for å fastslå hvorfor det ikke kan oppfylle spesifikasjonene oppnådd i undersøkelsen foretatt ved flere laboratorier. Først etter å ha truffet korrigerende tiltak skal laboratoriet på nytt kontrollere metodens ytelse på sitt laboratorium. Dersom laboratoriet ikke er i stand til å kontrollere resultatene fra undersøkelsen foretatt ved flere laboratorier, må det fastsette sin egen grenseverdi ved en fullstendig validering foretatt ved ett laboratorium.
+
+4.2.2.6.
 
 Kontinuerlig kontroll/løpende validering av metode
 
@@ -671,18 +1233,85 @@ Etter en innledende validering skal det innhentes ytterligere valideringsopplysn
 
 Minst én gang i året skal grenseverdien fastsettes og metodens gyldighet vurderes på nytt (ny vurdering av tilgjengelige data fra kvalitetssikring og kvalitetskontroll som er innhentet i løpet av det siste året). Det er flere formål med den kontinuerlige kontrollen av metoden, herunder:kvalitetskontroll av partiet av undersøkte prøvergi opplysninger om metodens robusthet ved forholdene som gjelder på laboratoriet som bruker metodenvise at metoden kan brukes på andre varergjøre det mulig å justere grenseverdiene i tilfelle gradvise avvik over tid.
 
+4.2.2.7.
+
 Valideringsrapport
 
 Valideringsrapporten skal inneholdeopplysninger om STCopplysninger om den fastsatte grenseverdien
 
+*Merk:* Grenseverdien skal ha samme antall signifikante sifre som STC. Tallverdier som brukes til beregning av grenseverdien, må ha minst ett signifikant siffer mer enn STC.
+
 - opplysninger om beregnet andel falskt mistenkelige prøver
 - opplysninger om hvordan andelen falskt mistenkelige prøver ble generert
+
+*Merk:* Opplysningene om den beregnede andelen falskt mistenkelige prøver angir om metoden er egnet for formålet, ettersom de angir antall blindprøver (eller prøver med lavt forurensningsnivå) som skal kontrolleres.
+
+*Tabell 2*
+**Varegrupper for validering av og bekreftelsesmetoder og screeningmetoder**
+
+| *Varegrupper* | *Varekategorier* | *Representative varer i kategorien* |
+| --- | --- | --- |
+| Høyt vanninnhold | Fruktjuicer<br>Alkoholholdige drikker<br>Rot- og knollvekster<br>Korn- eller fruktbaserte pureer | Eplejuice, druejuice<br>Vin, øl, sider<br>Fersk ingefær, urtete (flytende)<br>Pureer beregnet på spedbarn og småbarn |
+| Høyt oljeinnhold | Nøtter<br>Oljeholdige frø og produkter framstilt av dette<br>Oljeholdige frukter og produkter framstilt av dette | Valnøtter, hasselnøtter, kastanjerapsfrø, solsikkefrø, bomullsfrø, soyabønner, peanøtter, sesamfrø osv.<br>Oljer og masser (f.eks. peanøttsmør, tahini) |
+| Høyt stivelse- og/eller proteininnhold og lavt vann- og fettinnhold | Kjerner av korn og produkter framstilt av dette<br>Produkter til bruk ved spesielle ernæringsmessige behov | Hvete, rug, bygg, mais, ris, havre<br>Fullkornsbrød, hvitt brød, kjeks, frokostkorn, pasta<br>Tørket pulver til tilberedning av mat til spedbarn og småbarn |
+| Høyt syreinnhold og høyt vanninnhold\* | Sitrusprodukter |  |
+| «Vanskelige eller unike varer»\*\* |  | Kakaobønner og produkter framstilt av dette, kopra og produkter framstilt av dette, kaffe, te (tørket produkt)<br>Krydder, lakrisrot, urtete (tørket produkt), kosttilskudd, pollen og pollenprodukter |
+| Høyt sukkerinnhold, lavt vanninnhold | Tørkede frukter | Fikener, rosiner, korinter, sultanarosiner |
+| Melk og melkeprodukter | Melk<br>Ost<br>Melkeprodukter (f.eks. melkepulver) | Melk fra ku, geit og bøffel<br>Ost fra ku og geit<br>Yoghurt, fløte |
+| Kjøtt (vev) | Spiselig slaktebiprodukt<br>Muskler, bearbeidede kjøttprodukter | Nyrer, lever<br>Skinke |
+
+\* Dersom det brukes en buffer for å stabilisere pH-endringene i ekstraksjonsfasen, kan denne varegruppen innlemmes i varegruppen «Høyt vanninnhold».
+
+\*\* «Vanskelige og unike varer» må bare gjennomgå en fullstendig validering dersom de analyseres ofte. Dersom de bare analyseres nå og da, kan valideringen reduseres til bare å omfatte kontroll av rapporteringsnivåene ved å bruke spikede blindekstrakter.
+
+*Tabell 3*
+**Ensidig t-verdi for en andel falskt negative resultater på 5 %**
+
+| *Frihetsgrad* | *Antall replikater* | *t-verdi (5 %)* |
+| --- | --- | --- |
+| 10 | 11 | 1,812 |
+| 11 | 12 | 1,796 |
+| 12 | 13 | 1,782 |
+| 13 | 14 | 1,771 |
+| 14 | 15 | 1,761 |
+| 15 | 16 | 1,753 |
+| 16 | 17 | 1,746 |
+| 17 | 18 | 1,74 |
+| 18 | 19 | 1,734 |
+| 19 | 20 | 1,729 |
+| 20 | 21 | 1,725 |
+| 21 | 22 | 1,721 |
+| 22 | 23 | 1,717 |
+| 23 | 24 | 1,714 |
+| 24 | 25 | 1,711 |
+| 25 | 26 | 1,708 |
+| 26 | 27 | 1,706 |
+| 27 | 28 | 1,703 |
+| 28 | 29 | 1,701 |
+| 29 | 30 | 1,699 |
+| 30 | 31 | 1,697 |
+| 40 | 41 | 1,684 |
+| 60 | 61 | 1,671 |
+| 120 | 121 | 1,658 |
+| ∞ | ∞ | 1,645 |
+
+4.2.3.*Krav til kvalitative screeningmetoder (metoder som ikke genererer tallverdier)*
 
 Forskjellige standardiseringsorganer (f.eks. AOAC, ISO) er i ferd med å utarbeide retningslinjer for validering av binære prøvingsmetoder. AOAC har utarbeidet et utkast til retningslinjer for validering av binære testmetoder. Dette dokumentet kan anses som dagens standard innen validering av binære testmetoder. Metoder som gir binære resultater (f.eks. visuell kontroll av teststrimler), bør derfor valideres i henhold til AOACs retningslinjer «International Guidelines for Validation of Qualitative Binary Chemistry Methods»19.
 
 Andre anerkjente retningslinjer for validering kan imidlertid brukes, slik som tilnærmingen i ISO/TS 23758:2021 | IDF/RM 251 Guidelines for the validation of qualitative screening methods for the detection of residues of veterinary drugs in milk and milk products.
 
+19 Finnes på: https://academic.oup.com/jaoac/article-pdf/97/5/1492/32425003/jaoac1492.pdf
+
+4.2.4.*Kvantitativ bestemmelse for meldrøyesklerotier*
+
 Meldrøyesklerotier i korn skal bestemmes ved visuell (makroskopisk/mikroskopisk) identifikasjon av meldrøyesklerotier og fragmenter av meldrøyesklerotier. Mengdebestemmelse skal gjøres ved å veie mengden identifiserte meldrøyesklerotier og fragmenter av meldrøyesklerotier med en partikkelstørrelse > 0,5 mm.
+
+4.3.**Vurdering av måleusikkerhet, gjenfinningsberegning og resultatrapportering**20
+
+20 Nærmere opplysninger om framgangsmåter for beregning av måleusikkerhet og for vurdering av gjenfinning er tilgjengelig i rapporten «Report on the relationship between analytical results, measurement uncertainty, recovery factors and the provisions of EU food and feed legislation» https://food.ec.europa.eu/system/files/2016-10/cs_contaminants_sampling_analysis-report_2004_en.pdf
+
+4.3.1.*Bekreftelsesmetoder*
 
 Analyseresultatet skal rapporteres som følger:Korrigert for gjenfinning, dersom det er hensiktsmessig og relevant. Dersom det er korrigert, skal dette være angitt. Gjenfinningsgraden skal oppgis med mindre egenkorreksjon for skjevhet er en del av prosedyren. Korreksjon for gjenfinning er ikke nødvendig når gjenfinningsgraden er på mellom 90 og 110 %.Som x +/- U, der x er analyseresultatet og U den utvidede analytiske måleusikkerheten, ved bruk av en dekningsfaktor på 2 som gir en konfidensgrad på ca. 95 %.
 
@@ -696,11 +1325,15 @@ For verifisering av overensstemmelse med summen av ML skal det benyttes en nedre
 
 De nåværende reglene for tolkning av analyseresultater med henblikk på godkjenning eller avvisning av partiet skal gjelde for analyseresultater fra prøver som tas ved offentlig kontroll. Ved analyse for klageadgangs- og referanseformål gjelder nasjonale regler. Særlig dersom analyseresultatet av den offisielle kontrollprøven tyder på manglende overholdelse som er hevet over enhver rimelig tvil, idet det tas hensyn til den utvidede måleusikkerheten, og analyseresultatet av klageadgangsprøven tyder på manglende overholdelse, men ikke hevet over enhver rimelig tvil, og med en større utvidet måleusikkerhet enn ved den offentlige kontrollen, kan analyseresultatet av klageadgangsprøven ikke ha forrang foran den manglende overensstemmelsen som er fastsatt for den offisielle kontrollprøven.
 
+4.3.2.*Screeningmetoder*
+
 Resultatet av screeningen skal oppgis som enten å være i samsvar med kravene eller som mistenkt for ikke å være i samsvar med kravene.
 
 «Mistenkt for ikke å være i samsvar med kravene» en prøve som overstiger grenseverdien, og som kan ha et mykotoksininnhold som er høyere enn STC. Mistenkelige prøver må analyseres på nytt med en bekreftelsesanalyse for å sikre utvetydig identifikasjon og mengdebestemmelse av mykotoksinet.
 
 «I samsvar med kravene» en prøve med et mykotoksininnhold på < STC med en konfidensgrad på 95 % (dvs. at det er 5 % mulighet for at prøven feilrapporteres som negativ). Analyseresultatet rapporteres som «< STC-nivå» med en angivelse av STC-nivået.
+
+4.4.**Kvalitetsstandarder for laboratorier**
 
 Laboratoriet skal overholde bestemmelsene i artikkel 37 nr. 4 og 5 i forordning (EU) nr. 2017/625.
 
@@ -714,6 +1347,14 @@ Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(E
 av 14. desember 2023
 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av plantetoksiner i næringsmidler og om oppheving av forordning [(EU) 2015/705](eu/32015r0705)
 
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001) og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 34 nr. 6, og
+
+ut fra følgende betraktninger:
+
 1. Kommisjonsforordning [(EU) 2023/915](eu/32023r0915)2 fastsetter øvre grenseverdier for visse plantetoksiner i næringsmidler.
 2. Prøvetaking spiller en svært viktig rolle når det gjelder å bestemme det nøyaktige innholdet av plantetoksiner i et bestemt parti, da plantetoksiner kan være heterogent fordelt i et parti. Det bør derfor fastsettes prøvetakingsmetoder for offentlig kontroll av innholdet av plantetoksiner i næringsmidler.
 3. Kommisjonens gjennomføringsforordning [(EF) nr. 2023/2782](eu/32023r2782)3 fastsetter prøvetakingsmetodene som skal brukes ved offentlig kontroll av innholdet av mykotoksiner i næringsmidler. Ettersom både plantetoksiner og mykotoksiner er heterogent fordelt i partier, er det hensiktsmessig å anvende disse prøvetakingsmetodene også når det gjelder plantetoksiner.
@@ -723,6 +1364,16 @@ om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av
 7. Kontrollaboratoriene må få tilstrekkelig tid til å oppfylle de nye kravene som innføres ved denne forordningen. Det bør derfor fastsettes en rimelig frist før denne forordningen får anvendelse.
 8. For å sikre kontinuitet i gjennomføringen av offentlig kontroll og annen reguleringsvirksomhet med hensyn til øvre grenseverdier for plantetoksiner, og for å gi nok tid til at analysemetodene skal kunne valideres på nytt, bør det fastsettes at analysemetoder som er validert før anvendelsesdatoen for denne forordningen, fortsatt kan brukes i en bestemt periode.
 9. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+
+1 EUT L 95 av 7.4.2017, s. 1.
+
+2 Kommisjonsforordning [(EU) 2023/915](eu/32023r0915) av 25. april 2023 om grenseverdier for visse forurensende stoffer i næringsmidler og om oppheving av forordning [(EF) nr. 1881/2006](eu/32006r1881) (EUT L 119 av 5.5.2023, s. 103).
+
+3 Kommisjonens gjennomføringsforordning [(EF) nr. 2023/2782](eu/32023r2782) om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av mykotoksiner i næringsmidler og om oppheving av forordning [(EF) nr. 401/2006](eu/32006r0401) (EUT L 2023/2782, 15.12.2023, ELI: http://data.europa.eu/eli/reg_impl/2023/2782/oj).
+
+4 Kommisjonsforordning (EU) 215/705 av 30. april 2015 om fastsettelse av prøvetakingsmetoder og ytelseskriterier for analysemetodene ved offentlig kontroll av innholdet av erukasyre i næringsmidler og om oppheving av kommisjonsdirektiv [80/891/EØF](eu/31980l0891)
+
+VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1
 
@@ -735,6 +1386,8 @@ I denne forordningen får definisjonene fastsatt i artikkel 1 i gjennomføringsf
 (2) Dersom et næringsmiddel ikke kan klassifiseres i en næringsmiddelkategori som det er fastsatt en prøvetakingsprosedyre for i vedlegg I, skal prøvetakingsprosedyren fastsettes på grunnlag av partikkelstørrelsen til dette næringsmiddelet eller likheten mellom dette næringsmiddelet og et produkt som kan klassifiseres i en av næringsmiddelkategoriene i vedlegg I.
 
 (3) Dersom et næringsmiddel ikke kan klassifiseres i noen av næringsmiddelkategoriene oppført i vedlegg I, og forutsatt at det er dokumentert at plantetoksinet er homogent fordelt i et slikt næringsmiddel, skal det tas prøver av næringsmiddelet ved hjelp av prøvetakingsmetoden fastsatt i del B i vedlegget til kommisjonsforordning [(EF) nr. 333/2007](eu/32007r0333)5.
+
+5 Kommisjonsforordning [(EF) nr. 333/2007](eu/32007r0333) av 28. mars 2007 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av sporstoffer og forurensende stoffer fra foredlingen i næringsmidler (EUT L 88 av 29.3.2007, s. 29).
 
 ### Artikkel 3
 
@@ -750,9 +1403,14 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 1. april 2024. Analysemetoder som er validert før anvendelsesdatoen for denne forordningen, kan imidlertid fortsatt brukes inntil 1. juli 2028, selv om de ikke oppfyller alle de spesifikke kravene fastsatt i punkt 4.2 i vedlegg II til denne forordningen.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 14. desember 2023.
 
-Utferdiget i Brussel 14. desember 2023.
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Ursula von der Leyen |
+|  | *President* |
 
 ### VEDLEGG I
 Prøvetakingsmetoder for kontroll av innholdet av plantetoksiner i næringsmidler
@@ -760,31 +1418,51 @@ Prøvetakingsmetoder for kontroll av innholdet av plantetoksiner i næringsmidle
 ### DEL I
 ALMINNELIGE BESTEMMELSER
 
+A.1.**Alminnelige bestemmelser**
+
+A.1.1.*Personell*
+
 Prøvetakingen skal utføres av en person som er utpekt for dette formålet av vedkommende myndighet i medlemsstaten.
 
 A.1.2. *Materiale til prøvetaking*
 
 Prøvetakingen skal foretas separat for hvert parti. I samsvar med de særlige bestemmelsene om prøvetaking for de ulike plantetoksinene, skal store partier deles opp i delpartier, som det skal tas separate prøver fra.
 
+A.1.3.*Forholdsregler*
+
 Under prøvetakingen og tillagingen av prøvene skal det tas forholdsregler for å unngå forandringer som kanha innvirkning på innholdet av plantetoksin, ha skadelig innvirkning på den analytiske bestemmelsen eller gjøre at samleprøvene ikke er representative,ha innvirkning på næringsmiddeltryggheten for partiene som det skal tas prøver fra.
 
 Alle nødvendige tiltak for å trygge sikkerheten for personene som tar prøvene, skal treffes.
 
+A.1.4.*Enkeltprøver*
+
 Enkeltprøver skal så langt det er mulig tas fra ulike steder i partiet eller delpartiet. Avvik fra denne framgangsmåten skal registreres i protokollen omhandlet i A.1.8 i dette vedlegget.
+
+A.1.5.*Tillaging av samleprøven*
 
 Samleprøven skal framkomme ved å samle alle enkeltprøvene.
 
+A.1.6.*Parallellprøver*
+
 Parallellprøvene som tas for håndhevings-, klageadgangs- eller referanseformål, skal tas fra den homogeniserte samleprøven, med mindre en slik framgangsmåte er i strid med medlemsstatenes bestemmelser om rettighetene til den driftsansvarlige for næringsmiddelforetaket.
 
+A.1.7.*Emballering og forsendelse av prøver*
+
 Hver prøve skal plasseres i en ren beholder av inert materiale som gir tilstrekkelig beskyttelse mot forurensning og mot skader under transport. Alle nødvendige forholdsregler skal tas for å unngå endringer av prøvens sammensetning som kan oppstå under transport eller lagring.
+
+A.1.8.*Forsegling og merking av prøver*
 
 Hver prøve som er tatt til offentlig bruk, skal forsegles på prøvetakingsstedet og identifiseres i samsvar med gjeldende regler i medlemsstaten.
 
 Det skal føres protokoll over hver prøvetaking, slik at hvert parti entydig kan identifiseres, med angivelse av dato og sted for prøvetakingen og ytterligere opplysninger som kan være til hjelp for den som foretar analysen.
 
+A.2.**Forskjellige typer partier**
+
 Næringsmidlene kan omsettes i bulk, i beholdere eller i enkeltemballasje, for eksempel sekker, poser eller forbrukerpakninger/enkeltemballasje. Prøvetakingsmetoden kan benyttes for varer som bringes i omsetning i bulk, i beholdere eller i enkeltemballasje, for eksempel sekker, poser, forbrukerpakninger/enkeltemballasje eller i en hvilken som helst annen form.
 
-Med forbehold for de særlige prøvetakingsbestemmelsene fastsatt i andre deler av dette vedlegget, skal følgende formel brukes som rettesnor for beregning av prøvetakingsfrekvensen for partier som bringes i omsetning i enkeltemballasje, for eksempel sekker, poser eller forbrukerpakninger/enkeltemballasje: $$\text{Prøvetakingsfrekvens n} =\frac{\text{Partiets vekt} \cdot \text{enkeltprøvens vekt}}{\text{Samleprøvens vekt} \cdot \text{enkeltemballasjens vekt}}$$vekt: i kgprøvetakingsfrekvens: hver ... enkeltemballasje som en enkeltprøve skal hentes fra (desimaler avrundes til nærmeste hele tall).
+Med forbehold for de særlige prøvetakingsbestemmelsene fastsatt i andre deler av dette vedlegget, skal følgende formel brukes som rettesnor for beregning av prøvetakingsfrekvensen for partier som bringes i omsetning i enkeltemballasje, for eksempel sekker, poser eller forbrukerpakninger/enkeltemballasje: $$\\text{Prøvetakingsfrekvens n} =\\frac{\\text{Partiets vekt} \\cdot \\text{enkeltprøvens vekt}}{\\text{Samleprøvens vekt} \\cdot \\text{enkeltemballasjens vekt}}$$vekt: i kgprøvetakingsfrekvens: hver ... enkeltemballasje som en enkeltprøve skal hentes fra (desimaler avrundes til nærmeste hele tall).
+
+A.3.**Prøvetaking av varer med et høyt volum i forhold til vekt**
 
 Med unntak av næringsmidlene som omfattes av del L og M i del II i vedlegg I til gjennomføringsforordning [(EU) 2023/2782](eu/32023r2782), kan vektkravene ved prøvetaking av næringsmidler som har et høyt volum i forhold til vekten (dvs. volum (dm3)/vekt (kg) > 5), erstattes av et tilsvarende volumkrav (dvs. at 1 kg erstattes av 1 dm3).
 
@@ -798,11 +1476,15 @@ For prøvetaking av poteter og potetprodukter (glykoalkaloider) samt honning (py
 ### VEDLEGG II
 Kriterier for tillaging av prøver og for analysemetoder brukt ved kontroll av innholdet av plantetoksiner i næringsmidler
 
+1\.
+
 INNLEDNING Forholdsregler
 
 Ettersom fordelingen av plantetoksiner vanligvis er heterogen, bør prøvene tillages (og særlig homogeniseres) med den største omhu.
 
 Dersom homogeniseringen utføres av laboratoriet, skal hele prøven som mottas, homogeniseres.
+
+2\.
 
 BEHANDLING AV PRØVEN I LABORATORIET
 
@@ -810,15 +1492,27 @@ Hver laboratorieprøve skal blandes grundig etter en metode, herunder finmaling 
 
 Dersom grenseverdien gjelder tørrstoffet, skal tørrstoffinnholdet i produktet bestemmes for en del av den homogeniserte prøven etter en metode som sikrer nøyaktig bestemmelse av tørrstoffinnholdet.
 
+3\.
+
 PARALLELLPRØVER
 
 Parallellprøvene som tas for håndhevings-, klageadgangs- eller referanseformål, skal tas av det homogeniserte materialet, med mindre en slik framgangsmåte er i strid med medlemsstatenes bestemmelser om rettighetene til den driftsansvarlige for næringsmiddelforetaket.
 
+4\.
+
 ANALYSEMETODE SOM LABORATORIET SKAL BRUKE, SAMT KRAV TIL LABORATORIEKONTROLL
+
+4.1.**Generelle krav**
 
 De bekreftende analysemetodene som benyttes ved kontroll av næringsmidler, skal være i samsvar med bestemmelsene i nr. 1 og 2 i vedlegg III til forordning (EU) nr. 2017/625.
 
 Når det er mulig, bør metodens riktighet verifiseres gjennom analyse av et sertifisert referansemateriale og/eller regelmessig deltakelse med vellykket resultat i sammenlignende laboratorieprøving.
+
+4.2.**Spesifikke krav**
+
+4.2.1.*Spesifikke krav til bekreftelsesmetoder*
+
+4.2.1.1.
 
 Ytelseskriterier
 
@@ -831,17 +1525,27 @@ Urtete (tørket produkt)
 Urtete (flytende)≤ 1
 ≤ 2
 ≤ 5
-≤ 0,05OpiumalkaloiderKriterier som gjelder grense for mengdebestemmelse for henholdsvis morfin og kodeinBakervarer≤ 500I alle andre tilfeller gjelder følgende:Grense for mengdebestemmelse skal være ≤ 0,5*ML og bør helst være lavere (≤ 0,2*ML).Dersom øvre grenseverdi gjelder for en sum av toksiner, skal grense for mengdebestemmelse for de enkelte toksinene være ≤ 0,5*ML/n, der n er antall toksiner som er inkludert i definisjonen av ML.***Identifikasjon***For identifikasjon skal kriteriene som er fastsatt i veiledningsdokumentet om identifikasjon av mykotoksiner og plantetoksiner i næringsmidler og fôr6, benyttes.6 Tilgjengelig på: https://food.ec.europa.eu/document/download/f16cac78-9318-4f1f-b2fa-efb25d2f1880_en
+≤ 0,05OpiumalkaloiderKriterier som gjelder grense for mengdebestemmelse for henholdsvis morfin og kodeinBakervarer≤ 500I alle andre tilfeller gjelder følgende:Grense for mengdebestemmelse skal være ≤ 0,5\*ML og bør helst være lavere (≤ 0,2\*ML).Dersom øvre grenseverdi gjelder for en sum av toksiner, skal grense for mengdebestemmelse for de enkelte toksinene være ≤ 0,5\*ML/n, der n er antall toksiner som er inkludert i definisjonen av ML.***Identifikasjon***For identifikasjon skal kriteriene som er fastsatt i veiledningsdokumentet om identifikasjon av mykotoksiner og plantetoksiner i næringsmidler og fôr6, benyttes.6 Tilgjengelig på: https://food.ec.europa.eu/document/download/f16cac78-9318-4f1f-b2fa-efb25d2f1880_en
+
+4.2.1.2.
 
 Utvidelse av metodens bruksområde
+
+4.2.1.2.1.
 
 Utvidelse av bruksområde til andre plantetoksiner:
 
 Når bruksområdet for en eksisterende bekreftelsesmetode utvides til andre analytter, kreves det en fullstendig validering for å dokumentere at metoden er egnet for formålet.
 
+4.2.1.2.2.
+
 Utvidelse til andre varer:
 
 Dersom det er kjent eller kan antas at bekreftelsesmetoden kan brukes på andre varer, må det kontrolleres at metoden er gyldig for andre varer. Dersom den nye varen tilhører en varegruppe (se tabell 2 i dette vedlegget) som det allerede er foretatt en innledende validering for, er det tilstrekkelig å foreta en begrenset tilleggsvalidering.
+
+4.2.2.*Spesifikke krav til semikvantitative screeningmetoder*
+
+4.2.2.1.
 
 Virkeområde
 
@@ -853,36 +1557,69 @@ Kravene gjelder ikke for de metodene som ikke genererer tallverdier (som f.eks. 
 
 Dette dokumentet beskriver framgangsmåtene for validering av screeningmetoder ved hjelp av en validering som foretas ved flere laboratorier, kontroll av ytelsen til en metode validert ved flere laboratorier og validering av en screeningmetode ved ett laboratorium.
 
+4.2.2.2.
+
 Framgangsmåte for validering
 
 Målet med valideringen er å vise at screeningmetoden er egnet for formålet. Dette gjøres ved å bestemme grenseverdien og andelen falskt negative og falskt mistenkelige prøver. I disse to parametrene inngår ytelsesegenskaper som påvisningsevne, selektivitet og presisjon.
 
 Screeningmetodene kan valideres ved flere laboratorier eller ved ett laboratorium. Dersom det allerede foreligger opplysninger om en validering foretatt ved flere laboratorier for en bestemt kombinasjon av plantetoksin/matrise/STC, er det tilstrekkelig at metodens ytelse kontrolleres på et laboratorium som bruker metoden.
 
+4.2.2.2.1.
+
 Innledende validering ved validering som foretas ved ett laboratorium
+
+*Plantetoksiner*
 
 Det skal foretas en validering for hvert enkelt plantetoksin innenfor bruksområdet. Når det gjelder bioanalytiske metoder som gir en kombinert respons for en bestemt plantetoksingruppe (f.eks. pyrrolizidinalkaloider), må det dokumenteres at disse kan brukes, og analysens begrensninger må angis i definisjonen av metodens bruksområde. Uønsket kryssreaktivitet antas ikke å øke andelen falskt negative resultater for målplantetoksinene, men kan øke andelen falskt mistenkelige resultater. Denne uønskede økningen skal minskes ved å utføre en bekreftelsesanalyse for å sikre utvetydig identifikasjon og mengdebestemmelse av plantetoksinene.
 
+*Matriser*
+
 Det skal foretas en innledende validering for hver enkelt vare eller, dersom det er vist at metoden kan brukes på flere varer, for hver varegruppe. I sistnevnte tilfelle skal det velges en representativ og relevant vare fra den aktuelle gruppen (se tabell 2).
+
+*Prøveserie*
 
 Det minste antallet forskjellige prøver som kreves med tanke på validering, er 20 homogene negative kontrollprøver og 20 homogene positive kontrollprøver som inneholder plantetoksinet ved STC, og som er analysert under interne reproduserbarhetsforhold (RSDwR) spredt over fem forskjellige dager. Flere serier med 20 prøver som inneholder andre nivåer av plantetoksinet, kan legges til serien som inngår i valideringen, for å få kunnskap om i hvilken grad metoden kan skille mellom forskjellige plantetoksinkonsentrasjoner.
 
+*Konsentrasjon*
+
 For hver STC som skal brukes rutinemessig, må det foretas en validering.
+
+4.2.2.2.2.
 
 Innledende validering ved undersøkelser foretatt ved flere laboratorier
 
 Validering ved undersøkelser foretatt ved flere laboratorier, skal utføres i samsvar med ISO 5725:1994 eller IUPAC International Harmonised Protocol eller andre internasjonalt anerkjente protokoller for undersøkelser foretatt ved flere laboratorier, der det kreves bruk av gyldige opplysninger fra minst åtte forskjellige laboratorier. Den eneste andre forskjellen sammenlignet med valideringer som foretas ved ett laboratorium, skal være at de ≥ 20 prøvene per vare/nivå kan fordeles jevnt blant laboratoriene som deltar, med minst to prøver per laboratorium.
 
+4.2.2.3.
+
 Bestemmelse av grenseverdi og andelen falskt mistenkelige resultater av blindprøver
 
 Den (relative) responsen fra de negative og positive kontrollprøvene skal brukes som grunnlag for beregning av de nødvendige parametrene.
 
-For screeningmetoder med en respons som er proporsjonal med plantetoksinkonsentrasjonen, gjelder følgende: $$\text{Grenseverdi} = R_{STC} - \text{t-verdi}_{0,05} \cdot {SA_{STC}}$$
+***Screeningmetoder med en respons som er proporsjonal med plantetoksinkonsentrasjonen***
+
+For screeningmetoder med en respons som er proporsjonal med plantetoksinkonsentrasjonen, gjelder følgende: $$\\text{Grenseverdi} = R_{STC} - \\text{t-verdi}_{0,05} \\cdot {SA_{STC}}$$
+
+RSTC = gjennomsnittlig respons fra de positive kontrollprøvene (ved STC)
+
+t-verdi: ensidig t-verdi for en andel falskt negative resultater på 5 % (se tabell 3)
+
+SDSTC = standardavvik
+
+***Screeningmetoder med en respons som er omvendt proporsjonal med plantetoksinkonsentrasjonen***
+
+For screeningmetoder med en respons som er omvendt proporsjonal med plantetoksinkonsentrasjonen, bestemmes grenseverdien på følgende måte: $$\\text{Grenseverdi} = R_{STC} + \\text{t-verdi}_{0,05} \\cdot {SA_{STC}}$$
 
 Ved å bruke denne spesifikke t-verdien for å fastsette grenseverdien fastsettes andelen falskt negative resultater som standard til 5 %.
 
-Resultatene fra de negative kontrollprøvene brukes til å anslå den tilsvarende andelen falskt mistenkelige resultater. T-verdien beregnes slik at den tilsvarer en situasjon der et resultat av en negativ kontrollprøve er høyere enn grenseverdien og dermed feilaktig klassifiseres som mistenkelig. $$\text{t-verdi} = (\text{grenseverdi} - gjennomsnitt_{blindprøve})/SA_{blindprøve}$$
+***Vurdering av egnethet for formålet***
+
+Resultatene fra de negative kontrollprøvene brukes til å anslå den tilsvarende andelen falskt mistenkelige resultater. T-verdien beregnes slik at den tilsvarer en situasjon der et resultat av en negativ kontrollprøve er høyere enn grenseverdien og dermed feilaktig klassifiseres som mistenkelig. $$\\text{t-verdi} = (\\text{grenseverdi} - gjennomsnitt_{blindprøve})/SA_{blindprøve}$$
 for screeningmetoder med en respons som er proporsjonal med plantetoksinkonsentrasjonen
+
+eller $$\\text{t-verdi} = gjennomsnitt_{blindprøve} - \\text{grenseverdi})/SA_{blindprøve}$$
+for screeningmetoder med en respons som er omvendt proporsjonal med plantetoksinkonsentrasjonen
 
 Med utgangspunkt i den beregnede t-verdien, basert på frihetsgradene som beregnes ut fra antall eksperimenter, kan sannsynligheten for falskt mistenkelige prøver for en ensidig fordeling enten beregnes (f.eks. med regnearkfunksjonen «TDIST») eller hentes fra en tabell over t-fordeling (se tabell 3).
 
@@ -890,19 +1627,29 @@ Den tilsvarende verdien for den ensidige t-fordelingen angir andelen falskt mist
 
 Dette er beskrevet nærmere med et eksempel i «Analytical and Bioanalytical Chemistry DOI 10.1007/s00216 -013-6922-1».
 
+4.2.2.4.
+
 Utvidelse av metodens bruksområde
+
+4.2.2.4.1.
 
 Utvidelse av bruksområde til andre plantetoksiner:
 
 Når bruksområdet for en eksisterende screeningmetode utvides til andre plantetoksiner, skal det kreves en fullstendig validering for å dokumentere at metoden er egnet for formålet.
 
+4.2.2.4.2.
+
 Utvidelse til andre varer:
 
 Dersom det er kjent eller kan antas at screeningmetoden kan brukes på andre varer, må det kontrolleres at metoden er gyldig for andre varer. Dersom den nye varen tilhører en varegruppe (se tabell 2 i dette vedlegget) som det allerede er foretatt en innledende validering for, er det tilstrekkelig å foreta en begrenset tilleggsvalidering. Da skal minst 10 homogene negative kontrollprøver og 10 homogene positive kontrollprøver (ved STC) analyseres ved interne reproduserbarhetsforhold. Alle positive kontrollprøver må være over grenseverdien. Dersom dette kriteriet ikke oppfylles, må det foretas en fullstendig validering.
 
+4.2.2.5.
+
 Kontroll av metoder som allerede er validert, ved hjelp av undersøkelser foretatt ved flere laboratorier
 
 Når det gjelder screeningmetoder som allerede er blitt validert ved en undersøkelse foretatt ved flere laboratorier, må metodens ytelse kontrolleres. Da skal minst 6 negative og 6 positive kontrollprøver (ved STC) analyseres. Alle positive kontrollprøver må være over grenseverdien. Dersom dette kriteriet ikke oppfylles, må laboratoriet utføre en omfattende årsaksanalyse for å fastslå hvorfor det ikke kan oppfylle spesifikasjonene oppnådd i undersøkelsen foretatt ved flere laboratorier. Først etter å ha truffet korrigerende tiltak skal laboratoriet på nytt kontrollere metodens ytelse på sitt laboratorium. Dersom laboratoriet ikke er i stand til å kontrollere resultatene fra undersøkelsen foretatt ved flere laboratorier, må det fastsette sin egen grenseverdi ved en fullstendig validering foretatt ved ett laboratorium.
+
+4.2.2.6.
 
 Kontinuerlig kontroll / løpende validering av metode
 
@@ -910,16 +1657,78 @@ Etter en innledende validering skal det innhentes ytterligere valideringsopplysn
 
 Minst én gang i året skal grenseverdien fastsettes og metodens gyldighet vurderes på nytt (ny vurdering av tilgjengelige data fra kvalitetssikring og kvalitetskontroll som er innhentet i løpet av det siste året). Det er flere formål med den kontinuerlige kontrollen av metoden, herunderkvalitetskontroll av partiet av undersøkte prøvergi opplysninger om metodens robusthet ved forholdene som gjelder på laboratoriet som bruker metodenvise at metoden kan brukes på andre varergjøre det mulig å justere grenseverdiene i tilfelle gradvise avvik over tid.
 
+4.2.2.7.
+
 Valideringsrapport
 
 Valideringsrapporten skal inneholdeopplysninger om STCopplysninger om den fastsatte grenseverdien
 
+*Merk:* Grenseverdien skal ha samme antall signifikante sifre som STC. Tallverdier som brukes til beregning av grenseverdien, må ha minst ett signifikant siffer mer enn STC.
+
 - opplysninger om beregnet andel falskt mistenkelige prøver
 - opplysninger om hvordan andelen falskt mistenkelige prøver ble generert
+
+*Merk:* Opplysningene om den beregnede andelen falskt mistenkelige prøver angir om metoden er egnet for formålet, ettersom de angir antall blindprøver (eller prøver med lavt forurensningsnivå) som skal kontrolleres.
+
+*Tabell 2*
+**Varegrupper for validering av og bekreftelsesmetoder og screeningmetoder**
+
+| *Varegrupper* | *Varekategorier* | *Representative varer i kategorien* |
+| --- | --- | --- |
+| Høyt vanninnhold | Drikkevarer<br>Frukt og grønnsaker<br>Korn- eller fruktbaserte pureer<br>Friske krydderurter | Urtete (flytende), blader av agurkurt, poteter, pureer beregnet på spedbarn og småbarn |
+| Høyt oljeinnhold | Nøtter<br>Oljeholdige frø og produkter framstilt av dette<br>Oljeholdige frukter og produkter framstilt av dette | Mandler, aprikoskjerner, rapsfrø, bomullsfrø, linfrø, lupinfrø, valmuefrø, hampefrø osv.<br>Oljer og masser |
+| Høyt stivelse- og/eller proteininnhold og lavt vann- og fettinnhold | Kjerner av korn og produkter framstilt av dette<br>Produkter til bruk ved spesielle ernæringsmessige behov | Mais, bokhvete, hirse, sorghum, kassavamel, potetprodukter,<br>Brød, bakervarer, kjeks, frokostkorn, pasta<br>Tørket pulver til tilberedning av mat til spedbarn og småbarn |
+| Høyt syreinnhold og høyt vanninnhold\* | Sitrusprodukter |  |
+| «Vanskelige eller unike varer»\*\* |  | Pollen og pollenprodukter, kosttilskudd, urtete (tørket produkt),<br>te (tørket produkt)<br>krydder, lakris |
+| Høyt sukkerinnhold, lavt vanninnhold | Tørkede frukter | Fiken, rosiner, korinter, sultanarosiner, honning |
+| Melk og melkeprodukter | Melk<br>Ost<br>Melkeprodukter (f.eks. melkepulver) | Melk fra ku, geit og bøffel<br>Ost fra ku og geit<br>Yoghurt, fløte |
+
+\* Dersom det brukes en buffer for å stabilisere pH-endringene i ekstraksjonsfasen, kan denne varegruppen innlemmes i varegruppen «Høyt vanninnhold».
+
+\*\* «Vanskelige og unike varer» må bare gjennomgå en fullstendig validering dersom de analyseres ofte. Dersom de bare analyseres nå og da, kan valideringen reduseres til bare å omfatte kontroll av rapporteringsnivåene ved å bruke spikede blindekstrakter.
+
+*Tabell 3*
+**Ensidig t-verdi for en andel falskt negative resultater på 5 %**
+
+| *Frihetsgrad* | *Antall replikater* | *t-verdi (5 %)* |
+| --- | --- | --- |
+| 10 | 11 | 1,812 |
+| 11 | 12 | 1,796 |
+| 12 | 13 | 1,782 |
+| 13 | 14 | 1,771 |
+| 14 | 15 | 1,761 |
+| 15 | 16 | 1,753 |
+| 16 | 17 | 1,746 |
+| 17 | 18 | 1,74 |
+| 18 | 19 | 1,734 |
+| 19 | 20 | 1,729 |
+| 20 | 21 | 1,725 |
+| 21 | 22 | 1,721 |
+| 22 | 23 | 1,717 |
+| 23 | 24 | 1,714 |
+| 24 | 25 | 1,711 |
+| 25 | 26 | 1,708 |
+| 26 | 27 | 1,706 |
+| 27 | 28 | 1,703 |
+| 28 | 29 | 1,701 |
+| 29 | 30 | 1,699 |
+| 30 | 31 | 1,697 |
+| 40 | 41 | 1,684 |
+| 60 | 61 | 1,671 |
+| 120 | 121 | 1,658 |
+| ∞ | ∞ | 1,645 |
+
+4.2.3.*Krav til kvalitative screeningmetoder (metoder som ikke genererer tallverdier)*
 
 Forskjellige standardiseringsorganer (f.eks. AOAC, ISO) er i ferd med å utarbeide retningslinjer for validering av binære prøvingsmetoder. AOAC har utarbeidet et utkast til retningslinjer for validering av binære testmetoder. Dette dokumentet kan anses som dagens standard innen validering av binære testmetoder. Metoder som gir binære resultater (f.eks. visuell kontroll av teststrimler), bør derfor valideres i henhold til AOACs retningslinjer «International Guidelines for Validation of Qualitative Binary Chemistry Methods»7.7 Finnes på: https://academic.oup.com/jaoac/article-pdf/97/5/1492/32425003/jaoac1492.pdf
 
 Andre anerkjente retningslinjer for validering kan imidlertid brukes, slik som tilnærmingen i ISO/TS 23758:2021 | IDF/RM 251 Guidelines for the validation of qualitative screening methods for the detection of residues of veterinary drugs in milk and milk products.
+
+4.3.**Vurdering av måleusikkerhet, gjenfinningsberegning og resultatrapportering**8
+
+8 Nærmere opplysninger om framgangsmåter for beregning av måleusikkerhet og for vurdering av gjenfinning er tilgjengelig i rapporten «Report on the relationship between analytical results, measurement uncertainty, recovery factors and the provisions of EU food and feed legislation» https://food.ec.europa.eu/system/files/2016-10/cs_contaminants_sampling_analysis-report_2004_en.pdf
+
+4.3.1.*Bekreftelsesmetoder*
 
 Analyseresultatet skal rapporteres som følger:Korrigert for gjenfinning, dersom det er hensiktsmessig og relevant. Dersom det er korrigert, skal dette være angitt. Gjenfinningsgraden skal oppgis med mindre egenkorreksjon for skjevhet er en del av prosedyren. Korreksjon for gjenfinning er ikke nødvendig når gjenfinningsgraden er på mellom 90 og 110 %.Som x +/- U, der x er analyseresultatet og U den utvidede analytiske måleusikkerheten, ved bruk av en dekningsfaktor på 2 som gir en konfidensgrad på ca. 95 %.
 
@@ -933,11 +1742,15 @@ For verifisering av overensstemmelse med summen av ML skal det benyttes en nedre
 
 De nåværende reglene for tolkning av analyseresultater med henblikk på godkjenning eller avvisning av partiet skal gjelde for analyseresultater fra prøver som tas ved offentlig kontroll. Ved analyse for klageadgangs- og referanseformål gjelder nasjonale regler. Særlig dersom analyseresultatet av den offisielle kontrollprøven tyder på manglende overholdelse som er hevet over enhver rimelig tvil, idet det tas hensyn til den utvidede måleusikkerheten, og analyseresultatet av klageadgangsprøven tyder på manglende overholdelse, men ikke hevet over enhver rimelig tvil, og med en større utvidet måleusikkerhet enn ved den offentlige kontrollen, kan analyseresultatet av klageadgangsprøven ikke ha forrang foran den manglende overensstemmelsen som er fastsatt for den offisielle kontrollprøven.
 
+4.3.2.*Screeningmetoder*
+
 Resultatet av screeningen skal oppgis som enten å være i samsvar med kravene eller som mistenkt for ikke å være i samsvar med kravene.
 
 «Mistenkt for ikke å være i samsvar med kravene» betyr en prøve som overstiger grenseverdien, og som kan ha et plantetoksininnhold som er høyere enn STC. Mistenkelige prøver må analyseres på nytt med en bekreftelsesanalyse for å sikre utvetydig identifisering og mengdebestemmelse av plantetoksinet.
 
 «I samsvar med kravene» betyr at plantetoksininnholdet i prøven er < STC med en konfidensgrad på 95 % (dvs. at det er 5 % mulighet for at prøven feilrapporteres som negativ). Analyseresultatet rapporteres som «< STC-nivå» med en angivelse av STC-nivået.
+
+4.4.**Kvalitetsstandarder for laboratorier**
 
 Laboratoriet skal overholde bestemmelsene i artikkel 37 nr. 4 og 5 i forordning (EU) 2017/625.
 
@@ -949,11 +1762,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1882
 av 19. desember 2006
 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av nitrater i visse næringsmidler
 
+KOMMISJONEN FOR DET EUROPEISKE FELLESSKAP HAR –
+
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes,1 særlig artikkel 11 nr. 4, og
 
 ut fra følgende betraktninger:Ved kommisjonsforordning [(EF) nr. 1881/2006](eu/32006r1881) av 19. desember 2006 om fastsettelse av grenseverdier for visse forurensende stoffer i næringsmidler2 fastsettes grenseverdier for nitrater i spinat, salat, issalat, barnemat og bearbeidede kornbaserte næringsmidler for spedbarn og småbarn.Prøvetaking og framgangsmåter for tillaging av prøver spiller viktige roller når det gjelder å fastsette det nøyaktige innholdet av nitrater.Det bør fastsettes alminnelige kriterier som analysemetodene bør oppfylle, for å sikre at laboratoriene som foretar kontrollen, bruker analysemetoder med samme ytelsesnivå.Frisk salat og spinat er lett bedervelige produkter og i de fleste tilfeller er det ikke mulig å holde tilbake forsendelsene til analyseresultatet av den offentlige kontrollen er tilgjengelig. I slike tilfeller kan det hende at vedkommende myndighet anser det som hensiktsmessig og nødvendig å gjennomføre en offentlig prøvetaking i feltet kort tid før innhøsting.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EUT L 165 av 30.4.2004, s. 1, rettet ved EUT L 191 av 28.5.2004, s. 1. Forordningen endret ved kommisjonsforordning [(EF) nr. 776/2006](eu/32006r0776) (EUT L 136 av 24.5.2006, s. 3).
+
+2 Se EUT L 364 av 20.12.2006.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -969,46 +1790,86 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 19. desember 2006.
 
-*For Kommisjonen*Markos KYPRIANOU*Medlem av Kommisjonen*
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Markos KYPRIANOU |
+|  | *Medlem av Kommisjonen* |
 
 ### Vedlegg
 Prøvetakingsmetoder, tillaging av prøver og analyser for offentlig kontroll av innholdet av nitrater i visse næringsmidler
 
 ### A. Alminnelige bestemmelser
 
+Offentlige kontroller skal utføres i samsvar med bestemmelsene i forordning [(EF) nr. 882/2004](eu/32004r0882*). De alminnelige bestemmelsene nedenfor får anvendelse uten at det berører bestemmelsene i forordning [(EF) nr. 882/2004](eu/32004r0882*).
+
+A.1**Virkeområde**
+
 Prøver beregnet på offentlig kontroll av nitratinnholdet i næringsmidler oppført i avsnitt 1 i vedlegget til forordning [(EF) nr. 1881/2006](eu/32006r1881), skal gjennomføres i samsvar med metodene angitt i dette vedlegg. Samleprøver som oppnås på denne måten, enten direkte fra et felt eller et parti, skal anses som representative for partiene.
 
 Samsvar skal fastslås på grunnlag av de nivåer som fastslås i laboratorieprøvene.
 
+A.2**Definisjoner**
+
 I dette vedlegg menes med:
+
+A.2.1
 
 «parti» en identifiserbar mengde av et næringsmiddel innhøstet eller levert under ett, der det ved offentlig kontroll er fastslått felles kjennetegn som f.eks. opprinnelse, art eller jordtype på et område på høyst 2 hektar, emballasjetype, emballeringsbedrift, avsender eller merking,
 
+A.2.2
+
 «delparti» del av et stort parti som er valgt ut med sikte på bruk av prøvetakingsmetoden. Hvert delparti skal være fysisk atskilt og identifiserbart,
+
+A.2.3
 
 «enkeltprøve eller enhet» en materialmengde som er tatt ut på ett enkelt sted i partiet eller delpartiet. I dette tilfellet kan det være snakk om et enkelt salathode eller en spinatplante, eller en håndfull unge blader, eller en pose avskårne blader,
 
+A.2.4
+
 «samleprøve» summen av enkeltprøvene fra et parti eller delparti,
+
+A.2.5
 
 «laboratorieprøve» en prøve beregnet på laboratoriet,
 
+A.2.6
+
 «felt» et spesifikt landområde med samme jordtype og dyrkingsmetoder, med én enkelt sort salat eller spinat som er på samme vekststadium. «Felt» kan også omtales som «parti» i forbindelse med prøvetakingsmetoden,
+
+A.2.7
 
 «overdekket område» et spesifikt landområde i et drivhus eller en polytunnel (tunnel eller drivhus av plast eller polyetylen), med én enkelt sort salat eller spinat som er på samme vekststadium og som skal høstes samtidig. «Overdekket område» kan også omtales som «parti» i forbindelse med prøvetakingsmetoden.
 
+A.3**Alminnelige bestemmelser**
+
+A.3.1*Personale*
+
 Prøvetakingen skal utføres av en person som er utpekt for dette formål av medlemsstaten.
 
+A.3.2*Materiale til prøvetaking*
+
 Prøvetakingen skal foretas separat for hvert parti. Store partier (f.eks. partier på over 30 tonn eller som er større enn 3 hektar) skal deles opp i delpartier, som det skal tas separate prøver fra.
+
+A.3.3*Forholdsregler*
 
 Under prøvetakingen og tillagingen av prøvene skal det tas forholdsregler for å unngå forandringer som kan ha innvirkning pånitratinnholdet, som kan ha skadelig innvirkning på den analytiske bestemmelse eller forårsake at samleprøvene ikke er representative, f.eks. forekomst av jord på salat eller spinat under tillagingen,næringsmiddeltryggheten for partiene det skal tas prøver fra.
 
 Alle nødvendige tiltak for å trygge sikkerheten for personene som tar prøvene, skal treffes.
 
+A.3.4*Enkeltprøver*
+
 Enkeltprøver skal så langt det er mulig tas fra forskjellige steder i hele partiet eller delpartiet. Avvik fra denne framgangsmåten skal registreres i rapporten omhandlet i A.3.8 i dette vedlegg.
+
+A.3.5*Tillaging av samleprøven*
 
 Samleprøven skal oppnås ved å samle alle enkeltprøvene.
 
+A.3.6*Parallellprøver*
+
 Parallellprøvene som tas for håndhevings-, klageadgangs- eller referanseformål, skal tas fra den homogeniserte samleprøven, med mindre en slik framgangsmåte er i strid med medlemsstatenes bestemmelser om rettighetene til den driftsansvarlige for næringsmiddelforetaket.
+
+A.3.7*Emballering og transport av prøver*
 
 Hver prøve skal plasseres i en ren, forseglet ugjennomsiktig plastpose av inert materiale som gir tilstrekkelig beskyttelse mot fuktighetstap, skader og forurensing.
 
@@ -1016,13 +1877,21 @@ Prøven skal overføres til laboratoriet innen 24 timer etter prøvetaking og sk
 
 Alle ytterligere nødvendige forholdsregler skal tas for å unngå endringer av prøvens sammensetning som kan oppstå under transport eller oppbevaring.
 
+A.3.8*Forsegling og merking av prøver*
+
 Hver prøve som er tatt til offentlig bruk, skal forsegles på prøvetakingsstedet og identifiseres i samsvar med gjeldende regler i medlemsstaten.
 
 For hver prøvetaking skal det utarbeides en rapport, slik at hvert parti entydig kan identifiseres, med angivelse av sort, produsent, produksjonsmetode, dato, prøvetakingssted, den driftsansvarlige for næringsmiddelforetaket som er ansvarlig for forsendelsen, og ytterligere opplysninger som kan være til hjelp for den som foretar analysen.
 
+A.4**Forskjellige typer partier**
+
 Næringsmidlene kan selges i løs vekt, i containere eller i enkeltemballasje som sekker, poser og forbrukerpakninger. Prøvetakingsmetoden kan anvendes uansett hvilken form varene markedsføres i.
 
 ### B. Prøvetakingsmetode
+
+Enkeltprøver skal så vidt mulig tas fra forskjellige steder i hele partiet eller delpartiet.
+
+B.1**Prøvetaking fra feltet**
 
 Dersom vedkommende myndighet anser det nødvendig å ta prøver av salat eller spinat fra feltet, skal prøvetakingen foregå på følgende måte:
 
@@ -1034,53 +1903,113 @@ Plantene må skjæres av ved jordoverflaten.
 
 Prøven må inneholde minst 10 planter, og samleprøven på 10 planter må veie minst 1 kg. Prøvetakingen skal foretas bare på enheter som oppfyller markedsstandardene.1 Jord og ytre uspiselige og skadede blader skal fjernes fra hver enkelt enhet.1 Markedsstandardene for salat, krusendiv og bredbladet endiv er fastsatt i kommisjonsforordning [(EF) nr. 1543/2001](eu/32001r1543) av 27. juli 2001 om fastsettelse av markedsstandarder for salat, krusendiv og bredbladet endiv (EFT L 203 av 28.7.2001, s. 9), sist endret ved kommisjonsforordning [(EF) nr. 6/2005](eu/32005r0006) av 4. januar 2005 (EUT L 2 av 5.1.2005, s. 3).
 
+B.2**Prøvetaking av partier på markedet av spinat, salat, barnemat og bearbeidede kornbaserte næringsmidler for spedbarn og småbarn**
+
 Prøvetakingsmetoden gjelder for partier som er mindre enn eller tilsvarer 25 tonn.
 
 Store partier (partier > 30 tonn) skal deles opp i delpartier, i prinsippet på 25 tonn, forutsatt at delpartiet fysisk kan utskilles. Ettersom vekten til et parti ikke alltid vil være et eksakt multiplum av 25 tonn, kan vekten til delpartiene overskride den angitte vekten med opptil 20 %. Dette betyr at delpartiets vekt kan variere fra 15 til 30 tonn. Dersom partiet ikke fysisk kan utskilles eller deles opp i delpartier, skal prøven tas fra partiet.
 
 Samleprøven skal veie minst 1 kg, med mindre det ikke lar seg gjøre, f.eks. ved prøvetaking av et salathode eller en enkeltpakning.
 
-Det minste antall enkeltprøver som skal tas fra partiet, er angitt i tabell 1.*Tabell 1*
-*Minste antall enkeltprøver som skal tas fra partiet*Partiets vekt (kg)Minste antall enkeltprøver som skal tasSamleprøvens vekt (kg)< 503150–50051> 500101
+Det minste antall enkeltprøver som skal tas fra partiet, er angitt i tabell 1.
 
-Dersom partiet består av enkeltpakninger, er antall pakninger som skal utgjøre en samleprøve, angitt i tabell 2.*Tabell 2*
-*Antall pakninger (enkeltprøver) som skal utgjøre samleprøven dersom partiet består av enkeltpakninger*Antall pakninger eller enheter i partietAntall pakninger eller enheter som skal tasSamleprøvens vekt (kg)1–251 pakning eller enhet126–100Ca. 5 %, minst 2 pakninger eller enheter1> 100Ca. 5 %, høyst 10 pakninger eller enheter1
+*Tabell 1*
+*Minste antall enkeltprøver som skal tas fra partiet*
+
+| Partiets vekt (kg) | Minste antall enkeltprøver som skal tas | Samleprøvens vekt (kg) |
+| --- | --- | --- |
+| < 50 | 3 | 1 |
+| 50–500 | 5 | 1 |
+| > 500 | 10 | 1 |
+
+Dersom partiet består av enkeltpakninger, er antall pakninger som skal utgjøre en samleprøve, angitt i tabell 2.
+
+*Tabell 2*
+*Antall pakninger (enkeltprøver) som skal utgjøre samleprøven dersom partiet består av enkeltpakninger*
+
+| Antall pakninger eller enheter i partiet | Antall pakninger eller enheter som skal tas | Samleprøvens vekt (kg) |
+| --- | --- | --- |
+| 1–25 | 1 pakning eller enhet | 1 |
+| 26–100 | Ca. 5 %, minst 2 pakninger eller enheter | 1 |
+| > 100 | Ca. 5 %, høyst 10 pakninger eller enheter | 1 |
 
 Prøvetakingen skal foretas separat for hvert parti eller delparti som skal kontrolleres for samsvar. Dersom en slik prøvetakingsmetode vil kunne medføre uakseptable økonomiske konsekvenser som følge av skade på partiet (f.eks. på grunn av emballasjeformen eller transportmiddelet), kan det benyttes en annen prøvetakingsmetode, forutsatt at den sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at den beskrives og dokumenteres fullt ut. Det sted i partiet der prøven tas, bør helst velges tilfeldig, men dersom dette ikke er fysisk mulig, skal prøven tas fra et tilfeldig valgt sted i de tilgjengelige delene av partiet.
+
+B.3**Prøvetaking i detaljistleddet**
 
 Prøvetaking av næringsmidler i detaljistleddet bør om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i B.2.
 
 Dersom dette ikke er mulig, kan det benyttes en annen prøvetakingsmetode i detaljistleddet, forutsatt at den sikrer at samleprøven er tilstrekkelig representativ for partiet som det er tatt prøver fra, og at den beskrives og dokumenteres fullt ut.1 1 Dersom delen det skal tas prøver fra, er så liten at det er umulig å oppnå en samleprøve på 1 kg, kan samleprøven veie mindre enn 1 kg. Ved prøvetaking av bearbeidede kornbaserte næringsmidler og næringsmidler for spedbarn og småbarn kan samleprøven veie mindre enn 0,5 kg.
+
+B.4**Vurdering av om et parti eller delparti overholder grenseverdien**
 
 - Godkjenning dersom laboratorieprøven ikke overskrider grenseverdien, samtidig som det tas hensyn til måleusikkerhet og korrigering for gjenfinning.
 - Avslag dersom laboratorieprøven uten tvil overskrider grenseverdien, samtidig som det tas hensyn til måleusikkerhet og korrigering for gjenfinning (dvs. at analyseresultatet, korrigert for gjenfinning og minus usikkerhet i forbindelse med utvidet måling, brukes til å vurdere samsvar).
 
 ### C. Tillaging av prøver
 
+1\.
+
 Ved prøvetaking av friske produkter skal tillaging av prøven om mulig finne sted innen 24 timer etter prøvetakingen. Dersom dette ikke er mulig, skal prøven oppbevares nedfrosset (i høyst seks uker).
+
+2\.
 
 Jord og ytre uspiselige og skadde blader skal fjernes fra hver enkelt enhet. Det er ikke tillatt å vaske prøvene da dette kan føre til at nitratinnholdet reduseres.
 
+3\.
+
 Hele prøven skal homogeniseres (tilsetting av en kjent mengde vann er frivillig). Avhengig av størrelsen på blanderen/kvernen/hakkeren som brukes, kan en eller flere enheter kombineres for homogeniseringen. Det kan være lettere å utføre blandeprosessen dersom enhetene fryses og hakkes før homogeniseringen. Det må godtgjøres at homogeniseringsprosessen som brukes, resulterer i fullstendig homogenisering. Grundig homogenisering er av avgjørende betydning for optimal ekstraksjon og gjenfinning av nitrat. Prøvene skal behandles likt på denne måten uansett om de er tatt fra feltet eller detaljistleddet.
+
+4\.
 
 Det skal tas en eller flere analyseprøver fra de kombinerte enhetene med henblikk på analyse.
 
 ### D. Analysemetode, resultatrapportering og krav til laboratoriekontroll
 
-I dette vedlegg menes med:r=repeterbarhet den verdi som den absolutte forskjell mellom to enkeltstående prøvingsresultater oppnådd under repeterbarhetsforhold, dvs. samme prøve, samme person, samme apparatur, samme laboratorium og kort tidsintervall, med en bestemt sannsynlighet (normalt 95 %) kan forventes å ligge under; R = 2,8 x Srsr=standardavvik beregnet ut fra resultater oppnådd under repeterbarhetsforholdRSDr=relativt standardavvik beregnet ut fra resultater oppnådd under repeterbarhetsforhold \([(s_{r}/\bar{x})\times100]\)R=reproduserbarhet den verdi som den absolutte forskjell mellom enkeltstående prøvingsresultater oppnådd under reproduserbarhetsforhold, dvs. av personer ved ulike laboratorier ved bruk av den standardiserte prøvingsmetoden med identisk materiale, med en bestemt sannsynlighet (normalt 95 %) kan forventes å ligge under; R = 2,8 × sRsR=standardavvik beregnet ut fra resultater oppnådd under reproduserbarhetsforholdRSDR=relativt standardavvik beregnet ut fra resultater oppnådd under reproduserbarhetsforhold \([(s_{R}/\bar{x})\times100]\)
+D.1**Definisjoner**
+
+I dette vedlegg menes med:
+
+|  |  |  |
+| --- | --- | --- |
+| r | = | repeterbarhet den verdi som den absolutte forskjell mellom to enkeltstående prøvingsresultater oppnådd under repeterbarhetsforhold, dvs. samme prøve, samme person, samme apparatur, samme laboratorium og kort tidsintervall, med en bestemt sannsynlighet (normalt 95 %) kan forventes å ligge under; R = 2,8 x Sr |
+| sr | = | standardavvik beregnet ut fra resultater oppnådd under repeterbarhetsforhold |
+| RSDr | = | relativt standardavvik beregnet ut fra resultater oppnådd under repeterbarhetsforhold \\([(s_{r}/\\bar{x})\\times100]\\) |
+| R | = | reproduserbarhet den verdi som den absolutte forskjell mellom enkeltstående prøvingsresultater oppnådd under reproduserbarhetsforhold, dvs. av personer ved ulike laboratorier ved bruk av den standardiserte prøvingsmetoden med identisk materiale, med en bestemt sannsynlighet (normalt 95 %) kan forventes å ligge under; R = 2,8 × sR |
+| sR | = | standardavvik beregnet ut fra resultater oppnådd under reproduserbarhetsforhold |
+| RSDR | = | relativt standardavvik beregnet ut fra resultater oppnådd under reproduserbarhetsforhold \\([(s_{R}/\\bar{x})\\times100]\\) |
+
+D.2**Generelle krav**
 
 Analysemetodene som benyttes ved kontroll av næringsmidler, skal være i samsvar med bestemmelsene i nr. 1 og 2 i vedlegg III til forordning [(EF) nr. 882/2004](eu/32004r0882*).
 
+D.3**Særlige krav**
+
+D.3.1*Ekstraksjonsmetode*
+
 Det må vies særlig oppmerksomhet til ekstraksjonsmetoden som benyttes. Flere ekstraksjonsmetoder har vist seg å sikre en effektiv ekstraksjon av nitrat, blant annet varmt vann eller metanol/vann (30/70). Ekstraksjon med kaldt vann kan bare benyttes dersom analyseprøven har vært nedfrosset før ekstraksjonen.
 
-For analysemetoder som benyttes ved overvåking av nitratinnholdet, skal følgende spesifikke kriterier være oppfylt:KriteriumKonsentrasjonsområdeAnbefalt verdiHøyeste tillatte verdiGjenfinning< 500 mg/kg60–120 %< 500 mg/kg90–110 %Presisjon RSDRAlleUtregnet etter Horwitz' ligning2x verdien utregnet etter Horwitz' ligning
+D.3.2*Ytelseskriterier*
+
+For analysemetoder som benyttes ved overvåking av nitratinnholdet, skal følgende spesifikke kriterier være oppfylt:
+
+| Kriterium | Konsentrasjonsområde | Anbefalt verdi | Høyeste tillatte verdi |
+| --- | --- | --- | --- |
+| Gjenfinning | < 500 mg/kg | 60–120 % |  |
+|  | < 500 mg/kg | 90–110 % |  |
+| Presisjon RSDR | Alle | Utregnet etter Horwitz' ligning | 2x verdien utregnet etter Horwitz' ligning |
+
 Presisjonen RSDr kan beregnes som 0,66 ganger presisjonen RSDR ved de relevante konsentrasjoner.
+
+*Merknader til ytelseskriteriene*
 
 - Konsentrasjonsområdene er ikke angitt, da presisjonsverdiene er beregnet ved de relevante konsentrasjoner.
 - Presisjonsverdiene beregnes ut fra Horwitz' ligning, dvs.:
 RSDR = 2(1-0,5logC) der:
-- RSDR står for det relative standardavviket beregnet ut fra resultater som er oppnådd under reproduserbarhetsforhold \([(s_{R}/\bar{x})\times100]\)
+- RSDR står for det relative standardavviket beregnet ut fra resultater som er oppnådd under reproduserbarhetsforhold \\([(s_{R}/\\bar{x})\\times100]\\)
 - C er konsentrasjonsforholdet (dvs. 1 = 100 g/100 g, 0,001 = 1000 mg/kg).
+
+D.4**Vurdering av måleusikkerhet, gjenfinningsberegning og resultatrapportering**1
 
 Analyseresultatet skal rapporteres korrigert eller ukorrigert for gjenfinning. Rapporteringsmåte og gjenfinningsprosent må oppgis. Analyseresultatet korrigert for gjenfinning skal brukes til å kontrollere samsvar.
 
@@ -1090,6 +2019,8 @@ U er den utvidede måleusikkerheten ved bruk av en dekningsfaktor på 2 som gir 
 
 De nåværende tolkningsreglene for analyseresultatet med henblikk på godkjenning eller avslag av partiet skal gjelde for analyseresultater fra prøver som tas ved offentlig kontroll. Ved analyse for klageadgangs- eller referanseformål gjelder nasjonale regler.1 Nærmere opplysninger om framgangsmåter for beregning av måleusikkerhet og for vurdering av gjenfinning er tilgjengelig i rapporten «Report on the relationship between analytical results, measurement uncertainty, recovery factors and the provisions of EU food and feed legislation» – http://ec.europa.eu/food/food/chemicalsafety/contaminants/report-sampling_analysis_2004_en.pdf.
 
+D.5**Kvalitetsstandarder for laboratoriene**
+
 Laboratoriet må overholde bestemmelsene i artikkel 12 i forordning [(EF) nr. 882/2004](eu/32004r0882*).
 
 ### Forordning (EF) nr. 333/2007 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av bly, kadmium, kvikksølv, uorganisk tinn, 3-MCPD og benzo(a)pyren i næringsmidler
@@ -1097,6 +2028,9 @@ Laboratoriet må overholde bestemmelsene i artikkel 12 i forordning [(EF) nr. 88
 > Endret ved [forskrifter 6 okt 2016 nr. 1194](forskrift/2016-10-06-1194), [26 okt 2020 nr. 2153](forskrift/2020-10-26-2153), [12 juli 2021 nr. 2397](forskrift/2021-07-12-2397), [12 des 2022 nr. 2158](forskrift/2022-12-12-2158), [25 sep 2023 nr. 1496](forskrift/2023-09-25-1496), [9 feb 2026 nr. 174](forskrift/2026-02-09-174).
 
 Nedenfor gjengis til informasjon den norske oversettelsen av forordning [(EF) nr. 333/2007](eu/32007r0333). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) nr. 836/2011](eu/32011r0836), forordning [(EU) 2016/582](eu/32016r0582), forordning [(EU) 2019/2093](eu/32019r2093), forordning [(EU) 2021/705](eu/32021r0705), forordning [(EU) 2022/685](eu/32022r0685), forordning [(EU) 2022/2418](eu/32022r2418) og forordning [(EU) 2024/1045](eu/32024r1045). Alle endringene av grunnrettsakten er innarbeidet nedenfor.
+
+►**B** Forordning [(EF) nr. 333/2007](eu/32007r0333) om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av bly, kadmium, kvikksølv, uorganisk tinn, 3-MCPD og benzo(a)pyren i næringsmidler
+som endret ved
 
 - ►**M1** Forordning [(EU) nr. 836/2011](eu/32011r0836) om prøvetaking og analyse av PAH
 - ►**M2** Forordning [(EU) 2016/582](eu/32016r0582) om analyse av uorganisk arsen, bly og polysykliske aromatiske hydrokarboner samt visse ytelseskriterier for analysemetoder
@@ -1110,17 +2044,41 @@ Nedenfor gjengis til informasjon den norske oversettelsen av forordning [(EF) nr
 av 28. mars 2007
 ►**M2** om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av sporstoffer og prosessframkalte forurensninger i næringsmidler ◄**M2**
 
+◄**M1**
+
+KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR –
+
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes,1 særlig artikkel 11 nr. 4, og
 
 ut fra følgende betraktninger:I henhold til rådsforordning [(EØF) nr. 315/93](eu/31993r0315) av 8. februar 1993 om fastsettelse av framgangsmåter i Fellesskapet i forbindelse med forurensende stoffer i næringsmidler2 skal det fastsettes grenseverdier for visse forurensende stoffer i næringsmidler for å verne folkehelsen.Ved kommisjonsforordning [(EF) nr. 1881/2006](eu/32006r1881) av 19. desember 2006 om fastsettelse av grenseverdier for visse forurensende stoffer i næringsmidler3 er det fastsatt grenseverdier for bly, kadmium, kvikksølv, uorganisk tinn, 3-MCPD og benzo(a)pyren i visse næringsmidler.Ved forordning [(EF) nr. 882/2004](eu/32004r0882*) er det fastsatt allmenne prinsipper for offentlig kontroll av næringsmidler. I visse tilfeller er det imidlertid nødvendig med mer spesifikke bestemmelser for å sikre at offentlige kontroller gjennomføres på en harmonisert måte i Fellesskapet.De prøvetakings- og analysemetodene som skal brukes ved offentlig kontroll av innholdet av bly, kadmium, kvikksølv, 3-MCPD, uorganisk tinn og benzo(a)pyren i visse næringsmidler, er fastsatt i henholdsvis kommisjonsdirektiv [2001/22/EF](eu/32001l0022) av 8. mars 2001 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av bly, kadmium, kvikksølv og 3-MCPD i næringsmidler,4 kommisjonsdirektiv [2004/16/EF](eu/32004l0016) av 12. februar 2004 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av tinn i konserverte næringsmidler5 og kommisjonsdirektiv [2005/10/EF](eu/32005l0010) av 4. februar 2005 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av benzo(a)pyren i næringsmidler.6Mange av bestemmelsene om prøvetaking og analyse for offentlig kontroll av innholdet av bly, kadmium, kvikksølv, uorganisk tinn, 3-MCPD og benzo(a)pyren i næringsmidler er ganske like. For å sikre klarhet i regelverket bør disse bestemmelsene slås sammen i én enkelt rettsakt.Direktiv [2001/22/EF](eu/32001l0022), [2004/16/EF](eu/32004*0016) og [2005/10/EF](eu/32005*0010) bør derfor oppheves og erstattes med en ny forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
+1 EUT L 165 av 30.4.2004, s. 1, rettet ved EUT L 191 av 28.5.2004, s. 1. Forordningen endret ved kommisjonsforordning [(EF) nr. 1791/2006](eu/32006r1791) (EUT L 363 av 20.12.2006, s. 1).
+
+2 EFT L 37 av 13.2.1993, s. 1. Forordningen endret ved europaparlaments- og rådsforordning [(EF) nr. 1882/2003](eu/32003r1882) (EUT L 284 av 31.10.2003, s. 1).
+
+3 EUT L 364 av 20.12.2006, s. 5.
+
+4 EFT L 77 av 16.3.2001, s. 14. Direktivet sist endret ved direktiv [2005/4/EF](eu/32005l0004) (EUT L 19 av 21.1.2005, s. 50).
+
+5 EUT L 42 av 13.2.2004, s. 16.
+
+6 EUT L 34 av 8.2.2005, s. 15.
+
+VEDTATT DENNE FORORDNING:
+
+►**M7**
+
 ### Artikkel 1
 
-1. Prøvetaking og analyse for kontroll av innholdet av bly, kadmium, kvikksølv, uorganisk tinn, uorganisk arsen, nikkel, 3-monoklor-1,2-propandiol (3-MCPD), fettsyreestere av 3-MCPD, glysidylfettsyreestere, polysykliske aromatiske hydrokarboner (PAH) og perklorat, oppført i avsnitt 3, 5 og 6 i vedlegg I til kommisjonsforordning [(EU) 2023/915](eu/32023r0915)*, og for kontroll av innholdet av akrylamid i samsvar med kommisjonsforordning [(EU) 2017/2158](eu/32017r2158)** skal foretas i samsvar med vedlegget til denne forordningen.
+1\. Prøvetaking og analyse for kontroll av innholdet av bly, kadmium, kvikksølv, uorganisk tinn, uorganisk arsen, nikkel, 3-monoklor-1,2-propandiol (3-MCPD), fettsyreestere av 3-MCPD, glysidylfettsyreestere, polysykliske aromatiske hydrokarboner (PAH) og perklorat, oppført i avsnitt 3, 5 og 6 i vedlegg I til kommisjonsforordning [(EU) 2023/915](eu/32023r0915)\*, og for kontroll av innholdet av akrylamid i samsvar med kommisjonsforordning [(EU) 2017/2158](eu/32017r2158)\*\* skal foretas i samsvar med vedlegget til denne forordningen.
 
-2. Nr. 1 får anvendelse uten at det berører bestemmelsene i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)***.
+2\. Nr. 1 får anvendelse uten at det berører bestemmelsene i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)\*\*\*.
+
+\* Kommisjonsforordning [(EU) 2023/915](eu/32023r0915) av 25. april 2023 om grenseverdier for visse forurensende stoffer i næringsmidler og om oppheving av forordning [(EF) nr. 1881/2006](eu/32006r1881) (EUT L 119 av 5.5.2023, s. 103).\*\* Kommisjonsforordning [(EU) 2017/2158](eu/32017r2158) av 20. november 2017 om fastsettelse av risikoreduserende tiltak og referansenivåer for å redusere forekomsten av akrylamid i næringsmidler (EUT L 304 av 21.11.2017, s. 24).\*\*\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning (EF) nr. 1/2005 og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999r0074), [2007/43/EF](eu/32007r0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989r0662), [90/425/EØF](eu/31990r0425), [91/496/EØF](eu/31991r0496), [96/23/EF](eu/31996r0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997r0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).
+
+◄**M7**
 
 ### Artikkel 2
 
@@ -1138,29 +2096,58 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 28. mars 2007.
 
-*For Kommisjonen*Markos KYPRIANOU*Medlem av Kommisjonen*
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Markos KYPRIANOU |
+|  | *Medlem av Kommisjonen* |
 
 ### Vedlegg
 
 ### Del A
 Definisjoner
 
-I dette vedlegg menes med:«parti»►**M5** en identifiserbar mengde av et næringsmiddel som er levert under ett, der det ved offentlig kontroll er fastslått felles kjennetegn (for eksempel opprinnelse, sort, art, fangstområde, emballasjetype, emballeringsbedrift, avsender eller merking).◄**M5**«delparti»del av et stort parti som er valgt ut med sikte på bruk av prøvetakingsmetoden. Hvert delparti skal være fysisk atskilt og identifiserbart,«enkeltprøve»en materialmengde som er tatt ut på ett enkelt sted i partiet eller delpartiet,«samleprøve»summen av alle enkeltprøvene som er tatt fra et parti eller delparti; samleprøver skal anses som representative for de partiene eller delpartiene de er tatt fra,«laboratorieprøve»prøve beregnet på laboratoriet.►**M5** «sammenlignbar størrelse eller vekt»forskjellen i størrelse eller vekt overstiger ikke 50 %. ◄**M5**
+I dette vedlegg menes med:
+
+|  |  |
+| --- | --- |
+| «parti» | ►**M5** en identifiserbar mengde av et næringsmiddel som er levert under ett, der det ved offentlig kontroll er fastslått felles kjennetegn (for eksempel opprinnelse, sort, art, fangstområde, emballasjetype, emballeringsbedrift, avsender eller merking).◄**M5** |
+| «delparti» | del av et stort parti som er valgt ut med sikte på bruk av prøvetakingsmetoden. Hvert delparti skal være fysisk atskilt og identifiserbart, |
+| «enkeltprøve» | en materialmengde som er tatt ut på ett enkelt sted i partiet eller delpartiet, |
+| «samleprøve» | summen av alle enkeltprøvene som er tatt fra et parti eller delparti; samleprøver skal anses som representative for de partiene eller delpartiene de er tatt fra, |
+| «laboratorieprøve» | prøve beregnet på laboratoriet. |
+| ►**M5** «sammenlignbar størrelse eller vekt» | forskjellen i størrelse eller vekt overstiger ikke 50 %. ◄**M5** |
 
 ### Del B
 Prøvetakingsmetoder
 
+B.1.*ALMINNELIGE BESTEMMELSER*
+
+B.1.1.*Personale*
+
 Prøvetakingen skal utføres av en person som er utpekt for dette formål av medlemsstatene.
+
+B.1.2.*Materiale til prøvetaking*
 
 Prøvetakingen skal foretas separat for hvert parti eller delparti.
 
+B.1.3.*Forholdsregler*
+
 Under prøvetakingen skal det tas forholdsregler for å unngå forandringer som kan ha innvirkning på innholdet av forurensende stoffer, ha skadelig innvirkning på den analytiske bestemmelsen, eller forårsake at samleprøvene ikke er representative.
+
+B.1.4.*Enkeltprøver*
 
 Enkeltprøver bør så vidt mulig tas fra forskjellige steder i hele partiet eller delpartiet. Avvik fra denne framgangsmåten skal registreres i rapporten fastsatt i punkt B.1.8. i dette vedlegg.
 
+B.1.5.*Tillaging av samleprøven*
+
 Samleprøven oppnås ved å samle alle enkeltprøvene.
 
+B.1.6.*Prøver som tas for håndhevings-, klageadgangs- og referanseformål*
+
 Prøvene som tas for håndhevings-, klageadgangs- og referanseformål, skal tas fra den homogeniserte samleprøven, med mindre dette er i strid med medlemsstatens regler med hensyn til rettighetene til den driftsansvarlige for næringsmiddelforetaket.
+
+B.1.7.*Emballering og transport av prøver*
 
 Hver prøve skal plasseres i en ren beholder av inert materiale som gir tilstrekkelig beskyttelse mot forurensning, mot tap av analytter ved at de adsorberes til innsiden av beholderen, og mot skader under transport. Alle nødvendige forholdsregler skal tas for å unngå endringer av prøvens sammensetning som kan oppstå under transport eller lagring.
 ►**M1**
@@ -1168,13 +2155,21 @@ Hver prøve skal plasseres i en ren beholder av inert materiale som gir tilstrek
 Ved prøvetaking for PAH-analyse skal plastbeholdere om mulig unngås, da de kan endre prøvens innhold av PAH. Inerte, PAH-frie glassbeholdere som gir tilstrekkelig beskyttelse av prøven mot lys, skal brukes når det er mulig. Der dette er praktisk umulig, skal direkte kontakt mellom prøven og plast unngås, f.eks. når det dreier seg om faste prøver, ved å pakke prøven inn i aluminiumsfolie før den plasseres i prøvetakingsbeholderen.
 ◄**M1**
 
+B.1.8.*Forsegling og merking av prøver*
+
 Hver prøve som er tatt til offentlig bruk, skal forsegles på prøvetakingsstedet og identifiseres i samsvar med gjeldende regler i medlemsstaten.
 
 For hver prøvetaking skal det utarbeides en rapport, slik at hvert parti eller delparti entydig kan identifiseres (det skal vises til partiets nummer), med angivelse av dato og sted for prøvetakingen og ytterligere opplysninger som kan være til hjelp for den som foretar analysen.
 ►**M1**
 
+B.2.*PRØVETAKINGSPLANER*
+
+B.2.1.*Inndeling av partier i delpartier*
+
 Store partier skal deles opp i delpartier forutsatt at delpartiet fysisk kan utskilles. Tabell 1 får anvendelse på produkter som omsettes i bulkforsendelser (f.eks. korn). Tabell 2 får anvendelse på andre produkter. Ettersom vekten på et parti ikke alltid vil være et eksakt multiplum av vekten av delpartiene, kan vekten av delpartiene overskride den angitte vekten med opptil 20 %.
 ►**M4**
+
+B.2.2.*Antall enkeltprøver*
 
 For andre næringsmidler enn kosttilskudd, tørkede krydder eller urter, tørket sopp, tørkede alger eller tørket lav skal samleprøven være på minst 1 kg eller 1 liter, med mindre dette ikke er mulig, for eksempel når prøven består av én enkelt pakning eller enhet.
 
@@ -1194,21 +2189,72 @@ Grenseverdiene for uorganisk tinn gjelder for innholdet i hver hermetikkboks, me
 
 For kosttilskudd skal minste antall enkeltprøver og størrelsen på dem være som angitt i tabell 4b.
 
-Dersom prøvetakingen ikke kan gjennomføres etter metoden fastsatt i punkt B.2 uten at det får uakseptable økonomiske konsekvenser (for eksempel på grunn av emballasjeform eller skade på partiet), eller dersom det er praktisk umulig å benytte prøvetakingsmetoden i punkt B.2, kan det benyttes en annen prøvetakingsmetode, forutsatt at den er tilstrekkelig representativ for partiet eller delpartiet det skal tas prøver fra, og at den dokumenteres fullt ut. Dette skal registreres i rapporten fastsatt i punkt B.1.8.*Tabell 1*
-**Inndeling av partier i delpartier for produkter som omsettes i bulkforsendelser***Partiets vekt (tonn)**Vekt eller antall delpartier*≥1 500500 tonn>300 og <1 5003 delpartier≥100 og ≤300100 tonn<100– *Tabell 2*
-**Inndeling av partier i delpartier for produkter som ikke omsettes i bulkforsendelser***Partiets vekt (tonn)**Vekt eller antall delpartier*≥1515–30 tonn<15– *Tabell 3*
-**Minste antall enkeltprøver som skal tas fra partiet eller delpartiet av andre næringsmidler enn kosttilskudd***Partiets/delpartiets volum eller vekt (i kilo eller liter)**Minste antall enkeltprøver som skal tas*<503≥50 og ≤5005>50010 *Tabell 4a*
-**Antall pakninger eller enheter (enkeltprøver) som skal utgjøre samleprøven dersom partiet eller delpartiet består av enkeltpakninger eller enkeltenheter, for andre næringsmidler enn kosttilskudd***Antall pakninger eller enheter i partiet/delpartiet**Antall pakninger eller enheter som skal inngå i prøvetakingen*≤25Minst én pakning eller enhet26–100Ca. 5 %, minst to pakninger eller enheter>100Ca. 5 %, høyst ti pakninger eller enheter *Tabell 4b*
-**Minste antall av og størrelsen på enkeltprøver av kosttilskudd***Partistørrelse (antall pakninger)**Antall pakninger (enkeltprøver) som skal tas ut til prøving**Enkeltprøvens størrelse*1–501Hele innholdet i pakningen51–2502Hele innholdet i pakningen251–1 0004Halvparten av innholdet i hver forbrukerpakning som tas ut til prøving>1 0004 + 1 pakninger per 1 000 forbrukerpakninger med høyst 25 forbrukerpakninger≤10 pakninger: halvparten av innholdet i hver forbrukerpakning
->10 forbrukerpakninger: lik mengde fra hver pakning for å oppnå en prøve som tilsvarer innholdet i 5 pakningerUkjent (gjelder bare for e-handel)1Hele pakningens innhold
+Dersom prøvetakingen ikke kan gjennomføres etter metoden fastsatt i punkt B.2 uten at det får uakseptable økonomiske konsekvenser (for eksempel på grunn av emballasjeform eller skade på partiet), eller dersom det er praktisk umulig å benytte prøvetakingsmetoden i punkt B.2, kan det benyttes en annen prøvetakingsmetode, forutsatt at den er tilstrekkelig representativ for partiet eller delpartiet det skal tas prøver fra, og at den dokumenteres fullt ut. Dette skal registreres i rapporten fastsatt i punkt B.1.8.
+
+*Tabell 1*
+**Inndeling av partier i delpartier for produkter som omsettes i bulkforsendelser**
+
+| *Partiets vekt (tonn)* | *Vekt eller antall delpartier* |
+| --- | --- |
+| ≥1 500 | 500 tonn |
+| >300 og <1 500 | 3 delpartier |
+| ≥100 og ≤300 | 100 tonn |
+| <100 | – |
+
+*Tabell 2*
+**Inndeling av partier i delpartier for produkter som ikke omsettes i bulkforsendelser**
+
+| *Partiets vekt (tonn)* | *Vekt eller antall delpartier* |
+| --- | --- |
+| ≥15 | 15–30 tonn |
+| <15 | – |
+
+*Tabell 3*
+**Minste antall enkeltprøver som skal tas fra partiet eller delpartiet av andre næringsmidler enn kosttilskudd**
+
+| *Partiets/delpartiets volum eller vekt (i kilo eller liter)* | *Minste antall enkeltprøver som skal tas* |
+| --- | --- |
+| <50 | 3 |
+| ≥50 og ≤500 | 5 |
+| >500 | 10 |
+
+*Tabell 4a*
+**Antall pakninger eller enheter (enkeltprøver) som skal utgjøre samleprøven dersom partiet eller delpartiet består av enkeltpakninger eller enkeltenheter, for andre næringsmidler enn kosttilskudd**
+
+| *Antall pakninger eller enheter i partiet/delpartiet* | *Antall pakninger eller enheter som skal inngå i prøvetakingen* |
+| --- | --- |
+| ≤25 | Minst én pakning eller enhet |
+| 26–100 | Ca. 5 %, minst to pakninger eller enheter |
+| >100 | Ca. 5 %, høyst ti pakninger eller enheter |
+
+*Tabell 4b*
+**Minste antall av og størrelsen på enkeltprøver av kosttilskudd**
+
+| *Partistørrelse (antall pakninger)* | *Antall pakninger (enkeltprøver) som skal tas ut til prøving* | *Enkeltprøvens størrelse* |
+| --- | --- | --- |
+| 1–50 | 1 | Hele innholdet i pakningen |
+| 51–250 | 2 | Hele innholdet i pakningen |
+| 251–1 000 | 4 | Halvparten av innholdet i hver forbrukerpakning som tas ut til prøving |
+| >1 000 | 4 + 1 pakninger per 1 000 forbrukerpakninger med høyst 25 forbrukerpakninger | ≤10 pakninger: halvparten av innholdet i hver forbrukerpakning<br>>10 forbrukerpakninger: lik mengde fra hver pakning for å oppnå en prøve som tilsvarer innholdet i 5 pakninger |
+| Ukjent (gjelder bare for e-handel) | 1 | Hele pakningens innhold |
+
+◄**M4**
+
+►**M5**
+
+B.2.3.*Særlige bestemmelser om prøvetaking av partier som inneholder hele fisker av sammenlignbar størrelse eller vekt*
 
 Antallet enkeltprøver som skal tas fra partiet, er angitt i tabell 3. Samleprøven som er en samling av alle enkeltprøvene, skal veie minst 1 kg (se B.2.2).Dersom partiet som det skal tas prøver fra, inneholder små fisker (der hver fisk veier <1 kg), skal hele fisken utgjøre en enkeltprøve som skal inngå i samleprøven. Dersom samleprøven da veier mer enn 3 kg, kan enkeltprøvene bestå av fiskenes midtparti. Enkeltprøvene som til sammen skal utgjøre samleprøven, skal veie minst 100 gram hver. Hele partiet som den øvre grenseverdien gjelder for, brukes til homogenisering av prøven.Fiskens midtparti er der tyngdepunktet er. I de fleste tilfeller vil dette være ved ryggfinnen (for fisker med ryggfinne) eller midt mellom gjelleåpningen og gattåpningen.Dersom partiet som det skal tas prøver fra, inneholder store fisker (der hver fisk veier ≥1 kg), skal enkeltprøvene bestå av fiskens midtparti. Hver enkeltprøve skal veie minst 100 gram.For middels store fisker (≥1 kg og <6 kg) skal enkeltprøven være et stykke av fisken som tas som et tverrsnitt fra ryggbeinet til buken i fiskens midtparti.For ekstra store fisker (≥6 kg) skal enkeltprøven tas fra kjøttet i ryggmuskelen på høyre side (sett forfra) i fiskens midtparti. Dersom uttak av et slikt stykke av fiskens midtparti innebærer et betydelig økonomisk tap, kan det anses som tilstrekkelig å ta tre enkeltprøver à minst 350 gram, uavhengig av partiets størrelse, eller eventuelt tre enkeltprøver à minst 350 gram fra en like stor del (175 gram) muskelkjøtt nær haledelen og muskelkjøtt nær hodedelen fra hver fisk kan anses som tilstrekkelig uavhengig av partiets størrelse.
+
+B.2.4.*Særlige bestemmelser om prøvetaking av fiskepartier som inneholder hele fisker med ulik størrelse og/eller vekt*
 
 Bestemmelsene i nr. B.2.3 om prøvenes sammensetning får anvendelse.
 
 Dersom en viss størrelse eller vektklasse/vektkategori dominerer (ca. 80 % eller mer av partiet), skal prøven tas fra fisk med dominerende størrelse eller vekt. Denne prøven skal anses som representativ for hele partiet.
 
-Dersom ingen bestemt størrelse eller vektklasse/vektkategori dominerer, skal det sikres at fiskene som velges til prøven, er representative for partiet. Nærmere retningslinjer for slike tilfeller finnes i «Guidance document on sampling of whole fish of different size and/or weight»*.
+Dersom ingen bestemt størrelse eller vektklasse/vektkategori dominerer, skal det sikres at fiskene som velges til prøven, er representative for partiet. Nærmere retningslinjer for slike tilfeller finnes i «Guidance document on sampling of whole fish of different size and/or weight»\*.
+
+B.2.5.*Særlige bestemmelser om prøvetaking av landdyr*
 
 For kjøtt og innmat fra svin, storfe, sau, geit og dyr av hestefamilien skal det tas en prøve på 1 kg fra minst ett dyr. Dersom det er nødvendig for å få en prøvemengde på 1 kg, skal like prøvemengder tas fra flere enn ett dyr.
 
@@ -1216,12 +2262,22 @@ For fjørfekjøtt skal det tas prøver i like store mengder fra minst tre dyr fo
 
 For kjøtt og innmat fra oppdrettsvilt og viltlevende landdyr skal det tas en prøve på 300 gram fra minst ett dyr. Dersom det er nødvendig for å få en prøvemengde på 300 gram, skal like prøvemengder tas fra flere enn ett dyr.
 
+\* [https://ec.europa.eu/food/safety/chemical-safety/contaminants/sampling-and-analysis](https://ec.europa.eu/food/safety/chemical-safety/contaminants/sampling-and-analysis).
+
+◄**M5**
+
+B.3.*PRØVETAKING I DETALJISTLEDDET*
+
 Prøvetaking av næringsmidler i detaljistleddet skal om mulig skje i samsvar med bestemmelsene om prøvetaking nevnt i nr. B.1 og B.2 i dette vedlegg.
 
 Dersom prøvetakingen ikke kan foretas etter metoden fastsatt i nr. B.2.2 uten at det får uakseptable økonomiske konsekvenser (f.eks. på grunn av emballasjeform og skader på partiet) eller dersom det er praktisk umulig å benytte ovennevnte prøvetakingsmetode, kan en annen prøvetakingsmetode benyttes forutsatt at den er tilstrekkelig representativ for partiet eller delpartiet det skal tas prøver fra, og at den dokumenteres i detalj.
 
+◄**M1**
+
 ### Del C
 Tillaging og analyse av prøver
+
+C.1.*KVALITETSSIKRING AV LABORATORIENE*
 
 Laboratoriene skal overholde bestemmelsene i artikkel 12 i forordning [(EF) nr. 882/2004](eu/32004r0882*).
 
@@ -1230,6 +2286,12 @@ Laboratoriene skal delta i relevante ordninger for egnethetsprøving som er i sa
 Laboratoriene skal kunne vise at de har tatt i bruk framgangsmåter for intern kvalitetskontroll. Eksempler på slike er å finne i «ISO/AOAC/IUPAC Guidelines on Internal Quality Control in Analytical Chemistry Laboratories».3
 
 Der det er mulig, skal analysens nøyaktighet vurderes ved å inkludere egnet sertifisert referansemateriale i analysen.
+
+C.2.*TILLAGING AV PRØVER*
+
+►**M7**
+
+C.2.1.*Forholdsregler og generelle bestemmelser*
 
 Det grunnleggende kravet er å oppnå en representativ og ensartet laboratorieprøve uten å tilføre sekundær forurensning.
 
@@ -1243,13 +2305,27 @@ Dersom den øvre grenseverdien gjelder for tørrstoffet, skal tørrstoffinnholde
 
 På grunnlag av innholdet som blir funnet i laboratorieprøvene, skal det fastslås om de øvre grenseverdiene fastsatt i forordning [(EU) 2023/915](eu/32023r0915) er overholdt.
 
+◄**M7**
+
+C.2.2.*Særlige framgangsmåter for tillaging av prøver*
+
+►**M7**
+
+C.2.2.1.*Særlige framgangsmåter for bly, kadmium, kvikksølv, uorganisk tinn, uorganisk og samlet arsen samt nikkel*
+
 Den som foretar analysen, skal sikre at prøvene ikke forurenses under tillagingen. Dersom det er mulig, skal apparater og utstyr som kommer i kontakt med prøven, ikke inneholde de metallene som skal fastsettes, og de skal være laget av inert materiale, f.eks. plast som polypropylen, polytetrafluoretylen (PTFE) osv. De skal rengjøres med syre for å redusere risikoen for forurensning. Rustfritt stål av høy kvalitet kan brukes til skjærende egger.
 
-Det finnes mange tilfredsstillende framgangsmåter for tillaging av prøver som kan brukes til de produktene som skal vurderes. For de aspektene som ikke spesifikt omfattes av denne forordningen, er CEN-standarden «Næringsmidler. Bestemmelse av elementer og deres kjemiske forbindelser. Generelle vurderinger og spesifikke krav»* tilfredsstillende, men andre framgangsmåter for tillaging av prøver kan være like godt egnet.
+Det finnes mange tilfredsstillende framgangsmåter for tillaging av prøver som kan brukes til de produktene som skal vurderes. For de aspektene som ikke spesifikt omfattes av denne forordningen, er CEN-standarden «Næringsmidler. Bestemmelse av elementer og deres kjemiske forbindelser. Generelle vurderinger og spesifikke krav»\* tilfredsstillende, men andre framgangsmåter for tillaging av prøver kan være like godt egnet.
 
 Når det gjelder uorganisk tinn, skal det sikres at alt materiale tas med i løsningen, siden det er kjent at tap lett kan forekomme, særlig på grunn av hydrolyse til uløselige hydratiserte Sn(IV)-oksider.
 
-Når det gjelder nikkel, kan det oppstå forurensningsproblemer når utstyr av rustfritt stål eller jern brukes til prøvetaking eller analyse. I slike tilfeller skal det brukes spesialutstyr i materialer som titan, keramikk eller agat.* Standard EN 13804:2013: «Næringsmidler. Bestemmelse av elementer og deres kjemiske forbindelser. Generelle vurderinger og spesifikke krav», CEN, Rue de Stassart/Stassartstraat 36, B-1050 Brussel, BELGIA.
+Når det gjelder nikkel, kan det oppstå forurensningsproblemer når utstyr av rustfritt stål eller jern brukes til prøvetaking eller analyse. I slike tilfeller skal det brukes spesialutstyr i materialer som titan, keramikk eller agat.\* Standard EN 13804:2013: «Næringsmidler. Bestemmelse av elementer og deres kjemiske forbindelser. Generelle vurderinger og spesifikke krav», CEN, Rue de Stassart/Stassartstraat 36, B-1050 Brussel, BELGIA.
+
+◄**M7**
+
+►**M1**
+
+C.2.2.2.*Særlige framgangsmåter for polysykliske aromatiske hydrokarboner*
 
 Den som foretar analysen, skal sikre at prøvene ikke forurenses under tillagingen. Beholdere skal skylles med aceton eller heksan med høy renhet før bruk for å redusere risikoen for forurensning i størst mulig grad. Apparater og utstyr som kommer i kontakt med prøven, skal om mulig være laget av inert materiale, f.eks. aluminium, glass eller polert rustfritt stål. Plast som polypropylen eller PTFE skal unngås da analytten kan absorberes til disse materialene.
 ◄**M1**
@@ -1258,11 +2334,40 @@ Den som foretar analysen, skal sikre at prøvene ikke forurenses under tillaging
 Når det gjelder analyse av PAH i kakao og produkter avledet av kakao, utføres bestemmelsen av fettinnholdet i samsvar med AOACs offisielle metode 963.15 for bestemmelse av fettinnholdet i kakaobønner og avledete produkter. Likeverdige framgangsmåter for bestemmelse av fettinnhold kan anvendes dersom det kan dokumenteres at den anvendte metoden for fettbestemmelse gir den samme (likeverdig) fettinnholdsverdien.
 ◄**M2**
 
+C.2.3.*Behandling av prøven slik den mottas i laboratoriet*
+
 Hele samleprøven finmales (når det er relevant) og blandes omhyggelig etter en metode som sikrer fullstendig homogenisering.
+
+C.2.4.*Prøver som tas for håndhevings-, klageadgangs- og referanseformål*
 
 Prøvene som tas for håndhevings-, klageadgangs- og referanseformål, skal tas fra det homogeniserte materialet, med mindre dette er i strid med medlemsstatens regler for prøvetaking med hensyn til rettighetene til den driftsansvarlige for næringsmiddelforetaket.
 
-I denne forordning menes med:«r»=repeterbarhet den verdien som innenfor en bestemt sannsynlighet (normalt 95 %) kan forventes å ligge under den absolutte differansen mellom individuelle prøvingsresultater oppnådd under repeterbarhetsvilkår (dvs. samme prøve, samme person, samme apparatur, samme laboratorium og kort tidsintervall), hvorav følger at r = 2,8 × sr .«sr »=standardavvik beregnet ut fra resultater oppnådd under repeterbarhetsvilkår.«RSDr »=relativt standardavvik beregnet ut fra resultater oppnådd under repeterbarhetsvilkår [(sr / X̅) × 100].«R»=reproduserbarhet den verdien som innenfor en bestemt sannsynlighet (normalt 95 %) kan forventes å ligge under den absolutte differansen mellom prøvingsresultater oppnådd under reproduserbarhetsvilkår (dvs. av personer ved ulike laboratorier ved bruk av den standardiserte prøvingsmetoden med identisk materiale), hvorav følger at R = 2,8 × sR .«sR »=standardavvik beregnet ut fra resultater oppnådd under reproduserbarhetsvilkår.«RSDR »=relativt standardavvik beregnet ut fra resultater oppnådd under reproduserbarhetsvilkår [(sR / X̅) × 100].►**M3**«LOD»=påvisningsgrense: det minste målte innhold som med rimelig statistisk sikkerhet gjør det mulig å påvise forekomst av en analytt.«LOQ»=grense for mengdebestemmelse: det laveste innholdet av en analytt som kan måles med rimelig statistisk sikkerhet.◄**M3**►**M1**«HORRAT* r »=målt RSDr delt på RSDr -verdien beregnet ved hjelp av Horwitz' endrede ligning** (se nr. C.3.3.1 «Merknader til ytelseskriteriene»), der det antas at r = 0,66 R.* Horwitz W. and Albert, R., 2006, The Horwitz Ratio (HorRat): A useful Index of Method Performance with respect to Precision, Journal of AOAC International, Vol. 89, 1095-1109.** M. Thompson, Analyst, 2000, p. 125 and 385-386. ◄**M1** ►**M1**«HORRAT*R»=målt RSDR delt på RSDR -verdien beregnet ved hjelp av Horwitz' endrede ligning** (se nr. C.3.3.1 «Merknader til ytelseskriteriene»)* Horwitz W. and Albert, R., 2006, The Horwitz Ratio (HorRat): A useful Index of Method Performance with respect to Precision, Journal of AOAC International, Vol. 89, 1095-1109.** M. Thompson, Analyst, 2000, p. 125 and 385-386.◄**M1** ►**M1**«u»=kombinert standard måleusikkerhet som oppnås ved bruk av innsatsmengdenes individuelle standard måleusikkerheter i en målemetode.** International vocabulary of metrology – Basic and general concepts and associated terms (VIM), JCGM 200:2008.◄**M1** «U»=utvidet måleusikkerhet, ved hjelp av en dekningsfaktor på 2 som gir et konfidensnivå på ca. 95 % (U = 2u).«Uf»=høyeste standard måleusikkerhet.
+C.3.*ANALYSEMETODER*
+
+C.3.1.*Definisjoner*
+
+I denne forordning menes med:
+
+|  |  |  |
+| --- | --- | --- |
+| «r» | = | repeterbarhet den verdien som innenfor en bestemt sannsynlighet (normalt 95 %) kan forventes å ligge under den absolutte differansen mellom individuelle prøvingsresultater oppnådd under repeterbarhetsvilkår (dvs. samme prøve, samme person, samme apparatur, samme laboratorium og kort tidsintervall), hvorav følger at r = 2,8 × sr . |
+| «sr » | = | standardavvik beregnet ut fra resultater oppnådd under repeterbarhetsvilkår. |
+| «RSDr » | = | relativt standardavvik beregnet ut fra resultater oppnådd under repeterbarhetsvilkår [(sr / X̅) × 100]. |
+| «R» | = | reproduserbarhet den verdien som innenfor en bestemt sannsynlighet (normalt 95 %) kan forventes å ligge under den absolutte differansen mellom prøvingsresultater oppnådd under reproduserbarhetsvilkår (dvs. av personer ved ulike laboratorier ved bruk av den standardiserte prøvingsmetoden med identisk materiale), hvorav følger at R = 2,8 × sR . |
+| «sR » | = | standardavvik beregnet ut fra resultater oppnådd under reproduserbarhetsvilkår. |
+| «RSDR » | = | relativt standardavvik beregnet ut fra resultater oppnådd under reproduserbarhetsvilkår [(sR / X̅) × 100]. |
+| ►**M3** |  |  |
+| «LOD» | = | påvisningsgrense: det minste målte innhold som med rimelig statistisk sikkerhet gjør det mulig å påvise forekomst av en analytt. |
+| «LOQ» | = | grense for mengdebestemmelse: det laveste innholdet av en analytt som kan måles med rimelig statistisk sikkerhet. |
+| ◄**M3** |  |  |
+| ►**M1** |  |  |
+| «HORRAT\* r » | = | målt RSDr delt på RSDr -verdien beregnet ved hjelp av Horwitz' endrede ligning\*\* (se nr. C.3.3.1 «Merknader til ytelseskriteriene»), der det antas at r = 0,66 R. |
+
+\* Horwitz W. and Albert, R., 2006, The Horwitz Ratio (HorRat): A useful Index of Method Performance with respect to Precision, Journal of AOAC International, Vol. 89, 1095-1109.\*\* M. Thompson, Analyst, 2000, p. 125 and 385-386. ◄**M1** ►**M1**«HORRAT\*R»=målt RSDR delt på RSDR -verdien beregnet ved hjelp av Horwitz' endrede ligning\*\* (se nr. C.3.3.1 «Merknader til ytelseskriteriene»)\* Horwitz W. and Albert, R., 2006, The Horwitz Ratio (HorRat): A useful Index of Method Performance with respect to Precision, Journal of AOAC International, Vol. 89, 1095-1109.\*\* M. Thompson, Analyst, 2000, p. 125 and 385-386.◄**M1** ►**M1**«u»=kombinert standard måleusikkerhet som oppnås ved bruk av innsatsmengdenes individuelle standard måleusikkerheter i en målemetode.\*\* International vocabulary of metrology – Basic and general concepts and associated terms (VIM), JCGM 200:2008.◄**M1** «U»=utvidet måleusikkerhet, ved hjelp av en dekningsfaktor på 2 som gir et konfidensnivå på ca. 95 % (U = 2u).«Uf»=høyeste standard måleusikkerhet.
+
+►**M2**
+
+C.3.2.*Generelle krav*
 
 Analysemetodene som benyttes ved kontroll av næringsmidler, skal være i samsvar med bestemmelsene i vedlegg III til forordning [(EF) nr. 882/2004](eu/32004r0882*).
 
@@ -1272,22 +2377,38 @@ Når det gjelder analyse av bly i vin, får metodene og reglene fastsatt av OIV1
 
 Analysemetodene for det samlede innholdet av arsen er egnet for kontroll av innholdet av uorganisk arsen. Dersom den samlede konsentrasjonen av arsen er lavere enn grenseverdien for uorganisk arsen, kreves ingen ytterligere prøving, og prøven anses å være i samsvar med grenseverdien for uorganisk arsen. Dersom den samlede konsentrasjonen av arsen ligger på eller over grenseverdien for uorganisk arsen, skal det utføres oppfølgende prøving for å bestemme om konsentrasjonen av uorganisk arsen ligger over grenseverdien for uorganisk arsen.
 
+1 Den internasjonale vinorganisasjon.
+
+2 Europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308*) av 17. desember 2013 om opprettelse av en felles markedsordning for landbruksprodukter og om oppheving av rådsforordning [(EØF) nr. 922/72](eu/31972r0922), (EØF) [nr. 234/79](eu/31979r0234), (EF) [nr. 1037/2001](eu/32001r1037) og (EF) [nr. 1234/2007](eu/32007r1234) (EUT L 347 av 20.12.2013, s. 671).
+
+◄**M2**
+
+C.3.3.*Særlige krav*►**M1**
+
+C.3.3.1.*Ytelseskriterier*
+
 Dersom det ikke er fastsatt noen spesiell metode for bestemmelse av forurensende stoffer i næringsmidler på fellesskapsplan, kan laboratoriene selv velge hvilken validert analysemetode de vil bruke for de respektive matrisene, forutsatt at den valgte metoden oppfyller de spesifikke ytelseskriteriene angitt i tabell 5–7.
 
 Det anbefales å bruke fullt validerte metoder (f.eks. metoder som er validerte ved felles undersøkelse for den respektive matrisen) hvis de er relevante og hvis slike foreligger. Andre egnede valideringsmetoder (f.eks. internt validerte metoder for den respektive matrisen) kan også brukes forutsatt at de oppfyller ytelseskriteriene fastsatt i tabell 5, 6 og 7.
 
 Om mulig skal valideringen omfatte et sertifisert referansemateriale.
 
+►**M7**
+
 1. Ytelseskriterier for analysemetoder for bly, kadmium, kvikksølv, uorganisk tinn, uorganisk og samlet arsen samt nikkel*Tabell 5**Parameter**Kriterium*AnvendelseNæringsmidlene angitt i forordning [(EU) 2023/915](eu/32023r0915)SpesifisitetFri for matrise- eller spektralinterferensRepeterbarhet (RSDr)HORRATr under 2Reproduserbarhet (RSDR)HORRATR under 2GjenvinningBestemmelsene i punkt D.1.2 får anvendelsePåvisningsgrense= tre tideler av LOQLOQUorganisk tinn≤ 10 mg/kgBlyGrenseverdi ≤ 0,02 mg/kg0,02 < grenseverdi < 0,1 mg/kgGrenseverdi ≥ 0,1 mg/kg≤ grenseverdi≤ to tredeler av grenseverdien≤ en femdel av grenseverdienKadmium, kvikksølvGrenseverdi ≤ 0,02 mg/kg0,02 < grenseverdi < 0,1 mg/kgGrenseverdi ≥ 0,1 mg/kg≤ to femdeler av grenseverdien≤ to femdeler av grenseverdien≤ en femdel av grenseverdienUorganisk arsen og samlet arseninnholdGrenseverdi ≤ 0,03 mg/kg0,03 < grenseverdi < 0,1 mg/kgGrenseverdi ≥ 0,1 mg/kg≤ grenseverdi≤ to tredeler av grenseverdien≤ to tredeler av grenseverdienNikkelGrenseverdi ≤ 0,3 mg/kg0,3 < grenseverdi < 0,6 mg/kgGrenseverdi ≥ 0,6 mg/kg
 
+◄**M7**
+
+►**M3**
+
 1. Ytelseskriterier for analysemetoder for 3-monoklor-1,2-propandiol (3-MCPD), fettsyreestere av 3-MCPD og glysidylfettsyreestere:
-- Ytelseskriterier for analysemetoder for 3-MCPD i næringsmidler angitt i ►**M7** nr. 5.2 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915) ◄**M7** *Tabell 6a**Parameter**Kriterium*AnvendelsesområdeNæringsmidler angitt i ►**M7** nr. 5.2 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915) ◄**M7**SpesifisitetFri for matrise- eller spektralinterferensBlindprøverUnder påvisningsgrensen (LOD)Repeterbarhet (RSDr)0,66 ganger RSDR utregnet etter Horwitz' (endrede) ligningReproduserbarhet (RSDR)Utregnet etter Horwitz' (endrede) ligningGjenfinning75–110 %Påvisningsgrense (LOD)≤ 5 μg/kg (i tørrstoff)Grense for mengdebestemmelse (LOQ)≤ 10 μg/kg (i tørrstoff)
-- Ytelseskriterier for analysemetoder for 3-MCPD i næringsmidler angitt i ►**M7** nr. 5.3 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915)◄**M7** *Tabell 6b**Parameter**Kriterium*AnvendelsesområdeNæringsmidler angitt i ►**M7** nr. 5.3 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915)◄**M7**SpesifisitetFri for matrise- eller spektralinterferensBlindprøverUnder påvisningsgrensen (LOD)Repeterbarhet (RSDr)0,66 ganger RSDR utregnet etter Horwitz' (endrede) ligningReproduserbarhet (RSDR)Utregnet etter Horwitz' (endrede) ligningGjenfinning75–110 %Påvisningsgrense (LOD)≤ 7 μg/kgGrense for mengdebestemmelse (LOQ)≤ 14 μg/kg
-- Ytelseskriterier for analysemetoder for fettsyreestere av 3-MCPD, uttrykt som 3-MCPD, i næringsmidler angitt i ►**M7** nr. 5.3 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915)◄**M7** *Tabell 6c**Parameter**Kriterium*AnvendelsesområdeNæringsmidler angitt i ►**M7** nr. 5.3 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915)◄**M7**SpesifisitetFri for matrise- eller spektralinterferensRepeterbarhet (RSDr)0,66 ganger RSDR utregnet etter Horwitz' (endrede) ligningReproduserbarhet (RSDR)Utregnet etter Horwitz' (endrede) ligningGjenfinning70–125 %Påvisningsgrense (LOD)Tre tideler av LOQGrense for mengdebestemmelse (LOQ)
+\- Ytelseskriterier for analysemetoder for 3-MCPD i næringsmidler angitt i ►**M7** nr. 5.2 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915) ◄**M7** *Tabell 6a**Parameter**Kriterium*AnvendelsesområdeNæringsmidler angitt i ►**M7** nr. 5.2 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915) ◄**M7**SpesifisitetFri for matrise- eller spektralinterferensBlindprøverUnder påvisningsgrensen (LOD)Repeterbarhet (RSDr)0,66 ganger RSDR utregnet etter Horwitz' (endrede) ligningReproduserbarhet (RSDR)Utregnet etter Horwitz' (endrede) ligningGjenfinning75–110 %Påvisningsgrense (LOD)≤ 5 μg/kg (i tørrstoff)Grense for mengdebestemmelse (LOQ)≤ 10 μg/kg (i tørrstoff)
+\- Ytelseskriterier for analysemetoder for 3-MCPD i næringsmidler angitt i ►**M7** nr. 5.3 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915)◄**M7** *Tabell 6b**Parameter**Kriterium*AnvendelsesområdeNæringsmidler angitt i ►**M7** nr. 5.3 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915)◄**M7**SpesifisitetFri for matrise- eller spektralinterferensBlindprøverUnder påvisningsgrensen (LOD)Repeterbarhet (RSDr)0,66 ganger RSDR utregnet etter Horwitz' (endrede) ligningReproduserbarhet (RSDR)Utregnet etter Horwitz' (endrede) ligningGjenfinning75–110 %Påvisningsgrense (LOD)≤ 7 μg/kgGrense for mengdebestemmelse (LOQ)≤ 14 μg/kg
+\- Ytelseskriterier for analysemetoder for fettsyreestere av 3-MCPD, uttrykt som 3-MCPD, i næringsmidler angitt i ►**M7** nr. 5.3 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915)◄**M7** *Tabell 6c**Parameter**Kriterium*AnvendelsesområdeNæringsmidler angitt i ►**M7** nr. 5.3 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915)◄**M7**SpesifisitetFri for matrise- eller spektralinterferensRepeterbarhet (RSDr)0,66 ganger RSDR utregnet etter Horwitz' (endrede) ligningReproduserbarhet (RSDR)Utregnet etter Horwitz' (endrede) ligningGjenfinning70–125 %Påvisningsgrense (LOD)Tre tideler av LOQGrense for mengdebestemmelse (LOQ)
 For næringsmidler angitt i ►**M7** 5.3.1◄**M7** og ►**M7** 5.3.2◄**M7**≤ 100 μg/kg i oljer og fettstofferGrense for mengdebestemmelse (LOQ)
 For næringsmidler angitt i ►**M7** 5.3.3.1◄**M7** og i ►**M7** 5.3.3.2◄**M7** med et fettinnhold på < 40 %≤ to femdeler av grenseverdienGrense for mengdebestemmelse (LOQ)
 For næringsmidler angitt i ►**M7** 5.3.3.2◄**M7** med et fettinnhold på ≥ 40 %≤ 15 μg/kg fett
-- Ytelseskriterier for analysemetoder for glysidylfettsyreestere, uttrykt som glysidol, i næringsmidler angitt i ►**M7** nr. 5.4 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915)◄**M7** *Tabell 6d**Parameter**Kriterium*AnvendelsesområdeNæringsmidler angitt i ►**M7** nr. 5.4 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915)◄**M7**SpesifisitetFri for matrise- eller spektralinterferensRepeterbarhet (RSDr)0,66 ganger RSDR utregnet etter Horwitz' (endrede) ligningReproduserbarhet (RSDR)Utregnet etter Horwitz' (endrede) ligningGjenfinning70–125 %Påvisningsgrense (LOD)Tre tideler av LOQGrense for mengdebestemmelse (LOQ)
+\- Ytelseskriterier for analysemetoder for glysidylfettsyreestere, uttrykt som glysidol, i næringsmidler angitt i ►**M7** nr. 5.4 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915)◄**M7** *Tabell 6d**Parameter**Kriterium*AnvendelsesområdeNæringsmidler angitt i ►**M7** nr. 5.4 i vedlegg I til forordning [(EU) 2023/915](eu/32023r0915)◄**M7**SpesifisitetFri for matrise- eller spektralinterferensRepeterbarhet (RSDr)0,66 ganger RSDR utregnet etter Horwitz' (endrede) ligningReproduserbarhet (RSDR)Utregnet etter Horwitz' (endrede) ligningGjenfinning70–125 %Påvisningsgrense (LOD)Tre tideler av LOQGrense for mengdebestemmelse (LOQ)
 For næringsmidler angitt i ►**M7** 5.4.1◄**M7** og ►**M7** 5.4.2◄**M7**≤ 100 μg/kg i oljer og fettstofferGrense for mengdebestemmelse (LOQ)
 For næringsmidler angitt i ►**M7** 5.4.3.1◄**M7** med et fettinnhold på < 65 % og i ►**M7** 5.4.3.2◄**M7** med et fettinnhold på < 8 %≤ to femdeler av grenseverdienGrense for mengdebestemmelse (LOQ)
 For næringsmidler angitt i ►**M7** 5.4.3.1◄**M7** med et fettinnhold på ≥ 65 % og i ►**M7** 5.4.3.2◄**M7** med et fettinnhold på ≥ 8 %≤ 31 μg/kg fett
@@ -1297,24 +2418,35 @@ For næringsmidler angitt i ►**M7** 5.4.3.1◄**M7** med et fettinnhold på �
 3. Ytelseskriterier for analysemetoder for akrylamid:*Tabell 8**Parameter**Kriterium*AnvendelsesområdeAlle næringsmidlerSpesifisitetFri for matrise- eller spektralinterferensBlindprøverUnder påvisningsgrensen (LOD)Repeterbarhet (RSDr)0,66 ganger RSDR utregnet etter Horwitz' (endrede) ligningReproduserbarhet (RSDR)Utregnet etter Horwitz' (endrede) ligningGjenfinning75–110 %Påvisningsgrense (LOD)Tre tideler av LOQGrense for mengdebestemmelse (LOQ)For næringsmidler med referansenivåer < 125 µg/kg: ≤ to femdeler av referansenivået, men under 20 μg/kg er ikke påkrevd
 For næringsmidler med referansenivå ≥ 125 µg/kg: ≤ 50 µg/kg
 4. Ytelseskriterier for analysemetoder for perklorat:*Tabell 9**Parameter**Kriterium*AnvendelsesområdeAlle næringsmidlerSpesifisitetFri for matrise- eller spektralinterferensRepeterbarhet (RSDr)0,66 ganger RSDR utregnet etter Horwitz' (endrede) ligningReproduserbarhet (RSDR)Utregnet etter Horwitz' (endrede) ligningGjenfinning70–110 %Påvisningsgrense (LOD)Tre tideler av LOQGrense for mengdebestemmelse (LOQ)≤ to femdeler av grenseverdien
-5. Merknader til ytelseskriteriene:Horwitz' ligning* (for konsentrasjoner 1,2 × 10-7 ≤ C ≤ 0,138) og Horwitz' endrede ligning** (for konsentrasjoner C < 1,2 × 10-7) er generelle presisjonsligninger som er uavhengige av analytt og matrise og som bare er avhengige av konsentrasjonen for de fleste rutineanalysemetoders vedkommende.Horwitz' endrede ligning for konsentrasjoner C < 1,2 × 10-7:
+5. Merknader til ytelseskriteriene:Horwitz' ligning\* (for konsentrasjoner 1,2 × 10-7 ≤ C ≤ 0,138) og Horwitz' endrede ligning\*\* (for konsentrasjoner C < 1,2 × 10-7) er generelle presisjonsligninger som er uavhengige av analytt og matrise og som bare er avhengige av konsentrasjonen for de fleste rutineanalysemetoders vedkommende.Horwitz' endrede ligning for konsentrasjoner C < 1,2 × 10-7:
 RSDR = 22 %
 der:RSDR står for det relative standardavviket beregnet ut fra resultater som er oppnådd under reproduserbarhetsforhold [(sR/X) × 100]C er konsentrasjonsforholdet (dvs. 1 = 100g/100g, 0,001 = 1 000 mg/kg). Horwitz' endrede ligning gjelder for konsentrasjoner C < 1,2 × 10-7.Horwitz' ligning for konsentrasjoner 1,2 × 10-7 ≤ C ≤ 0,138:
 RSDR = 2C(-0,15)
-der:RSDR står for det relative standardavviket beregnet ut fra resultater som er oppnådd under reproduserbarhetsforhold [(sR/X) × 100]C er konsentrasjonsforholdet (dvs. 1 = 100g/100g, 0,001 = 1 000 mg/kg). Horwitz' ligning gjelder for konsentrasjoner 1,2 × 10-7 ≤ C ≤ 0,138.* W. Horwitz, L.R. Kamps, K.W. Boyer, J.Assoc.Off.Analy.Chem.,63, 1980, 1344–1354.** M. Thompson, Analyst, 125, 2000, 385-386.
+der:RSDR står for det relative standardavviket beregnet ut fra resultater som er oppnådd under reproduserbarhetsforhold [(sR/X) × 100]C er konsentrasjonsforholdet (dvs. 1 = 100g/100g, 0,001 = 1 000 mg/kg). Horwitz' ligning gjelder for konsentrasjoner 1,2 × 10-7 ≤ C ≤ 0,138.\* W. Horwitz, L.R. Kamps, K.W. Boyer, J.Assoc.Off.Analy.Chem.,63, 1980, 1344–1354.\*\* M. Thompson, Analyst, 125, 2000, 385-386.
 
-For internt validerte metoder kan det alternativt benyttes en metode for å bedømme egnethet* for å vurdere om de er egnet for offentlig kontroll. Metoder som er egnet for offentlig kontroll, må gi resultater med en kombinert standard måleusikkerhet (u) som er lavere enn høyeste standard måleusikkerhet beregnet ved hjelp av formelen nedenfor:
+◄**M3**
+►**M1**
+
+C.3.3.2.*Metode for å bedømme egnethet*
+
+For internt validerte metoder kan det alternativt benyttes en metode for å bedømme egnethet\* for å vurdere om de er egnet for offentlig kontroll. Metoder som er egnet for offentlig kontroll, må gi resultater med en kombinert standard måleusikkerhet (u) som er lavere enn høyeste standard måleusikkerhet beregnet ved hjelp av formelen nedenfor:
 Uf = √(((LOD/2)2) + ((αC)2))
 der:Uf er høyeste standard måleusikkerhet (μg/kg),LOD er metodens påvisningsgrense (μg/kg). LOD må oppfylle ytelseskriteriene angitt i nr. C.3.3.1 for den relevante konsentrasjonen,C er den relevante konsentrasjonen (μg/kg),α er en tallfaktor som skal brukes, og som er avhengig av verdien av C. Verdiene som skal brukes, er angitt i tabell 8.*Tabell 10*
 **Tallverdier som skal brukes for α som konstant i formelen angitt i dette nummer, avhengig av den relevante konsentrasjonen**C (μg/kg)α≤ 500,251–5000,18501–10000,151001–100000,12> 100000,1
 
-Den som foretar analysen, skal ta hensyn til «Report on the relationship between analytical results, measurement uncertainty, recovery factors and the provisions in EU food and feed legislation».** * M. Thompson and R. Wood, Accred. Qual. Assur., 2006, p. 10 and 471–478.**[http://ec.europa.eu/food/food//chemicalsafety/contaminants/report-sampling_analysis_2004_en.pdf](https://ec.europa.eu/food/food/chemicalsafety/contaminants/report-sampling_analysis_2004_en.pdf)
+Den som foretar analysen, skal ta hensyn til «Report on the relationship between analytical results, measurement uncertainty, recovery factors and the provisions in EU food and feed legislation».\*\* \* M. Thompson and R. Wood, Accred. Qual. Assur., 2006, p. 10 and 471–478.\*\*[http://ec.europa.eu/food/food//chemicalsafety/contaminants/report-sampling_analysis_2004_en.pdf](https://ec.europa.eu/food/food/chemicalsafety/contaminants/report-sampling_analysis_2004_en.pdf)
 ◄**M1** 2 «The international harmonized protocol for the proficiency testing of analytical chemistry laboratories» av M. Thompson, S.L.R. Ellison og R. Wood, Pure Appl. Chem., 2006, 78, 145-96.3 Redigert av M. Thompson og R. Wood, Pure Appl. Chem., 1995, 67, 649-666.4 Standard EN 13804:2002, «Foodstuffs – Determination of trace elements – Performance criteria, general considerations and sample preparation», CEN, Rue de Stassart 36, B-1050 Brussels.
 
 ### Del D
 Rapportering og tolking av resultatene
 
+D.1*RAPPORTERING*
+
+D.1.1.*Presentasjon av resultater*
+
 Resultatene skal presenteres i de samme enhetene og med samme antall signifikante sifre som grenseverdiene fastsatt i ►**M7** forordning [(EU) 2023/915](eu/32023r0915)◄**M7**.
+
+D.1.2.*Gjenfinningsberegning*
 
 Dersom analysemetoden omfatter ekstraksjon, skal analyseresultatene korrigeres for gjenfinning. I så fall skal gjenfinningsprosenten rapporteres.
 ►**M1**
@@ -1322,15 +2454,25 @@ Dersom analysemetoden omfatter ekstraksjon, skal analyseresultatene korrigeres f
 Dersom analysemetoden ikke omfatter ekstraksjon (f.eks. når det gjelder metaller), kan resultatet rapporteres ukorrigert for gjenfinning, dersom det godtgjøres, helst ved at det benyttes egnet sertifisert referansemateriale, at den sertifiserte konsentrasjonen, idet det tas hensyn til måleusikkerheten, er oppnådd (dvs. stor målenøyaktighet), og at metoden dermed ikke er misvisende. Dersom resultatet rapporteres ukorrigert for gjenfinning, skal dette opplyses.
 ◄**M1**
 
+D.1.3.*Måleusikkerhet*
+
 Analyseresultatet skal rapporteres som x +/– U, der x er analyseresultatet og U er den utvidede måleusikkerheten, og ved bruk av en dekningsfaktor på 2, som gir et konfidensnivå på ca. 95 % (U = 2u).
 ►**M1**
 
-Den som foretar analysen, skal ta hensyn til «Report on the relationship between analytical results, measurement uncertainty, recovery factors and the provisions in EU food and feed legislation».* *[http://ec.europa.eu/food/food/chemicalsafety/contaminants/report-sampling_analysis_2004_en.pdf](https://ec.europa.eu/food/food/chemicalsafety/contaminants/report-sampling_analysis_2004_en.pdf)
+Den som foretar analysen, skal ta hensyn til «Report on the relationship between analytical results, measurement uncertainty, recovery factors and the provisions in EU food and feed legislation».\* \*[http://ec.europa.eu/food/food/chemicalsafety/contaminants/report-sampling_analysis_2004_en.pdf](https://ec.europa.eu/food/food/chemicalsafety/contaminants/report-sampling_analysis_2004_en.pdf)
 ◄**M1**
+
+D.2*TOLKING AV RESULTATENE*
+
+D.2.1.*Godkjenning av et parti eller delparti*
 
 Partiet eller delpartiet godkjennes dersom analyseresultatet fra laboratorieprøven ikke overstiger den relevante grenseverdien fastsatt i ►**M7** forordning [(EU) 2023/915](eu/32023r0915)◄**M7**, idet det tas hensyn til den utvidede måleusikkerheten og korrigeringen av resultatene for gjenfinning, dersom den analysemetoden som er brukt, omfatter ekstraksjon.
 
+D.2.2.*Avvisning av et parti eller delparti*
+
 Partiet eller delpartiet avvises dersom analyseresultatet fra laboratorieprøven uten rimelig tvil overstiger den relevante grenseverdien fastsatt i ►**M7** forordning [(EU) 2023/915](eu/32023r0915)◄**M7**, idet det tas hensyn til den utvidede måleusikkerheten og korrigeringen av resultatene for gjenfinning, dersom den analysemetoden som er brukt, omfatter ekstraksjon.
+
+D.2.3.*Anvendelse*
 
 De eksisterende tolkingsreglene gjelder for de analyseresultatene som oppnås på prøven som er tatt for håndhevingsformål. Når det gjelder analyse for klageadgangs- eller referanseformål, gjelder nasjonale regler.
 
@@ -1344,11 +2486,31 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/644
 av 5. april 2017
 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning [(EU) nr. 589/2014](eu/32014r0589)
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes,1 særlig artikkel 11 nr. 4, og
 
 ut fra følgende betraktninger:Ved kommisjonsforordning [(EF) nr. 1881/2006](eu/32006r1881)2 fastsettes grenseverdier for ikke-dioksinlignende polyklorerte bifenyler (PCB), dioksiner og furaner samt for summen av dioksiner, furaner og dioksinlignende PCB i visse næringsmidler.Ved kommisjonsrekommandasjon [2013/711/EU](eu/32013h0711)3 fastsettes tiltaksgrenser for å fremme en forebyggende metode for å redusere forekomsten av polyklorerte dibenzoparadioksinforbindelser, polyklorerte dibenzofuranforbindelser (PCDD/PCDF) og dioksinlignende PCB i næringsmidler. Disse tiltaksgrensene er et verktøy som gjør det mulig for vedkommende myndigheter og driftsansvarlige å bestemme om det er relevant å identifisere en forurensningskilde, og å treffe de nødvendige tiltak for å redusere eller fjerne den.Ved kommisjonsforordning [(EF) nr. 589/2014](eu/32014r0589)4 fastsettes særlige bestemmelser om prøvetakingen og analysemetoder som skal brukes ved offentlig kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB.Bestemmelsene fastsatt i denne forordning gjelder bare prøvetaking og analyse av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB for gjennomføring av forordning [(EF) nr. 1881/2006](eu/32006r1881) og rekommandasjon [2013/711/EU](eu/32013h0711). De berører ikke prøvetakingsstrategien og prøvetakingens omfang og hyppighet fastsatt i vedlegg III og IV til rådsdirektiv [96/23/EF](eu/31996l0023).5 De berører ikke kriteriene for målretting av prøvetakingen fastsatt i kommisjonsvedtak [98/179/EF](eu/31998d0179).6Det er hensiktsmessig å sikre at driftsansvarlige for næringsmiddelforetak som anvender kontrollene som utføres innenfor rammen av artikkel 4 i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) og europaparlaments- og rådsforordning7 anvender framgangsmåter for prøvetaking som tilsvarer framgangsmåtene for prøvetaking fastsatt i denne forordning, for å sikre at prøvene som tas ut ved disse kontrollene, er representative. Den europeiske unions referanselaboratorium for dioksiner og dioksinlignende PCB har dessuten framlagt bevis på at analyseresultatene i visse tilfeller ikke er pålitelige når ytelseskriteriene som er fastsatt i denne forordning ikke er anvendt av laboratoriene som foretar analyser av prøver tatt av driftsansvarlige for næringsmiddelforetak i henhold til artikkel 4 i forordning [(EF) nr. 852/2004](eu/32004r0852*). Det er derfor hensiktsmessig å gjøre anvendelsen av ytelseskriteriene obligatorisk også ved analysen av prøvene.Med tanke på at metoden der det brukes en beslutningsgrense for å sikre at et analyseresultat er over grenseverdien med en viss sannsynlighet, som fastsatt i kommisjonsvedtak [2002/657/EF](eu/32002d0657*),8 ikke lenger anvendes for å analysere dioksiner og PCB i næringsmidler, er det hensiktsmessig at denne metoden utgår og at bare metoden med beregning av utvidet usikkerhet ved hjelp av en dekningsfaktor på 2, som gir et konfidensnivå på ca. 95 %, beholdes.I samsvar med rapporteringskravene for bioanalytiske screeningmetoder bør det også fastsettes særlige rapporteringskrav for de fysikalsk-kjemiske metodene som benyttes ved screening.Ettersom analysen av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i de fleste tilfeller gjennomføres samtidig, er det hensiktsmessig å tilpasse ytelseskriteriene for ikke-dioksinlignende PCB til ytelseskriteriene for dioksiner og dioksinlignende PCB. Dette er en forenkling, som ikke innebærer vesentlige endringer i praksis, ettersom bekreftelsesionenes relative intensitet sammenlignet med målionene når det gjelder ikke-dioksinlignende PCB er > 50 %.Det foreslås dessuten flere andre mindre endringer av gjeldende bestemmelser, som krever at forordning [(EU) nr. 589/2014](eu/32014r0589) oppheves og erstattes med en ny forordning for å opprettholde tekstens lesbarhet.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 165 av 30.4.2004, s. 1.
+
+2 Kommisjonsforordning [(EF) nr. 1881/2006](eu/32006r1881) av 19. desember 2006 om fastsettelse av grenseverdier for visse forurensende stoffer i næringsmidler (EUT L 364 av 20.12.2006, s. 5).
+
+3 Kommisjonsrekommandasjon [2013/711/EU](eu/32013h0711) av 3. desember 2013 om reduksjon av forekomsten av dioksiner, furaner og PCB i fôr og næringsmidler (EUT L 323 av 4.12.2013, s. 37).
+
+4 Kommisjonsforordning [(EU) nr. 589/2014](eu/32014r0589) av 2. juni 2014 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler og om oppheving av forordning [(EF) nr. 252/2012](eu/32012r0252) (EUT L 164 av 3.6.2014, s. 18).
+
+5 Rådsdirektiv [96/23/EF](eu/31996l0023) av 29. april 1996 om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres restmengder i levende dyr og animalske produkter, og om oppheving av direktiv [85/358/EØF](eu/31985l0358) og [86/469/EØF](eu/31986l0469*) samt vedtak [89/187/EØF](eu/31989d0187) og [91/664/EØF](eu/31991d0664) (EFT L 125 av 23.5.1996, s. 10).
+
+6 Kommisjonsvedtak [98/179/EF](eu/31998d0179) av 23. februar 1998 om fastsettelse av nærmere regler for offisiell prøvetaking for overvåking av visse stoffer og deres restmengder i levende dyr og animalske produkter (EFT L 65 av 5.3.1998, s. 31).
+
+7 Europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene (EUT L 139 av 30.4.2004, s. 1).
+
+8 Kommisjonsvedtak [2002/657/EF](eu/32002d0657*) av 14. august 2002 om gjennomføring av rådsdirektiv [96/23/EF](eu/31996l0023) med hensyn til analysemetoders ytelse og tolking av resultater (EFT L 221 av 17.8.2002, s. 8).
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -1380,7 +2542,13 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 5. april 2017.
 
-*For Kommisjonen*Jean-Claude Juncker*President*
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Jean-Claude Juncker |
+|  |  |
+|  | *President* |
 
 ### VEDLEGG I
 DEFINISJONER OG FORKORTELSER
@@ -1388,6 +2556,12 @@ DEFINISJONER OG FORKORTELSER
 1. DEFINISJONERI denne forordning får definisjonene fastsatt i vedlegg I til kommisjonsvedtak [2002/657/EF](eu/32002d0657*) anvendelse.I tillegg til disse definisjonene menes med:«tiltaksgrense» den mengden av et gitt stoff, som fastsatt i vedlegget til rekommandasjon [2013/711/EU](eu/32013h0711), som fører til undersøkelser for å avdekke kilden til nevnte stoff i de tilfeller der det er påvist økt mengde av stoffet,«screeningmetoder» metoder for utvelging av de prøver der innholdet av PCDD/PCDF og dioksinlignende PCB overskrider grenseverdiene eller tiltaksgrensene. De skal sikre en kostnadseffektiv og høy analysekapasitet, noe som vil øke muligheten til å oppdage nye tilfeller der høy eksponering kan føre til helsefare for forbrukerne. Screeningmetodene skal være basert på bioanalytiske metoder eller GC-MS-metoder. Prøveresultater som er oppnådd i forbindelse med kontroll av om grenseverdien overholdes, og som overskrider terskelverdien, skal kontrolleres ved at den opprinnelige prøven analyseres på nytt med en bekreftelsesmetode,«bekreftelsesmetoder» metoder som gir fullstendige eller utfyllende opplysninger slik at PCDD/PCDF og dioksinlignende PCB på en entydig måte kan identifiseres og mengdebestemmes ved grenseverdien eller om nødvendig ved tiltaksgrensen. I disse metodene anvendes gasskromatografi/massespektrometri med høy oppløsning (GC-HRMS) eller gasskromatografi/tandemmassespektrometri (GC-MS/MS),«bioanalytiske metoder» metoder basert på bruken av biologiske prinsipper som cellebaserte prøver, reseptoranalyser eller immunologiske analyser. Disse metodene gir ikke et resultat på forbindelsesnivå, men gir en indikasjon9 på TEQ-nivået, uttrykt i bioanalytiske ekvivalenter (BEQ), der det tas hensyn til at det kan finnes forbindelser i en prøveoppløsning som gir respons i analysen, men som ikke oppfyller alle kravene i TEQ-prinsippene,«gjenfinningsgrad ved biologisk prøving» BEQ-nivået beregnet ut fra TCDD- eller PCB 126-kalibreringskurven korrigert for blindprøven og deretter delt på TEQ-nivået bestemt av bekreftelsesmetoden. Formålet er å korrigere for faktorer som tap av PCDD/F og dioksinlignende forbindelser i ekstraksjons- og rensingsfasene, forbindelser som ekstraheres samtidig, og som forsterker eller svekker responsen (agonistiske og antagonistiske virkninger), kvaliteten på kurvetilpasningen eller forskjeller mellom TEF- og REP-verdiene. Gjenfinningsgraden ved biologisk prøving beregnes ut fra egnede referanseprøver med representative forbindelsesmønstre nær grenseverdien eller tiltaksgrensen,«dobbelanalyse» en særskilt analyse av de relevante analytter ved hjelp av en annen delmengde av den samme homogeniserte prøven,«akseptert spesifikk grense for mengdebestemmelse10 av en enkeltforbindelse i en prøve» det laveste innholdet av en analytt som kan måles med rimelig statistisk sikkerhet, som oppfyller identifikasjonskriteriene som er beskrevet i internasjonalt anerkjente standarder, for eksempel i standard EN 16215:2012 (Dyrefôr – Bestemmelse av dioksiner og dioksinliknende PCB ved GC/HRMS og av indikator-PCB ved GC/HRMS) og/eller i EPA-metode 1613 og 1668 som revidert.Grensen for mengdebestemmelse av en enkeltforbindelse kan identifiseres somkonsentrasjonen av en analytt i det ekstraktet av en prøve som for de to forskjellige ionene som skal overvåkes, gir et instrumentsutslag med et signal/støy-forhold på 3:1 for det minst følsomme rådatasignalet
 eller, dersom beregningen av signal/støy av tekniske årsaker ikke gir pålitelige resultater,punktet for laveste konsentrasjon i en kalibreringskurve som gir et akseptabelt (≤ 30 %) og konsekvent (målt minst i starten og på slutten av en analyseprøveserie) avvik fra den gjennomsnittlige responsfaktoren beregnet for alle punkter i kalibreringskurven i hver prøveserie,11«øvre konsentrasjon» det begrep som innebærer anvendelse av grenseverdien for mengdebestemmelse for bidraget fra hver forbindelse som ikke er mengdebestemt,«nedre konsentrasjon» det begrep som innebærer at bidraget fra hver forbindelse som ikke er mengdebestemt, settes lik null,«mellomkonsentrasjon» det begrep som innebærer at bidraget fra hver forbindelse som ikke er mengdebestemt, settes lik halvparten av grensen for mengdebestemmelse,«parti» en identifiserbar mengde av et næringsmiddel, levert under ett, der det ved offentlig kontroll er fastslått felles kjennetegn som f.eks. opprinnelse, art, emballasjetype, emballeringsbedrift, avsender eller merking. Når det gjelder fisk og fiskerivarer, skal dessuten størrelsen på fiskene være tilnærmet lik. Dersom fiskenes størrelse og/eller vekt ikke er tilnærmet lik i en sending, kan sendingen fortsatt regnes som ett parti, men det må benyttes en særlig prøvetakingsmetode,«delparti» del av et stort parti som er valgt ut med sikte på bruk av prøvetakingsmetoden. Hvert delparti skal være fysisk atskilt og identifiserbart,«enkeltprøve» en materialmengde som er tatt fra ett enkelt sted i partiet eller delpartiet,«samleprøve» summen av enkeltprøvene fra et parti eller delparti,«laboratorieprøve» representativ del eller mengde av samleprøven bestemt for laboratoriet.
 2. FORKORTELSERBEQBioanalytiske ekvivalenterGCGasskromatografiHRMSHøyoppløselig massespektrometriLRMSLavoppløselig massespektrometriMS/MSMassespektrometriPCBPolyklorerte bifenylerIkke-dioksinlignende PCBPCB 28, PCB 52, PCB 101, PCB 138, PCB 153 og PCB 180PCDDPolyklorerte dibenzo-p-dioksinerPCDFPolyklorerte dibenzofuranerQCKvalitetskontrollREPRelativ potensfaktorTEFToksisk ekvivalensfaktorTEQToksisitetsekvivalenterTCDD2,3,7,8-Tetraklordibenzo-p-dioksin (TCDD)UUtvidet måleusikkerhet
+
+9 Bioanalytiske metoder er ikke spesielt utformet for forbindelsene i TEF-systemet. I prøveekstraktet kan det også finnes andre strukturelt beslektede AhR-aktive forbindelser som kan bidra til samlet respons. Bioanalytiske resultater kan derfor ikke være et estimat, men snarere en indikasjon på TEQ-nivået i prøven.
+
+10 Prinsippene beskrevet i «Guidance Document on the Estimation of LOD and LOQ for Measurements in the Field of Contaminants in Feed and Food» [ [lenke til nettsted](https://ec.europa.eu/jrc/en/publication/guidance-document-estimation-lod-and-loq-measurements-field-contaminants-feed-and-food) skal eventuelt følges.
+
+11 Grensen for mengdebestemmelse (LOQ) beregnes fra punktet for laveste konsentrasjon, idet det tas hensyn til gjenfinning av interne standarder og prøvemengde.
 
 ### VEDLEGG II
 PRØVTETAKINGSMETODER FOR OFFENTLIG KONTROLL AV INNHOLDET AV DIOKSINER (PCDD/PCDF), DIOKSINLIGNENDE PCB OG IKKE-DIOKSINLIGNENDE PCB I VISSE NÆRINGSMIDLER
@@ -1402,8 +2576,24 @@ PRØVTETAKINGSMETODER FOR OFFENTLIG KONTROLL AV INNHOLDET AV DIOKSINER (PCDD/PCD
 4. PARTIETS SAMSVAR MED SPESIFIKASJONENE*Ikke-dioksinlignende PCB*Partiet er i samsvar dersom resultatet av en analyse for summen av ikke-dioksinlignende PCB ikke overskrider respektive grenseverdier, som fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881), idet det tas hensyn til den utvidede måleusikkerheten.14Partiet er ikke i samsvar med grenseverdien som fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881) dersom det er fastsatt utover rimelig tvil at gjennomsnittet av to analyseresultater for øvre konsentrasjon, framkommet ved dobbeltanalyse15 overstiger grenseverdien, idet det tas hensyn til den utvidede måleusikkerheten.Den utvidede måleusikkerheten beregnes ved bruk av en dekningsfaktor på 2 som gir et konfidensnivå på ca. 95 %. Et parti er ikke i samsvar dersom gjennomsnittet av de målte verdiene minus den utvidede usikkerheten for gjennomsnittsverdien er høyere enn den fastsatte grenseverdien.Bestemmelsene nevnt i ovenstående ledd i dette nummer får anvendelse på resultatene av den analyserte prøven beregnet på offentlig kontroll. Ved analyse for klageadgangs- eller referanseformål gjelder nasjonale regler.*Dioksiner (PCDD/F) og dioksinlignende PCB*Partiet er i samsvar dersom resultatet av en enkelt analyseutført ved hjelp av screeningmetode der andelen falskt negative prøver er under 5 %, angir at nivået ikke overskrider grenseverdiene for henholdsvis PCDD/F og summen av PCDD/F og dioksinlignende PCB fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881),utført ved en bekreftelsesmetode, ikke overskrider grenseverdiene for henholdsvis PCDD/F og summen av PCDD/F og dioksinlignende PCB som fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881), idet det tas hensyn til den utvidede måleusikkerheten.16For screeningprøver skal det fastsettes en terskelverdi som danner grunnlaget for beslutningen om hvorvidt de ulike grenseverdiene som er fastsatt for enten PCDD/F eller for summen av PCDD/F og dioksinlignende PCB, er overholdt.Partiet er ikke i samsvar med grenseverdien som fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881) dersom det er fastsatt utover rimelig tvil at gjennomsnittet av to analyseresultater for øvre konsentrasjon (framkommet ved dobbeltanalyse17 med bekreftelsesmetode) overstiger grenseverdien, idet det tas hensyn til den utvidede måleusikkerheten.Den utvidede måleusikkerheten beregnes ved bruk av en dekningsfaktor på 2 som gir et konfidensnivå på ca. 95 %. Et parti er ikke i samsvar dersom gjennomsnittet av de målte verdiene minus den utvidede usikkerheten for gjennomsnittsverdien er høyere enn den fastsatte grenseverdien.Summen av den beregnede utvidede usikkerheten for de separate analyseresultatene for PCDD/F og dioksinlignende PCB skal brukes som beregnet utvidet usikkerhet for summen av PCDD/F og dioksinlignende PCB.Bestemmelsene nevnt i ovenstående ledd i dette nummer får anvendelse på resultatene av den analyserte prøven beregnet på offentlig kontroll. Ved analyse for klageadgangs- eller referanseformål gjelder nasjonale regler.
 5. OVERSKRIDELSE AV TILTAKSGRENSERTiltaksgrenser er et verktøy for utvelging av prøver der det er relevant å identifisere en forurensningskilde og treffe tiltak for å redusere eller fjerne den. Hensiktsmessige terskelverdier for utvelging av disse prøvene skal fastsettes ved hjelp av screeningmetoder. Dersom betydelig arbeid er nødvendig for å identifisere en forurensningskilde og redusere eller fjerne den, kan det være hensiktsmessig å bekrefte overskridelse av tiltaksgrensen gjennom en dobbeltanalyse ved bruk av en bekreftelsesmetode, idet det tas hensyn til den utvidede måleusikkerheten.18
 
+12 Kommisjonsvedtak [97/747/EF](eu/31997d0747) av 27. oktober 1997 om fastsettelse av omfang og hyppighet av prøvetakingen omhandlet i rådsdirektiv [96/23/EF](eu/31996l0023) med sikte på overvåking av visse stoffer og deres restmengder i levende dyr og animalske produkter (EFT L 303 av 6.11.1997, s. 12).
+
+13[https://ec.europa.eu/food/sites/food/files/safety/docs/cs_contaminants_catalog_dioxins_guidance-sampling_exemples-dec2006_en.pdf](https://ec.europa.eu/food/sites/food/files/safety/docs/cs_contaminants_catalog_dioxins_guidance-sampling_exemples-dec2006_en.pdf)
+
+14 Prinsippene som er beskrevet i «Guidance Document on Measurement Uncertainty for Laboratories performing PCDD/F and PCB Analysis using Isotope Dilution Mass Spectrometry» [ [lenke til nettsted](https://orbi.ulg.ac.be/handle//2268/208914)] skal følges dersom det er relevant.
+
+15 En dobbeltanalyse er nødvendig dersom resultatet av den første bestemmelsen ikke er i samsvar med kravene. Prøvene må analyseres to ganger for å utelukke muligheten for intern krysskontaminering eller utilsiktet forveksling av prøver. Dersom analysen utføres i forbindelse med en forurensningshendelse, kan bekreftelse ved en analyse nummer to sløyfes dersom prøvene som er tatt ut til analyse kan knyttes til forurensningen ved hjelp av sporbarhet, og det konstaterte innholdet er betydelig over grenseverdien.
+
+16 'Guidance Document on Measurement Uncertainty for Laboratories performing PCDD/F and PCB Analysis using Isotope Dilution Mass Spectrometry' [ [lenke til nettsted](https://orbi.ulg.ac.be/handle/2268/208914)], 'Guidance Document on the Estimation of LOD and LOQ for Measurements in the Field of Contaminants in Feed and Food' [ [lenke til nettsted](https://ec.europa.eu/jrc/en/publication/guidance-document-estimation-lod-and-loq-measurements-field-contaminants-feed-and-food)].
+
+17 En dobbeltanalyse er nødvendig dersom resultatet av den første bestemmelsen med bekreftelsesmetoder ved bruk av 13C-merket intern standard for de aktuelle analyttene, ikke oppfyller kravene. Prøvene må analyseres to ganger for å utelukke muligheten for intern krysskontaminering eller utilsiktet forveksling av prøver. Dersom analysen utføres i forbindelse med en forurensningshendelse, kan bekreftelse ved en analyse nummer to sløyfes dersom prøvene som er tatt ut til analyse kan knyttes til forurensningen ved hjelp av sporbarhet, og det konstaterte innholdet er betydelig over grenseverdien.
+
+18 Samme forklaring og krav til to analyser for kontroll av tiltaksgrenser som for grenseverdier i fotnote nr. 6.
+
 ### VEDLEGG III
 TILLAGING AV PRØVER OG KRAV TIL ANALYSEMETODER FOR KONTROLL AV INNHOLDET AV DIOKSINER (PCDD/F) OG DIOKSINLIGNENDE PCB I VISSE NÆRINGSMIDLER
+
+1\.
 
 BRUKSOMRÅDE
 
@@ -1411,33 +2601,57 @@ Kravene fastsatt i dette vedlegg får anvendelse når næringsmidler analyseres 
 
 Overvåking av innholdet av PCDD/F og dioksinlignende PCB i næringsmidler kan utføres ved hjelp av to forskjellige typer analysemetoder:*Screeningmetoder*Målet med screeningmetoder er å velge de prøver der innholdet av PCDD/F og dioksinlignende PCB overskrider grenseverdiene eller tiltaksgrensene. Screeningmetodene skal sikre en kostnadseffektiv og høy analysekapasitet, noe som vil øke muligheten til å oppdage nye hendelser der høy eksponering kan føre til helsefare for forbrukerne. Bruken av disse metodene skal ta sikte på å unngå falskt negative resultater. Screeningmetoder kan omfatte bioanalytiske metoder og GC/MS-metoder.Med screeningmetoder sammenlignes analyseresultatet med en terskelverdi, noe som gir et ja/nei-svar på om grenseverdien eller tiltaksgrensen er overskredet. Konsentrasjonen av PCDD/F og summen av PCDD/F og dioksinlignende PCB i prøver som mistenkes for ikke å overholde grenseverdien, må bestemmes/bekreftes ved hjelp av en bekreftelsesmetode.I tillegg kan screeningmetoder gi en indikasjon på innholdet av PCDD/F og dioksinlignende PCB i prøven. Ved bruk av bioanalytiske screeningmetoder uttrykkes resultatet som bioanalytiske ekvivalenter (BEQ), mens det ved bruk av fysikalsk-kjemiske GC-MS-metoder uttrykkes som toksisitetsekvivalenter (TEQ). Resultatene, i form av tallverdier, som oppnås ved bruk av screeningmetoder, er egnet til å påvise overholdelse eller mistenkt manglende overholdelse eller overskridelse av tiltaksgrensene, og gir en indikasjon på de aktuelle verdiene dersom prøvene må følges opp med bekreftelsesmetoder. De er ikke egnet i tilfeller der formålet er å vurdere bakgrunnsnivåer, beregne inntak, følge utviklingen over tid eller til ny vurdering av tiltaks- og grenseverdier.*Bekreftelsesmetoder*Bekreftelsesmetoder gjør det mulig entydig å identifisere og mengdebestemme PCDD/P og dioksinlignende PCB i en prøve, og å gi fullstendige opplysninger om forbindelser. Disse metodene gjør det derfor mulig å kontrollere grenseverdiene og tiltaksgrensene, herunder bekrefte resultatene av screeningmetodene. Resultatene kan dessuten anvendes for andre formål, som å bestemme lave bakgrunnsnivåer i forbindelse med næringsmiddelovervåking, følge utviklingstrekk over tid, vurdere befolkningens eksponering og til å bygge opp en database for mulig revurdering av tiltaksgrenser og grenseverdier. De er også viktige for å fastslå forbindelsesmønstre for å påvise kilden til en eventuell forurensning. Slike metoder omfatter bruk av GC-HRMS. GC-MS/MS kan også brukes til å bekrefte om grenseverdien er overholdt eller ikke.
 
+2\.
+
 BAKGRUNN
 
 For beregning av konsentrasjonene av toksisitetsekvivalenter (TEQ) skal konsentrasjonene av de enkelte stoffene i en gitt prøve multipliseres med sine respektive toksisitetsekvivalensfaktorer (TEF), som fastsatt av Verdens helseorganisasjon og oppført i tillegget til dette vedlegg, og deretter summeres for å gi den samlede konsentrasjonen av dioksinlignende forbindelser uttrykt i TEQ.
 
 Screening- og bekreftelsesmetoder skal bare brukes til kontroll av en bestemt matrise dersom metodene er tilstrekkelig følsomme til å påvise nivåer ved tiltaksgrensen eller grenseverdien på en pålitelig måte.
 
+3\.
+
 KRAV TIL KVALITETSSIKRINGDet skal treffes tiltak for å unngå krysskontaminering i alle trinn av prøvetakings- og analysemetoden.Prøvene skal oppbevares og transporteres i beholdere av glass, aluminium, polypropylen eller polyetylen som er egnet for oppbevaring uten at innholdet av PCDD/F og dioksinlignende PCB i prøvene påvirkes. Spor av papirstøv skal fjernes fra prøvebeholderen.Oppbevaring og transport av prøven skal foregå på en slik måte at næringsmiddelprøven bevares i uendret stand.Om nødvendig skal hver laboratorieprøve finmales og blandes grundig etter en metode som sikrer fullstendig homogenisering (f.eks. så finmalt at prøven kan passere en sikt med 1 mm maskevidde); prøvene skal tørkes før de males dersom vanninnholdet er for høyt.Det er viktig å kontrollere om reagenser, glassvarer og utstyr eventuelt kan påvirke de TEQ- eller BEQ-baserte resultatene.Det skal utføres en blindanalyse ved at hele analyseprosessen gjennomføres, men uten prøven.For bioanalytiske metoder er det svært viktig at alle glassvarer og løsemidler som brukes i analysene, ikke inneholder forbindelser som kan forstyrre påvisningen av målforbindelser i måleområdet. Glassvarer skal skylles med løsemidler og/eller varmes opp til de temperaturer som kreves for å fjerne spor av PCDD/F, dioksinlignende forbindelser og forstyrrende forbindelser fra overflatene.Prøven som ekstraheres, må være stor nok til å oppfylle kravene om et tilstrekkelig lavt måleområde, herunder grenseverdi- eller tiltaksgrensekonsentrasjonene.De enkelte framgangsmåtene for tillaging av prøver som brukes for de aktuelle produktene, skal følge internasjonalt anerkjente retningslinjer.Når det gjelder fisker, skal skinnet fjernes, ettersom grenseverdien gjelder muskelkjøtt uten skinn. Alle rester av muskelkjøtt og fettvev på innsiden av skinnet skal imidlertid nøye og fullstendig skrapes av og legges til prøven som skal analyseres.
+
+4\.
 
 KRAV TIL LABORATORIERI samsvar med bestemmelsene i forordning [(EF) nr. 882/2004](eu/32004r0882*) skal laboratoriene være akkreditert av et godkjent organ som oppfyller kravene i ISO Guide 58, for å sikre at de anvender metoder for kvalitetssikring av sine analyser. Laboratoriene skal være akkreditert i henhold til standarden EN ISO/IEC 17025. Prinsippene som beskrevet i de tekniske retningslinjene for vurdering av måleusikkerhet og grenser for mengdebestemmelse for PCDD/F- og PCB-analyse skal følges dersom det er relevant.19Laboratoriets kompetanse skal dokumenteres ved løpende deltaking med vellykket resultat i undersøkelser foretatt ved flere laboratorier for bestemmelse av PCDD/PCDF og dioksinlignende PCB i relevante næringsmidler og konsentrasjonsområder.Laboratorier som bruker screeningmetoder for rutinekontroll av prøver, skal ha et tett samarbeid med laboratorier som bruker bekreftelsesmetoden, både for kvalitetskontroll og for å bekrefte analyseresultatet av mistenkte prøver.
 
+5\.
+
 GRUNNLEGGENDE KRAV TIL ANALYSEMETODER FOR DIOKSINER (PCDD/F) OG DIOKSINLIGNENDE PCB
 
+5.1.*Lavt måleområde og lave grenser for mengdebestemmelse*
+
 - På grunn av den ekstremt høye giftigheten noen av PCDD/F-forbindelsene har, skal påvisningsgrensen for disse ligge innenfor størrelsesordenen øvre femtogram (1015 g). For de fleste PCB-forbindelser er det tilstrekkelig med en grense for mengdebestemmelse i nanogram-området (10-9 g). Ved måling av de giftigere dioksinlignende PCB-forbindelsene (særlig non-orto-substituerte forbindelser) må imidlertid den laveste delen av måleområdet nå de lave pikogramnivåene(1012 g).
+
+5.2.*Høy selektivitet (spesifisitet)*
 
 - Det må kunne skilles mellom PCDD/F og dioksinlignende PCB og en rekke andre potensielt interfererende forbindelser som ekstraheres samtidig, og som forekommer i konsentrasjoner som kan være flere ganger høyere enn de relevante analyttenes. For metoder med gasskromatografi/massespektrometri (GC/MS) skal det kunne skilles mellom ulike forbindelser, f.eks. mellom giftige (som de sytten 2,3,7,8-substituerte PCDD/F og de tolv dioksinlignende PCB) og andre forbindelser.
 - Bioanalytiske metoder skal kunne påvise målforbindelser som summen av PCDD/F og/eller dioksinlignende PCB. Ved rensing av prøven skal målet være å fjerne forbindelser som forårsaker falskt positive resultater, eller forbindelser som kan svekke responsen og dermed forårsake falskt negative resultater.
 
+5.3.*Høy nøyaktighet (riktighet og presisjon, gjenfinningsgrad ved biologisk prøving)*
+
 - For GC-MS-metoder skal bestemmelsen gi et gyldig anslag over den faktiske konsentrasjonen i en prøve. Høy nøyaktighet (nøyaktighet i måling: graden av samsvar mellom måleresultatet og målingens riktige eller tildelte verdi) er nødvendig for å unngå at et resultat av en analyse avvises fordi det fastsatte TEQ-nivået ikke er tilstrekkelig pålitelig. Nøyaktighet uttrykkes som «riktighet» (differansen mellom den gjennomsnittlige måleverdien for en analytt i et sertifisert materiale og dens sertifiserte verdi, uttrykt i prosent av denne verdien) og «presisjon» (RSDR, det vil si relativt standardavvik beregnet fra resultater som er oppnådd ved reproduserbarhetsforhold).
 - For bioanalytiske metoder skal gjenfinningsgraden ved biologisk prøving bestemmes.
+
+5.4.*Validering i grenseverdiområdet og alminnelige kvalitetskontrolltiltak*
 
 - Laboratoriene skal dokumentere en metodes ytelse innenfor grenseverdiområdet, f.eks. 0,5, 1 og 2 ganger grenseverdien med en akseptabel variasjonskoeffisient for gjentatte analyser under validering og/eller rutineanalyser.
 - Som interne kvalitetskontrolltiltak skal det foretas jevnlige blindkontroller og tilsetningsforsøk eller analyser av kontrollprøver (om mulig helst med sertifisert referansemateriale). Kvalitetskontrolldiagrammer for blindkontroller, tilsetningsforsøk eller analysering av kontrollprøver skal utarbeides og kontrolleres for å sikre at analyseytelsen oppfyller kravene.
 
+5.5.*Grense for mengdebestemmelse*
+
 - For en bioanalytisk screeningmetode er det ikke påkrevd å fastsette en grense for mengdebestemmelse (LOQ), men det skal dokumenteres at metoden kan skille mellom blindprøven og terskelverdien. Når et BEQ-nivå bestemmes, skal det fastsettes et rapporteringsnivå for å håndtere prøver som viser en respons under dette nivået. Det skal dokumenteres at rapporteringsnivået er forskjellig fra metodens blindprøver med en faktor på minst tre med en respons under måleområdet. Det skal derfor beregnes ut fra prøver som har et innhold av målforbindelser nær det påkrevde minstenivået, og ikke ut fra et signal/støy-forhold eller en blindprøve.
 - Grensen for mengdebestemmelse (LOQ) for en bekreftelsesmetode skal være på ca. én femdel av grenseverdien.
 
-- For å sikre pålitelige resultater fra bekreftelses- eller screeningmetoder skal følgende kriterier være oppfylt innenfor grenseverdien for henholdsvis TEQ- og BEQ-verdien, uavhengig om den bestemmes som samlet TEQ (summen av PCDD/PCDF og dioksinlignende PCB) eller separat for PCDD/PCDF og dioksinlignende PCB.*Screening med bioanalytiske eller fysikalsk-kjemiske metoder**Bekreftelsesmetoder*Andel falskt negative prøver*< 5 %Riktighet–20 % til +20 %Repeterbarhet (RSDr )< 20 %Intermediær presisjon (RSDR )< 25 %< 15 %
+5.6.*Analysekriterier*
+
+- For å sikre pålitelige resultater fra bekreftelses- eller screeningmetoder skal følgende kriterier være oppfylt innenfor grenseverdien for henholdsvis TEQ- og BEQ-verdien, uavhengig om den bestemmes som samlet TEQ (summen av PCDD/PCDF og dioksinlignende PCB) eller separat for PCDD/PCDF og dioksinlignende PCB.*Screening med bioanalytiske eller fysikalsk-kjemiske metoder**Bekreftelsesmetoder*Andel falskt negative prøver\*< 5 %Riktighet–20 % til +20 %Repeterbarhet (RSDr )< 20 %Intermediær presisjon (RSDR )< 25 %< 15 %
+
+\* Med hensyn til grenseverdiene
+
+5.7.*Særlige krav til screeningmetoder*
 
 - Både GC-MS-metoder og bioanalytiske metoder kan brukes til screening. Ved bruk av GC/MS-metoder skal kravene fastsatt i nr. 6 gjelde. For cellebaserte bioanalytiske metoder er det fastsatt særlige krav i nr. 7.
 - Laboratorier som bruker screeningmetoder for rutinekontroll av prøver, skal ha et tett samarbeid med laboratorier som bruker bekreftelsesmetoden.
@@ -1449,9 +2663,15 @@ GRUNNLEGGENDE KRAV TIL ANALYSEMETODER FOR DIOKSINER (PCDD/F) OG DIOKSINLIGNENDE 
 - Bioanalytiske metoder skal, i hvert fall under valideringsforhold, gi en gyldig indikasjon på TEQ-nivået, beregnet og uttrykt i BEQ.
 - Også for bioanalytiske metoder som gjennomføres under repeterbarhetsforhold, vil intern RSDr normalt være mindre enn RSDR (reproduserbarhet).
 
+6\.
+
 SÆRLIGE KRAV TIL GC/MS-METODER I FORBINDELSE MED SCREENING ELLER BEKREFTELSE
 
+6.1.*Akseptable forskjeller mellom WHO-TEQ-nivåer når det gjelder øvre og nedre konsentrasjoner*
+
 - Forskjellen mellom øvre konsentrasjon og nedre konsentrasjon skal ikke overskride 20 % for å bekrefte overskridelsen av grenseverdien eller eventuelt tiltaksgrenser.
+
+6.2.*Kontroll av gjenfinning*
 
 - For å validere analysemetoden må det tilsettes 13C-merkede 2,3,7,8-klorsubstituerte interne PCDD/PCDF-standarder og 13C-merkede interne dioksinlignende PCB-standarder helt i begynnelsen av analysemetoden, f.eks. før ekstraksjon. Det skal tilsettes minst én forbindelse for hver av de tetra- til okta-klorerte homologe gruppene av PCDD/PCDF og minst én forbindelse for hver av de homologe gruppene for dioksinlignende PCB (og eventuelt minst én forbindelse for hver valgte massespektrometriske ioneregistreringsfunksjon som brukes til kontroll av PCDD/PCDF og dioksinlignende PCB). Ved bekreftelsesmetoder skal alle 17 13C-merkede 2,3,7,8-substituerte interne PCDD/PCDF-standarder og alle 12 13C-merkede interne dioksinlignende PCB-standarder brukes.
 - Ved hjelp av relevante kalibreringsløsninger skal dessuten relative responsfaktorer bestemmes for de forbindelser som ikke tilsettes en 13C -merket analog.
@@ -1459,12 +2679,20 @@ SÆRLIGE KRAV TIL GC/MS-METODER I FORBINDELSE MED SCREENING ELLER BEKREFTELSE
 - Før GC/MS-analysen skal det tilsettes en eller to gjenfinningsstandarder (surrogatstandarder).
 - Gjenfinningen må kontrolleres. For bekreftelsesmetoder skal gjenfinningen av de enkelte interne standardene ligge i området 60-120 %. For enkeltforbindelser, særlig visse hepta- og okta-klorerte dibenzo-p-dioksiner og dibenzofuraner, kan lavere eller høyere gjenfinning godtas, forutsatt at deres bidrag til TEQ-verdien ikke utgjør mer enn 10 % av den samlede TEQ-verdien (basert på summen av PCDD/PCDF og dioksinlignende PCB). Ved bruk av GC-MS-screeningmetoder skal gjenfinningen ligge i området 30–140 %.
 
+6.3.
+
 Fjerning av forstyrrende stofferPCDD/F skal separeres fra forstyrrende klorerte forbindelser som ikke-dioksinlignende PCB og klorerte difenyletere ved hjelp av egnede kromatografiteknikker (fortrinnsvis med florisil-, aluminiumoksid- og/eller karbonkolonne).Gasskromatografisk separasjon av isomerer skal være tilstrekkelig (< 25 % fra topp til topp mellom 1,2,3,4,7,8-HxCDF og 1,2,3,6,7,8-HxCDF).
+
+6.4.*Kalibrering med standardkurve*
 
 - Området for kalibreringskurven skal dekke de relevante grenseverdi- eller tiltaksgrenseområdene.
 
+6.5.*Særlige krav til bekreftelsesmetoder*
+
 - For GC-HRMS:Ved HRMS skal oppløsningen normalt være høyere enn eller lik 10 000 for hele masseområdet ved 10 % av topphøydene.Ytterligere kriterier for identifisering og bekreftelse beskrevet i internasjonalt anerkjente standarder, for eksempel i standarden EN 16215:2012 (Dyrefôr – Bestemmelse av dioksiner og dioksinliknende PCB ved GC/HRMS og av indikator-PCB ved GC/HRMS) og/eller i EPA-metode 1613 og 1668 som revidert, skal oppfylles.
 - For GC-MS/MS:Kontroll av minst to bestemte morioner, hver med ett bestemt tilsvarende datterion fra overgangen, for alle merkede og umerkede analytter innenfor analysens virkeområde.Høyeste tillatte toleranse for relativ ioneintensitet på ± 15 % for utvalgte datterioner fra overgangen sammenlignet med beregnede eller målte verdier (gjennomsnittet av kalibreringsstandarder) ved identiske MS/MS-forhold, særlig kollisjonsenergi og kollisjonsgasstrykk, for hver overgang av en analytt.Oppløsningen for hver kvadrupol skal minst være lik eller bedre enn enhetsmasseoppløsningen (enhetsmasseoppløsning: tilstrekkelig oppløsning til å skille to topper i en masseenhet) for å gjøre mulig interferens med de relevante analyttene så liten som mulig.Ytterligere kriterier beskrevet i internasjonalt anerkjente standarder, for eksempel i standarden EN 16215:2012 (Dyrefôr – Bestemmelse av dioksiner og dioksinliknende PCB ved GC/HRMS og av indikator-PCB ved GC/HRMS) og/eller i EPA-metode 1613 og 1668 som revidert, skal oppfylles, unntatt plikten til å bruke GC-HRMS.
+
+7\.
 
 SÆRLIGE KRAV TIL BIOANALYTISKE METODER
 
@@ -1474,27 +2702,49 @@ I en screeningmetode klassifiseres i prinsippet en prøve som negativ eller mist
 
 Dersom et veiledende nivå uttrykkes i BEQ skal resultatene for prøven angis i måleområdet og over rapporteringsgrensen (se nr. 7.1.1 og 7.1.6).
 
+7.1.*Vurdering av analyseresponsen*
+
+7.1.1.*Alminnelige krav*
+
 - Når konsentrasjonene beregnes ut fra en TCDD-kalibreringskurve, vil de høyeste konsentrasjonene i kurven vise en høy variasjon (høy variasjonskoeffisient). Måleområdet er området der variasjonskoeffisienten er lavere enn 15 %. Den nedre delen av måleområdet (rapporteringsgrensen) må settes betydelig høyere enn metodens blindprøver (med en faktor på minst tre). Den øvre delen av måleområdet er normalt representert ved en EC70 -verdi (70 % av høyeste effektive konsentrasjon), men er lavere dersom variasjonskoeffisienten er høyere enn 15 % i dette området. Måleområdet skal fastsettes under valideringen. Terskelverdiene (se nr. 7.3) skal ligge innenfor måleområdet.
 - Standardløsninger og prøveekstrakter skal analyseres tre ganger eller minst to ganger. Ved bruk av en dobbeltanalyse skal en standardløsning eller et kontrollekstrakt som er analysert i 4–6 brønner fordelt over platen, gi en respons eller en konsentrasjon (bare mulig i måleområdet) basert på en variasjonskoeffisient på < 15 %.
+
+7.1.2.*Kalibrering*
+
+7.1.2.1.*Kalibrering med standardkurve*
 
 - Innholdet i prøver kan beregnes ved å sammenligne analyseresponsen med en TCDD-kalibreringskurve (eller PCB 126 eller en standardblanding av PCDD/PCDF/dioksinlignende PCB) for å beregne BEQ-nivået i ekstraktet og deretter i prøven.
 - Kalibreringskurvene skal inneholde 8-12 konsentrasjoner (minst en dobbeltanalyse) med nok konsentrasjoner i den nedre delen av kurven (måleområdet). Det skal legges særlig vekt på kvaliteten på kurvetilpasningen i måleområdet. Når tilpasningsgraden ved ikke-lineær regresjon skal bedømmes, har R2-verdien liten eller ingen betydning. En bedre kurvetilpasning oppnås ved å redusere forskjellen mellom beregnede og observerte konsentrasjoner innenfor kurvens måleområde til et minimum (f.eks. ved å redusere residualsummen)
 - Beregnet innhold i prøveekstraktet korrigeres deretter for BEQ-nivået som er beregnet for en matrise- eller løsemiddelblindprøve (for å ta hensyn til urenheter fra løsemidler og kjemikalier som er brukt), og for gjenfinningsgraden (beregnet ut fra BEQ-nivået i egnede referanseprøver med representative forbindelsesmønstre nær grenseverdien eller tiltaksgrensen). Når man korrigerer for gjenfinning, skal gjenfinningsgraden alltid være innenfor påkrevd område (se nr. 7.1.4). Referanseprøver som brukes for å korrigere gjenfinningen, må oppfylle kravene angitt i nr. 7.2.
 
+7.1.2.2.*Kalibrering med referanseprøver*
+
 En kalibreringskurve framstilt av minst fire referanseprøver (se nr. 7.2): matriseblindprøve og tre referanseprøver på 0,5, 1 og 2 ganger grenseverdien eller tiltaksgrensen kan brukes, noe som fjerner behovet for å korrigere for blindprøve og gjenfinning dersom referanseprøvenes matrise svarer til de ukjente prøvenes matrise. I slike tilfeller kan analyseresponsen som tilsvarer 2/3 av grenseverdien (se nr. 7.3), beregnes direkte fra disse prøvene og brukes som terskelverdi. For kontroll av prøver som overskrider tiltaksgrensene, vil en egnet prosentandel av disse tiltaksgrensene være en egnet terskelverdi.
+
+7.1.3.*Separat bestemmelse av PCDD/F og dioksinlignende PCB*
 
 Ekstraktene kan deles opp i fraksjoner som inneholder PCDD/F og dioksinlignende PCB, slik at TEQ-nivåene (uttrykt i BEQ) for PCDD/F og dioksinlignende PCB kan oppgis hver for seg. Det skal fortrinnsvis brukes en PBC 126-standardkalibreringskurve til å vurdere resultatene for fraksjonen som inneholder dioksinlignende PCB.
 
+7.1.4.*Gjenfinningsgrad ved biologisk prøving*
+
 «Gjenfinningsgrad ved biologisk prøving» skal beregnes ut fra egnede referanseprøver med representative forbindelsesmønstre nær grenseverdien eller tiltaksgrensen, og uttrykkes som en prosentandel av BEQ-nivået sammenlignet med TEQ-nivået. Avhengig av analysetype og hvilke TEF-verdier20 som er brukt, kan forskjellene mellom TEF- og REP-faktorene for dioksinlignende PCB forårsake lav gjenfinningsgrad for dioksinlignende PCB sammenlignet med PCDD/F. Dersom det utføres en separat bestemmelse av PCDD/PCDF og dioksinlignende PCB, skal gjenfinningsgraden ved biologisk prøving derfor være 20–60 % for dioksinlignende PCB og 50–130 % for PCDD/PCDF (områdene gjelder for TCDD-kalibreringskurven). Bidraget fra dioksinlignende PCB til summen av PCDD/PCDF og dioksinlignende PCB kan variere mellom ulike matriser og prøver. Disse variasjonene gjenspeiles i gjenfinningsgraden ved biologisk prøving, som skal ligge innenfor 30–130 % av summen av PCDD/PCDF og dioksinlignende PCB.
+
+7.1.5.*Kontroll av gjenfinning etter rensing*
 
 Tap av forbindelser under rensing skal kontrolleres under validering. En blindprøve tilsatt en blanding av ulike forbindelser skal gjennomgå rensing (minst n = 3), og gjenfinning og variabilitet skal kontrolleres med en bekreftelsesmetode. Gjenfinningen skal være i området 60-120 %, særlig for forbindelser som bidrar med mer enn 10 % til TEQ-nivået i de ulike blandingene.
 
+7.1.6.*Rapporteringsgrense*
+
 Ved rapportering av BEQ-nivåer skal det fastsettes en rapporteringsgrense ut fra relevante matriseprøver med typiske forbindelsesmønstre, men ikke ut fra standardenes kalibreringskurve, ettersom presisjonen er lav i den nedre delen av kurven. Det skal tas hensyn til virkningene av ekstraksjon og rensing. Rapporteringsgrensen skal ligge betydelig over metodens blindprøver (minst med en faktor på tre).
+
+7.2.*Bruk av referanseprøver*
 
 - Referanseprøvene skal representere prøvematrise, forbindelsesmønstre og konsentrasjonsområder for PCDD/PCDF og dioksinlignende PCB nær grenseverdien eller tiltaksgrensen.
 - En metodeblindprøve, eller helst en matriseblindprøve, og en referanseprøve ved grenseverdien eller tiltaksgrensen skal inngå i hver analyseserie. Disse prøvene må ekstraheres og analyseres samtidig under identiske forhold. For å sikre at analysen er egnet, skal referanseprøven vise en klart høyere respons enn blindprøven. Disse prøvene kan brukes til å korrigere for blindprøver og gjenfinning.
 - Referanseprøver som er valgt ut for å korrigere for gjenfinning, skal være representative for alle analyseprøver, slik at forbindelsesmønstre ikke skal føre til at nivåene undervurderes.
 - Det kan tas brukes ekstra referanseprøver med en konsentrasjon på f.eks. 0,5 og 2 ganger grenseverdien eller tiltaksgrensen for å påvise analysens ytelse innenfor det området som er relevant for kontrollen av grenseverdien eller tiltaksgrensen. Kombinert kan disse prøvene brukes til å beregne BEQ-nivået i analyseprøvene (se nr. 7.1.2.2).
+
+7.3.*Bestemmelse av terskelverdier*
 
 Forholdet mellom bioanalytiske resultater i BEQ og resultater fra bekreftelsesmetoden i TEQ skal fastsettes (f.eks. gjennom matrisetilpassede kalibreringsforsøk med referanseprøver tilsatt 0, 0,5, 1 og 2 ganger grenseverdien, med seks repetisjoner på hvert nivå (n = 24)). Korreksjonsfaktorer (blindprøver og gjenfinning) kan beregnes ut fra dette forholdet, men dette skal kontrolleres i hver analyseserie, ved at metode- eller matriseblindprøver og prøver for gjenfinning inngår (se nr. 7.2).
 
@@ -1502,16 +2752,26 @@ Det skal fastsettes terskelverdier for å kunne avgjøre om en prøve overholder
 
 I praksis kan terskelverdien (i BEQ) beregnes på følgende måte (se figur 1):
 
-Ved bruk av det nedre båndet i prediksjonsintervallet på 95 % ved beslutningsgrensen for bekreftelsesmetoden:$$\text{Cut-off value} = BEQ_{DL} - s_{y,x} \times t_{\alpha,f=m-2} \sqrt{1/n + 1/m + (x_i - \bar x)^2 / Q_{xx}}$$der:BEQDLBEQ som tilsvarer beslutningsgrensen for bekreftelsesmetoden, som er grenseverdien idet det tas hensyn til den utvidede måleusikkerhetensy,xstandard restavviktα,f = m – 2Student-faktor (α = 5 %, f = frihetsgrader, ensidige)msamlet antall kalibreringspunkter (indeks j)nantall prøver per konsentrasjon (repetisjoner)xiPrøvekonsentrasjon (i TEQ) for kalibreringspunktet I fastsatt med en bekreftelsesmetode\(\bar x\)gjennomsnitt av konsentrasjonene (i TEQ) for alle kalibreringsprøvene\(Q_{xx} = \sum\limits_{j=1}^m (x_i - \bar x)^2\)Kvadratsumparameteri= indeks for kalibreringspunkt i.
+7.3.1.
+
+Ved bruk av det nedre båndet i prediksjonsintervallet på 95 % ved beslutningsgrensen for bekreftelsesmetoden:$$\\text{Cut-off value} = BEQ_{DL} - s_{y,x} \\times t_{\\alpha,f=m-2} \\sqrt{1/n + 1/m + (x_i - \\bar x)^2 / Q_{xx}}$$der:BEQDLBEQ som tilsvarer beslutningsgrensen for bekreftelsesmetoden, som er grenseverdien idet det tas hensyn til den utvidede måleusikkerhetensy,xstandard restavviktα,f = m – 2Student-faktor (α = 5 %, f = frihetsgrader, ensidige)msamlet antall kalibreringspunkter (indeks j)nantall prøver per konsentrasjon (repetisjoner)xiPrøvekonsentrasjon (i TEQ) for kalibreringspunktet I fastsatt med en bekreftelsesmetode\\(\\bar x\\)gjennomsnitt av konsentrasjonene (i TEQ) for alle kalibreringsprøvene\\(Q_{xx} = \\sum\\limits_{j=1}^m (x_i - \\bar x)^2\\)Kvadratsumparameteri= indeks for kalibreringspunkt i.
+
+7.3.2.
 
 Beregning ut fra bioanalytiske resultater (korrigert for blindprøve og gjenfinning) av flere analyser av prøver (n ≥ 6) forurenset ved bekreftelsesmetodens beslutningsgrense, som nedre endepunkt for fordeling av data ved tilsvarende gjennomsnittsverdi for BEQ:Terskelverdi = BEQDL – 1,64 × SDR
 medSDRstandardavvik for resultat fra biologisk prøving ved BEQDL, målt ved interne reproduserbarhetsforhold.
+
+7.3.3.
 
 Beregning som gjennomsnittsverdi av bioanalytiske resultater (i BEQ, korrigert for blindprøve og gjenfinning) av flere analyser av prøver (n ≥ 6) forurenset ved 2/3 av grenseverdien eller tiltaksgrensen. Dette er basert på den observasjon at dette nivået vil ligge nær terskelverdien som er bestemt i henhold til nr. 7.3.1 eller 7.3.2.
 
 Beregning av terskelverdier basert på et konfidensnivå på 95 %, noe som innebærer en andel falskt negative prøver på < 5 % og en RSDR på < 25 %:Fra det nedre båndet i prediksjonsintervallet på 95 % ved beslutningsgrensen for bekreftelsesmetoden.Fra flere analyser av prøver (n ≥ 6) som er forurenset ved beslutningsgrensen for bekreftelsesmetoden, som nedre endepunkt for fordeling av data (representert ved en klokkeformet kurve i figuren) ved tilsvarende gjennomsnittsverdi for BEQ.*Figur 1*
 
+7.3.4.*Begrensninger for terskelverdier*
+
 BEQ-baserte terskelverdier beregnet ut fra RSDR som ble bestemt under valideringen ved hjelp av et begrenset antall prøver med ulike matrise-/forbindelsesmønstre, kan være høyere enn de TEQ-baserte grenseverdiene eller tiltaksgrensene, ettersom det oppnås høyere presisjon enn det som er mulig å oppnå i rutineanalyser, når et ukjent spektrum av mulige forbindelsesmønstre må kontrolleres. I slike tilfeller skal terskelverdier beregnes ut fra en RSDR på 25 % eller helst 2/3 av grenseverdien eller tiltaksgrensen.
+
+7.4.*Ytelsesegenskaper*
 
 - Ettersom det ikke kan brukes interne standarder ved bioanalytiske metoder, skal det gjennomføres gjentatte analyser for å framskaffe opplysninger om standardavviket innenfor og mellom analyseserier. Repeterbarheten skal være under 20 %, og intern reproduserbarhet skal være under 25 %. Dette skal baseres på beregnet innhold uttrykt i BEQ etter korrigering for blindprøve og gjenfinning.
 - Som en del av valideringsprosessen skal analysen vise at metoden kan skille mellom en blindprøve og et nivå ved terskelverdien, slik at prøver over den aktuelle terskelverdien kan identifiseres (se nr. 7.1.2).
@@ -1523,7 +2783,11 @@ BEQ-baserte terskelverdier beregnet ut fra RSDR som ble bestemt under validering
 - At en metode har god ytelse, kan også dokumenteres ved deltaking i ringprøving. Resultatene av prøver analysert ved ringprøving som dekker et konsentrasjonsområde på opptil f.eks. to ganger grenseverdien, kan også tas med i vurderingen av andelen falskt negative prøver dersom et laboratorium kan dokumentere god ytelse. Prøvene skal dekke de vanligste forbindelsesmønstrene og representere ulike kilder.
 - I forbindelse med hendelser kan terskelverdiene vurderes på nytt for å gjenspeile de særskilte matrise- og forbindelsesmønstrene i den aktuelle hendelsen.
 
+8\.
+
 RAPPORTERING AV RESULTATER*Bekreftelsesmetoder*Analyseresultatene skal omfatte innholdet av de enkelte PCDD-/PCDF- og dioksinlignende PCB-forbindelsene og TEQ-verdiene skal angis som nedre og øvre konsentrasjoner og mellomkonsentrasjoner, slik at resultatrapporten inneholder flest mulig opplysninger, og slik at resultatene kan tolkes i henhold til bestemte krav.I rapporten skal det også angis hvilken metode som er brukt ved ekstraksjon av PCDD/PCDF, dioksinlignende PCB og lipider. Prøvens lipidinnhold skal bestemmes og rapporteres for næringsmiddelmatriser med grenseverdier uttrykt på grunnlag av fettmengde og med forventet fettkonsentrasjon i størrelsesordenen 0–2 % (i samsvar med gjeldende lovgivning). For andre prøver er bestemmelse av innholdet av lipider valgfritt.Gjenfinningsprosenten for de enkelte interne standardene skal angis dersom den ligger utenfor området angitt i nr. 6.2 dersom grenseverdien er overskredet (i så fall skal gjenfinningen for én av de to dobbeltanalysene angis), og i andre tilfeller på anmodning.Ettersom det skal tas hensyn til den utvidede måleusikkerheten når det avgjøres om en prøve oppfyller kravene, skal denne parameteren angis. Analyseresultatet skal derfor rapporteres som x +/- U, der x er analyseresultatet og U er den utvidede måleusikkerheten, ved bruk av en dekningsfaktor på 2, som gir et konfidensintervall på ca. 95 %. Dersom PCDD/PCDF og dioksinlignende PCB bestemmes hver for seg, brukes summen av den beregnede utvidede måleusikkerheten for de separate analyseresultatene for PCDD/PCDF og dioksinlignende PCB for summen av PCDD/PCDF og dioksinlignende PCB.Resultatene skal presenteres i de samme enhetene og med samme antall signifikante sifre som grenseverdiene fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881).
+
+*Bioanalytiske screeningmetoder*
 
 - Resultatet av screeningen skal angis som enten negativt eller mistenkt positivt («mistenkt»).
 - I tillegg kan et veiledende resultat for PCDD/PCDF og/eller dioksinlignende PCB uttrykt i BEQ (ikke TEQ), angis (se nr. 1). Prøver med en respons under rapporteringsgrensen skal angis som under rapporteringsgrensen. Prøver med en respons over måleområdet skal rapporteres som overstigende måleområdet og innholdet som tilsvarer den øvre delen av måleområdet, skal angis i bioanalytiske ekvivalenter (BEQ).
@@ -1532,6 +2796,8 @@ RAPPORTERING AV RESULTATER*Bekreftelsesmetoder*Analyseresultatene skal omfatte i
 - I rapporten skal det også angis hvilken metode som er brukt ved ekstraksjon av PCDD/PCDF, dioksinlignende PCB og lipider. Prøvens lipidinnhold skal bestemmes og rapporteres for næringsmiddelmatriser med grenseverdier uttrykt på grunnlag av fettmengde og med forventet fettkonsentrasjon i størrelsesordenen 0–2 % (i samsvar med gjeldende lovgivning). For andre prøver er bestemmelse av innholdet av lipider valgfritt.
 - Ved prøver som mistenkes for å være positive, må rapporten inneholde en merknad om tiltak som skal treffes. Konsentrasjonen av PCDD/PCDF og summen av PCDD/PCDF og dioksinlignende PCB i prøver med forhøyet innhold skal bestemmes/bekreftes med en bekreftelsesmetode.
 - Positive resultater skal rapporteres bare på grunnlag av bekreftende analyse.
+
+*Fysikalsk-kjemiske screeningmetoder*
 
 - Resultatet av screeningen skal angis som enten negativt eller mistenkt positivt («mistenkt»).
 - For hver type prøvematrise skal rapporten inneholde opplysninger om grenseverdien eller tiltaksgrensen vurderingen er bygget på.
@@ -1542,19 +2808,60 @@ RAPPORTERING AV RESULTATER*Bekreftelsesmetoder*Analyseresultatene skal omfatte i
 - Ved prøver som mistenkes for å være positive, må rapporten inneholde en merknad om tiltak som skal treffes. Konsentrasjonen av PCDD/PCDF og summen av PCDD/PCDF og dioksinlignende PCB i prøver med forhøyet innhold skal bestemmes/bekreftes med en bekreftelsesmetode.
 - Avgjørelsen av om det foreligger manglende overholdelse kan foretas bare etter en bekreftende analyse.
 
+19 'Guidance Document on Measurement Uncertainty for Laboratories performing PCDD/F and PCB Analysis using Isotope Dilution Mass Spectrometry' [ [lenke til nettsted](https://orbi.ulg.ac.be/handle/2268/208914)], 'Guidance Document on the Estimation of LOD and LOQ for Measurements in the Field of Contaminants in Feed and Food' [ [lenke til nettsted]](https://ec.europa.eu/jrc/en/publication/guidance-document-estimation-lod-and-loq-measurements-field-contaminants-feed-and-food).
+
+20 Gjeldende krav er basert på TEF-verdiene offentliggjort i: M. Van den Berg et al., Toxicol Sci 93 (2), 223-241 (2006).
+
 ### Tillegg
 
-WHOs toksisitetsekvivalensfaktorer (WHO-TEF) for vurdering av risikoen for mennesker på grunnlag av konklusjonene fra Verdens helseorganisasjons (WHO) ekspertmøte om det internasjonale program for kjemikaliesikkerhet (IPCS) i Genève i juni 2005.21 *Forbindelse**TEF-verdi**Forbindelse**TEF-verdi****Dibenzo-p-dioksiner* (PCDD)***«Dioksinlignende»* PCB
-***Non-orto* PCB + *Mono-orto* PCB**2,3,7,8-TCDD11,2,3,7,8-PeCDD1***Non-orto* PCB**1,2,3,4,7,8-HxCDD0,1PCB 770,00011,2,3,6,7,8-HxCDD0,1PCB 810,00031,2,3,7,8,9-HxCDD0,1PCB 1260,11,2,3,4,6,7,8-HpCDD0,01PCB 1690,03OCDD0,0003***Dibenzofuraner* (PCDF)*****Mono-orto* PCB**2,3,7,8-TCDF0,1PCB 1050,000031,2,3,7,8-PeCDF0,03PCB 1140,000032,3,4,7,8-PeCDF0,3PCB 1180,000031,2,3,4,7,8-HxCDF0,1PCB 1230,000031,2,3,6,7,8-HxCDF0,1PCB 1560,000031,2,3,7,8,9-HxCDF0,1PCB 1570,000032,3,4,6,7,8-HxCDF0,1PCB 1670,000031,2,3,4,6,7,8-HpCDF0,01PCB 1890,000031,2,3,4,7,8,9-HpCDF0,01OCDF0,0003 Forkortelser: T = tetra, Pe = penta, Hx = heksa, Hp = hepta, O = okta, CDD = klordibenzodioksin, CDF = klordibenzofuran, CB = klorbifenyl.
+WHOs toksisitetsekvivalensfaktorer (WHO-TEF) for vurdering av risikoen for mennesker på grunnlag av konklusjonene fra Verdens helseorganisasjons (WHO) ekspertmøte om det internasjonale program for kjemikaliesikkerhet (IPCS) i Genève i juni 2005.21
+
+| *Forbindelse* | *TEF-verdi* | *Forbindelse* | *TEF-verdi* |
+| --- | --- | --- | --- |
+| ***Dibenzo-p-dioksiner* (PCDD)** |  | *«Dioksinlignende»* PCB<br>***Non-orto* PCB + *Mono-orto* PCB** |  |
+| 2,3,7,8-TCDD | 1 |  |  |
+| 1,2,3,7,8-PeCDD | 1 | ***Non-orto* PCB** |  |
+| 1,2,3,4,7,8-HxCDD | 0,1 | PCB 77 | 0,0001 |
+| 1,2,3,6,7,8-HxCDD | 0,1 | PCB 81 | 0,0003 |
+| 1,2,3,7,8,9-HxCDD | 0,1 | PCB 126 | 0,1 |
+| 1,2,3,4,6,7,8-HpCDD | 0,01 | PCB 169 | 0,03 |
+| OCDD | 0,0003 |  |  |
+| ***Dibenzofuraner* (PCDF)** |  | ***Mono-orto* PCB** |  |
+| 2,3,7,8-TCDF | 0,1 | PCB 105 | 0,00003 |
+| 1,2,3,7,8-PeCDF | 0,03 | PCB 114 | 0,00003 |
+| 2,3,4,7,8-PeCDF | 0,3 | PCB 118 | 0,00003 |
+| 1,2,3,4,7,8-HxCDF | 0,1 | PCB 123 | 0,00003 |
+| 1,2,3,6,7,8-HxCDF | 0,1 | PCB 156 | 0,00003 |
+| 1,2,3,7,8,9-HxCDF | 0,1 | PCB 157 | 0,00003 |
+| 2,3,4,6,7,8-HxCDF | 0,1 | PCB 167 | 0,00003 |
+| 1,2,3,4,6,7,8-HpCDF | 0,01 | PCB 189 | 0,00003 |
+| 1,2,3,4,7,8,9-HpCDF | 0,01 |  |  |
+| OCDF | 0,0003 |  |  |
+
+|  |
+| --- |
+| Forkortelser: T = tetra, Pe = penta, Hx = heksa, Hp = hepta, O = okta, CDD = klordibenzodioksin, CDF = klordibenzofuran, CB = klorbifenyl. |
 
 ### VEDLEGG IV
 TILLAGING AV PRØVER OG KRAV TIL ANALYSEMETODER FOR KONTROLL AV INNHOLDET AV IKKE-DIOKSINLIGNENDE PCB I VISSE NÆRINGSMIDLER
 
 Kravene fastsatt i dette vedlegg får anvendelse når næringsmidler analyseres med henblikk på offentlig kontroll av innholdet av ikke-dioksinlignende PCB og tillaging av prøver og krav til analysemetoder for andre forskriftsmessige formål, herunder kontroll foretatt av driftsansvarlige for næringsmiddelforetak for å sikre samsvar med bestemmelsene i artikkel 4 i forordning [(EF) nr. 852/2004](eu/32004r0852*).
 
-Bestemmelsene om tillaging av prøver fastsatt i nr. 3 i vedlegg III til denne forordning får anvendelse også på kontroll av innholdet av ikke-dioksinlignende PCB i næringsmidler.*Påvisningsmetoder som kan anvendes*Gasskromatografi/elektroninnfangingsdetektor (GC/ECD), GC/LRMS, GC/MS-MS, GC/HRMS eller lignende metoder.*Identifikasjon og bekreftelse av relevante analytter*Relativ retensjonstid med hensyn til interne standarder eller referansestandarder (akseptabelt avvik på +/- 0,25 %).Gasskromatografisk separasjon av ikke-dioksinlignende PCB fra forstyrrende stoffer, særlig PCB som elueres samtidig, særlig når innholdet i prøvene ligger innenfor de lovfestede grenseverdiene og det skal bekreftes at prøven ikke oppfyller kravene.22GC/MS-metoder:Overvåking av minst følgende molekylærioner eller karakteristiske ioner/fragmenter fra molekylstrukturen:to særskilte ioner for HRMS,tre særskilte ioner for LRMS,to bestemte morioner, hver med ett bestemt tilsvarende datterion fra overgangen ved MS-MS.Høyeste tillatte toleranse for isotopforhold for utvalgte massefragmenter:Relativt avvik i isotopforhold for utvalgte massefragmenter fra teoretisk isotopforhold eller kalibreringsstandard for målionet (det hyppigst forekommende av de målte ioner) og bekreftelsesion(er): ± 15 %.For GC/ECD:Bekreftelse av resultater som overskrider grenseverdien med to GC-kolonner med stasjonære faser med ulik polaritet.*Dokumentasjon av metodens ytelse:*Validering innenfor grenseverdiområdet (0,5 til 2 ganger grenseverdien) med en godkjent variasjonskoeffisient for gjentatte analyser (se krav til intermediær presisjon i nr. 8).*Grense for mengdebestemmelse:*Summen av grensene for mengdebestemmelse23 av ikke-dioksinlignende PCB skal ikke være større enn én tredel av grenseverdien.24*Kvalitetskontroll:*Regelmessige blindprøvekontroller, analysering av prøver med tilsetning, kvalitetskontrollprøver, deltaking i undersøkelser av relevante matriser som foretas ved flere laboratorier.*Kontroll av gjenfinning:*Bruk av egnede interne standarder med fysikalsk-kjemiske egenskaper som kan sammenlignes med de relevante analyttene.Tilsetning av interne standarder:tilsetning til produkter (før ekstraksjon og rensing),tilsetning til ekstrahert fett mulig (før rensing), dersom grenseverdien er uttrykt på grunnlag av fettmengden.Krav til metoder der alle seks isotopmerkede ikke-dioksinlignende PCB-forbindelser brukes:resultatene skal korrigeres for gjenfinning av interne standarder,allment godkjente gjenfinninger for isotopmerkede interne standarder ligger i området 60–120 %,lavere eller høyere gjenfinning for enkeltforbindelser med et bidrag til summen av ikke-dioksinlignende PCB på under 10 % kan godtas.Krav til metoder der ikke alle seks isotopmerkede interne standarder eller andre interne standarder brukes:kontroll av gjenfinning av interne standarder for hver prøve,akseptabel gjenfinning av interne standarder mellom 60 og 120 %,resultatene skal korrigeres for gjenfinning av interne standarder.Gjenfinning av umerkede forbindelser skal kontrolleres ved hjelp av prøver med tilsetning eller kvalitetskontrollprøver med konsentrasjoner i grenseverdiområdet. Akseptabel gjenfinning for disse forbindelsene er mellom 60 og 120 %.*Krav til laboratorier*I samsvar med bestemmelsene i forordning [(EF) nr. 882/2004](eu/32004r0882*) skal laboratoriene være akkreditert av et godkjent organ som oppfyller kravene i ISO Guide 58, for å sikre at de anvender metoder for kvalitetssikring av sine analyser. Laboratoriene skal være akkreditert i henhold til standarden EN ISO/IEC 17025. Dessuten skal prinsippene som beskrevet i de tekniske retningslinjene for vurdering av måleusikkerhet og grenser for mengdebestemmelse for PCB-analyse skal følges dersom det er relevant.25*Ytelsesegenskaper: Kriterier for summen av ikke-dioksinlignende PCB ved grenseverdien**Massespektrometrisk isotopfortynning***Andre teknikker**Riktighet*–20 til +20 %–30 til +30 %*Intermediær presisjon (RSDR )*≤ 15 %≤ 20 %*Differanse mellom øvre og nedre konsentrasjon (beregnet)*≤ 20 %≤ 20 %
+Bestemmelsene om tillaging av prøver fastsatt i nr. 3 i vedlegg III til denne forordning får anvendelse også på kontroll av innholdet av ikke-dioksinlignende PCB i næringsmidler.*Påvisningsmetoder som kan anvendes*Gasskromatografi/elektroninnfangingsdetektor (GC/ECD), GC/LRMS, GC/MS-MS, GC/HRMS eller lignende metoder.*Identifikasjon og bekreftelse av relevante analytter*Relativ retensjonstid med hensyn til interne standarder eller referansestandarder (akseptabelt avvik på +/- 0,25 %).Gasskromatografisk separasjon av ikke-dioksinlignende PCB fra forstyrrende stoffer, særlig PCB som elueres samtidig, særlig når innholdet i prøvene ligger innenfor de lovfestede grenseverdiene og det skal bekreftes at prøven ikke oppfyller kravene.22GC/MS-metoder:Overvåking av minst følgende molekylærioner eller karakteristiske ioner/fragmenter fra molekylstrukturen:to særskilte ioner for HRMS,tre særskilte ioner for LRMS,to bestemte morioner, hver med ett bestemt tilsvarende datterion fra overgangen ved MS-MS.Høyeste tillatte toleranse for isotopforhold for utvalgte massefragmenter:Relativt avvik i isotopforhold for utvalgte massefragmenter fra teoretisk isotopforhold eller kalibreringsstandard for målionet (det hyppigst forekommende av de målte ioner) og bekreftelsesion(er): ± 15 %.For GC/ECD:Bekreftelse av resultater som overskrider grenseverdien med to GC-kolonner med stasjonære faser med ulik polaritet.*Dokumentasjon av metodens ytelse:*Validering innenfor grenseverdiområdet (0,5 til 2 ganger grenseverdien) med en godkjent variasjonskoeffisient for gjentatte analyser (se krav til intermediær presisjon i nr. 8).*Grense for mengdebestemmelse:*Summen av grensene for mengdebestemmelse23 av ikke-dioksinlignende PCB skal ikke være større enn én tredel av grenseverdien.24*Kvalitetskontroll:*Regelmessige blindprøvekontroller, analysering av prøver med tilsetning, kvalitetskontrollprøver, deltaking i undersøkelser av relevante matriser som foretas ved flere laboratorier.*Kontroll av gjenfinning:*Bruk av egnede interne standarder med fysikalsk-kjemiske egenskaper som kan sammenlignes med de relevante analyttene.Tilsetning av interne standarder:tilsetning til produkter (før ekstraksjon og rensing),tilsetning til ekstrahert fett mulig (før rensing), dersom grenseverdien er uttrykt på grunnlag av fettmengden.Krav til metoder der alle seks isotopmerkede ikke-dioksinlignende PCB-forbindelser brukes:resultatene skal korrigeres for gjenfinning av interne standarder,allment godkjente gjenfinninger for isotopmerkede interne standarder ligger i området 60–120 %,lavere eller høyere gjenfinning for enkeltforbindelser med et bidrag til summen av ikke-dioksinlignende PCB på under 10 % kan godtas.Krav til metoder der ikke alle seks isotopmerkede interne standarder eller andre interne standarder brukes:kontroll av gjenfinning av interne standarder for hver prøve,akseptabel gjenfinning av interne standarder mellom 60 og 120 %,resultatene skal korrigeres for gjenfinning av interne standarder.Gjenfinning av umerkede forbindelser skal kontrolleres ved hjelp av prøver med tilsetning eller kvalitetskontrollprøver med konsentrasjoner i grenseverdiområdet. Akseptabel gjenfinning for disse forbindelsene er mellom 60 og 120 %.*Krav til laboratorier*I samsvar med bestemmelsene i forordning [(EF) nr. 882/2004](eu/32004r0882*) skal laboratoriene være akkreditert av et godkjent organ som oppfyller kravene i ISO Guide 58, for å sikre at de anvender metoder for kvalitetssikring av sine analyser. Laboratoriene skal være akkreditert i henhold til standarden EN ISO/IEC 17025. Dessuten skal prinsippene som beskrevet i de tekniske retningslinjene for vurdering av måleusikkerhet og grenser for mengdebestemmelse for PCB-analyse skal følges dersom det er relevant.25*Ytelsesegenskaper: Kriterier for summen av ikke-dioksinlignende PCB ved grenseverdien* *Massespektrometrisk isotopfortynning*\**Andre teknikker**Riktighet*–20 til +20 %–30 til +30 %*Intermediær presisjon (RSDR )*≤ 15 %≤ 20 %*Differanse mellom øvre og nedre konsentrasjon (beregnet)*≤ 20 %≤ 20 %
+
+\* Alle seks 13C-merkede analoger skal brukes i samsvar med interne standarder.
 
 1. *Rapportering av resultater*Analyseresultatene skal omfatte innholdet av de enkelte ikke-dioksinlignende PCB-forbindelsene og summen av ikke-dioksinlignende PCB, angitt som nedre, øvre og mellomkonsentrasjoner, slik at resultatrapporten inneholder flest mulig opplysninger, og slik at resultatene kan tolkes i henhold til bestemte krav.I rapporten skal det også angis hvilken metode som er brukt ved ekstraksjonen av PCB og lipider. Prøvens lipidinnhold skal bestemmes og rapporteres for næringsmiddelmatriser med grenseverdier uttrykt på grunnlag av fettmengde og med forventet fettkonsentrasjon i størrelsesordenen 0–2 % (i samsvar med gjeldende lovgivning). For andre prøver er bestemmelse av innholdet av lipider valgfritt.Gjenfinningsgraden for de enkelte interne standardene skal angis dersom den ligger utenfor området angitt i nr. 6, dersom grenseverdien er overskredet og i andre tilfeller på anmodning.Ettersom det skal tas hensyn til den utvidede måleusikkerheten når det avgjøres om en prøve oppfyller kravene, skal denne parameteren angis. Analyseresultatet skal derfor rapporteres som x +/- U, der x er analyseresultatet og U er den utvidede måleusikkerheten, ved bruk av en dekningsfaktor på 2, som gir et konfidensnivå på ca. 95 %.Resultatene skal presenteres i de samme enhetene og med samme antall signifikante sifre som grenseverdiene fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881).
+
+21 Martin van den Berg et al., The 2005 World Health Organisation Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological Sciences 93(2), 223–241 (2006).
+
+22 Forbindelser som ofte elueres samtidig er f.eks. PCB 28/31, PCB 52/69 og PCB 138/163/164. Når det gjelder GC/MS skal det tas hensyn til eventuell forstyrrelse fra fragmenter av høyklorerte forbindelser.
+
+23 Prinsippene beskrevet i «Guidance Document on the Estimation of LOD and LOQ for Measurements in the Field of Contaminants in Feed and Food» [ [lenke til nettsted](https://ec.europa.eu/jrc/en/publication/guidance-document-estimation-lod-and-loq-measurements-field-contaminants-feed-and-food) skal eventuelt følges.
+
+24 Det anbefales på det sterkeste at bidraget fra reagensblindprøven er så lavt som mulig sammenlignet med innholdet av forurensning i en prøve. Det er laboratoriets ansvar å kontrollere hvordan innholdet i blindprøvene varierer, særlig når blindprøveinnholdet trekkes fra.
+
+25 'Guidance Document on Measurement Uncertainty for Laboratories performing PCDD/F and PCB Analysis using Isotope Dilution Mass Spectrometry' [ [lenke til nettsted](https://orbi.ulg.ac.be/handle/2268/208914)], 'Guidance Document on the Estimation of LOD and LOQ for Measurements in the Field of Contaminants in Feed and Food' [ [lenke til nettsted](https://ec.europa.eu/jrc/en/publication/guidance-document-estimation-lod-and-loq-measurements-field-contaminants-feed-and-food)].
 
 ### Forordning (EU) nr. 705/2015
 
@@ -1566,17 +2873,27 @@ Nedenfor gjengis til informasjon EØS-avtalen vedlegg II kapittel XII nr. 108 (f
 av 30. april 2015
 om fastsettelse av prøvetakingsmetoder og ytelseskriterier for analysemetodene ved offentlig kontroll av innholdet av erukasyre i næringsmidler og om oppheving av kommisjonsdirektiv [80/891/EØF](eu/31980l0891)
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes,1 særlig artikkel 11 nr. 4, og
 
 ut fra følgende betraktninger:I kommisjonsforordning [(EF) nr. 1881/2006](eu/32006r1881)2 fastsettes grenseverdier for erukasyre i vegetabilsk olje og fett beregnet på direkte konsum, i næringsmidler tilsatt vegetabilsk olje og fett og i morsmelkerstatninger og tilskuddsblandinger.I kommisjonsdirektiv [80/891/EØF](eu/31980l0891)3 fastsettes en analysemetode for å bestemme innholdet av erukasyre i olje og fett beregnet på direkte konsum og i næringsmidler tilsatt olje eller fett. Denne analysemetoden er foreldet og må erstattes.Det bør ikke fastsettes en bestemt analysemetode, men fastsettes ytelseskriterier som analysemetoden som benyttes ved offentlig kontroll, skal benytte. Det bør dessuten fastsettes regler for prøvetakingsmetoden.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
 
+1 EUT L 165 av 30.4.2004, s. 1.
+
+2 Kommisjonsforordning [(EF) nr. 1881/2006](eu/32006r1881) av 19. desember 2006 om fastsettelse av grenseverdier for visse forurensende stoffer i næringsmidler (EUT L 364 av 20.12.2006, s. 5).
+
+3 Kommisjonsdirektiv [80/891/EØF](eu/31980l0891) av 25. juli 1980 om en analysemetode i Fellesskapet for å bestemme innholdet av erukasyre i olje og fett beregnet på direkte konsum og i næringsmidler tilsatt olje eller fett (EFT L 254 av 27.9.1980, s. 35).
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Prøvetaking og analyse beregnet på offentlig kontroll av innholdet av erukasyre oppført i avsnitt 8 i vedlegget til forordning [(EF) nr. 1881/2006](eu/32006r1881) skal gjennomføres i samsvar med vedlegget til denne forordning.
+1\. Prøvetaking og analyse beregnet på offentlig kontroll av innholdet av erukasyre oppført i avsnitt 8 i vedlegget til forordning [(EF) nr. 1881/2006](eu/32006r1881) skal gjennomføres i samsvar med vedlegget til denne forordning.
 
-2. Nr. 1 får anvendelse uten å berøre bestemmelsene i forordning [(EF) nr. 882/2004](eu/32004r0882*).
+2\. Nr. 1 får anvendelse uten å berøre bestemmelsene i forordning [(EF) nr. 882/2004](eu/32004r0882*).
 
 ### Artikkel 2
 
@@ -1592,41 +2909,77 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 30. april 2015.
 
-*For Kommisjonen*Jean-Claude JUNCKER*President*
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
 
 ### VEDLEGG
 
 ### DEL A: DEFINISJONER
 
-I dette vedlegg menes med:«parti»en identifiserbar mengde av et næringsmiddel, levert under ett, der det ved offentlig kontroll er fastslått felles kjennetegn (f.eks. opprinnelse, art, emballasjetype, emballeringsbedrift, avsender eller merking),«delparti»del av et stort parti som er valgt ut med sikte på bruk av prøvetakingsmetoden. Hvert delparti skal være fysisk atskilt og identifiserbart,«enkeltprøve»en materialmengde som er tatt ut på ett enkelt sted i partiet eller delpartiet,«samleprøve»summen av alle enkeltprøvene som er tatt fra et parti eller delparti; samleprøver skal anses som representative for de partiene eller delpartiene de er tatt fra,«laboratorieprøve»prøve beregnet på laboratoriet.
+I dette vedlegg menes med:
+
+|  |  |
+| --- | --- |
+| «parti» | en identifiserbar mengde av et næringsmiddel, levert under ett, der det ved offentlig kontroll er fastslått felles kjennetegn (f.eks. opprinnelse, art, emballasjetype, emballeringsbedrift, avsender eller merking), |
+| «delparti» | del av et stort parti som er valgt ut med sikte på bruk av prøvetakingsmetoden. Hvert delparti skal være fysisk atskilt og identifiserbart, |
+| «enkeltprøve» | en materialmengde som er tatt ut på ett enkelt sted i partiet eller delpartiet, |
+| «samleprøve» | summen av alle enkeltprøvene som er tatt fra et parti eller delparti; samleprøver skal anses som representative for de partiene eller delpartiene de er tatt fra, |
+| «laboratorieprøve» | prøve beregnet på laboratoriet. |
 
 ### DEL B: PRØVETAKINGSMETODER
 
+B.1.
+
 GENERELLE BESTEMMELSER
 
+B.1.1.*Personale*
+
 Prøvetakingen skal utføres av en person som er utpekt for dette formål av medlemsstaten.
+
+B.1.2.
 
 Materiale til prøvetaking
 
 Prøvetakingen skal foretas atskilt for hvert parti eller delparti som skal undersøkes.
 
+B.1.3.*Forholdsregler*
+
 Under prøvetakingen skal det tas forholdsregler for å unngå forandringer som kan ha innvirkning på innholdet av erukasyre, ha skadelig innvirkning på den analytiske bestemmelsen, eller forårsake at samleprøvene ikke er representative.
+
+B.1.4.*Enkeltprøver*
 
 Enkeltprøver skal så langt det er mulig tas fra ulike steder i partiet eller delpartiet. Avvik fra denne framgangsmåten skal registreres i rapporten fastsatt i punkt B.1.8. i dette vedlegg.
 
+B.1.5.*Tillaging av samleprøven*
+
 Samleprøven skal oppnås ved å samle alle enkeltprøvene.
+
+B.1.6.*Prøver som tas for kontroll-, klageadgangs- og referanseformål*
 
 Prøvene som tas for kontroll-, klageadgangs- og referanseformål, skal tas fra den homogeniserte samleprøven, med mindre dette er i strid med medlemsstatens regler med hensyn til rettighetene til den driftsansvarlige for næringsmiddelforetaket.
 
+B.1.7.*Emballering og transport av prøver*
+
 Hver prøve skal plasseres i en ren beholder av inert materiale som gir tilstrekkelig vern mot forurensning, tap av analytter ved adsorpsjon til innersiden av beholderen og mot skader under transport. Alle nødvendige forholdsregler skal tas for å unngå endringer av prøvens sammensetning som kan oppstå under transport eller lagring.
+
+B.1.8.*Forsegling og merking av prøver*
 
 Hver prøve som er tatt til offentlig bruk, skal forsegles på prøvetakingsstedet og identifiseres i samsvar med gjeldende regler i medlemsstaten.
 
 For hver prøvetaking skal det utarbeides en rapport, slik at hvert parti eller delparti som prøven er tatt fra, entydig kan identifiseres. I rapporten skal følgende angis:henvisning til nummeret på partiet som prøven er tatt fra,dato og sted for prøvetaking,alle andre opplysninger som kan være til hjelp for den som foretar analysen.
 
+B.2.
+
 Prøvetakingsplaner
 
+B.2.1.*Inndeling av partier i delpartier*
+
 Store partier skal deles i delpartier forutsatt at delpartiet fysisk kan atskilles. For produkter som omsettes i store bulksendinger, skal delpartienes vekt eller antall angis i tabell 1. For andre produkter skal delpartienes vekt eller antall angis i tabell 2. Ettersom vekten på et parti ikke alltid vil være et eksakt multiplum av vekten av delpartiene, kan vekten av delpartiene i henhold til tabell 1 og 2 overskrides med opptil 20 %.
+
+B.2.2.*Enkeltprøvenes antall, vekt og volum*
 
 Samleprøven skal være på minst 1 kg eller 1 liter, med mindre det ikke lar seg gjøre, f.eks. dersom prøven består av én pakning eller enhet.
 
@@ -1634,11 +2987,45 @@ Det minste antall enkeltprøver som skal tas fra partiet eller delpartiet, er an
 
 For flytende produkter i bulk skal partiet eller delpartiet blandes så grundig som mulig uten at det påvirker kvaliteten på produktet, enten manuelt eller mekanisk, rett før prøvetaking. I så fall antas det at forurensende stoffer er homogent fordelt i et gitt parti eller delparti. Det er derfor tilstrekkelig å ta tre enkeltprøver fra et parti eller delparti som skal utgjøre samleprøven.
 
-Enkeltprøvene skal ha tilnærmet samme vekt/volum. Enkeltprøvenes vekt/volum skal være minst 100 gram eller 100 milliliter, noe som gir en samleprøve på minst ca. 1 kg eller 1 liter. Avvik fra denne metoden skal registreres i rapporten fastsatt i punkt B.1.8. i dette vedlegg.*Tabell 1: Inndeling av partier i delpartier for produkter som omsettes i bulksendinger**Partiets vekt (tonn)**Vekt eller antall delpartier*≥ 1 500500 tonn> 300 og < 1 5003 delpartier≥ 100 og ≤ 300100 tonn< 100– *Tabell 2: Inndeling av partier i delpartier for andre produkter**Partiets vekt (tonn)**Vekt eller antall delpartier*≥ 1515–30 tonn< 15– *Tabell 3: Minste antall enkeltprøver som skal tas fra partiet eller delpartiet**Partiets/delpartiets volum eller vekt (i kilo eller liter)**Minste antall enkeltprøver som skal tas*< 503≥ 50 og ≤ 5005> 50010
+Enkeltprøvene skal ha tilnærmet samme vekt/volum. Enkeltprøvenes vekt/volum skal være minst 100 gram eller 100 milliliter, noe som gir en samleprøve på minst ca. 1 kg eller 1 liter. Avvik fra denne metoden skal registreres i rapporten fastsatt i punkt B.1.8. i dette vedlegg.
 
-Dersom partiet eller delpartiet består av enkeltpakninger eller enkeltenheter, er antallet pakninger eller enheter som skal utgjøre en samleprøve, angitt i tabell 4.*Tabell 4: Antall pakninger eller enheter (enkeltprøver) som skal utgjøre samleprøven dersom partiet eller delpartiet består av enkeltpakninger eller enkeltenheter**Antall pakninger eller enheter i partiet/delpartiet**Antall pakninger eller enheter som skal inngå i prøvetakingen*≤ 25minst én pakning eller enhet26–100ca. 5 %, minst to pakninger eller enheter> 100ca. 5 %, høyst ti pakninger eller enheter
+*Tabell 1: Inndeling av partier i delpartier for produkter som omsettes i bulksendinger*
+
+| *Partiets vekt (tonn)* | *Vekt eller antall delpartier* |
+| --- | --- |
+| ≥ 1 500 | 500 tonn |
+| > 300 og < 1 500 | 3 delpartier |
+| ≥ 100 og ≤ 300 | 100 tonn |
+| < 100 | – |
+
+*Tabell 2: Inndeling av partier i delpartier for andre produkter*
+
+| *Partiets vekt (tonn)* | *Vekt eller antall delpartier* |
+| --- | --- |
+| ≥ 15 | 15–30 tonn |
+| < 15 | – |
+
+*Tabell 3: Minste antall enkeltprøver som skal tas fra partiet eller delpartiet*
+
+| *Partiets/delpartiets volum eller vekt (i kilo eller liter)* | *Minste antall enkeltprøver som skal tas* |
+| --- | --- |
+| < 50 | 3 |
+| ≥ 50 og ≤ 500 | 5 |
+| > 500 | 10 |
+
+Dersom partiet eller delpartiet består av enkeltpakninger eller enkeltenheter, er antallet pakninger eller enheter som skal utgjøre en samleprøve, angitt i tabell 4.
+
+*Tabell 4: Antall pakninger eller enheter (enkeltprøver) som skal utgjøre samleprøven dersom partiet eller delpartiet består av enkeltpakninger eller enkeltenheter*
+
+| *Antall pakninger eller enheter i partiet/delpartiet* | *Antall pakninger eller enheter som skal inngå i prøvetakingen* |
+| --- | --- |
+| ≤ 25 | minst én pakning eller enhet |
+| 26–100 | ca. 5 %, minst to pakninger eller enheter |
+| > 100 | ca. 5 %, høyst ti pakninger eller enheter |
 
 Dersom prøvetaking ved bruk av metoden beskrevet i kapittel B.2 vil kunne medføre uakseptable økonomiske konsekvenser (f.eks. på grunn av emballasjeformen, skade på partiet osv.) eller ikke er praktisk mulig, kan det benyttes en annen prøvetakingsmetode, forutsatt at den er tilstrekkelig representativ for partiet eller delpartiet som det er tatt prøver fra, og at den dokumenteres fullt ut i rapporten angitt i punkt B.1.8.
+
+B.3.
 
 Prøvetaking i detaljistleddet
 
@@ -1647,6 +3034,8 @@ Prøvetaking av næringsmidler i detaljistleddet skal om mulig skje i samsvar me
 Dersom prøvetaking ved bruk av metoden beskrevet i punkt B.2.2 vil kunne medføre uakseptable økonomiske konsekvenser (f.eks. på grunn av emballasjeformen, skade på partiet osv.) eller ikke er praktisk mulig, kan det benyttes en annen prøvetakingsmetode, forutsatt at den er tilstrekkelig representativ for partiet eller delpartiet som det er tatt prøver fra, og at den dokumenteres fullt ut i rapporten angitt i punkt B.1.8.
 
 ### DEL C: TILLAGING OG ANALYSE AV PRØVER
+
+C.1.
 
 Kvalitetsstandarder for laboratoriene
 
@@ -1658,7 +3047,11 @@ Laboratoriene skal kunne vise at de har tatt i bruk prosedyrer for intern kvalit
 
 Dersom det er mulig, skal analysens nøyaktighet vurderes ved å inkludere egnet sertifisert referansemateriale i analysen.
 
+C.2.
+
 Tillaging av prøven
+
+C.2.1.*Forholdsregler og generelle bestemmelser*
 
 Det grunnleggende kravet er å oppnå en representativ og ensartet laboratorieprøve uten å tilføre sekundær forurensning.
 
@@ -1666,13 +3059,39 @@ Alt prøvemateriale som laboratoriet mottar, skal brukes til tillaging av labora
 
 På grunnlag av innholdet som blir funnet i laboratorieprøvene, skal det fastslås om grenseverdiene fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881) er overholdt.
 
+C.2.2.*Behandling av prøven i laboratoriet*
+
 Hele samleprøven finmales (når det er relevant) og blandes omhyggelig etter en metode som sikrer fullstendig homogenisering.
+
+C.3.
 
 Ytelseskriterier for analysemetodene
 
-I dette vedlegg menes med:«r» =repeterbarhet: den verdien som innenfor en bestemt sannsynlighet (normalt 95 %) kan forventes å ligge under den absolutte differansen mellom individuelle forsøksresultater oppnådd under repeterbarhetsforhold (dvs. samme prøve, samme person, samme apparatur, samme laboratorium og kort tidsintervall), hvorav følger at r = 2,8 × sr.«sr » =standardavvik beregnet ut fra resultater oppnådd under repeterbarhetsforhold.«RSDr » =relativt standardavvik beregnet ut fra resultater oppnådd under repeterbarhetsforhold [(sr /) × 100].«R» =reproduserbarhet: den verdien som innenfor en bestemt sannsynlighet (normalt 95 %) kan forventes å ligge under den absolutte differansen mellom individuelle forsøksresultater oppnådd under reproduserbarhetsforhold (dvs. av personer ved ulike laboratorier ved bruk av den standardiserte forsøksmetoden med identisk materiale), hvorav følger at R = 2,8 × sR .«sR » =standardavvik beregnet ut fra resultater oppnådd under reproduserbarhetsforhold.«RSDR » =relativt standardavvik beregnet ut fra resultater oppnådd under repeterbarhetsforhold [(sr /) × 100].«LOD» =påvisningsgrense: det minste målte innhold som med rimelig statistisk sikkerhet gjør det mulig å påvise forekomst av en analytt. Påvisningsgrensen er numerisk lik tre ganger standardavviket for gjennomsnittsverdien ved blindprøver (n > 20).«LOQ» =grense for mengdebestemmelse: det laveste innholdet av en analytt som kan måles med rimelig statistisk sikkerhet. Dersom både nøyaktighet og presisjon er konstant i et konsentrasjonsområde rundt påvisningsgrensen, er grensen for mengdebestemmelse numerisk lik seks eller ti ganger standardavviket for gjennomsnittsverdien i blindprøver (n > 20).«u» =kombinert standard måleusikkerhet som oppnås ved bruk av innsatsmengdenes individuelle standard måleusikkerhet i en målemetode.6«U» =utvidet måleusikkerhet, ved hjelp av en dekningsfaktor på 2 som gir et konfidensnivå på ca. 95 % (U = 2u).«Uf» =høyeste standard måleusikkerhet.
+C.3.1.*Definisjoner*
+
+I dette vedlegg menes med:
+
+|  |  |
+| --- | --- |
+| «r» = | repeterbarhet: den verdien som innenfor en bestemt sannsynlighet (normalt 95 %) kan forventes å ligge under den absolutte differansen mellom individuelle forsøksresultater oppnådd under repeterbarhetsforhold (dvs. samme prøve, samme person, samme apparatur, samme laboratorium og kort tidsintervall), hvorav følger at r = 2,8 × sr. |
+| «sr » = | standardavvik beregnet ut fra resultater oppnådd under repeterbarhetsforhold. |
+| «RSDr » = | relativt standardavvik beregnet ut fra resultater oppnådd under repeterbarhetsforhold [(sr /) × 100]. |
+| «R» = | reproduserbarhet: den verdien som innenfor en bestemt sannsynlighet (normalt 95 %) kan forventes å ligge under den absolutte differansen mellom individuelle forsøksresultater oppnådd under reproduserbarhetsforhold (dvs. av personer ved ulike laboratorier ved bruk av den standardiserte forsøksmetoden med identisk materiale), hvorav følger at R = 2,8 × sR . |
+| «sR » = | standardavvik beregnet ut fra resultater oppnådd under reproduserbarhetsforhold. |
+| «RSDR » = | relativt standardavvik beregnet ut fra resultater oppnådd under repeterbarhetsforhold [(sr /) × 100]. |
+| «LOD» = | påvisningsgrense: det minste målte innhold som med rimelig statistisk sikkerhet gjør det mulig å påvise forekomst av en analytt. Påvisningsgrensen er numerisk lik tre ganger standardavviket for gjennomsnittsverdien ved blindprøver (n > 20). |
+| «LOQ» = | grense for mengdebestemmelse: det laveste innholdet av en analytt som kan måles med rimelig statistisk sikkerhet. Dersom både nøyaktighet og presisjon er konstant i et konsentrasjonsområde rundt påvisningsgrensen, er grensen for mengdebestemmelse numerisk lik seks eller ti ganger standardavviket for gjennomsnittsverdien i blindprøver (n > 20). |
+| «u» = | kombinert standard måleusikkerhet som oppnås ved bruk av innsatsmengdenes individuelle standard måleusikkerhet i en målemetode.6 |
+| «U» = | utvidet måleusikkerhet, ved hjelp av en dekningsfaktor på 2 som gir et konfidensnivå på ca. 95 % (U = 2u). |
+| «Uf» = | høyeste standard måleusikkerhet. |
+
+C.3.2.*Generelle krav*
 
 Analysemetodene som benyttes ved kontroll av næringsmidler, skal være i samsvar med bestemmelsene i vedlegg III til forordning [(EF) nr. 882/2004](eu/32004r0882*).
+
+C.3.3.*Særlige krav*
+
+C.3.3.1.*Ytelseskriterier*
 
 Dersom det ikke er fastsatt noen spesiell metode for bestemmelse av forurensende stoffer i næringsmidler på EU-plan, kan laboratoriene selv velge hvilken validert analysemetode de vil bruke for den respektive matrisen, forutsatt at den valgte metoden oppfyller de spesifikke ytelseskriteriene angitt i tabell 5.
 
@@ -1680,7 +3099,21 @@ Det anbefales å bruke fullt validerte metoder (f.eks. metoder som er validerte 
 
 Ytterligere opplysninger gis i merknadene til ytelseskriteriene i dette punkt.
 
-Om mulig skal valideringen av de internt validerte metodene omfatte et sertifisert referansemateriale.*Tabell 5: Ytelseskriterier for analysemetoder for erukasyre**Parameter**Kriterium*AnvendelseNæringsmidlene angitt i forordning [(EF) nr. 1881/2006](eu/32006r1881)SpesifisitetFri for matrise- eller spektralinterferensRepeterbarhet (RSDr )0,66 ganger RSDR utregnet etter Horwitz' (endrede) ligningReproduserbarhet (RSDR )2 x verdien utregnet etter Horwitz' (endrede) ligningGjenfinning95–105 %LOD≤ 1 g/kgLOQ≤ 5 g/kg
+Om mulig skal valideringen av de internt validerte metodene omfatte et sertifisert referansemateriale.
+
+*Tabell 5: Ytelseskriterier for analysemetoder for erukasyre*
+
+| *Parameter* | *Kriterium* |
+| --- | --- |
+| Anvendelse | Næringsmidlene angitt i forordning [(EF) nr. 1881/2006](eu/32006r1881) |
+| Spesifisitet | Fri for matrise- eller spektralinterferens |
+| Repeterbarhet (RSDr ) | 0,66 ganger RSDR utregnet etter Horwitz' (endrede) ligning |
+| Reproduserbarhet (RSDR ) | 2 x verdien utregnet etter Horwitz' (endrede) ligning |
+| Gjenfinning | 95–105 % |
+| LOD | ≤ 1 g/kg |
+| LOQ | ≤ 5 g/kg |
+
+*Merknader til ytelseskriteriene:*
 
 Horwitz' ligning7 (for konsentrasjoner 1,2 × 10-7 ≤ C ≤ 0,138) og Horwitz' endrede ligning8 (for konsentrasjoner C < 1,2 × 10-7) er generelle presisjonsligninger som er uavhengige av analytt og matrise, og som bare er avhengige av konsentrasjonen for de fleste rutineanalysemetoders vedkommende.
 
@@ -1696,31 +3129,73 @@ RSDR = 2C(-0.15)
 
 der:RSDR står for det relative standardavviket beregnet ut fra resultater oppnådd under reproduserbarhetsforhold [(sR/) × 100],C er konsentrasjonsforholdet (dvs. 1 = 100 g/100 g, 0,001 = 1 000 mg/kg). Horwitz' ligning gjelder for konsentrasjoner 1,2 × 10-7 ≤ C ≤ 0,138.
 
-For internt validerte metoder kan det alternativt benyttes en metode for å bedømme egnethet9 for å vurdere om metodene er egnet for offentlig kontroll. Metoder som er egnet for offentlig kontroll, må gi resultater med en kombinert standard måleusikkerhet (u) som er lavere enn høyeste standard måleusikkerhet beregnet ved hjelp av formelen nedenfor: $$Uf=\sqrt{(LOD/2)^2 + (\alpha C)^2}$$
+C.3.3.2.*Metode for å bedømme egnethet*
+
+For internt validerte metoder kan det alternativt benyttes en metode for å bedømme egnethet9 for å vurdere om metodene er egnet for offentlig kontroll. Metoder som er egnet for offentlig kontroll, må gi resultater med en kombinert standard måleusikkerhet (u) som er lavere enn høyeste standard måleusikkerhet beregnet ved hjelp av formelen nedenfor: $$Uf=\\sqrt{(LOD/2)^2 + (\\alpha C)^2}$$
 
 der:Uf er høyeste standard måleusikkerhet (μg/kg),LOD er metodens påvisningsgrense (μg/kg). LOD må oppfylle ytelseskriteriene angitt i punkt C.3.3.1 for den relevante konsentrasjonen,C er den relevante konsentrasjonen (μg/kg),α er en tallfaktor som brukes avhengig av verdien av C. Verdiene som skal brukes, er angitt i tabell 6.
 
+*Tabell 6: Tallverdier som skal brukes for α som konstant i formelen angitt i dette punkt, avhengig av den relevante konsentrasjonen*
+
+| C (µg/kg) | α |
+| --- | --- |
+| ≤ 50 | 0,2 |
+| 51–500 | 0,18 |
+| 501–1 000 | 0,15 |
+| 1 001–10 000 | 0,12 |
+| > 10 000 | 0,1 |
+
+4 «The international harmonized protocol for the ncy testing of analytical chemistry laboratories» by M. Thompson, llison and R. Wood, Pure Appl. Chem., 2006, 78, 145–196.
+
+5 Redigert av M. Thompson og R. Wood, Pure Appl. Chem., 1995, 666.
+
+6 International vocabulary of metrology – Basic and general and associated terms (VIM), JCGM 200:2008.
+
+7 W. Horwitz, L.R. Kamps. K.W. Boyer, Off.Analy.Chem.,1980, 63, 1344.
+
+8 M. Thompson, Analyst, 2000, 125, 385-386.
+
+9 M. Thompson and R. Wood, Accred. Qual. Assur., 2006, 10, 471–478.
+
 ### DEL D: RAPPORTERING OG TOLKING AV RESULTATENE
+
+D.1
 
 Rapportering
 
+D.1.1.*Presentasjon av resultatene*
+
 Resultatene skal presenteres i de samme enhetene og med samme antall signifikante sifre som grenseverdiene fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881).
+
+D.1.2.*Gjenfinningsberegning*
 
 Dersom analysemetoden omfatter ekstraksjon, skal analyseresultatet korrigeres for gjenfinning. I så fall skal gjenfinningsprosenten rapporteres.
 
 Dersom analysemetoden ikke omfatter ekstraksjon, kan resultatet rapporteres ukorrigert for gjenfinning dersom det godtgjøres, helst ved at det benyttes egnet sertifisert referansemateriale, at den sertifiserte konsentrasjonen, idet det tas hensyn til måleusikkerheten, er oppnådd (dvs. stor målenøyaktighet), og at metoden dermed ikke er misvisende. Dersom resultatet rapporteres ukorrigert for gjenfinning, skal dette opplyses.
 
+D.1.3.*Måleusikkerhet*
+
 Analyseresultatet skal rapporteres som x +/– U, der x er analyseresultatet og U er den utvidede måleusikkerheten, og ved bruk av en dekningsfaktor på 2, som gir et konfidensnivå på ca. 95 % (U = 2u).
 
 Den som foretar analysen, skal ta hensyn til «Report on the relationship between analytical results, measurement uncertainty, recovery factors and the provisions in EU food and feed legislation».10
 
+D.2
+
 Tolking av resultatene
+
+D.2.1.*Godkjenning av et parti eller delparti*
 
 Partiet eller delpartiet godkjennes dersom analyseresultatet fra laboratorieprøven ikke overstiger den relevante grenseverdien fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881), idet det tas hensyn til den utvidede måleusikkerheten og korrigeringen av resultatet for gjenfinning, dersom analysemetoden som er brukt, omfatter ekstraksjon.
 
+D.2.2.*Avvisning av et parti eller delparti*
+
 Partiet eller delpartiet avvises dersom analyseresultatet fra laboratorieprøven uten rimelig tvil overstiger den relevante grenseverdien fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881), idet det tas hensyn til den utvidede måleusikkerheten og korrigeringen av resultatene for gjenfinning, dersom analysemetoden som er brukt, omfatter ekstraksjon.
 
+D.2.3.*Anvendelse*
+
 Tolkingsreglene angitt i punkt D.2.1 og D.2.2 gjelder for analyseresultatet av prøven som tas for kontrollformål. Når det gjelder analyse for klageadgangs- eller referanseformål, gjelder nasjonale regler.
+
+10 http://ec.europa.eu/food/food/chemicalsafety/contaminants/report-sampling_analysis_2004_en.pdf
 
 ### Forordning (EU) 2022/931
 
@@ -1732,6 +3207,14 @@ Nedenfor gjengis til informasjon den uoffisielle norske oversettelsen av forordn
 av 23. mars 2022
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til regler for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler
 
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som iverksettes for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001) og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008l0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 19 nr. 2 bokstav a) og
+
+ut fra følgende betraktninger:
+
 1. I forordning [(EU) 2017/625](eu/32017r0625) er det fastsatt regler for gjennomføring av offentlig kontroll og andre offentlige tiltak som vedkommende myndigheter i medlemsstatene gjennomfører for å verifisere at Unionens regelverk overholdes på området næringsmidler og næringsmiddeltrygghet. I henhold til artikkel 109 i den nevnte forordningen skal medlemsstatene sikre at de vedkommende myndighetene gjennomfører offentlig kontroll på grunnlag av en flerårig nasjonal kontrollplan («MANCP»). I forordning [(EU) 2017/625](eu/32017r0625) presiseres også det generelle innholdet i den flerårige nasjonale kontrollplanen, som krever at medlemsstatene i sine flerårige nasjonale kontrollplaner skal gjennomføre offentlig kontroll av forurensende stoffer i næringsmidler, og forordningen gir i den forbindelse Kommisjonen myndighet til å fastsette særlige tilleggskrav til gjennomføring av offentlig kontroll, herunder og der det er relevant, omfanget av prøvene og i hvilket ledd i produksjonen, bearbeidingen og distribusjonen prøvene skal tas.
 2. Forordning [(EU) 2017/625](eu/32017r0625) opphevet rådsdirektiv [96/23/EF](eu/31996l0023)2, der det var fastsatt tiltak for å overvåke visse stoffer, herunder forurensende stoffer, i levende dyr og produkter av animalsk opprinnelse, og der det spesifikt var fastsatt krav til medlemsstatenes overvåkingsplaner for påvisning av restmengder eller stoffer innenfor forordningens virkeområde. Forordning [(EU) 2017/625](eu/32017r0625) innlemmer imidlertid ikke alle tiltakene som er fastsatt i det nevnte direktivet eller i de rettsaktene som Kommisjonen har vedtatt på grunnlag av direktivet. Denne forordningen, sammen med delegert kommisjonsforordning [(EU) 2022/932](eu/32022r0932)3, tar derfor sikte på å sikre kontinuitet i reglene i direktiv [96/23/EF](eu/31996l0023) når det gjelder den flerårige nasjonale kontrollplanens innhold og utarbeidelse, samt omfanget av prøvene og i hvilket ledd i produksjonen, bearbeidingen og distribusjonen prøvene skal tas med hensyn til forurensende stoffer i næringsmidler, innenfor rammen av forordning [(EU) 2017/625](eu/32017r0625).
 3. I tråd med artikkel 19 i forordning [(EU) 2017/625](eu/32017r0625), som inneholder omfattende henvisninger til forurensende stoffer i næringsmidler, bør imidlertid denne forordningen også anvendes på offentlig kontroll som er nødvendig for å påvise forekomst av alle forurensende stoffer som hører inn under virkeområdet for rådsforordning [(EØF) nr. 315/93](eu/31993r0315)4. Denne forordningen bør derfor anvendes på offentlig kontroll som er nødvendig for å påvise forekomst i næringsmidler av forurensende stoffer som det er fastsatt øvre grenseverdier eller andre tillatte grenseverdier for i Unionens regelverk, og som krever eller utløser tiltak fra de vedkommende myndighetenes side.
@@ -1739,6 +3222,24 @@ om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r06
 5. For å sikre at offentlig kontroll målrettes effektivt i alle medlemsstater, bør det fastsettes regler for kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper som medlemsstatene skal ta prøver av, og av prøvetakingsstrategien, herunder kriteriene som skal benyttes for å definere innholdet i planene og gjennomføringen av den tilknyttede offentlige kontrollen.
 6. Artikkel 19 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625) bør derfor utfylles ved at det fastsettes regler for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler.
 7. I artikkel 150 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625) er det fastsatt en overgangsperiode som forplikter medlemsstatene til å gjennomføre offentlig kontroll i samsvar med direktiv [96/23/EF](eu/31996l0023) fram til 14. desember 2022. I artikkel 19 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625) er det fastsatt at offentlig kontroll for å verifisere overholdelse av reglene for næringsmidler og næringsmiddeltrygghet samt fôr og fôrtrygghet, skal omfatte offentlig kontroll av relevante stoffer, herunder stoffer som skal brukes i materialer som kommer i kontakt med næringsmidler, forurensende stoffer og ikke-godkjente, forbudte og uønskede stoffer som ved bruk eller forekomst i avlinger eller dyr, eller ved bruk i produksjon eller bearbeiding av næringsmidler eller fôr, kan etterlate seg rester i næringsmidler eller fôr. Ettersom de siste overvåkingsplanene vedtatt av medlemsstatene i henhold til direktiv [96/23/EF](eu/31996l0023) gjelder for året 2022 og dermed lenger enn til 14. desember 2022, bør imidlertid denne forordningen få anvendelse fra 1. januar 2023.
+
+1 EUT L 95 av 7.4.2017, s. 1.
+
+2 Rådsdirektiv [96/23/EF](eu/31996l0023) av 29. april 1996 om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres restmengder i levende dyr og animalske produkter, og om oppheving av direktiv [85/358/EØF](eu/31985l0358) og [86/469/EØF](eu/31986l0469) samt vedtak [89/187/EØF](eu/31989d0187) og [91/664/EØF](eu/31991d0664) (EFT L 125 av 23.5.1996, s. 10).
+
+3 Kommisjonens gjennomføringsforordning [(EU) 2022/932](eu/32022r0932) av 9. juni 2022 om ensartede praktiske ordninger for gjennomføringen av offentlig kontroll av forurensende stoffer i næringsmidler, om særlig tilleggsinnhold i flerårige nasjonale kontrollplaner og om særlige tilleggsordninger for utarbeidelse av disse (se EUT L 162 av 17.6.2022, s. 13)
+
+4 Rådsforordning [(EØF) nr. 315/93](eu/31993r0315) av 8. februar 1993 om fastsettelse av framgangsmåter i Fellesskapet i forbindelse med forurensende stoffer i næringsmidler (EFT L 37 av 13.2.1993, s. 1).
+
+5 Europaparlaments- og rådsforordning [(EF) nr. 396/2005/EF](eu/32005r0396) av 23. februar 2005 om grenseverdier for rester av plantevernmidler i eller på næringsmidler og fôrvarer av vegetabilsk og animalsk opprinnelse og endring av rådsdirektiv [91/414/EØF](eu/31991l0414) (EUT L 70 av 16.3.2005, s. 1).
+
+6 Kommisjonsdirektiv [2006/125/EF](eu/32006l0125) av 5. desember 2006 om bearbeidede kornbaserte næringsmidler og barnemat for spedbarn og småbarn (EUT L 339 av 6.12.2006, s. 16).
+
+7 Delegert kommisjonsforordning [(EU) 2016/127](eu/32016r0127) av 25. september 2015 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609) med hensyn til særlige sammensetnings- og informasjonskrav til morsmelkerstatninger og tilskuddsblandinger og med hensyn til kravene til informasjon om spedbarns- og småbarnsernæring (EUT L 25 av 2.2.2016, s. 1).
+
+8 Delegert kommisjonsforordning [(EU) 2016/128](eu/32016r0128) av 25. september 2015 om utfylling av (EU) europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609) med hensyn til særlige sammensetnings- og informasjonskrav til næringsmidler til spesielle medisinske formål (EUT L 25 av 2.2.2016, s. 30).
+
+VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1
 
@@ -1756,14 +3257,20 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 1. januar 2023.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 23. mars 2022.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 23. mars 2022.*For Kommisjonen*
+Ursula VON DER LEYEN
+*President*
 
 ### VEDLEGG I
 Regler for utvelging av særlige kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper
 
-1. Medlemsstatene skal kontrollere følgende kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer i følgende varegrupper:*Varegrupper**Halogenerte persistente organiske forurensende stoffer**Metaller**Mykotoksiner**Andre forurensende stoffer*Uforedlet kjøtt av storfe, sau og geit (herunder spiselige slaktebiprodukter)xxxUforedlet svinekjøtt (herunder spiselige slaktebiprodukter)xxxUforedlet kjøtt fra dyr av hestefamilien (herunder spiselig slakteavfall)xxUforedlet fjørfekjøtt (herunder spiselig slakteavfall)xxxUforedlet kjøtt fra andre oppdrettede landdyr* (herunder spiselige slaktebiprodukter)xRå ku-, saue- og geitemelkxxxxFerske hønseegg og andre eggxxxHonningxxUforedlede fiskerivarer** (unntatt krepsdyr)xxxKrepsdyr og toskallede bløtdyrxxxAnimalske og marine fettstoffer og oljerxxxForedlede produkter av animalsk opprinnelse***xxx
+1. Medlemsstatene skal kontrollere følgende kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer i følgende varegrupper:*Varegrupper**Halogenerte persistente organiske forurensende stoffer**Metaller**Mykotoksiner**Andre forurensende stoffer*Uforedlet kjøtt av storfe, sau og geit (herunder spiselige slaktebiprodukter)xxxUforedlet svinekjøtt (herunder spiselige slaktebiprodukter)xxxUforedlet kjøtt fra dyr av hestefamilien (herunder spiselig slakteavfall)xxUforedlet fjørfekjøtt (herunder spiselig slakteavfall)xxxUforedlet kjøtt fra andre oppdrettede landdyr\* (herunder spiselige slaktebiprodukter)xRå ku-, saue- og geitemelkxxxxFerske hønseegg og andre eggxxxHonningxxUforedlede fiskerivarer\*\* (unntatt krepsdyr)xxxKrepsdyr og toskallede bløtdyrxxxAnimalske og marine fettstoffer og oljerxxxForedlede produkter av animalsk opprinnelse\*\*\*xxx
+
+\* Andre oppdrettede landdyr som definert i nr. 1017000 i del A i vedlegg I til forordning [(EF) nr. 396/2005](eu/32005r0396).
+
+\*\* Fiskerivarer som definert i europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (EUT L 139 av 30.4.2004, s. 55).
+
+\*\*\* Foredlede produkter som definert i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852) av 29. april 2004 om næringsmiddelhygiene (EUT L 139 av 30.4.2004, s. 1).
 
 1. Medlemsstatene skal vurdere alle kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper av næringsmidler av ikke-animalsk opprinnelse som det er fastsatt øvre grenseverdier eller andre tillatte nivåer for i henhold til Unionens regelverk.
 2. Hver medlemsstat skal vurdere følgende kriterier for å velge ut særlige kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper som skal kontrolleres:Hyppighet av påvist manglende overholdelse i medlemsstatens prøver, i andre medlemsstaters prøver eller i prøver fra tredjeland, særlig når dette rapporteres i henhold til hurtigvarslingssystemet for næringsmidler og fôr eller systemet for administrativ bistand og samarbeid.Tilgang til passende laboratoriemetoder og analysestandarder.Mulig risiko for forbrukere eller visse befolkningsgrupper som følge av inntak av forurensende stoffer som finnes i næringsmidler, idet det tas hensyn til relevante opplysninger fra Den europeiske myndighet for næringsmiddeltrygghet, eller dersom det ikke foreligger slike opplysninger, fra andre informasjonskilder, for eksempel vitenskapelige publikasjoner eller nasjonale risikovurderinger.Forbruksdata (mønstre for eksponering gjennom kosten).Med hensyn til næringsmidler som hører inn under virkeområdet for kontrollplanen for næringsmidler av animalsk opprinnelse som innføres til Unionen som beskrevet i artikkel 5 i forordning [(EU) 2022/932](eu/32022r0932), skal også følgende kriterier vurderes dersom de foreligger:Resultater fra Kommisjonens kontroll i tredjeland.Alle opplysninger som reiser tvil om påliteligheten til garantier for importerte næringsmidlers overholdelse av Unionens regler.Opplysninger om økt aktsomhet.
@@ -1786,6 +3293,14 @@ Nedenfor gjengis til informasjon den uoffisielle norske oversettelsen av forordn
 av 9. juni 2022
 om ensartede praktiske ordninger for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler, om særlig tilleggsinnhold i flerårige nasjonale kontrollplaner og om særlige tilleggsordninger for utarbeidelse av disse
 
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som iverksettes for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001) og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008l0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 19 nr. 3 bokstav a) og b), og
+
+ut fra følgende betraktninger:
+
 1. I forordning [(EU) 2017/625](eu/32017r0625) er det fastsatt regler for gjennomføring av offentlig kontroll og andre offentlige tiltak som vedkommende myndigheter i medlemsstatene gjennomfører for å verifisere at Unionens regelverk overholdes på området næringsmidler og næringsmiddeltrygghet. I henhold til artikkel 109 i den nevnte forordningen skal medlemsstatene sikre at de vedkommende myndighetene gjennomfører offentlig kontroll på grunnlag av en flerårig nasjonal kontrollplan («MANCP»). I forordning [(EU) 2017/625](eu/32017r0625) presiseres også det generelle innholdet i den flerårige nasjonale kontrollplanen, som krever at medlemsstatene i sine flerårige nasjonale kontrollplaner skal gjennomføre offentlig kontroll av forurensende stoffer i næringsmidler, og forordningen gir i den forbindelse Kommisjonen myndighet til å fastsette særlig tilleggsinnhold i den flerårige nasjonale kontrollplanen og særlige tilleggsordninger for å utarbeide den, samt samme minstehyppighet av offentlig kontroll, idet det tas hensyn til fare og risiko knyttet til stoffene omhandlet i artikkel 19 nr. 1 i den nevnte forordningen.
 2. Forordning [(EU) 2017/625](eu/32017r0625) opphevet rådsdirektiv [96/23/EF](eu/31996l0023)2, der det var fastsatt tiltak for å overvåke visse stoffer, herunder forurensende stoffer, i levende dyr og produkter av animalsk opprinnelse, og der det spesifikt var fastsatt krav til medlemsstatenes overvåkingsplaner for påvisning av restmengder eller stoffer innenfor forordningens virkeområde. Forordning [(EU) 2017/625](eu/32017r0625) innlemmer imidlertid ikke alle de tiltakene som er fastsatt i det nevnte direktivet eller i de rettsaktene som Kommisjonen har vedtatt på grunnlag av direktivet. For å sikre en smidig overgang ble det derfor ved forordning [(EU) 2017/625](eu/32017r0625) fastsatt at vedkommende myndigheter fortsatt skulle gjennomføre offentlig kontroll i samsvar med vedleggene til direktiv [96/23/EF](eu/31996l0023) fram til 14. desember 2022 eller inntil Kommisjonen vedtar tilsvarende regler. Denne forordningen, sammen med delegert kommisjonsforordning [(EU) 2022/931](eu/32022r0931)3, tar derfor sikte på å sikre kontinuitet i reglene i direktiv [96/23/EF](eu/31996l0023) når det gjelder den flerårige nasjonale kontrollplanens innhold og utarbeidelse, samt minstehyppigheten av offentlig kontroll, med hensyn til forurensende stoffer i næringsmidler, innenfor rammen av forordning [(EU) 2017/625](eu/32017r0625).
 3. I lys av de særlige bestemmelsene om offentlig kontroll av næringsmidler av animalsk opprinnelse som innføres til Unionen fra tredjeland, som fastsatt i artikkel 47 i forordning [(EU) 2017/625](eu/32017r0625), bør det kreves at medlemsstatene i sine flerårige nasjonale kontrollplaner innlemmer to forskjellige planer for kontroll av forurensende stoffer i næringsmidler: en for næringsmidler av animalsk opprinnelse som innføres til Unionen, og en annen for alle andre næringsmidler som bringes i omsetning på unionsmarkedet.
@@ -1798,6 +3313,22 @@ om ensartede praktiske ordninger for gjennomføring av offentlig kontroll av for
 10. I artikkel 150 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625) er det fastsatt en overgangsperiode som forplikter medlemsstatene til å gjennomføre offentlig kontroll i samsvar med direktiv [96/23/EF](eu/31996l0023) fram til 14. desember 2022. I artikkel 19 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625) er det fastsatt at offentlig kontroll for å verifisere overholdelse av reglene for næringsmidler og næringsmiddeltrygghet samt fôr og fôrtrygghet, skal omfatte offentlig kontroll av relevante stoffer, herunder stoffer som skal brukes i materialer som kommer i kontakt med næringsmidler, forurensende stoffer og ikke-godkjente, forbudte og uønskede stoffer som ved bruk eller forekomst i avlinger eller dyr, eller ved bruk i produksjon eller bearbeiding av næringsmidler eller fôr, kan etterlate seg rester i næringsmidler eller fôr. Ettersom de siste overvåkingsplanene vedtatt av medlemsstatene i henhold til direktiv [96/23/EF](eu/31996l0023) gjelder for året 2022 og dermed lenger enn til 14. desember 2022, bør imidlertid denne forordningen få anvendelse fra 1. januar 2023.
 11. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 95 av 7.4.2017, s. 1.
+
+2 Rådsdirektiv [96/23/EF](eu/31996l0023) av 29. april 1996 om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres restmengder i levende dyr og animalske produkter, og om oppheving av direktiv [85/358/EØF](eu/31985l0358) og [86/469/EØF](eu/31986l0469) samt vedtak [89/187/EØF](eu/31989d0187) og [91/664/EØF](eu/31991d0664) (EFT L 125 av 23.5.1996, s. 10).
+
+3 Delegert kommisjonsforordning [(EU) 2022/931](eu/32022r0931) av 23. mars 2022 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til regler for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler (EUT L 162 av 17.6.2022, s. 7).
+
+4 Kommisjonens gjennomføringsforordning [(EU) 2019/627](eu/32019r0627) av 15. mars 2019 om fastsettelse av ensartede praktiske ordninger for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet på konsum i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625), og om endring av kommisjonsforordning [(EF) nr. 2074/2005](eu/32005r2074) når det gjelder offentlig kontroll (EUT L 131 av 17.5.2019, s. 51).
+
+5 Delegert kommisjonsforordning [(EU) 2019/625](eu/32019r0625) av 4. mars 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til krav ved innføring til Unionen av forsendelser av visse dyr og varer beregnet på konsum (EUT L 131 av 17.5.2019, s. 18).
+
+6 Kommisjonens gjennomføringsforordning [(EU) 2019/2129](eu/32019r2129) av 25. november 2019 om fastsettelse av regler for en ensartet anvendelse av hyppigheten av identitetskontroll og fysisk kontroll av visse forsendelser av dyr og varer som innføres til Unionen (EUT L 321 av 12.12.2019, s. 122)
+
+7 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### KAPITTEL I
 FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
@@ -1809,6 +3340,8 @@ I denne forordningen fastsettes ensartede praktiske ordninger for gjennomføring
 
 I denne forordningen gjelder definisjonene i rådsforordning [(EØF) nr. 315/93](eu/31993r0315)8, forordning [(EF) nr. 178/2002](eu/32002r0178), europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852)9, europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853)10, europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396)11, kommisjonsrekommandasjon [2013/165/EU](eu/32013h0165)12, kommisjonsforordning [(EU) 2017/644](eu/32017r0644)13 og kommisjonsforordning [(EU) 2017/2158](eu/32017r2158)14.
 
+8 Rådsforordning [(EØF) nr. 315/93](eu/31993r0315) av 8. februar 1993 om fastsettelse av framgangsmåter i Fellesskapet i forbindelse med forurensende stoffer i næringsmidler (EFT L 37 av 13.2.1993, s. 1).9 Europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852) av 29. april 2004 om næringsmiddelhygiene (EUT L 139 av 30.4.2004, s. 1).10 Europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (EUT L 139 av 30.4.2004, s. 55).11 Europaparlaments- og rådsforordning [(EF) nr. 396/2005/EF](eu/32005r0396) av 23. februar 2005 om grenseverdier for rester av plantevernmidler i eller på næringsmidler og fôrvarer av vegetabilsk og animalsk opprinnelse og endring av rådsdirektiv [91/414/EØF](eu/31991l0414) (EUT L 70 av 16.3.2005, s. 1).12 Kommisjonsrekommandasjon [2013/165/EU](eu/32013h0165) av 27. mars 2013 om forekomst av T-2- og HT-2-toksin i korn og kornprodukter (EUT L 91 av 3.4.2013, s. 12).13 Kommisjonsforordning [(EU) 2017/644](eu/32017r0644) av 5. april 2017 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning [(EU) nr. 589/2014](eu/32014r0589) (EUT L 92 av 6.4.2017, s. 9).14 Kommisjonsforordning [(EU) 2017/2158](eu/32017r2158) av 20. november 2017 om fastsettelse av begrensende tiltak og referansenivåer for å redusere forekomsten av akrylamid i næringsmidler (EUT L 304 av 21.11.2017, s. 24).
+
 ### KAPITTEL II
 INNHOLD I DEN FLERÅRIGE NASJONALE KONTROLLPLANEN
 
@@ -1818,19 +3351,19 @@ Medlemsstatene skal sikre at den delen av den flerårige nasjonale kontrollplane
 
 ### Artikkel 4. Kontrollplan for næringsmidler som bringes i omsetning på unionsmarkedet
 
-1. Medlemsstatene skal utarbeide en kontrollplan for forekomst av forurensende stoffer eller grupper av forurensende stoffer i næringsmidler som bringes i omsetning på unionsmarkedet, bortsett fra næringsmidler av animalsk opprinnelse som innføres til Unionen. Denne planen skal omfatte offentlig kontroll av hver enkelt medlemsstats nasjonale næringsmiddelproduksjon, næringsmidler som innføres fra andre medlemsstater, næringsmidler av ikke-animalsk opprinnelse som innføres til Unionen, samt sammensatte produkter, også dem som innføres til Unionen fra tredjeland.
+1\. Medlemsstatene skal utarbeide en kontrollplan for forekomst av forurensende stoffer eller grupper av forurensende stoffer i næringsmidler som bringes i omsetning på unionsmarkedet, bortsett fra næringsmidler av animalsk opprinnelse som innføres til Unionen. Denne planen skal omfatte offentlig kontroll av hver enkelt medlemsstats nasjonale næringsmiddelproduksjon, næringsmidler som innføres fra andre medlemsstater, næringsmidler av ikke-animalsk opprinnelse som innføres til Unionen, samt sammensatte produkter, også dem som innføres til Unionen fra tredjeland.
 
-2. Kontrollplanen for næringsmidler som bringes i omsetning på unionsmarkedet, skal inneholdelisten over kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper som skal kontrolleres slik medlemsstaten har fastsatt i samsvar med vedlegg I til delegert kommisjonsforordning [(EU) 2022/931](eu/32022r0931),prøvetakingsstrategien som medlemsstaten har fastsatt i samsvar med vedlegg II til delegert kommisjonsforordning [(EU) 2022/931](eu/32022r0931), ogden faktiske kontrollhyppigheten som medlemsstaten har fastsatt, idet det tas hensyn til den årlige minsteminimum kontrollhyppigheten av kontroll fastsatt i vedlegg I.
+2\. Kontrollplanen for næringsmidler som bringes i omsetning på unionsmarkedet, skal inneholdelisten over kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper som skal kontrolleres slik medlemsstaten har fastsatt i samsvar med vedlegg I til delegert kommisjonsforordning [(EU) 2022/931](eu/32022r0931),prøvetakingsstrategien som medlemsstaten har fastsatt i samsvar med vedlegg II til delegert kommisjonsforordning [(EU) 2022/931](eu/32022r0931), ogden faktiske kontrollhyppigheten som medlemsstaten har fastsatt, idet det tas hensyn til den årlige minsteminimum kontrollhyppigheten av kontroll fastsatt i vedlegg I.
 
-3. I kontrollplanene kan medlemsstatene ta med opplysninger om kontroll av kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper som det er fastsatt nasjonale øvre grenseverdier eller andre tillatte nivåer for i deres nasjonale lovgivning.
+3\. I kontrollplanene kan medlemsstatene ta med opplysninger om kontroll av kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper som det er fastsatt nasjonale øvre grenseverdier eller andre tillatte nivåer for i deres nasjonale lovgivning.
 
 ### Artikkel 5. Kontrollplan for næringsmidler av animalsk opprinnelse som innføres til Unionen
 
-1. Medlemsstatene skal utarbeide en kontrollplan for forekomst av forurensende stoffer eller grupper av forurensende stoffer i næringsmidler av animalsk opprinnelse som innføres til Unionen og er beregnet på å bringes i omsetning på unionsmarkedet. Denne planen skal omfatte offentlig kontroll av næringsmidler av animalsk opprinnelse som innføres til Unionen og er beregnet på å bringes i omsetning på unionsmarkedet, og av fiskerivarer som skal kontrolleres på fartøyer når disse anløper en havn i en medlemsstat.
+1\. Medlemsstatene skal utarbeide en kontrollplan for forekomst av forurensende stoffer eller grupper av forurensende stoffer i næringsmidler av animalsk opprinnelse som innføres til Unionen og er beregnet på å bringes i omsetning på unionsmarkedet. Denne planen skal omfatte offentlig kontroll av næringsmidler av animalsk opprinnelse som innføres til Unionen og er beregnet på å bringes i omsetning på unionsmarkedet, og av fiskerivarer som skal kontrolleres på fartøyer når disse anløper en havn i en medlemsstat.
 
-2. Kontrollplanen for næringsmidler av animalsk opprinnelse som innføres til Unionen, skal inneholdelisten over kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper som skal kontrolleres slik medlemsstatene har fastsatt i samsvar med vedlegg I til delegert kommisjonsforordning [(EU) 2022/931](eu/32022r0931),prøvetakingsstrategien som medlemsstaten har fastsatt i samsvar med vedlegg II til delegert kommisjonsforordning [(EU) 2022/931](eu/32022r0931), ogden faktiske kontrollhyppigheten som medlemsstaten har fastsatt, idet det tas hensyn til den årlige minstehyppigheten av kontroll fastsatt i vedlegg I.
+2\. Kontrollplanen for næringsmidler av animalsk opprinnelse som innføres til Unionen, skal inneholdelisten over kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper som skal kontrolleres slik medlemsstatene har fastsatt i samsvar med vedlegg I til delegert kommisjonsforordning [(EU) 2022/931](eu/32022r0931),prøvetakingsstrategien som medlemsstaten har fastsatt i samsvar med vedlegg II til delegert kommisjonsforordning [(EU) 2022/931](eu/32022r0931), ogden faktiske kontrollhyppigheten som medlemsstaten har fastsatt, idet det tas hensyn til den årlige minstehyppigheten av kontroll fastsatt i vedlegg I.
 
-3. I kontrollplanene kan medlemsstatene ta med opplysninger om kontroll av kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper som det er fastsatt nasjonale øvre grenseverdier eller andre tillatte nivåer for i deres nasjonale lovgivning.
+3\. I kontrollplanene kan medlemsstatene ta med opplysninger om kontroll av kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper som det er fastsatt nasjonale øvre grenseverdier eller andre tillatte nivåer for i deres nasjonale lovgivning.
 
 ### Artikkel 6. Felles krav til kontrollplanene
 
@@ -1862,17 +3395,29 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 1. januar 2023.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 9. juni 2022.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 9. juni 2022.*For Kommisjonen*
+Ursula VON DER LEYEN
+*President*
 
 ### VEDLEGG I
 Minstehyppighet av kontroll per medlemsstat i kontrollplanen for næringsmidler som bringes i omsetning på unionsmarkedet
 
-1. Medlemsstatene skal oppfylle kravene til følgende minstehyppighet av kontroll i kontrollplanen for næringsmidler som bringes i omsetning på unionsmarkedet:*Kontrollhyppighet*►**M1** Uforedlet storfekjøtt (herunder spiselige slaktebiprodukter)Minst 0,01 % av samlet antall slaktedyrUforedlet saue- og geitekjøtt (herunder spiselige slaktebiprodukter)Minst 0,002 % av samlet antall slaktedyrUforedlet svinekjøtt (herunder spiselige slaktebiprodukter)Minst 0,0015 % av samlet antall slaktedyr ◄**M1**Uforedlet kjøtt fra dyr av hestefamilien (herunder spiselige slaktebiprodukter)Antallet prøver skal bestemmes av hver enkelt medlemsstat i samsvar med produksjonsnivået og de problemene som er identifisert►**M1** Uforedlet fjørfekjøtt (herunder spiselige slaktebiprodukter)For hver kategori av fjørfe som vurderes (slaktekyllinger, høner tatt ut av produksjon, kalkuner og annet fjørfe), minst 1 prøve per 5 000 tonn årlig produksjon (dødvekt) ◄**M1**Uforedlet kjøtt fra andre oppdrettede landdyr* (herunder spiselige slaktebiprodukter)Antallet prøver skal bestemmes av hver enkelt medlemsstat i samsvar med produksjonsnivået og de problemene som er identifisertRå kumelkMinst 1 prøve per 110 000 tonn årlig produksjon av melkRå saue- og geitemelkAntallet prøver skal bestemmes av hver enkelt medlemsstat i samsvar med produksjonsnivået og de problemene som er identifisert►**M1** Ferske hønseegg og andre eggMinst 1 prøve per 5 000 tonn årlig produksjon av egg ◄**M1**HonningMinst 1 prøve per 1 300 tonn årlig produksjonUforedlede fiskerivarer** (unntatt krepsdyr)Minst 1 prøve per 700 tonn årlig akvakulturproduksjon for de første 60 000 produksjonstonnene og deretter 1 prøve for hvert 2 000 tonn i tillegg
-For fiskerivarer av villfisk skal antallet prøver bestemmes av hver enkelt medlemsstat i samsvar med produksjonsnivået og de problemene som er identifisertKrepsdyr og toskallede bløtdyrAntallet prøver skal bestemmes av hver enkelt medlemsstat i samsvar med produksjonsnivået og de problemene som er identifisertAnimalske og marine fettstoffer og oljerAntallet prøver skal bestemmes av hver enkelt medlemsstat i samsvar med produksjonsnivået og de problemene som er identifisertForedlede produkter av animalsk opprinnelse***Antallet prøver skal bestemmes av hver enkelt medlemsstat i samsvar med produksjonsnivået og de problemene som er identifisert
+**1. Næringsmidler av animalsk opprinnelse**
+
+1. Medlemsstatene skal oppfylle kravene til følgende minstehyppighet av kontroll i kontrollplanen for næringsmidler som bringes i omsetning på unionsmarkedet:*Kontrollhyppighet*►**M1** Uforedlet storfekjøtt (herunder spiselige slaktebiprodukter)Minst 0,01 % av samlet antall slaktedyrUforedlet saue- og geitekjøtt (herunder spiselige slaktebiprodukter)Minst 0,002 % av samlet antall slaktedyrUforedlet svinekjøtt (herunder spiselige slaktebiprodukter)Minst 0,0015 % av samlet antall slaktedyr ◄**M1**Uforedlet kjøtt fra dyr av hestefamilien (herunder spiselige slaktebiprodukter)Antallet prøver skal bestemmes av hver enkelt medlemsstat i samsvar med produksjonsnivået og de problemene som er identifisert►**M1** Uforedlet fjørfekjøtt (herunder spiselige slaktebiprodukter)For hver kategori av fjørfe som vurderes (slaktekyllinger, høner tatt ut av produksjon, kalkuner og annet fjørfe), minst 1 prøve per 5 000 tonn årlig produksjon (dødvekt) ◄**M1**Uforedlet kjøtt fra andre oppdrettede landdyr\* (herunder spiselige slaktebiprodukter)Antallet prøver skal bestemmes av hver enkelt medlemsstat i samsvar med produksjonsnivået og de problemene som er identifisertRå kumelkMinst 1 prøve per 110 000 tonn årlig produksjon av melkRå saue- og geitemelkAntallet prøver skal bestemmes av hver enkelt medlemsstat i samsvar med produksjonsnivået og de problemene som er identifisert►**M1** Ferske hønseegg og andre eggMinst 1 prøve per 5 000 tonn årlig produksjon av egg ◄**M1**HonningMinst 1 prøve per 1 300 tonn årlig produksjonUforedlede fiskerivarer\*\* (unntatt krepsdyr)Minst 1 prøve per 700 tonn årlig akvakulturproduksjon for de første 60 000 produksjonstonnene og deretter 1 prøve for hvert 2 000 tonn i tillegg
+For fiskerivarer av villfisk skal antallet prøver bestemmes av hver enkelt medlemsstat i samsvar med produksjonsnivået og de problemene som er identifisertKrepsdyr og toskallede bløtdyrAntallet prøver skal bestemmes av hver enkelt medlemsstat i samsvar med produksjonsnivået og de problemene som er identifisertAnimalske og marine fettstoffer og oljerAntallet prøver skal bestemmes av hver enkelt medlemsstat i samsvar med produksjonsnivået og de problemene som er identifisertForedlede produkter av animalsk opprinnelse\*\*\*Antallet prøver skal bestemmes av hver enkelt medlemsstat i samsvar med produksjonsnivået og de problemene som er identifisert
+
+\* Andre oppdrettede landdyr som definert i nr. 1017000 i del A i vedlegg I til forordning [(EF) nr. 396/2005](eu/32005r0396).
+
+\*\* Fiskerivarer som definert i forordning [(EF) nr. 853/2004](eu/32004r0853).
+
+\*\*\* Foredlede produkter som definert i forordning [(EF) nr. 852/2004](eu/32004r0852).
+
+►**M1**
 
 1. Medlemsstatene skal hvert år gjennomføre kontroll av «metaller» i minst 10 % av prøvene som tas for hver enkelt varegruppe i samsvar med tabellen i dette vedlegget, bortsett fra varegruppene «ferske hønseegg og andre egg», «krepsdyr og toskallede bløtdyr», «animalske og marine fettstoffer og oljer» og «foredlede produkter av animalsk opprinnelse».
+
+◄**M1**
 
 1. Medlemsstatene skal hvert år gjennomføre kontroll av «mykotoksiner» i minst 10 % av prøvene som tas for varegruppen «rå kumelk» og «rå saue- og geitemelk» i samsvar med tabellen i dette vedlegget.
 2. I varegruppen «uforedlet kjøtt av storfe, sauer og geiter (herunder spiselige slaktebiprodukter)» skal medlemsstatene ta prøver av alle arter, idet det tas hensyn til deres relative produksjonsvolum.
@@ -1883,8 +3428,49 @@ For fiskerivarer av villfisk skal antallet prøver bestemmes av hver enkelt medl
 7. Dersom det innenfor en treårsperiode ikke oppnås en produksjon som tilsvarer minst én prøve, skal medlemsstatene analysere minst to prøver én gang hvert tredje år, forutsatt at produksjonen av det aktuelle produktet finner sted på deres territorium.
 8. Prøver som tas med henblikk på andre kontrollplaner som er relevante for å analysere forurensende stoffer (for eksempel av farmakologisk virksomme stoffer og deres restmengder, rester av plantevernmidler), kan også benyttes til kontroll av forurensende stoffer, forutsatt at kravene til kontroll av forurensende stoffer er oppfylt.
 
+**2. Næringsmidler av ikke-animalsk opprinnelse**15
+
+Medlemsstatene skal minst ta 100–2 000 prøver per år, avhengig av befolkningens størrelse. Dersom det er nødvendig på grunn av risikoen, skal det tas flere prøver for å sikre at kontrollen forblir effektiv.
+
+Prøvetakingen skal være representativ for de ulike forurensende stoffene som kan forekomme i forskjellige produkter på medlemsstatens marked, idet det også tas hensyn til ulike forurensningsmønstre i produkter med opprinnelse i forskjellige regioner og i de ulike antallene driftsansvarlige for næringsmiddelforetak og foretakenes størrelse.
+
+15 Ved anvendelse av denne forordningen skal de kriteriene som gjelder for næringsmidler av ikke-animalsk opprinnelse, også anvendes på sammensatte produkter.
+
 ### VEDLEGG II
 Minstehyppighet av kontroll per medlemsstat i kontrollplanen for næringsmidler av animalsk opprinnelse som innføres til Unionen
+
+Medlemsstatene skal oppfylle kravene til minstehyppighet for kontroll som fastsatt i tabellen nedenfor.
+
+Kontroll som gjennomføres i henhold til artikkel 47 nr. 1 bokstav d) (styrket kontroll) og bokstav e) (sikkerhetstiltak) i forordning [(EU) 2017/625](eu/32017r0625), skal ikke regnes med for å oppnå minste kontrollhyppighet i dette vedlegget.
+
+Kontroll som gjennomføres i henhold til nødtiltak og skjerpet offentlig kontroll som er innført på grunnlag av artikkel 53 i forordning [(EF) nr. 178/2002](eu/32002r0178) og artikkel 65 nr. 4 i forordning [(EU) 2017/625](eu/32017r0625), skal ikke regnes med for å oppnå minste kontrollhyppighet i dette vedlegget.
+
+Kontroll av næringsmiddelprodukter fra visse tredjeland oppført i vedlegg II til forordning [(EU) 2019/2129](eu/32019r2129), som Unionen har inngått avtaler med om likeverdighet for fysisk kontroll, skal ikke regnes med for å oppnå minste kontrollhyppighet i dette vedlegget.
+
+Ved kontroll av fiskerivarer som gjennomføres i samsvar med artikkel 68 i forordning [(EU) 2019/627](eu/32019r0627), skal medlemsstatene ta hensyn til geografiske forhold, ilandførings-/produksjonsvolumer og særlige forurensningsmønstre i høstingsområdene.
+
+|  | *Kontrollhyppighet* |
+| --- | --- |
+| Storfe (herunder kjøtt, kvernet kjøtt, mekanisk utbeinet kjøtt, spiselige slaktebiprodukter, bearbeidet kjøtt og kjøttprodukter) | Minst 1 % av de importerte forsendelsene |
+| Sauer/geiter (herunder kjøtt, kvernet kjøtt, mekanisk utbeinet kjøtt, spiselige slaktebiprodukter, bearbeidet kjøtt og kjøttprodukter) | Minst 1 % av de importerte forsendelsene |
+| Svin (herunder kjøtt, kvernet kjøtt, mekanisk utbeinet kjøtt, spiselige slaktebiprodukter, bearbeidet kjøtt og kjøttprodukter) | Minst 1 % av de importerte forsendelsene |
+| Dyr av hestefamilien (herunder kjøtt, kvernet kjøtt, mekanisk utbeinet kjøtt, spiselige slaktebiprodukter, bearbeidet kjøtt og kjøttprodukter) | Minst 1 % av de importerte forsendelsene |
+| Fjørfe (herunder kjøtt, kvernet kjøtt, mekanisk utbeinet kjøtt, spiselige slaktebiprodukter, bearbeidet kjøtt og kjøttprodukter) | Minst 1 % av de importerte forsendelsene |
+| Kjøtt fra andre oppdrettede landdyr\* (herunder kjøtt, kvernet kjøtt, mekanisk utbeinet kjøtt, spiselige slaktebiprodukter, bearbeidet kjøtt og kjøttprodukter) | Minst 1 % av de importerte forsendelsene |
+| Melk (herunder rå melk, melkeprodukter, råmelk og råmelkbaserte produkter fra alle arter) | Minst 1 % av de importerte forsendelsene |
+| Egg (herunder egg og eggprodukter fra alle fuglearter) | Minst 1 % av de importerte forsendelsene |
+| Honning (herunder honning- og andre biavlsprodukter) | Minst 1 % av de importerte forsendelsene |
+| Uforedlede fiskerivarer\*\* unntatt krepsdyr | Minst 1 % av de importerte forsendelsene |
+| Krepsdyr og toskallede bløtdyr (herunder muskelkjøtt og muskelkjøttprodukter) | Minst 1 % av de importerte forsendelsene |
+| Uforedlede animalske og marine fettstoffer og oljer\*\*\* | Minst 1 % av de importerte forsendelsene |
+
+\* Andre oppdrettede landdyr som definert i nr. 1017000 i del A i vedlegg I til forordning [(EF) nr. 396/2005](eu/32005r0396).
+
+\*\* Fiskerivarer som definert i forordning [(EF) nr. 853/2004](eu/32004r0853).
+
+\*\*\* Foredlede produkter som definert i forordning [(EF) nr. 852/2004](eu/32004r0852).
+
+Tilleggsbestemmelser:
 
 1. Kontrollhyppigheten for andre foredlede næringsmiddelprodukter av animalsk opprinnelse, for eksempel gelatin og kollagen, skal fastsettes av hver enkelt medlemsstat, idet det tas hensyn til antallet importerte forsendelser og de problemene som er identifisert.
 2. Ved beregning av minste kontrollhyppighet oppført i dette vedlegget, skal medlemsstatene benytte de nyeste dataene om antallet forsendelser som innføres til Unionen gjennom deres grensekontrollstasjoner, som minst er fra forrige år eller høyst fra to år siden.
@@ -1899,8 +3485,24 @@ Minstehyppighet av kontroll per medlemsstat i kontrollplanen for næringsmidler 
 av 24. august 2022
 om fastsettelse av prøvetakings- og analysemetoder for kontroll av perfluoralkylstoffer i visse næringsmidler
 
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001) og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008l0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 34 nr. 6, og
+
+ut fra følgende betraktninger:
+
 1. Kommisjonsforordning [(EF) nr. 1881/2006](eu/32006r1881)2 fastsetter øvre grenseverdier for perfluoralkylstoffer (PFAS) i visse næringsmidler, og i kommisjonsrekommandasjon [(EU) 2022/1431](eu/32022h1431)3 er det angitt veiledende grenseverdier over hvilke Kommisjonen anbefaler at medlemsstatene undersøker årsakene til PFAS-forurensning i næringsmidler med høye konsentrasjoner av PFAS. For å sikre pålitelighet og konsekvens i offentlige kontroller av de øvre grenseverdiene for PFAS i visse næringsmidler, bør det fastsettes detaljerte krav til metodene for prøvetaking og laboratorieanalyser.
 2. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+
+1 EUT L 95 av 7.4.2017, s. 1.
+
+2 Kommisjonsforordning [(EF) nr. 1881/2006](eu/32006r1881) av 19. desember 2006 om fastsettelse av grenseverdier for visse forurensende stoffer i næringsmidler (EUT L 364 av 20.12.2006, s. 5).
+
+3 Kommisjonsrekommandasjon [(EU) 2022/1431](eu/32022h1431) av 24. august 2022 om overvåking av perfluoralkylstoffer i næringsmidler (EUT L 221 av 26.8.2022, s. 105).
+
+VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1
 
@@ -1914,22 +3516,36 @@ Tillaging av prøver samt analyser beregnet på offentlig kontroll av PFAS-innho
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 24. august 2022.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 24. august 2022.*For Kommisjonen*
+Ursula von der Leyen
+*President*
 
 ### VEDLEGG
 
 ### DEL A
 PRØVETAKINGSMETODER
 
+A.1.
+
 GENERELLE BESTEMMELSER
+
+A.1.1.*Materiale til prøvetaking*
+
+Prøvetakingen skal foretas atskilt for hvert parti eller delparti som skal undersøkes.
+
+A.1.2.*Enkeltprøver*
 
 Enkeltprøver bør så vidt mulig tas fra forskjellige steder i hele partiet eller delpartiet. Avvik fra denne prosedyren skal registreres i rapporten omhandlet i punkt A.1.6.
 
+A.1.3.*Tillaging av samleprøven*
+
 Samleprøven skal framkomme ved å samle alle enkeltprøvene. Den skal være på minst 1 kg eller 1 liter, med mindre dette ikke er praktisk mulig, f.eks. ved prøvetaking av en enkeltpakning eller dersom produktet har svært høy kommersiell verdi.
 
+A.1.4.*Parallellprøver*
+
 Dersom det tas parallellprøver for håndhevings-, klageadgangs- eller referanseformål, skal de tas fra den homogeniserte samleprøven, med mindre en slik prosedyre er i strid med en medlemsstats bestemmelser om rettighetene til den driftsansvarlige for næringsmiddelforetaket.
+
+A.1.5.*Forholdsregler*
 
 Under prøvetakingen og tillagingen av prøvene skal det tas forholdsregler for å unngå endringer som kan påvirke PFAS-innholdet, ha negativ innvirkning på den analytiske bestemmelsen eller gjøre at samleprøvene ikke er representative.
 
@@ -1937,17 +3553,43 @@ Personen med ansvar for prøvetaking skal treffe følgende forholdsregler:Ikke b
 
 Materialer som brukes under prøvetaking, -lagring og -transport, skal ikke inneholde PFAS-er. Prøven skal ikke komme i kontakt med materialer som skjærebrett, prøvebeholdere eller belegg på lokk til prøvebeholdere som er laget av polytetrafluoretylen (PTFE eller teflon), polyvinylidenfluorid (PVDF) eller andre fluorpolymerer. Kontakt med andre PFAS-holdige materialer skal unngås.
 
+A.1.6.*Forsegling og merking av prøver*
+
 Hver prøve skal forsegles på prøvetakingsstedet og identifiseres i samsvar med nasjonale regler.
 
 For hver prøvetaking skal det utarbeides en rapport, slik at hvert parti entydig kan identifiseres, med angivelse av dato og sted for prøvetakingen og ytterligere opplysninger som kan være nyttig for å tolke resultatet.
 
+A.1.7.*Emballering og forsendelse av prøver*
+
 Hver prøve skal plasseres i en ren beholder av inert materiale laget av polypropylen, polyetylen eller annet materiale som ikke inneholder PFAS-er, og som er egnet til å bevare prøvens integritet og gi tilstrekkelig beskyttelse mot forurensning, tap av analytter ved adsorpsjon til innersiden av beholderen og skader under transport. Bruk av glassbeholdere er ikke tillatt. Alle nødvendige forholdsregler skal tas for å unngå endringer av prøvens sammensetning som kan oppstå under transport eller lagring.
+
+A.2.
 
 PRØVETAKINGSPLANER
 
-Store partier skal inndeles i delpartier, forutsatt at delpartiet fysisk kan utskilles. For produkter som omsettes i store bulksendinger (f.eks. vegetabilske oljer), får tabell 1 anvendelse. Tabell 2 får anvendelse på andre produkter. Ettersom vekten på et parti ikke alltid vil være et eksakt multiplum av vekten av delpartiene, kan vekten av delpartiene overskride den angitte vekten med opptil 20 %.*Tabell 1*
-*Inndeling av partier i delpartier for produkter som omsettes i bulkforsendelser**Partiets vekt (tonn)**Delpartienes vekt eller antall*≥ 1 500500 tonn> 300 og < 1 5003 delpartier≥ 100 og ≤ 300100 tonn< 100– *Tabell 2*
-*Inndeling av partier i delpartier for produkter som ikke omsettes i bulkforsendelser**Partiets vekt (tonn)**Delpartienes vekt eller antall*≥ 1515–30 tonn< 15–
+A.2.1.*Inndeling av partier i delpartier*
+
+Store partier skal inndeles i delpartier, forutsatt at delpartiet fysisk kan utskilles. For produkter som omsettes i store bulksendinger (f.eks. vegetabilske oljer), får tabell 1 anvendelse. Tabell 2 får anvendelse på andre produkter. Ettersom vekten på et parti ikke alltid vil være et eksakt multiplum av vekten av delpartiene, kan vekten av delpartiene overskride den angitte vekten med opptil 20 %.
+
+*Tabell 1*
+*Inndeling av partier i delpartier for produkter som omsettes i bulkforsendelser*
+
+| *Partiets vekt (tonn)* | *Delpartienes vekt eller antall* |
+| --- | --- |
+| ≥ 1 500 | 500 tonn |
+| > 300 og < 1 500 | 3 delpartier |
+| ≥ 100 og ≤ 300 | 100 tonn |
+| < 100 | – |
+
+*Tabell 2*
+*Inndeling av partier i delpartier for produkter som ikke omsettes i bulkforsendelser*
+
+| *Partiets vekt (tonn)* | *Delpartienes vekt eller antall* |
+| --- | --- |
+| ≥ 15 | 15–30 tonn |
+| < 15 | – |
+
+A.2.2.*Antall enkeltprøver*
 
 Det minste antallet enkeltprøver som skal tas fra partiet eller delpartiet, skal være som angitt i tabell 3 og 4.
 
@@ -1955,9 +3597,27 @@ For flytende produkter i bulk skal partiet eller delpartiet blandes så grundig 
 
 Dersom partiet eller delpartiet består av enkeltpakninger eller enkeltenheter, skal antallet pakninger eller enheter (enkeltprøver) som skal tas for å danne samleprøven, være som angitt i tabell 4.
 
-Enkeltprøvene skal ha tilnærmet samme vekt/volum. Enkeltprøvenes vekt/volum skal være minst 100 gram eller 100 milliliter, som skal gi en samleprøve på minst ca. 1 kg eller 1 liter. Dersom dette ikke er mulig, får bestemmelsene i A.2.6 anvendelse.*Tabell 3*
-*Minste antall enkeltprøver som skal tas fra partiet eller delpartiet av næringsmidler, dersom partiet ikke består av enkeltpakninger eller enkeltenheter av næringsmidler**Partiets/delpartiets volum eller vekt (i kg eller liter)**Minste antall enkeltprøver som skal tas*< 503≥ 50 og ≤ 5005> 50010 *Tabell 4*
-*Antall pakninger eller enheter (enkeltprøver) som skal utgjøre samleprøven dersom partiet eller delpartiet består av enkeltpakninger eller enkeltenheter av næringsmidler**Antall pakninger eller enheter i partiet/delpartiet**Antall pakninger eller enheter som skal inngå i prøvetakingen*≤ 25Minst én pakning eller enhet26–100Ca. 5 %, minst to pakninger eller enheter> 100Ca. 5 %, høyst ti pakninger eller enheter
+Enkeltprøvene skal ha tilnærmet samme vekt/volum. Enkeltprøvenes vekt/volum skal være minst 100 gram eller 100 milliliter, som skal gi en samleprøve på minst ca. 1 kg eller 1 liter. Dersom dette ikke er mulig, får bestemmelsene i A.2.6 anvendelse.
+
+*Tabell 3*
+*Minste antall enkeltprøver som skal tas fra partiet eller delpartiet av næringsmidler, dersom partiet ikke består av enkeltpakninger eller enkeltenheter av næringsmidler*
+
+| *Partiets/delpartiets volum eller vekt (i kg eller liter)* | *Minste antall enkeltprøver som skal tas* |
+| --- | --- |
+| < 50 | 3 |
+| ≥ 50 og ≤ 500 | 5 |
+| > 500 | 10 |
+
+*Tabell 4*
+*Antall pakninger eller enheter (enkeltprøver) som skal utgjøre samleprøven dersom partiet eller delpartiet består av enkeltpakninger eller enkeltenheter av næringsmidler*
+
+| *Antall pakninger eller enheter i partiet/delpartiet* | *Antall pakninger eller enheter som skal inngå i prøvetakingen* |
+| --- | --- |
+| ≤ 25 | Minst én pakning eller enhet |
+| 26–100 | Ca. 5 %, minst to pakninger eller enheter |
+| > 100 | Ca. 5 %, høyst ti pakninger eller enheter |
+
+A.2.3.*Særlige bestemmelser om prøvetaking av partier som inneholder hel fisk av sammenlignbar størrelse eller vekt*
 
 Antallet enkeltprøver som skal tas fra partiet, er angitt i tabell 3. Samleprøven, som er en samling av alle enkeltprøvene, skal veie minst 1 kg (se punkt A.1.3).
 
@@ -1969,11 +3629,15 @@ Dersom partiet som det skal tas prøver fra, inneholder stor fisk (der hver fisk
 
 For ekstra stor fisk (≥ 6 kg) skal enkeltprøven tas fra kjøttet i ryggmuskelen på høyre side (sett forfra) i fiskens midtparti. Dersom uttak av et slikt stykke av fiskens midtparti ville føre til et betydelig økonomisk tap, kan det anses som tilstrekkelig å ta tre enkeltprøver à minst 350 gram, uavhengig av partiets størrelse, eller eventuelt tre enkeltprøver à minst 350 gram fra en like stor del (175 gram) av muskelkjøttet nær haledelen og muskelkjøttet nær hodedelen fra hver fisk kan anses som tilstrekkelig, uavhengig av partiets størrelse.
 
+A.2.4.*Særlige bestemmelser om prøvetaking av fiskepartier som inneholder hel fisk med ulik størrelse eller vekt*
+
 Bestemmelsene i punkt A.2.3 får anvendelse.
 
 Dersom en viss størrelse eller vektklasse/vektkategori dominerer (ca. 80 % eller mer av partiet), skal prøven tas fra fisk med den dominerende størrelsen eller vekten. Denne prøven skal anses som representativ for hele partiet.
 
 Dersom ingen bestemt størrelse eller vektklasse/vektkategori dominerer, skal det sikres at fisken som velges til prøven, er representative for partiet. Nærmere retningslinjer for slike tilfeller finnes i «Guidance on sampling of whole fishes of different size and/or weight»4.
+
+A.2.5.*Særlige bestemmelser om prøvetaking av landdyr*
 
 For kjøtt og innmat fra svin, storfe, sau, geit og dyr av hestefamilien skal det tas en prøve på 1 kg fra minst ett dyr. Dersom det ikke er mulig å ta en prøve på 1 kg fra minst ett dyr, skal det tas prøver i like store mengder fra flere enn ett dyr for å få en prøvemengde på 1 kg.
 
@@ -1981,14 +3645,26 @@ For fjørfekjøtt skal det tas prøver i like store mengder fra minst tre dyr fo
 
 For kjøtt og innmat fra oppdrettsvilt og viltlevende landdyr skal det tas en prøve på 300 gram fra minst ett dyr. Dersom det ikke er mulig å ta en prøve på 300 gram fra minst ett dyr, skal det tas prøver i like store mengder fra flere enn ett dyr for å få en prøvemengde på 300 gram.
 
+A.2.6.*Alternative prøvetakingsmetoder*
+
 Dersom prøvetakingen ikke kan gjennomføres etter metoden fastsatt i punkt A.2 uten at det får uakseptable økonomiske konsekvenser (for eksempel på grunn av emballasjeform eller skade på partiet), eller dersom det er praktisk umulig, kan det benyttes en alternativ prøvetakingsmetode, forutsatt at den er tilstrekkelig representativ for partiet eller delpartiet det skal tas prøver fra, og at den dokumenteres fullt ut. Dette skal registreres i rapporten fastsatt i punkt A.1.6.
 
+A.2.7.*Prøvetaking i detaljistleddet*
+
 Prøvetaking av næringsmidler i detaljistleddet skal om mulig skje i samsvar med bestemmelsene om prøvetaking fastsatt i punkt A.2. Dersom dette ikke er mulig, kan en annen metode for prøvetaking i detaljistleddet følges, forutsatt at den sikrer en tilstrekkelig representativ prøvetaking av partiet eller delpartiet.
+
+4 [https://ec.europa.eu/food/system/files/2022-05/cs_contaminants_sampling_guid-samp-fishes.pdf](https://ec.europa.eu/food/system/files/2022-05/cs_contaminants_sampling_guid-samp-fishes.pdf).
 
 ### DEL B
 TILLAGING OG ANALYSE AV PRØVER
 
+B.1.*Kvalitetsstandarder for laboratorier*
+
 Prinsippene beskrevet i «Guidance Document on Analytical Parameters for the Determination of Per- and Polyfluoroalkyl Substances in Food and Feed»5 fra Den europeiske unions referanselaboratorium skal følges.
+
+B.2.*Tillaging av prøve*
+
+B.2.1.*Generelle krav*
 
 Det grunnleggende kravet er å oppnå en representativ og ensartet laboratorieprøve uten å tilføre sekundær forurensning.
 
@@ -2000,24 +3676,46 @@ For fisk skal alt prøvemateriale som laboratoriet mottar, og som den øvre gren
 
 På grunnlag av innholdet som blir funnet i laboratorieprøvene, skal det fastslås om de øvre grenseverdiene fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881) er overholdt.
 
+B.2.2.*Spesifikke prosedyrer og forholdsregler for tillaging av prøver*
+
 Den som foretar analysen, skal sikre at prøvene ikke forurenses under tillagingen, ved å følge forholdsreglene som er beskrevet i punkt A.1.5. Videre skal apparater og utstyr som kommer i kontakt med prøven, om mulig ikke inneholde PFAS-er, og de skal erstattes av f.eks. deler av rustfritt stål, polyetylen med høy tetthet (HDPE) eller polypropylen. Disse skal rengjøres med PFAS-fritt vann eller PFAS-frie løsemidler og vaskemidler.
 
 Reagenser og annet utstyr som brukes til analyse og prøvetaking, skal kontrolleres for å unngå mulig innføring eller tap av PFAS.
 
 Det skal utføres en blindprøve der hele analyseprosessen gjennomføres på samme måte som med analyseprøven. Ved tillaging av blindprøver kan vann brukes i stedet for matrisen. Nivåene i blindprøvene skal overvåkes i hver prøvesekvens.
 
+B.3.*Analysemetoder: spesifikke ytelseskrav*
+
 Laboratoriene kan selv velge hvilken validert analysemetode de vil bruke for den respektive matrisen, forutsatt at den valgte metoden oppfyller de spesifikke ytelseskriteriene i tabell 5.
 
 Fullt validerte metoder (dvs. metoder som er validerte ved undersøkelse foretatt ved flere laboratorier for den respektive matrisen) skal brukes, eller, dersom dette ikke er mulig, andre validerte metoder (f.eks. internt validerte metoder for den respektive matrisen), forutsatt at de oppfyller ytelseskriteriene i tabell 5.
 
-Om mulig skal valideringen av de internt validerte metodene omfatte bruk av et sertifisert referansemateriale og/eller deltakelse i sammenlignende laboratoriestudier.*Tabell 5**Parameter**Kriterium*AnvendelseNæringsmidlene angitt i forordning [(EF) nr. 1881/2006](eu/32006r1881)SelektivitetAnalysemetodene skal muliggjøre pålitelig og konsekvent separasjon av de relevante analyttene fra andre muligens interfererende forbindelser som ekstraheres samtidig.Intern reproduserbarhet (intermediær presisjon)(RSDR)≤ 20 %Riktighet–20 % til +20 %LOQLOQ for PFOS, PFOA, PFNA og PFHxS er hver for seg ≤ øvre grenseverdi for det respektive individuelle PFAS-et. Overholdelse av dette kravet innebærer at det ikke skal utledes noen LOQ for konsentrasjonen av summen av PFOS, PFOA, PFNA og PFHxS, som beregnes ved å summere bare konsentrasjonene av PFOS, PFOA, PFNA og PFHxS som ble kvantifisert ved eller over sine respektive LOQ-grenser.
+Om mulig skal valideringen av de internt validerte metodene omfatte bruk av et sertifisert referansemateriale og/eller deltakelse i sammenlignende laboratoriestudier.
+
+*Tabell 5*
+
+| *Parameter* | *Kriterium* |
+| --- | --- |
+| Anvendelse | Næringsmidlene angitt i forordning [(EF) nr. 1881/2006](eu/32006r1881) |
+| Selektivitet | Analysemetodene skal muliggjøre pålitelig og konsekvent separasjon av de relevante analyttene fra andre muligens interfererende forbindelser som ekstraheres samtidig. |
+| Intern reproduserbarhet (intermediær presisjon)(RSDR) | ≤ 20 % |
+| Riktighet | –20 % til +20 % |
+| LOQ | LOQ for PFOS, PFOA, PFNA og PFHxS er hver for seg ≤ øvre grenseverdi for det respektive individuelle PFAS-et. Overholdelse av dette kravet innebærer at det ikke skal utledes noen LOQ for konsentrasjonen av summen av PFOS, PFOA, PFNA og PFHxS, som beregnes ved å summere bare konsentrasjonene av PFOS, PFOA, PFNA og PFHxS som ble kvantifisert ved eller over sine respektive LOQ-grenser. |
+
+5 [https://ec.europa.eu/food/system/files/2022-05/cs_contaminants_sampling_guid-doc-analyt-para_0.pdf](https://ec.europa.eu/food/system/files/2022-05/cs_contaminants_sampling_guid-doc-analyt-para_0.pdf).
 
 ### DEL C
 RAPPORTERING OG TOLKING AV RESULTATENE
 
+C.1.
+
 RAPPORTERING
 
+C.1.1.*Resultat av prøvingen*
+
 Resultatene skal rapporteres som anioner og presenteres i de samme enhetene og med samme antall signifikante sifre som de øvre grenseverdiene fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881). For summen av PFOS, PFOA, PFNA og PFHxS skal bare konsentrasjonene ved og over LOQ tas med ved beregningen av summen.
+
+C.1.2.*Måleusikkerhet*
 
 Analyseresultatet skal rapporteres som x +/– U, der x er analyseresultatet og U er den utvidede måleusikkerheten, og ved bruk av en dekningsfaktor på 2, som gir et konfidensnivå på ca. 95 % (U = 2u).
 
@@ -2027,10 +3725,20 @@ I disse tilfellene beregnes den kombinerte standard måleusikkerheten «u» for 
 
 Den som foretar analysen, skal ta hensyn til «Report on the relationship between analytical results, measurement uncertainty, recovery factors and the provisions of EU food and feed legislation»6.
 
+C.2.
+
 TOLKING AV RESULTATENE
+
+C.2.1.*Godkjenning av et parti eller delparti*
 
 Partiet eller delpartiet godkjennes dersom analyseresultatet av laboratorieprøven ikke overskrider de respektive øvre grenseverdiene som fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881), idet det tas hensyn til den utvidede måleusikkerheten.
 
+C.2.2.*Avvisning av et parti eller delparti*
+
 Partiet eller delpartiet avvises dersom analyseresultatet av laboratorieprøven overskrider de respektive øvre grenseverdiene som fastsatt i forordning [(EF) nr. 1881/2006](eu/32006r1881), idet det tas hensyn til den utvidede måleusikkerheten.
 
+C.2.3.*Anvendelse*
+
 Disse reglene for tolkning av resultater gjelder for analyseresultatet av prøven som tas for kontrollformål. Når det gjelder analyser for klageadgangs- eller referanseformål, gjelder nasjonale regler.
+
+6 [https://ec.europa.eu/food/system/files/2016-10/cs_contaminants_sampling_analysis-report_2004_en.pdf](https://ec.europa.eu/food/system/files/2016-10/cs_contaminants_sampling_analysis-report_2004_en.pdf).
