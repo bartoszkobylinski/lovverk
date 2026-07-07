@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-09-20"
 last_change_in_force: null
 last_updated: null
-xml_hash: "01c637b80bd42adc3067ff7addd7d4bf7538db7768821660bfcb4126e74dae35"
+xml_hash: "7de1194d3085bec6d3777163c9f45c500b872b1f5e79a8751350490b0e52616e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,7 @@ Styret bestemmer for hvert studieår hvilket antall studenter som kan tas opp ti
 
 ### § 2-3. Opptakskrav
 
-(1) For opptak kreves fullført og bestått videregående opplæring, NKR nivå 4, med fagbrev eller svennebrev eller vitnemål fra definerte utdanningsprogrammer i videregående opplæring eller tilsvarende kompetanse. Realkompetansevurdering vurderes opp mot formelt opptakskrav. Nærmere opptakskrav er beskrevet på vår hjemmeside:[http://www.kdcoslo.no/](https://www.kdcoslo.no/) og kan variere for det enkelte studiet. De som søker fagskoleutdanning kan få forskriften tilsendt på e-mail eller i posten.
+(1) For opptak kreves fullført og bestått videregående opplæring, NKR nivå 4, med fagbrev eller svennebrev eller vitnemål fra definerte utdanningsprogrammer i videregående opplæring eller tilsvarende kompetanse. Realkompetansevurdering vurderes opp mot formelt opptakskrav. Nærmere opptakskrav er beskrevet på vår hjemmeside: [http://www.kdcoslo.no/](https://www.kdcoslo.no/) og kan variere for det enkelte studiet. De som søker fagskoleutdanning kan få forskriften tilsendt på e-mail eller i posten.
 
 (2) Godkjent opptakskrav – formell kompetanse:Formelt opptakskrav er fullført og bestått videregående opplæring med relevant fagbrev eller svennebrev eller vitnemål fra definerte utdanningsprogrammer i videregående opplæring nivå 4 i NKR. I studieplanen for hvert enkelt studie oppgis det hvilke fagbrev, svennebrev eller vitnemål fra utdanningsprogram som gjelder for formelt opptakskrav.
 
