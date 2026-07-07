@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2010-01-01"
 last_change_in_force: "2023-07-01"
 last_updated: "2022-03-08"
-xml_hash: "f3303de86cc531dbca8e137bd0fafda3db2cbc98c1155894c7f9e11230f53a64"
+xml_hash: "48198e89394ec76756b8541a9ba88d6482002d3fa951c156985aed5980e3e92d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -134,7 +134,15 @@ Leder skal ha kunnskap om sikkerhet ved egne vassdragsanlegg, regelverk, overvå
 
 ### § 3-3. Kvalifikasjonskrav til vassdragsteknisk ansvarlig (VTA) og stedfortredende VTA
 
-VTA skal ha følgende utdanning og praksis:Tabell 3-3.1: Kvalifikasjonskrav til VTA.*Konsekvensklasse**Utdanning**Praksis*3 og 4Master i teknologi/sivilingeniør bygg eller tilsvarende grad, med relevant fagkrets. Det kan aksepteres master i teknologi/sivilingeniør med maskintekniske fag dersom dette er relevant for oppgaven.Minimum 30 måneder relevant praksis fra sikkerhetsarbeid ved dammer og andre vassdragsanlegg.2Bachelor i ingeniørfag/eksamen fra ingeniørhøgskole som bygningsingeniør eller tilsvarende utdanning, med relevant fagkrets. Det kan aksepteres utdanning i maskintekniske fag dersom dette er relevant for oppgaven.Minimum 30 måneder relevant praksis fra sikkerhetsarbeid ved dammer og andre vassdragsanlegg.1Bachelor i ingeniørfag/eksamen fra ingeniørhøgskole, fagskole bygg/anlegg eller tilsvarende utdanning, med relevant fagkrets.Minimum 30 måneder relevant praksis fra sikkerhetsarbeid ved dammer og andre vassdragsanlegg.
+VTA skal ha følgende utdanning og praksis:
+
+Tabell 3-3.1: Kvalifikasjonskrav til VTA.
+
+| *Konsekvensklasse* | *Utdanning* | *Praksis* |
+| --- | --- | --- |
+| 3 og 4 | Master i teknologi/sivilingeniør bygg eller tilsvarende grad, med relevant fagkrets. Det kan aksepteres master i teknologi/sivilingeniør med maskintekniske fag dersom dette er relevant for oppgaven. | Minimum 30 måneder relevant praksis fra sikkerhetsarbeid ved dammer og andre vassdragsanlegg. |
+| 2 | Bachelor i ingeniørfag/eksamen fra ingeniørhøgskole som bygningsingeniør eller tilsvarende utdanning, med relevant fagkrets. Det kan aksepteres utdanning i maskintekniske fag dersom dette er relevant for oppgaven. | Minimum 30 måneder relevant praksis fra sikkerhetsarbeid ved dammer og andre vassdragsanlegg. |
+| 1 | Bachelor i ingeniørfag/eksamen fra ingeniørhøgskole, fagskole bygg/anlegg eller tilsvarende utdanning, med relevant fagkrets. | Minimum 30 måneder relevant praksis fra sikkerhetsarbeid ved dammer og andre vassdragsanlegg. |
 
 Ved relevant etterutdanning og/eller praksis av lengre varighet enn angitt i tabell 3-3.1 kan NVE redusere kravene til utdanning. Annen relevant praksis kan godtas som en del av samlet praksis som kreves i henhold til tabell 3-3.1.
 
@@ -152,7 +160,15 @@ Godkjenning av fagansvarlig gis for følgende fagområder:I betong-/murdammer me
 
 Fagområde I og II omfatter også andre vassdragsanlegg av samme materiale.
 
-For å bli godkjent som fagansvarlig må søkeren ha utdanning som master i teknologi/sivilingeniør eller tilsvarende grad med relevant fagkrets. Fagansvarlig skal videre ha minimum samlet relevant praksis i overensstemmelse med følgende tabell:Tabell 3-5.1: Praksiskrav til fagansvarlig.*Fagområde**Konsekvensklasse 1**Konsekvensklasse 2, 3 og 4*I, II og III30 måneder60 månederIV20 måneder40 månederV10 måneder20 måneder
+For å bli godkjent som fagansvarlig må søkeren ha utdanning som master i teknologi/sivilingeniør eller tilsvarende grad med relevant fagkrets. Fagansvarlig skal videre ha minimum samlet relevant praksis i overensstemmelse med følgende tabell:
+
+Tabell 3-5.1: Praksiskrav til fagansvarlig.
+
+| *Fagområde* | *Konsekvensklasse 1* | *Konsekvensklasse 2, 3 og 4* |
+| --- | --- | --- |
+| I, II og III | 30 måneder | 60 måneder |
+| IV | 20 måneder | 40 måneder |
+| V | 10 måneder | 20 måneder |
 
 Relevant etterutdanning og/eller praksis av lengre varighet enn angitt i tabell 3-5.1 kan redusere kravene til utdanning. Relevant etterutdanning kan redusere kravet til praksis angitt i tabell 3-5.1.
 
@@ -192,7 +208,14 @@ NVE fører liste over godkjente fagansvarlige.
 
 For anlegg i konsekvensklasse 1 og 2 må utførende foretak ha sentral godkjenning som ansvarlig utførende i tiltaksklasse 2 i relevant godkjenningsområde. For anlegg i konsekvensklasse 3 og 4 må utførende foretak ha sentral godkjenning som ansvarlig utførende i tiltaksklasse 3. Foretak som ikke har aktuell sentral godkjenning må dokumentere at foretaket er kvalifisert.
 
-Arbeidene skal ledes av en anleggsleder som tilfredsstiller følgende krav:Tabell 3-8.1: Kvalifikasjonskrav til anleggsleder.*Konsekvensklasse**Utdanning**Praksis (av nyere dato)*3 og 4Bachelor i ingeniørfag/eksamen fra ingeniørhøgskole som bygningsingeniør eller tilsvarende utdanning, med relevant fagkretsMinimum 50 måneder relevant praksis1 og 2Eksamen fra fagskole innen bygg/anlegg eller tilsvarende utdanningMinimum 30 måneder relevant praksis
+Arbeidene skal ledes av en anleggsleder som tilfredsstiller følgende krav:
+
+Tabell 3-8.1: Kvalifikasjonskrav til anleggsleder.
+
+| *Konsekvensklasse* | *Utdanning* | *Praksis (av nyere dato)* |
+| --- | --- | --- |
+| 3 og 4 | Bachelor i ingeniørfag/eksamen fra ingeniørhøgskole som bygningsingeniør eller tilsvarende utdanning, med relevant fagkrets | Minimum 50 måneder relevant praksis |
+| 1 og 2 | Eksamen fra fagskole innen bygg/anlegg eller tilsvarende utdanning | Minimum 30 måneder relevant praksis |
 
 For foretak som produserer og/eller monterer utstyr innen fagområde III i henhold til [§ 3-5](forskrift/2009-12-18-1600/§3-5) skal produksjons- og montasjeleder ha utdanning og praksis innen relevant fagområde tilsvarende det som kreves for anleggsleder.
 
@@ -225,7 +248,16 @@ Ved vurdering av konsekvenser skal det minimum regnes med brudd, svikt eller fei
 
 Konsekvensvurderinger skal omfatte både direkte skader og eventuelle følgeskader av bruddvannføring, vannstandsendring eller vannstråle. Det skal vurderes om bruddvannføring, vannstandsendring eller vannstråle kan berøre boliger eller andre bygninger, og steder der mennesker oppholder seg over noe tid. Det skal videre vurderes om det kan oppstå skade på infrastruktur eller andre viktige samfunnsfunksjoner som kan medføre fare for liv og helse. Tap av magasin, produksjon og produksjonsmidler, samt skade på eiendom og miljø skal også vektlegges. Konsekvensvurderingen skal ikke omfatte vurderinger som dekkes av lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven).
 
-Forslag til konsekvensklasse skal fremmes med utgangspunkt i tabellen nedenfor. Dersom minst ett av kriteriene knyttet til en bestemt konsekvensklasse er oppfylt, skal ikke konsekvensklassen settes lavere enn den aktuelle klassen som er angitt i tabellen. Der flere kriterier er oppfylt og summen av konsekvenser blir ekstra store, kan NVE ut fra en samlet vurdering fastsette en høyere konsekvensklasse enn det som fremgår direkte av tabellen.Tabell 4-2.1 Klassifiseringskriterier.*Konsekvensklasse**Boenheter**Infrastruktur, samfunnsfunksjoner**Miljø og eiendom*4> 150321-150Skade på sterkt trafikkert veg eller jernbane, eller annen infrastruktur, med spesielt stor betydning for liv og helseStor skade på spesielt viktige miljøverdier eller spesielt stor skade på fremmed eiendom21 – 20Skader på middels trafikkert veg eller jernbane eller annen infrastruktur med stor betydning for liv og helse.Stor skade på viktige miljøverdier eller stor skade på fremmed eiendom1Midlertidig oppholdssted tilsvarende < 1 permanent boenhetSkader på mindre trafikkert veg eller annen infrastruktur med betydning for liv og helseSkade på miljøverdier eller fremmed eiendom
+Forslag til konsekvensklasse skal fremmes med utgangspunkt i tabellen nedenfor. Dersom minst ett av kriteriene knyttet til en bestemt konsekvensklasse er oppfylt, skal ikke konsekvensklassen settes lavere enn den aktuelle klassen som er angitt i tabellen. Der flere kriterier er oppfylt og summen av konsekvenser blir ekstra store, kan NVE ut fra en samlet vurdering fastsette en høyere konsekvensklasse enn det som fremgår direkte av tabellen.
+
+Tabell 4-2.1 Klassifiseringskriterier.
+
+| *Konsekvensklasse* | *Boenheter* | *Infrastruktur, samfunnsfunksjoner* | *Miljø og eiendom* |
+| --- | --- | --- | --- |
+| 4 | > 150 |  |  |
+| 3 | 21-150 | Skade på sterkt trafikkert veg eller jernbane, eller annen infrastruktur, med spesielt stor betydning for liv og helse | Stor skade på spesielt viktige miljøverdier eller spesielt stor skade på fremmed eiendom |
+| 2 | 1 – 20 | Skader på middels trafikkert veg eller jernbane eller annen infrastruktur med stor betydning for liv og helse. | Stor skade på viktige miljøverdier eller stor skade på fremmed eiendom |
+| 1 | Midlertidig oppholdssted tilsvarende < 1 permanent boenhet | Skader på mindre trafikkert veg eller annen infrastruktur med betydning for liv og helse | Skade på miljøverdier eller fremmed eiendom |
 
 Eneboliger og leiligheter regnes som boenheter. Andre bygninger (institusjoner, skoler, bedrifter, hytter mv.) og midlertidige oppholdssteder i friluft, der mennesker oppholder seg over noe tid, skal omregnes til boenheter på bakgrunn av oppholdstid og antall personer.
 
@@ -273,9 +305,13 @@ Der flere laster kan opptre samtidig, skal den mest ugunstige lastkombinasjonen 
 
 Laster omfatter permanente laster, variable laster og ulykkeslaster:
 
+*a) Permanente laster*
+
 Permanente laster er laster som ikke endres gjennom den fasen som undersøkes, eller som med stor sannsynlighet vil opptre i lengre perioder i løpet av anleggets levetid. Følgende laster regnes som permanente:vanntrykk ved definerte nivåer: last ved vannstander mellom laveste regulerte (LRV) og høyeste regulerte (HRV) vannstand,oppdrift og poretrykk ved ugunstigste vannstand,gravitasjonslast (egenlast),jordtrykk.
 
 Karakteristiske verdier for permanente laster defineres som forventet middelverdi. Beregning av belastninger skal baseres på relevante statistiske data for tyngdetetthet, eller på tyngdetetthet dokumentert gjennom målinger, og fastsettes etter prinsipper i aktuell Norsk Standard.
+
+*b) Variable laster*
 
 Variable laster varierer med tiden under drift, eller opptrer som midlertidige belastninger under bygging. Variable laster omfatter bruksavhengige laster, deformasjonslaster og miljølaster.
 
@@ -290,6 +326,8 @@ Karakteristiske verdier for deformasjonslaster fastsettes ved hjelp av anerkjent
 Miljølaster er laster forårsaket av klimatiske, mikroklimatiske og topografiske påvirkninger. Følgende laster regnes som miljølaster:vanntrykk som følge av flom: vanntrykk ved dimensjonerende flomvannstand (DFV),bølger,is,snø,tele,jordskjelv,økt vanntrykk på grunn av tilstopping i flomløp, jf. [§ 5-7](forskrift/2009-12-18-1600/§5-7),oppdrift og poretrykk ved ugunstigste vannstand (DFV eller tilstopping).
 
 Karakteristiske verdier for miljølaster bestemmes normalt ut fra krav til sannsynlighet for overskridelse basert på statistiske data. For miljølaster hvor tilstrekkelig statistisk datagrunnlag ikke foreligger, skal forventede maksimalverdier anvendes, fastsatt etter faglig vurdering av forholdene på stedet.
+
+*c) Ulykkeslaster*
 
 Ulykkeslaster er laster som opptrer ved unormale tilstander, ulykker eller naturkatastrofer.
 
@@ -329,7 +367,15 @@ Ved beregning av avløpsflom og flomvannstand kan det tas hensyn til magasinets 
 
 Ved fare for tilstopping skal det i bruddgrensetilstand regnes med minimum 25 % tilstopping i flomløpet ved avledning av Qdim.
 
-For dammer med n antall flomluker skal det ved avledning av Qdim i ulykkesgrensetilstand regnes med funksjonssvikt på luker i henhold til etterfølgende tabell:Tabell 5-7.1 Funksjonssvikt.*Antall flomluker (n):**Full svikt på:*1-3en luke4-6to lukern ≥ 7tre luker
+For dammer med n antall flomluker skal det ved avledning av Qdim i ulykkesgrensetilstand regnes med funksjonssvikt på luker i henhold til etterfølgende tabell:
+
+Tabell 5-7.1 Funksjonssvikt.
+
+| *Antall flomluker (n):* | *Full svikt på:* |
+| --- | --- |
+| 1-3 | en luke |
+| 4-6 | to luker |
+| n ≥ 7 | tre luker |
 
 ### § 5-8. Flomløp og flomavledning
 
@@ -359,7 +405,14 @@ Der konsekvenser av ulykkeslaster vurderes som uakseptable, skal det anordnes ek
 
 Alle dammer som ikke kan tørrlegges på annen måte skal ha et manøvrerbart bunntappeløp.
 
-Dammer i konsekvensklasse 3 og 4 skal ha tappeorgan som sikrer kontrollert senking av magasinet i en fare- eller ulykkessituasjon. Kravet til senking ved midlere tilsig er:Tabell 5-9 Krav til senking.*Konsekvensklasse**Gjennomsnittlig senking fra HRV til senkingsnivået**Senkingsnivå under HRV*4ca. 1 meter per døgnca. 6 meter3ca. 0,5-1 meter per døgnca. 5 meter
+Dammer i konsekvensklasse 3 og 4 skal ha tappeorgan som sikrer kontrollert senking av magasinet i en fare- eller ulykkessituasjon. Kravet til senking ved midlere tilsig er:
+
+Tabell 5-9 Krav til senking.
+
+| *Konsekvensklasse* | *Gjennomsnittlig senking fra HRV til senkingsnivået* | *Senkingsnivå under HRV* |
+| --- | --- | --- |
+| 4 | ca. 1 meter per døgn | ca. 6 meter |
+| 3 | ca. 0,5-1 meter per døgn | ca. 5 meter |
 
 For magasin med stort areal og dermed stort volum i de øverste meterne, kan kravet til nedtappingskapasitet reduseres.
 
@@ -377,18 +430,15 @@ En fyllingsdam er en dam som hovedsakelig består av oppfylte og komprimerte mas
 
 I bruddgrensetilstand skal det påvises at dammen har tilstrekkelig sikkerhet mot utglidning og erosjon.
 
-I ulykkesgrensetilstand skal det påvises at dammen har sikkerhet mot utglidning og erosjon som kan føre til dambrudd og ukontrollert tømming av magasinet. Det stilles følgende krav til sikkerhetsfaktorer mot utglidning:Tabell 5-10.1 Sikkerhetsfaktor mot utglidning.*Tilfelle**Damside**Magasinnivå**Bruddgrense-*
-*tilstand**Ulykkesgrense-*
-*tilstand*Bygging og første fyllingOppstrøms
-NedstrømsTomt
-Ugunstigste vst1,3
-1,5Stasjonær tilstandNedstrøms
+I ulykkesgrensetilstand skal det påvises at dammen har sikkerhet mot utglidning og erosjon som kan føre til dambrudd og ukontrollert tømming av magasinet. Det stilles følgende krav til sikkerhetsfaktorer mot utglidning:
 
-OppstrømsDFV
-MFV
-Ugunstigste vst1,5
+Tabell 5-10.1 Sikkerhetsfaktor mot utglidning.
 
-1,51,1Hurtig tappingOppstrømsUgunstigste vst1,3
+| *Tilfelle* | *Damside* | *Magasinnivå* | *Bruddgrense-*<br>*tilstand* | *Ulykkesgrense-*<br>*tilstand* |
+| --- | --- | --- | --- | --- |
+| Bygging og første fylling | Oppstrøms<br>Nedstrøms | Tomt<br>Ugunstigste vst | 1,3<br>1,5 |  |
+| Stasjonær tilstand | Nedstrøms<br><br>Oppstrøms | DFV<br>MFV<br>Ugunstigste vst | 1,5<br><br>1,5 | 1,1 |
+| Hurtig tapping | Oppstrøms | Ugunstigste vst | 1,3 |  |
 
 Fyllingsdammer med oppstrøms tetning skal dimensjoneres og kontrolleres for vannstander (vst) og utglidninger som er kritisk for dammens sikkerhet. Utglidninger som ender 5 meter og mer under vannstanden regnes som kritisk.
 
@@ -396,19 +446,31 @@ Dimensjonerende skjærstyrke av fyllingsmaterialer skal som hovedregel være bas
 
 Fyllingsdammer skal oppfylle følgende konstruksjonsmessige krav og materialkrav:
 
+*a) Fundament, tilstøtende og innbygde konstruksjoner*
+
 Dammens utforming skal tilpasses grunnforholdene. Fundamentets overflate skal ha en utforming som sørger for gunstig samvirke mellom fundament og damkonstruksjon og for bortledning av vann.
 
 Damfundamentet skal om nødvendig dreneres for å unngå oppbygging av poretrykk og strømning av vann som kan føre til erosjon eller ustabilitet.
 
 Tilstøtende og innbygde konstruksjoner av andre materialer skal fortrinnsvis fundamenteres på berg, og skal gis en utforming som sørger for en sikkerhetsmessig god tilpasning mellom konstruksjon og damfylling. For dammer i konsekvensklasse 2, 3 og 4 skal en eventuell gjennomgående kulvert i damfyllingen legges i sprengt grøft i fundamentet.
 
+*b) Damtetning*
+
 Damtetningen skal bestå av egnede materialer av anerkjent kvalitet. Utforming, dimensjoner og utførelse skal sikre at vanngjennomgangen ikke blir så stor at den kan redusere dammens sikkerhet og forutsatte bruk.
+
+*c) Filtre*
 
 Filtre i dammen som skal beskytte damtetningen mot skader fra indre erosjon, skal ha tilfredsstillende utstrekning, og skal i sammensetning tilfredsstille anerkjente filterkrav. Overgangen mellom andre materialsoner og nedstrøms støttefylling/fundament skal oppfylle krav til filtervirkning for å hindre skadelig erosjon.
 
+*d) Støttefylling*
+
 Støttefyllingene skal bestå av materialer som med hensyn til kvalitet, utforming, dimensjoner og utførelse gir tilfredsstillende stabilitet og moderate deformasjoner. Innbygging av materialer i forskjellige soner skal med hensyn til utlegging, lagtykkelse, sonebredde, komprimering og avvikstoleranse sikre et kvalitetsmessig godt produkt.
 
+*e) Oppstrøms skråning*
+
 Oppstrøms skråning skal ha skråningsvern som er dimensjonert og utført slik at det motstår påvirkning av bølger, is, tele og andre mulige påkjenninger. Hvis skråningsvernet bygges opp av stein, skal det brukes steiner av tilfredsstillende størrelse og kvalitet, og disse skal være stabilt ordnet i forband. Steinene skal plasseres med fall og lengderetning innover i dammen. Overgang mot støttefylling må utføres slik at utvasking av innenforliggende materiale ikke finner sted. Hvis oppstrøms fylling er fundamentert på løsmasser, må skråningsvernet sikre naturlig terreng mot skadevirkning fra bølger og is. Den ytre del av fyllingen (skråningsvern, overgangssone og støttefylling) skal bestå av godt drenerende masser med en samlet tykkelse som hindrer at det kan oppstå sig på grunn av eventuelle telefarlige masser i innenforliggende fylling.
+
+*f) Nedstrøms skråning*
 
 Nedstrøms skråning skal ha skråningsvern som sikrer at dammen tåler stor vanngjennomstrømning og/eller overtopping som følge av ulykkeslaster eller skade på dam. Stein i skråning skal ha tilfredsstillende størrelse og kvalitet og være stabilt ordnet i forband. Steinene skal plasseres med fall og lengderetning innover i dammen. Overgang mot støttefylling må utføres slik at utvasking av innenforliggende materiale ikke finner sted.
 
@@ -416,11 +478,17 @@ Behovet for å sikre laveste del av skråningen og overgangen til vederlaget med
 
 Den ytre del av fyllingen (skråningsvern, overgangssone og støttefylling) skal bestå av godt drenerende masser med en samlet tykkelse som hindrer at det kan oppstå sig på grunn av eventuelle telefarlige masser i innenforliggende fylling.
 
+*g) Damkrone*
+
 Bredde av topp dam skal være stor nok til å sikre tilfredsstillende utforming av damkronen. Damkronen skal kunne motstå skader forårsaket av klimatiske påvirkninger og ulykkeslaster. For dammer med tetningskjerne av morene eller andre telefarlige materialer skal topp av tetning dekkes med tilstrekkelig ikke-telefarlig materialer for å unngå eller redusere teleskader. Kronen skal beskyttes av et kronevern av stor stein med god kvalitet og bygges inn i samsvar med e) og f).
 
 For dammer i konsekvensklasse 4 skal bredden av topp dam være minst 6,5 meter og damkronen skal sikres med stabilt ordnet stor stein som utføres mest mulig kompakt til 6 meter under HRV.
 
+*h) Overhøyde*
+
 Dammen med de enkelte soner skal bygges med overhøyde tilpasset forventede setninger med et tillegg for å redusere usikkerheter.
+
+*i) Fribord*
 
 For fyllingsdammer med sentral tetning skal topp av dam ha et så stort fribord over dimensjonerende flomvannstand (DFV), eller høyeste regulerte vannstand (HRV) at det ikke kan skylle vann over topp av dam ved kombinasjon av bølgeoppskylling og vindoppstuvning. Topp av sentral tetning skal ha et så stort fribord at det ikke kan renne vann over tetningen ved dimensjonerende flomvannstand, tillagt vindoppstuvning. Fribordet skal gis et tillegg for å redusere usikkerheter.
 
@@ -446,12 +514,15 @@ Statiske og dynamiske beregninger kan normalt baseres på lineær teori. I de ti
 
 Den konstruktive sikkerheten av en betongdam skal dokumenteres ved beregninger og kontroller i følgende grensetilstander:BruddgrensetilstandUlykkesgrensetilstandBruksgrensetilstand.
 
-Det skal påvises kapasitet av velte- og glidestabilitet i bruddgrensetilstand og ulykkesgrensetilstand. Det stilles følgende krav til velte- og glidestabilitet i brudd- og ulykkesgrensetilstand:Tabell 5-11.1 Krav til velte- og glidestabilitet.*Damtype**Veltestabilitet**Glidestabilitet**Bruddgrense-*
-*tilstand**Ulykkesgrense-*
-*tilstand**Bruddgrense-*
-*tilstand**Ulykkesgrense-*
-*tilstand*Gravitasjons-
-damResultanten av alle krefter innenfor kjernetverrsnittet (dvs. midtre tredjedel av snittflaten)Resultanten av alle krefter ikke nærmere nedstrøms kant enn 1/6 av breddenSikkerhetsfaktor 1,5Sikkerhetsfaktor 1,1PlatedamForholdet mellom stabiliserende- og veltende moment minst 1,4Forholdet mellom stabiliserende- og veltende moment minst 1,3Sikkerhetsfaktor 1,4Sikkerhetsfaktor 1,1
+Det skal påvises kapasitet av velte- og glidestabilitet i bruddgrensetilstand og ulykkesgrensetilstand. Det stilles følgende krav til velte- og glidestabilitet i brudd- og ulykkesgrensetilstand:
+
+Tabell 5-11.1 Krav til velte- og glidestabilitet.
+
+| *Damtype* | *Veltestabilitet* |  | *Glidestabilitet* |  |
+| --- | --- | --- | --- | --- |
+|  | *Bruddgrense-*<br>*tilstand* | *Ulykkesgrense-*<br>*tilstand* | *Bruddgrense-*<br>*tilstand* | *Ulykkesgrense-*<br>*tilstand* |
+| Gravitasjons-<br>dam | Resultanten av alle krefter innenfor kjernetverrsnittet (dvs. midtre tredjedel av snittflaten) | Resultanten av alle krefter ikke nærmere nedstrøms kant enn 1/6 av bredden | Sikkerhetsfaktor 1,5 | Sikkerhetsfaktor 1,1 |
+| Platedam | Forholdet mellom stabiliserende- og veltende moment minst 1,4 | Forholdet mellom stabiliserende- og veltende moment minst 1,3 | Sikkerhetsfaktor 1,4 | Sikkerhetsfaktor 1,1 |
 
 For hvelvdammer skal det benyttes anerkjente beregningsmodeller og prinsipper for valg av geometri.
 
@@ -467,17 +538,25 @@ I bruksgrensetilstanden skal det påvises at rissvidder og armeringsspenninger e
 
 Betongdammer skal oppfylle følgende konstruksjonsmessige krav:
 
+*a) Fundamentering*
+
 Betongdammer skal fortrinnsvis fundamenteres på berg. Unntaksvis kan fundamenteringen skje på annen bæredyktig grunn.
 
 Fundamentets overflate skal ha eller bli gitt en utforming som sikrer gunstig samvirke mellom fundament og damkonstruksjon.
+
+*b) Drenasje*
 
 Fundamentet skal om nødvendig dreneres for å unngå oppbygging av poretrykk og strømning av vann som kan føre til ustabilitet.
 
 Drenasje må utformes slik at lekkasjer og drenasjevann ikke skaper isproblemer som gir tilleggslaster på damkonstruksjonen.
 
+*c) Bevegelsesfuger*
+
 Betongkonstruksjoner skal normalt deles opp med bevegelsesfuger, plassert på slike steder og i slike avstander at utilsiktede sprekkdannelser unngås.
 
 Fugene skal være vanntette, bestandige og utformet slik at de kan overføre de laster som kan opptre.
+
+*d) Fribord*
 
 Topp av dam eventuelt topp av brystning skal minimum være i nivå med dimensjonerende flomvannstand. I bruddgrensetilstand skal eventuell bølgeoverskylling ikke føre til skader på dam eller fundament.
 
@@ -485,11 +564,15 @@ Ved ulykkeslaster kan vann overtoppe eller skylle over damkronen forutsatt at da
 
 Det stilles følgende materialkrav til betongdammer:
 
+*a) Betong*
+
 Delmaterialer og proporsjonering skal være slik at det ferdige produkt får forutsatte egenskaper, herunder at betongen i fersk tilstand er tilpasset aktuell støpemetode.
 
 Betongen skal ha tilfredsstillende fasthet som tilpasses de krav som stilles til de enkelte konstruksjoner og konstruksjonsdeler.
 
 Betongen skal være tilfredsstillende tett, frostbestandig og ha tilstrekkelig motstand mot andre nedbrytningsformer.
+
+*b) Armering, bolter og stag*
 
 Armering, bolter og stag skal tilfredsstille kravene i gjeldende Norsk Standard. For eldre konstruksjoner kan kravene i Norsk Standard fravikes for armering, bolter og stag.
 
@@ -511,19 +594,33 @@ Bolter og oppspente stag kan benyttes for å øke stabiliteten for eksisterende 
 
 En murdam skal oppfylle følgende konstruksjonsmessige krav:
 
+*a) Fundamentering*
+
 For fundamentering gjelder [§ 5-11](forskrift/2009-12-18-1600/§5-11) tilsvarende.
+
+*b) Drenasje*
 
 Det skal være tilfredsstillende drenasje nedstrøms damtetningen. For øvrig gjelder [§ 5-11](forskrift/2009-12-18-1600/§5-11) tilsvarende.
 
+*c) Fribord*
+
 For bestemmelser om fribord gjelder [§ 5-11](forskrift/2009-12-18-1600/§5-11) tilsvarende.
+
+*d) Damtetning*
 
 Dammen skal ha definert tetning. Utforming, dimensjoner og utførelse skal sikre at vanngjennomgangen begrenses til et minimum.
 
 Det stilles følgende materialkrav for murdammer:
 
+*a) Stein*
+
 Steinen skal ha styrke, erosjons- og forvitringsbestandighet, form og størrelse tilpasset konstruksjonens byggemetode, dimensjonerende laster og levetid.
 
+*b) Torv og jord*
+
 Torv og jord som benyttes til tetning skal være av anerkjent kvalitet og tetningsegenskapene må opprettholdes.
+
+*c) Betong og armering*
 
 For betong og armering som benyttes i fundamenter, fuger, pilarer, tetningsplater m.m. gjelder [§ 5-11](forskrift/2009-12-18-1600/§5-11) tilsvarende.
 
@@ -541,13 +638,23 @@ Bolter og stag kan benyttes for å øke stabiliteten. [§ 5-11](forskrift/2009-1
 
 Andre damtyper skal oppfylle følgende konstruksjonsmessige krav:
 
+*a) Fundamentering*
+
 Dammen skal ha fundament med tilstrekkelig styrke for å kunne oppta dimensjonerende laster. Fundamentet skal utformes slik at det oppnås et gunstig samvirke med damkonstruksjonen.
+
+*b) Drenasje*
 
 Nedstrøms for tetningen skal det være tilfredsstillende drenasje. For øvrig gjelder [§ 5-11](forskrift/2009-12-18-1600/§5-11) tilsvarende.
 
+*c) Fribord*
+
 For bestemmelser om fribord gjelder [§ 5-11](forskrift/2009-12-18-1600/§5-11) tilsvarende.
 
+*d) Damtetning*
+
 For damtetning gjelder [§ 5-12](forskrift/2009-12-18-1600/§5-12) tilsvarende.
+
+*e) Materialkrav*
 
 Trematerialer, herunder tømmer, skal ha en kvalitet som sikrer lang holdbarhet.
 
@@ -573,6 +680,8 @@ Stenge- og tappeorganer skal ha tilstrekkelig kapasitet for alle aktuelle drifts
 
 Det stilles følgende konstruksjonsmessige krav til stenge- og tappeorganer:
 
+*a) Hovedfunksjoner*
+
 Stenge- og tappeorganer skal ha tilfredsstillende funksjonsegenskaper ved alle forutsatte åpninger og vannstander. Funksjonalitet og vern skal testes minst ved hvert hovedtilsyn etter et program som er tilpasset stenge- og tappeorganets funksjon og driftsforhold. Viktige vern skal fungere selv om deler av styresystemet er satt ut av drift.
 
 Arrangement for overføring av signaler for fjernstyring av stenge- og tappeorganer, samt avlesning av måleverdier skal være sikret mot funksjonssvikt. Sikringen skal være dokumentert.
@@ -580,6 +689,8 @@ Arrangement for overføring av signaler for fjernstyring av stenge- og tappeorga
 Stenge- og tappeorganer som skal manøvreres ved lave temperaturer må sikres mot fastfrysing og beskyttes mot skadelig isdannelse.
 
 Nødstengeorganer skal ha sikker stengefunksjon.
+
+*b) Utforming*
 
 Stenge- og tappeorganer skal ha atkomst for tilsyn og vedlikehold. Der hvor tørrlegging ved vannstandsenkning er vanskelig skal det være revisjonsavstenging.
 
@@ -590,6 +701,8 @@ Stenge- og tappeorganer og tilgrensende anleggsdeler skal ha egnet strømningste
 Platekasser skal være innstøpt slik at tapping ikke forårsaker skadelige vibrasjoner i platekledningen. Lukeføringer skal ha nødvendig forankring.
 
 Styresystemer må være utformet slik at man unngår skade på stenge- og tappeorganer ved operative feil. Arrangementene skal sikres mot utilsiktet manøvrering.
+
+*c) Materialkrav*
 
 Ved valg av materialer skal det tas hensyn til laststørrelse, spenningsnivå, laveste funksjonstemperatur og konsekvensklasse.
 
@@ -617,11 +730,15 @@ Fundamenter og forankringsklosser skal kontrolleres for de laster de skal overf�
 
 Det stilles følgende konstruksjonsmessige krav til rør og tverrslagsporter:
 
+*a) Fundamentering og innstøping*
+
 Fundamenter for frittliggende rør skal plasseres på stabil grunn og utføres slik at deformasjoner eller forskyvninger ikke påfører konstruksjonene skadelige tilleggslaster. Fundamenter og forankringsklosser skal være stabile mot velting og glidning, jf. [§ 5-11](forskrift/2009-12-18-1600/§5-11).
 
 Nedgravde rør skal plasseres i stabile masser. Røret legges slik at det ikke oppstår skadelige setninger, aksial eller sideveis forskyvning. Omfylling skal ikke skade eller deformere røret. Skadelig erosjon som kan oppstå i masser på utsiden av røret skal forebygges.
 
 Innstøpte rør og platekasser skal kontrolleres slik at betong- og fjellkvaliteten oppfyller dimensjoneringsforutsetningene. Innstøping eller injisering skal ikke føre til skadelige deformasjoner.
+
+*b) Utforming*
 
 Rør og tverrslagsporter med tilhørende komponenter skal ha atkomst for utøvelse av tilsyn og vedlikehold.
 
@@ -631,6 +748,8 @@ Koblinger, ekspansjonsbokser osv. skal gi sikker tetning under alle driftsforhol
 
 Tverrslagsporter skal ha sikring mot utilsiktet lukking/åpning.
 
+*c) Materialkrav*
+
 Ved valg av materialer skal det tas hensyn til laststørrelser, spenningsnivå, laveste funksjonstemperatur og konsekvensklasse.
 
 Det skal så langt som mulig benyttes standardiserte materialer eller komponenter, med dokumentert styrke, duktilitet og øvrige relevante egenskaper under alle driftsforhold.
@@ -638,6 +757,8 @@ Det skal så langt som mulig benyttes standardiserte materialer eller komponente
 Ved bruk av andre ikke-standardiserte eller mindre kjente materialer, når disse har sikkerhetsmessig betydning for konstruksjonen, skal materialegenskapene være spesifisert og dokumentert.
 
 ### § 5-16. Andre konstruksjoner og konstruksjonsdeler
+
+*a) Tunneler, sjakter og bergrom*
 
 Tunneler, sjakter og bergrom skal planlegges og bygges med tilpasning til de topografiske og geologiske forhold. Vurdering av overdekning, lekkasje og stabilitet skal vektlegges. Det skal sikres mot ras og utfall av blokker. Tømming av vannveien skal skje kontrollert. Tunneler, sjakter og bergrom for transport av vann under trykk skal utformes, plasseres og sikres slik at det ikke oppstår skadelige lekkasjer og deformasjoner i omkringliggende berg.
 
@@ -651,9 +772,13 @@ Betongpropper for avstenging mot vannførende tunnel skal være tette. Det skal 
 
 Flomtunneler skal til enhver tid være funksjonsdyktige. Det skal forebygges at vann og snø danner ispropp i tunnelen og dermed reduserer tunnelens kapasitet, jf. også [§ 5-8](forskrift/2009-12-18-1600/§5-8).
 
+*b) Kanaler*
+
 Kanaler må dimensjoneres og utformes slik at bunn og sider har nødvendig stabilitet og kan motstå erosjonspåvirkning fra strømmende vann. De skal til en hver tid være funksjonsdyktige.
 
 Det skal dokumenteres at kanalsidene har tilstrekkelig fribord under alle driftsforhold. Kanaler med vannstand over terreng skal dimensjoneres og bygges i henhold til samme krav som for dammer av tilsvarende materiale.
+
+*c) Sluser*
 
 Sluseporter skal dimensjoneres og utføres etter samme krav som gjelder for stenge- og tappeorganer, jf. [§ 5-14](forskrift/2009-12-18-1600/§5-14). Slusekammer skal dimensjoneres og bygges etter samme krav som gjelder for dammer.
 
@@ -691,7 +816,15 @@ Det skal foreligge plan for overvåking. Planen skal beskrive interntilsyn, inst
 
 Overvåkingsplanen og resultatene fra overvåkingen skal dokumenteres skriftlig og på en oversiktlig måte, og inngå i revurderinger og ellers være tilgjengelig for NVE på forespørsel.
 
-Det stilles følgende krav til gjennomføring av interntilsyn:Tabell 7-2.1 Interntilsyn.*Tilsynsnivå**Tilsynshyppighet**Tilsynsomfang**Utførende personell*Periodisk tilsynAnlegg i konsekvensklasse 1-4: Minst en gang pr. årInspeksjon av tilstand ut fra forhåndsdefinert omfang, kontroll av gyldighet av innhentede data i periodenKvalifisert tilsynspersonell. VTA minst hvert annet årHovedtilsynAnlegg i konsekvensklasse 2-4: Minst hvert femte år Anlegg i konsekvensklasse 1: Minst hvert sjuende årGjennomgang av periodiske tilsyn, omfattende inspeksjon og vurdering av tilstand og funksjonsdyktighet, vurdering av overvåkingsbehov og -resultater og behov for fremskyndet revurdering, jf. [§ 7-5](forskrift/2009-12-18-1600/§7-5)VTA og annen person med tilsvarende kompetanseSpesielt tilsynAnlegg i konsekvensklasse 1-4: Under og etter unormale situasjoner/ store påkjenninger på anleggetUndersøke om anlegget tåler/har tålt påkjenningeneVTA
+Det stilles følgende krav til gjennomføring av interntilsyn:
+
+Tabell 7-2.1 Interntilsyn.
+
+| *Tilsynsnivå* | *Tilsynshyppighet* | *Tilsynsomfang* | *Utførende personell* |
+| --- | --- | --- | --- |
+| Periodisk tilsyn | Anlegg i konsekvensklasse 1-4: Minst en gang pr. år | Inspeksjon av tilstand ut fra forhåndsdefinert omfang, kontroll av gyldighet av innhentede data i perioden | Kvalifisert tilsynspersonell. VTA minst hvert annet år |
+| Hovedtilsyn | Anlegg i konsekvensklasse 2-4: Minst hvert femte år Anlegg i konsekvensklasse 1: Minst hvert sjuende år | Gjennomgang av periodiske tilsyn, omfattende inspeksjon og vurdering av tilstand og funksjonsdyktighet, vurdering av overvåkingsbehov og -resultater og behov for fremskyndet revurdering, jf. [§ 7-5](forskrift/2009-12-18-1600/§7-5) | VTA og annen person med tilsvarende kompetanse |
+| Spesielt tilsyn | Anlegg i konsekvensklasse 1-4: Under og etter unormale situasjoner/ store påkjenninger på anlegget | Undersøke om anlegget tåler/har tålt påkjenningene | VTA |
 
 Det stilles følgende krav til instrumentering og måling av dammer:Dammer i konsekvensklasse 1 skal ha vannstandsskala for overvåking av vannstand.Dammer i konsekvensklasse 2, 3 og 4 skal ha instrumentering for måling av følgende måleparametere: *Damtype**Klasse**Vannstand**Lekkasje**Deforma-*
 *sjoner**Poretrykk*Fyllingsdam fundamentert på god berggrunn2, 3, 4xxxFyllingsdam fundamentert på løsmasser eller berg med utpregede svakhetssoner2, 3, 4xxxxBetong- og murdam fundamentert på god berggrunn3, 4xxxBetong- og murdam fundamentert på god berggrunn2xxBetong- og murdam på løsmasser eller berg med utpregede svakhetssoner3, 4xxxxBetong- og murdam på løsmasser eller berg med utpregede svakhetssoner2xxx
@@ -858,7 +991,7 @@ Med «last» menes enhver påvirkning som medfører bevegelse, deformasjon, spen
 
 «Maksimal flomvannstand» er definert som den høyeste vannstand som opptrer i magasinet ved påregnelig maksimal tilløpsflom. Formuleringen er identisk med definisjonen i gjeldende forskrift [§ 1-3](forskrift/2009-12-18-1600/§1-3).
 
-«Midlere tilsig» er en ny definisjon i forskriften. Midlere tilsig er definert som midlere vannføring fra et nedbørfelt over en 30-årsperiode. Midlere tilsig for gjeldende normalperiode (pr. 2007 perioden 1961–1990) kan hentes fra NVEs avrenningskart ([www.nve.atlas.no](https://www.nve.atlas.no)). Alternativt kan det benyttes data fra en representativ målestasjon med god kvalitet og tilstrekkelig lang måleserie.
+«Midlere tilsig» er en ny definisjon i forskriften. Midlere tilsig er definert som midlere vannføring fra et nedbørfelt over en 30-årsperiode. Midlere tilsig for gjeldende normalperiode (pr. 2007 perioden 1961–1990) kan hentes fra NVEs avrenningskart ( [www.nve.atlas.no](https://www.nve.atlas.no)). Alternativt kan det benyttes data fra en representativ målestasjon med god kvalitet og tilstrekkelig lang måleserie.
 
 Med «påregnelig maksimal avløpsflom» menes den vannføring som avledes ved maksimal flomvannstand. Samme formulering er benyttet i gjeldende forskrift [§ 1-3](forskrift/2009-12-18-1600/§1-3).
 
