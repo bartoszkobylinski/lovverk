@@ -1,13 +1,25 @@
+---
+type: "history"
+slug: "forskrift-om-offentlig-kontroll-opprettelse-av-den-europeiske-unions-referanselaboratorier-for-mat-f-r-og-levende-dyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-offentlig-kontroll-opprettelse-av-den-europeiske-unions-referanselaboratorier-for-mat-f-r-og-levende-dyr — Change history
 
-_4 events; doc_id `sf-20220907-1558`._
+_5 events; doc_id `sf-20220907-1558`._
+
+## 2026-07-07 — Content updated
+Lines: +73 -13.
+Subject: `update(forskrift): forskrift-om-offentlig-kontroll-opprettelse-av-den-europeiske-unions-referanselaboratorier-for-mat-f-r-og-levende-dyr`
+Commit: `d672b6c`.
 
 ## 2026-05-09 — Content updated
 Lines: +43 -6.
 Subject: `update(forskrift): forskrift-om-offentlig-kontroll-opprettelse-av-den-europeiske-unions-referanselaboratorier-for-mat-f-r-og-levende-dyr`
 Commit: `a0018f9`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

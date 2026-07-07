@@ -1,13 +1,25 @@
+---
+type: "history"
+slug: "forskrift-om-studier-og-eksamener-ved-uio"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-studier-og-eksamener-ved-uio — Change history
 
-_4 events; doc_id `sf-20051220-1798`._
+_5 events; doc_id `sf-20051220-1798`._
+
+## 2026-07-07 — Content updated
+Lines: +52 -13.
+Subject: `update(forskrift): forskrift-om-studier-og-eksamener-ved-uio`
+Commit: `6f32bf5`.
 
 ## 2026-04-30 — Content updated
 Lines: +5 -5.
 Subject: `update(forskrift): forskrift-om-studier-og-eksamener-ved-uio`
 Commit: `52c98d3`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

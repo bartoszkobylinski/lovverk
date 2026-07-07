@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260625-1497",
+  "events": [
+    {
+      "commit": "e13e9a0",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 395,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-studier-og-eksamen-ved-politihøgskolen-2",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-studier-og-eksamen-ved-politihøgskolen-2"
+}

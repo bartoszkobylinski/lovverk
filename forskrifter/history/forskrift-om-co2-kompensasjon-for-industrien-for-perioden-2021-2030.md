@@ -1,6 +1,23 @@
+---
+type: "history"
+slug: "forskrift-om-co2-kompensasjon-for-industrien-for-perioden-2021-2030"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-co2-kompensasjon-for-industrien-for-perioden-2021-2030 — Change history
 
-_2 events; doc_id `sf-20241219-3395`._
+_4 events; doc_id `sf-20241219-3395`._
+
+## 2026-07-07 — Content updated
+Lines: +65 -5.
+Subject: `update(forskrift): forskrift-om-co2-kompensasjon-for-industrien-for-perioden-2021-2030`
+Commit: `e0881a3`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20241219-3395.md` → `forskrifter/forskrift-om-co2-kompensasjon-for-industrien-for-perioden-2021-2030.md`.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20221220-2384",
   "events": [
     {
+      "commit": "5a3a94d",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "da25031",
       "date": "2026-07-02",
       "from_path": null,
@@ -29,7 +39,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -38,7 +48,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-utslippskrav-til-kj\\303\\270ret\\303\\270y-ved-offentlig-anskaffelse-til-veitransport.md\"",
+      "to_path": "forskrifter/forskrift-om-utslippskrav-til-kjøretøy-ved-offentlig-anskaffelse-til-veitransport.md",
       "type": "renamed"
     },
     {

@@ -1,6 +1,23 @@
+---
+type: "history"
+slug: "tsi-noise-forskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tsi-noise-forskriften — Change history
 
-_2 events; doc_id `sf-20151112-1306`._
+_4 events; doc_id `sf-20151112-1306`._
+
+## 2026-07-07 — Content updated
+Lines: +5 -3.
+Subject: `update(forskrift): tsi-noise-forskriften`
+Commit: `70011fb`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20151112-1306.md` → `forskrifter/tsi-noise-forskriften.md`.

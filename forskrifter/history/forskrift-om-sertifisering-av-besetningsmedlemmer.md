@@ -1,6 +1,23 @@
+---
+type: "history"
+slug: "forskrift-om-sertifisering-av-besetningsmedlemmer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sertifisering-av-besetningsmedlemmer — Change history
 
-_2 events; doc_id `sf-20151128-1365`._
+_4 events; doc_id `sf-20151128-1365`._
+
+## 2026-07-07 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-sertifisering-av-besetningsmedlemmer`
+Commit: `1c49721`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20151128-1365.md` → `forskrifter/forskrift-om-sertifisering-av-besetningsmedlemmer.md`.

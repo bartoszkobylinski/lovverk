@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "vareførselsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vareførselsforskriften — Change history
 
-_5 events; doc_id `sf-20221027-1901`._
+_6 events; doc_id `sf-20221027-1901`._
+
+## 2026-07-07 — Content updated
+Lines: +1962 -3.
+Subject: `update(forskrift): vareførselsforskriften`
+Commit: `7e6df32`.
 
 ## 2026-07-01 — Content updated
 Lines: +10 -8.
@@ -12,13 +24,13 @@ Lines: +6 -2.
 Subject: `update(forskrift): vareførselsforskriften`
 Commit: `8333de9`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20221027-1901.md` → `"forskrifter/varef\303\270rselsforskriften.md"`.
+Renamed: `forskrifter/sf-20221027-1901.md` → `forskrifter/vareførselsforskriften.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

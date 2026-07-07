@@ -1,6 +1,23 @@
+---
+type: "history"
+slug: "sanksjonsforskrift-russland-situasjonen-i-landet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sanksjonsforskrift-russland-situasjonen-i-landet — Change history
 
-_2 events; doc_id `sf-20250314-0472`._
+_4 events; doc_id `sf-20250314-0472`._
+
+## 2026-07-07 — Content updated
+Lines: +103 -73.
+Subject: `update(forskrift): sanksjonsforskrift-russland-situasjonen-i-landet`
+Commit: `1812ae6`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20250314-0472.md` → `forskrifter/sanksjonsforskrift-russland-situasjonen-i-landet.md`.

@@ -2,6 +2,16 @@
   "doc_id": "nl-20250620-099",
   "events": [
     {
+      "commit": "12286a9",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 14,
+      "lines_removed": 2,
+      "subject": "update(lov): folkehøgskoleloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "773e059",
       "date": "2026-06-20",
       "from_path": null,
@@ -19,7 +29,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -28,7 +38,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"lover/folkeh\\303\\270gskoleloven.md\"",
+      "to_path": "lover/folkehøgskoleloven.md",
       "type": "renamed"
     },
     {

@@ -1,13 +1,25 @@
+---
+type: "history"
+slug: "forskrift-om-krav-til-lufttrafikktjenester-og-ytere-av-lufttrafikkstyrings-og-flysikringstjenester-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-krav-til-lufttrafikktjenester-og-ytere-av-lufttrafikkstyrings-og-flysikringstjenester-m-m — Change history
 
-_4 events; doc_id `sf-20220616-1029`._
+_5 events; doc_id `sf-20220616-1029`._
+
+## 2026-07-07 — Content updated
+Lines: +28 -5.
+Subject: `update(forskrift): forskrift-om-krav-til-lufttrafikktjenester-og-ytere-av-lufttrafikkstyrings-og-flysikringstjenester-m-m`
+Commit: `c56d924`.
 
 ## 2026-05-19 — Content updated
 Lines: +6 -6.
 Subject: `update(forskrift): forskrift-om-krav-til-lufttrafikktjenester-og-ytere-av-lufttrafikkstyrings-og-flysikringstjenester-m-m`
 Commit: `3502b06`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

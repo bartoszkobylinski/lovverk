@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260619-1490",
+  "events": [
+    {
+      "commit": "3619d63",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 25,
+      "lines_removed": 0,
+      "subject": "add(forskrift): overgangsbestemmelser-til-lov-19-juni-2026-nr-50-om-endringer-i-utlendingsloven",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "overgangsbestemmelser-til-lov-19-juni-2026-nr-50-om-endringer-i-utlendingsloven"
+}

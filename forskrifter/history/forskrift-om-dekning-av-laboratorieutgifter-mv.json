@@ -2,6 +2,16 @@
   "doc_id": "sf-20030627-0959",
   "events": [
     {
+      "commit": "c3c7f48",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 181,
+      "lines_removed": 22,
+      "subject": "update(forskrift): forskrift-om-dekning-av-laboratorieutgifter-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,
@@ -19,7 +29,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",

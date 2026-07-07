@@ -1,6 +1,23 @@
+---
+type: "history"
+slug: "damsikkerhetsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # damsikkerhetsforskriften — Change history
 
-_2 events; doc_id `sf-20091218-1600`._
+_4 events; doc_id `sf-20091218-1600`._
+
+## 2026-07-07 — Content updated
+Lines: +159 -26.
+Subject: `update(forskrift): damsikkerhetsforskriften`
+Commit: `fc2fe59`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20091218-1600.md` → `forskrifter/damsikkerhetsforskriften.md`.

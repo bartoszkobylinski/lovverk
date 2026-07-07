@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "byggesaksforskriften-sak-10"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # byggesaksforskriften-sak-10 — Change history
 
-_6 events; doc_id `sf-20100326-0488`._
+_7 events; doc_id `sf-20100326-0488`._
+
+## 2026-07-07 — Content updated
+Lines: +23 -15.
+Subject: `update(forskrift): byggesaksforskriften-sak-10`
+Commit: `9c3e970`.
 
 ## 2026-07-03 — Content updated
 Lines: +4 -4.
@@ -17,7 +29,7 @@ Lines: +8 -4.
 Subject: `update(forskrift): byggesaksforskriften-sak-10`
 Commit: `9d4909a`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,6 +1,23 @@
+---
+type: "history"
+slug: "tsi-ene-forskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tsi-ene-forskriften — Change history
 
-_2 events; doc_id `sf-20150619-0720`._
+_4 events; doc_id `sf-20150619-0720`._
+
+## 2026-07-07 — Content updated
+Lines: +15 -3.
+Subject: `update(forskrift): tsi-ene-forskriften`
+Commit: `d1361f7`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20150619-0720.md` → `forskrifter/tsi-ene-forskriften.md`.

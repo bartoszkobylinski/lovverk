@@ -1,6 +1,23 @@
+---
+type: "history"
+slug: "skatteforvaltningsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # skatteforvaltningsforskriften — Change history
 
-_2 events; doc_id `sf-20161123-1360`._
+_4 events; doc_id `sf-20161123-1360`._
+
+## 2026-07-07 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): skatteforvaltningsforskriften`
+Commit: `ed4f668`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20161123-1360.md` → `forskrifter/skatteforvaltningsforskriften.md`.

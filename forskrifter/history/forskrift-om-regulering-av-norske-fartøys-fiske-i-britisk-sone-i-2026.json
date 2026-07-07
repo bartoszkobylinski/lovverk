@@ -2,6 +2,16 @@
   "doc_id": "sf-20251219-2742",
   "events": [
     {
+      "commit": "724a2d4",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-om-regulering-av-norske-fartøys-fiske-i-britisk-sone-i-2026",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "a27bc7c",
       "date": "2026-05-14",
       "from_path": null,
@@ -19,7 +29,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -28,7 +38,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-regulering-av-norske-fart\\303\\270ys-fiske-i-britisk-sone-i-2026.md\"",
+      "to_path": "forskrifter/forskrift-om-regulering-av-norske-fartøys-fiske-i-britisk-sone-i-2026.md",
       "type": "renamed"
     },
     {

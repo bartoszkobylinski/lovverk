@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "integreringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # integreringsloven — Change history
 
-_6 events; doc_id `nl-20201106-127`._
+_7 events; doc_id `nl-20201106-127`._
+
+## 2026-07-07 — Content updated
+Lines: +5 -3.
+Subject: `update(lov): integreringsloven`
+Commit: `9d463e8`.
 
 ## 2026-07-01 — Content updated
 Lines: +18 -18.
@@ -17,7 +29,7 @@ Lines: +10 -10.
 Subject: `update(lov): integreringsloven`
 Commit: `96e6a78`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

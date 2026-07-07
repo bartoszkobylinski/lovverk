@@ -1,6 +1,23 @@
+---
+type: "history"
+slug: "operational-directive-according-to-the-aviation-act"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # operational-directive-according-to-the-aviation-act — Change history
 
-_2 events; doc_id `sf-20131220-1648`._
+_4 events; doc_id `sf-20131220-1648`._
+
+## 2026-07-07 — Content updated
+Lines: +27 -3.
+Subject: `update(forskrift): operational-directive-according-to-the-aviation-act`
+Commit: `112f420`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20131220-1648.md` → `forskrifter/operational-directive-according-to-the-aviation-act.md`.

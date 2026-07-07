@@ -2,6 +2,16 @@
   "doc_id": "sf-20210507-1452",
   "events": [
     {
+      "commit": "5a56eea",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): våpenforskrifta",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "d7a889e",
       "date": "2026-05-30",
       "from_path": null,
@@ -29,7 +39,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -38,7 +48,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/v\\303\\245penforskrifta.md\"",
+      "to_path": "forskrifter/våpenforskrifta.md",
       "type": "renamed"
     },
     {

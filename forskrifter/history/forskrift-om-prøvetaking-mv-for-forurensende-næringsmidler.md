@@ -1,19 +1,31 @@
+---
+type: "history"
+slug: "forskrift-om-prøvetaking-mv-for-forurensende-næringsmidler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-prøvetaking-mv-for-forurensende-næringsmidler — Change history
 
-_4 events; doc_id `sf-20150703-0871`._
+_5 events; doc_id `sf-20150703-0871`._
+
+## 2026-07-07 — Content updated
+Lines: +1851 -143.
+Subject: `update(forskrift): forskrift-om-prøvetaking-mv-for-forurensende-næringsmidler`
+Commit: `2612522`.
 
 ## 2026-06-12 — Content updated
 Lines: +19 -18.
 Subject: `update(forskrift): forskrift-om-prøvetaking-mv-for-forurensende-næringsmidler`
 Commit: `6efb81f`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20150703-0871.md` → `"forskrifter/forskrift-om-pr\303\270vetaking-mv-for-forurensende-n\303\246ringsmidler.md"`.
+Renamed: `forskrifter/sf-20150703-0871.md` → `forskrifter/forskrift-om-prøvetaking-mv-for-forurensende-næringsmidler.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

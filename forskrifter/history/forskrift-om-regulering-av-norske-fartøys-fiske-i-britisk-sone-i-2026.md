@@ -1,19 +1,31 @@
+---
+type: "history"
+slug: "forskrift-om-regulering-av-norske-fartøys-fiske-i-britisk-sone-i-2026"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-regulering-av-norske-fartøys-fiske-i-britisk-sone-i-2026 — Change history
 
-_4 events; doc_id `sf-20251219-2742`._
+_5 events; doc_id `sf-20251219-2742`._
+
+## 2026-07-07 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): forskrift-om-regulering-av-norske-fartøys-fiske-i-britisk-sone-i-2026`
+Commit: `724a2d4`.
 
 ## 2026-05-14 — Content updated
 Lines: +7 -3.
 Subject: `update(forskrift): forskrift-om-regulering-av-norske-fartøys-fiske-i-britisk-sone-i-2026`
 Commit: `a27bc7c`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20251219-2742.md` → `"forskrifter/forskrift-om-regulering-av-norske-fart\303\270ys-fiske-i-britisk-sone-i-2026.md"`.
+Renamed: `forskrifter/sf-20251219-2742.md` → `forskrifter/forskrift-om-regulering-av-norske-fartøys-fiske-i-britisk-sone-i-2026.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

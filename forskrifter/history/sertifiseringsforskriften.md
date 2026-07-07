@@ -1,13 +1,25 @@
+---
+type: "history"
+slug: "sertifiseringsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sertifiseringsforskriften — Change history
 
-_4 events; doc_id `sf-20130304-0252`._
+_5 events; doc_id `sf-20130304-0252`._
+
+## 2026-07-07 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): sertifiseringsforskriften`
+Commit: `24e3621`.
 
 ## 2026-05-14 — Content updated
 Lines: +5 -5.
 Subject: `update(forskrift): sertifiseringsforskriften`
 Commit: `98341fd`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,13 +1,25 @@
+---
+type: "history"
+slug: "vedlikeholdsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedlikeholdsforskriften — Change history
 
-_4 events; doc_id `sf-20150507-0488`._
+_5 events; doc_id `sf-20150507-0488`._
+
+## 2026-07-07 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): vedlikeholdsforskriften`
+Commit: `637337a`.
 
 ## 2026-05-14 — Content updated
 Lines: +5 -5.
 Subject: `update(forskrift): vedlikeholdsforskriften`
 Commit: `464734c`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,19 +1,31 @@
+---
+type: "history"
+slug: "folkehøgskoleloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # folkehøgskoleloven — Change history
 
-_4 events; doc_id `nl-20250620-099`._
+_5 events; doc_id `nl-20250620-099`._
+
+## 2026-07-07 — Content updated
+Lines: +14 -2.
+Subject: `update(lov): folkehøgskoleloven`
+Commit: `12286a9`.
 
 ## 2026-06-20 — Content updated
 Lines: +6 -4.
 Subject: `update(lov): folkehøgskoleloven`
 Commit: `773e059`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20250620-099.md` → `"lover/folkeh\303\270gskoleloven.md"`.
+Renamed: `lover/nl-20250620-099.md` → `lover/folkehøgskoleloven.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

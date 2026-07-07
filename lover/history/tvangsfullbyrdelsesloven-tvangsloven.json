@@ -2,6 +2,16 @@
   "doc_id": "nl-19920626-086",
   "events": [
     {
+      "commit": "d593638",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 13,
+      "lines_removed": 3,
+      "subject": "update(lov): tvangsfullbyrdelsesloven-tvangsloven",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,
@@ -49,7 +59,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",

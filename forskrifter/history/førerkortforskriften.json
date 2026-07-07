@@ -2,6 +2,16 @@
   "doc_id": "sf-20040119-0298",
   "events": [
     {
+      "commit": "7279c7c",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 311,
+      "lines_removed": 84,
+      "subject": "update(forskrift): førerkortforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "00522ed",
       "date": "2026-06-02",
       "from_path": null,
@@ -29,7 +39,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -38,7 +48,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/f\\303\\270rerkortforskriften.md\"",
+      "to_path": "forskrifter/førerkortforskriften.md",
       "type": "renamed"
     },
     {

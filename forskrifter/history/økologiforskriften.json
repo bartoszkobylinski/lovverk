@@ -2,6 +2,16 @@
   "doc_id": "sf-20220611-1171",
   "events": [
     {
+      "commit": "e03468d",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 156,
+      "lines_removed": 4,
+      "subject": "update(forskrift): økologiforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "66b5751",
       "date": "2026-05-16",
       "from_path": null,
@@ -39,7 +49,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -48,7 +58,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/\\303\\270kologiforskriften.md\"",
+      "to_path": "forskrifter/økologiforskriften.md",
       "type": "renamed"
     },
     {

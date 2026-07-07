@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "poliklinikkforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # poliklinikkforskriften — Change history
 
-_6 events; doc_id `sf-20071219-1761`._
+_7 events; doc_id `sf-20071219-1761`._
+
+## 2026-07-07 — Content updated
+Lines: +221 -5.
+Subject: `update(forskrift): poliklinikkforskriften`
+Commit: `58f6a89`.
 
 ## 2026-07-02 — Content updated
 Lines: +3 -3.
@@ -17,7 +29,7 @@ Lines: +3 -3.
 Subject: `update(forskrift): poliklinikkforskriften`
 Commit: `52a2187`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

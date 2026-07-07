@@ -2,6 +2,16 @@
   "doc_id": "sf-20260701-1458",
   "events": [
     {
+      "commit": "72146d8",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 8,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-endring-i-forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "d068cca",
       "date": "2026-07-03",
       "from_path": null,

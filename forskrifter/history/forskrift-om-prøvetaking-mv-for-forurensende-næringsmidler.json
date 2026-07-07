@@ -2,6 +2,16 @@
   "doc_id": "sf-20150703-0871",
   "events": [
     {
+      "commit": "2612522",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 1851,
+      "lines_removed": 143,
+      "subject": "update(forskrift): forskrift-om-prøvetaking-mv-for-forurensende-næringsmidler",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "6efb81f",
       "date": "2026-06-12",
       "from_path": null,
@@ -19,7 +29,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -28,7 +38,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-pr\\303\\270vetaking-mv-for-forurensende-n\\303\\246ringsmidler.md\"",
+      "to_path": "forskrifter/forskrift-om-prøvetaking-mv-for-forurensende-næringsmidler.md",
       "type": "renamed"
     },
     {

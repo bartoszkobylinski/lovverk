@@ -1,9 +1,26 @@
+---
+type: "history"
+slug: "forskrift-om-sanksjoner-mot-visse-personer-og-aktører-i-jemen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sanksjoner-mot-visse-personer-og-aktører-i-jemen — Change history
 
-_2 events; doc_id `sf-20150619-0663`._
+_4 events; doc_id `sf-20150619-0663`._
+
+## 2026-07-07 — Content updated
+Lines: +4 -2.
+Subject: `update(forskrift): forskrift-om-sanksjoner-mot-visse-personer-og-aktører-i-jemen`
+Commit: `71f4aa8`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20150619-0663.md` → `"forskrifter/forskrift-om-sanksjoner-mot-visse-personer-og-akt\303\270rer-i-jemen.md"`.
+Renamed: `forskrifter/sf-20150619-0663.md` → `forskrifter/forskrift-om-sanksjoner-mot-visse-personer-og-aktører-i-jemen.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

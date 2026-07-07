@@ -2,6 +2,16 @@
   "doc_id": "sf-20100326-0488",
   "events": [
     {
+      "commit": "9c3e970",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 23,
+      "lines_removed": 15,
+      "subject": "update(forskrift): byggesaksforskriften-sak-10",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "f4efe18",
       "date": "2026-07-03",
       "from_path": null,
@@ -39,7 +49,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",

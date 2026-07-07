@@ -1,6 +1,13 @@
+---
+type: "index"
+dataset: "gjeldende-sentrale-forskrifter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # Sentrale forskrifter
 
-_5142 current documents_
+_5146 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -924,6 +931,7 @@ _5142 current documents_
 - [delegering-av-myndighet-til-å-samtykke-til-å-føre-hemmelig-bevis-i-sikkerhetssaker-etter-utlendingsloven](delegering-av-myndighet-til-å-samtykke-til-å-føre-hemmelig-bevis-i-sikkerhetssaker-etter-utlendingsloven.md) — Delegering av myndighet til å samtykke til å føre hemmelig bevis i sikkerhetssaker etter utlendingsloven
 - [delegering-av-myndighet-til-å-tildele-vedtakskompetanse](delegering-av-myndighet-til-å-tildele-vedtakskompetanse.md) — Delegering av myndighet til å tildele vedtakskompetanse
 - [delegering-av-myndighet-til-å-treffe-enkeltvedtak-etter-merverdiavgiftsloven](delegering-av-myndighet-til-å-treffe-enkeltvedtak-etter-merverdiavgiftsloven.md) — Delegering av myndighet til å treffe enkeltvedtak etter merverdiavgiftsloven
+- [delegering-av-myndighet-til-å-vedta-forskrift-som-gjennomfører-deler-av-forordning-2025-2293](delegering-av-myndighet-til-å-vedta-forskrift-som-gjennomfører-deler-av-forordning-2025-2293.md) — Delegering av myndighet til å vedta forskrift som gjennomfører deler av forordning (EU) 2025/2293
 - [delegering-av-myndighet-utpeking-av-namsmyndighet-etter-tvangsfullbyrdelsesloven-7-3](delegering-av-myndighet-utpeking-av-namsmyndighet-etter-tvangsfullbyrdelsesloven-7-3.md) — Delegering av myndighet – utpeking av namsmyndighet etter tvangsfullbyrdelsesloven § 7-3
 - [delegering-av-myndighet-vergemålsloven](delegering-av-myndighet-vergemålsloven.md) — Ikrafttredelse av lov av 15. juni 1990 nr. 29 om endring i vergemålsloven m.m. (hjelpevergeordningen m.m.). Delegering av myndighet.
 - [delegering-av-myndigheten-etter-lakse-og-innlandsfiskloven-13-til-miljødirektoratet](delegering-av-myndigheten-etter-lakse-og-innlandsfiskloven-13-til-miljødirektoratet.md) — Delegering av myndigheten etter lakse- og innlandsfiskloven § 13 til Miljødirektoratet
@@ -1940,6 +1948,7 @@ _5142 current documents_
 - [forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen](forskrift-om-endring-i-forskrift-om-statlige-fartsgrenser-på-sjøen.md) — Forskrift om endring i forskrift om statlige fartsgrenser på sjøen
 - [forskrift-om-endring-i-forskrift-om-studiene-ved-etter-og-videreutdanningen-ved-norges-handelshøyskole-nhh-executive](forskrift-om-endring-i-forskrift-om-studiene-ved-etter-og-videreutdanningen-ved-norges-handelshøyskole-nhh-executive.md) — Forskrift om endring i forskrift om studiene ved etter- og videreutdanningen ved Norges Handelshøyskole – NHH Executive (NHHE)
 - [forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning](forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning.md) — Forskrift om endring i forskrift om studier ved Dronning Mauds Minne Høgskole for barnehagelærerutdanning
+- [forskrift-om-endring-i-forskrift-om-studier-ved-norges-miljø-og-biovitenskapelige-universitet](forskrift-om-endring-i-forskrift-om-studier-ved-norges-miljø-og-biovitenskapelige-universitet.md) — Forskrift om endring i forskrift om studier ved Norges miljø- og biovitenskapelige universitet (NMBU)
 - [forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6](forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6.md) — Forskrift om endring i forskrift om terskelverdier for beslutning om å unnlate revisjon etter aksjeloven § 7-6
 - [forskrift-om-endring-i-spesialistforskriften](forskrift-om-endring-i-spesialistforskriften.md) — Forskrift om endring i spesialistforskriften
 - [forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag](forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag.md) — Forskrift om endringer i forskrift om fiske etter anadrome laksefisk i vassdrag
@@ -3590,6 +3599,7 @@ _5142 current documents_
 - [forskrift-om-studier-og-eksamen-ved-nord-universitet](forskrift-om-studier-og-eksamen-ved-nord-universitet.md) — Forskrift om studier og eksamen ved Nord universitet
 - [forskrift-om-studier-og-eksamen-ved-oslomet-storbyuniversitetet](forskrift-om-studier-og-eksamen-ved-oslomet-storbyuniversitetet.md) — Forskrift om studier og eksamen ved OsloMet – storbyuniversitetet (OsloMet)
 - [forskrift-om-studier-og-eksamen-ved-politihøgskolen](forskrift-om-studier-og-eksamen-ved-politihøgskolen.md) — Forskrift om studier og eksamen ved Politihøgskolen
+- [forskrift-om-studier-og-eksamen-ved-politihøgskolen-2](forskrift-om-studier-og-eksamen-ved-politihøgskolen-2.md) — Forskrift om studier og eksamen ved Politihøgskolen (PHS)
 - [forskrift-om-studier-og-eksamen-ved-uia](forskrift-om-studier-og-eksamen-ved-uia.md) — Forskrift om studier og eksamen ved Universitetet i Agder
 - [forskrift-om-studier-og-eksamen-ved-universitetet-i-stavanger](forskrift-om-studier-og-eksamen-ved-universitetet-i-stavanger.md) — Forskrift om studier og eksamen ved Universitetet i Stavanger
 - [forskrift-om-studier-og-eksamen-ved-universitetet-i-sørøst-norge](forskrift-om-studier-og-eksamen-ved-universitetet-i-sørøst-norge.md) — Forskrift om studier og eksamen ved Universitetet i Sørøst-Norge (USN)
@@ -4624,6 +4634,7 @@ _5142 current documents_
 - [overgangsbestemmelser-etter-naturmangfoldloven](overgangsbestemmelser-etter-naturmangfoldloven.md) — Forskrift om overgangsbestemmelser etter naturmangfoldloven § 77 i forbindelse med erstatning ved vedtak om vern av område som nasjonalpark eller landskapsvernområde etter den tidligere naturvernloven
 - [overgangsbestemmelser-for-delt-ikrafttredelse-1-mars-2023-av-lov-12-juni-2020-nr-67-om-endringer-i-varemerkeloven-og-tolloven-mv](overgangsbestemmelser-for-delt-ikrafttredelse-1-mars-2023-av-lov-12-juni-2020-nr-67-om-endringer-i-varemerkeloven-og-tolloven-mv.md) — Overgangsbestemmelser for delt ikrafttredelse 1. mars 2023 av lov 12. juni 2020 nr. 67 om endringer i varemerkeloven og tolloven mv. (gjennomføring av nytt varemerkedirektiv mv.)
 - [overgangsbestemmelser-til-kommuneloven](overgangsbestemmelser-til-kommuneloven.md) — Ikrafttredelse av lov av 25. september 1992 nr. 107 om kommuner og fylkeskommuner. Overgangsbestemmelser.
+- [overgangsbestemmelser-til-lov-19-juni-2026-nr-50-om-endringer-i-utlendingsloven](overgangsbestemmelser-til-lov-19-juni-2026-nr-50-om-endringer-i-utlendingsloven.md) — Overgangsbestemmelser til lov 19. juni 2026 nr. 50 om endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)
 - [overgangsbestemmelser-til-lov-2013-6-endr-partiloven](overgangsbestemmelser-til-lov-2013-6-endr-partiloven.md) — Forskrift om overgangsbestemmelser for gjennomføring av lov om endringar i partiloven
 - [overgangsbestemmelser-til-lov-2018-78-endr-i-utlendingsloven-mv](overgangsbestemmelser-til-lov-2018-78-endr-i-utlendingsloven-mv.md) — Overgangsbestemmelser til lov 22. juni 2018 nr. 78 om endringer i utlendingsloven mv. (utvisning på grunnlag av eksklusjon fra flyktningstatus mv.)
 - [overgangsbestemmelser-til-militærnekterloven](overgangsbestemmelser-til-militærnekterloven.md) — Overgangsbestemmelser for gjennomføring av lov 20. april 2012 nr. 19 om endringer i lov 19. mars 1965 nr. 3 om fritaking for militærtjeneste av overbevisningsgrunner

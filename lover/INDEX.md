@@ -1,3 +1,10 @@
+---
+type: "index"
+dataset: "gjeldende-lover"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # Lover
 
 _764 current documents_

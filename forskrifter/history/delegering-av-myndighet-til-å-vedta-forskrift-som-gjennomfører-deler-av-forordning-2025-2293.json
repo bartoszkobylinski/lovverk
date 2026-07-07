@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260624-1496",
+  "events": [
+    {
+      "commit": "08136b9",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 31,
+      "lines_removed": 0,
+      "subject": "add(forskrift): delegering-av-myndighet-til-å-vedta-forskrift-som-gjennomfører-deler-av-forordning-2025-2293",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "delegering-av-myndighet-til-å-vedta-forskrift-som-gjennomfører-deler-av-forordning-2025-2293"
+}

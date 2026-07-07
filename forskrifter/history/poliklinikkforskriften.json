@@ -2,6 +2,16 @@
   "doc_id": "sf-20071219-1761",
   "events": [
     {
+      "commit": "58f6a89",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 221,
+      "lines_removed": 5,
+      "subject": "update(forskrift): poliklinikkforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "843d7e7",
       "date": "2026-07-02",
       "from_path": null,
@@ -39,7 +49,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",

@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "viltressursloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # viltressursloven — Change history
 
-_5 events; doc_id `nl-20250620-102`._
+_6 events; doc_id `nl-20250620-102`._
+
+## 2026-07-07 — Content updated
+Lines: +12 -3.
+Subject: `update(lov): viltressursloven`
+Commit: `ca4556b`.
 
 ## 2026-07-01 — Content updated
 Lines: +3 -33.
@@ -12,7 +24,7 @@ Lines: +10 -4.
 Subject: `update(lov): viltressursloven`
 Commit: `54adb4f`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

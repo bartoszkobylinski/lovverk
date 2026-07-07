@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet — Change history
 
-_2 events; doc_id `sf-20100318-0425`._
+_3 events; doc_id `sf-20100318-0425`._
+
+## 2026-07-07 — Content updated
+Lines: +55 -4.
+Subject: `update(forskrift): delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet`
+Commit: `99956b7`.
 
 ## 2026-07-01 — Filename renamed
 Renamed: `forskrifter/deleg-av-myndighet-fra-hod-til-helsedir.md` → `forskrifter/delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet.md`.

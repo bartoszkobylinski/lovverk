@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "tvangsfullbyrdelsesloven-tvangsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tvangsfullbyrdelsesloven-tvangsloven — Change history
 
-_7 events; doc_id `nl-19920626-086`._
+_8 events; doc_id `nl-19920626-086`._
+
+## 2026-07-07 — Content updated
+Lines: +13 -3.
+Subject: `update(lov): tvangsfullbyrdelsesloven-tvangsloven`
+Commit: `d593638`.
 
 ## 2026-07-01 — Content updated
 Lines: +277 -277.
@@ -22,7 +34,7 @@ Lines: +4 -4.
 Subject: `update(lov): tvangsfullbyrdelsesloven-tvangsloven`
 Commit: `933a63c`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

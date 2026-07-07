@@ -1,6 +1,23 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-mv-til-fagskolen-kunst-og-design-college-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-mv-til-fagskolen-kunst-og-design-college-as — Change history
 
-_2 events; doc_id `sf-20170920-1444`._
+_4 events; doc_id `sf-20170920-1444`._
+
+## 2026-07-07 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-opptak-mv-til-fagskolen-kunst-og-design-college-as`
+Commit: `dc580b3`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20170920-1444.md` → `forskrifter/forskrift-om-opptak-mv-til-fagskolen-kunst-og-design-college-as.md`.

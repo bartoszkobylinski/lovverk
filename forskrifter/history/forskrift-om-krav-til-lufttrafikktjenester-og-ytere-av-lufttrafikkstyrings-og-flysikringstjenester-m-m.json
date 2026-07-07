@@ -2,6 +2,16 @@
   "doc_id": "sf-20220616-1029",
   "events": [
     {
+      "commit": "c56d924",
+      "date": "2026-07-07",
+      "from_path": null,
+      "lines_added": 28,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-krav-til-lufttrafikktjenester-og-ytere-av-lufttrafikkstyrings-og-flysikringstjenester-m-m",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3502b06",
       "date": "2026-05-19",
       "from_path": null,
@@ -19,7 +29,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",

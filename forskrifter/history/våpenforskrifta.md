@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "våpenforskrifta"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # våpenforskrifta — Change history
 
-_5 events; doc_id `sf-20210507-1452`._
+_6 events; doc_id `sf-20210507-1452`._
+
+## 2026-07-07 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): våpenforskrifta`
+Commit: `5a56eea`.
 
 ## 2026-05-30 — Content updated
 Lines: +15 -7.
@@ -12,13 +24,13 @@ Lines: +5 -4.
 Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
 Commit: `5511aa4`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20210507-1452.md` → `"forskrifter/v\303\245penforskrifta.md"`.
+Renamed: `forskrifter/sf-20210507-1452.md` → `forskrifter/våpenforskrifta.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,6 +1,23 @@
+---
+type: "history"
+slug: "forskrift-om-konsesjon-for-landingsplasser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-konsesjon-for-landingsplasser — Change history
 
-_2 events; doc_id `sf-20070111-0040`._
+_4 events; doc_id `sf-20070111-0040`._
+
+## 2026-07-07 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-konsesjon-for-landingsplasser`
+Commit: `b6cac01`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20070111-0040.md` → `forskrifter/forskrift-om-konsesjon-for-landingsplasser.md`.
