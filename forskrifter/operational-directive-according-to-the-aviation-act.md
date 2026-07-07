@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-01-02"
 last_change_in_force: "2014-10-28"
 last_updated: null
-xml_hash: "5aa9ea793931712df583ac68e10183921047c1eb49acbe26475d84e1e31c3407"
+xml_hash: "4e8b981d7e5b9d3f3e254b3c258efac9f6b4cdf6d76e6894bf4f762cca1b67a1"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,36 +30,60 @@ Recipients must ensure that this Directive is copied to all members of their sta
 
 ## 1. Introduction
 
+1.1
+
 This Operational Directive is applicable to operators conducting commercial air transport to and from airfields located in the Kingdom of Norway, north of 65° latitude.
 
 ## 2. Compliance/action to be taken
 
+2.1
+
 The Norwegian Civil Aviation Authority, in exercise of its powers under Aviation Act (Luftfartsloven) § 4-1, directs all air operators which conduct commercial air transport operations:to airfields in Norway located north of 65° latitude,with the following aircraft/system combinations:de Havilland DHC-8 with compass configuration AHRS AH-600,
 
+to comply with the requirements set out in paragraph 2.2.
+
+2.2
+
 To notify the Civil Aviation Authority of Norway prior to operations in this region, and to ensure that each aircraft is equipped with compass systems which adequately compensates for the effect of magnetic dip north of 65° latitude.
+
+2.3
 
 Operators of other aircraft/system combinations shall notify the Civil Aviation Authority of Norway should they experience compass drift while operating in this area.
 
 ## 3. Reason
 
-Several serious incidents have been recorded due to magnetic dip. An example of such can be found in Air Accident Investigation Board Norway ([www.sht.no](https://www.sht.no)) report no. 2000/34.
+3.1
+
+Several serious incidents have been recorded due to magnetic dip. An example of such can be found in Air Accident Investigation Board Norway ( [www.sht.no](https://www.sht.no)) report no. 2000/34.
+
+3.2
 
 A detailed description of the problem as well as recommended actions can be found in AOM No 408 and 622 issued by Bombardier Aerospace Regional Aircraft. It is however important to note that the problem is not necessarily limited to Bombardier Aircraft.
+
+3.4
 
 More than 1100 incidents are recorded during flights north of 65° latitude and within Norwegian Airspace. The most serious incidents have been involving heading errors up to 30°.
 
 ## 4. Notifications and queries
 
+4.1
+
 Notifications or queries should be sent to Luftfartstilsynet, Postbox 243, 8001 Bodø, Norway, or by e-mail to [postmottak@caa.no](mailto:postmottak@caa.no), and refer to case 12/09436.
 
 ## 5. Review
+
+5.1
 
 This Operational Directive will be updated should it become evident that other aircraft/system combinations are subject to compass drift caused by magnetic dip in a way that endangers operational safety.
 
 ## 6. Entry in to force
 
+6.1
+
 This Operational Directive shall enter in to force immediately after its publication, and shall remain in force until it is revoked by the Civil Aviation Authority of Norway.
 
 ## 7. Repeal of previous operational directive
+
+7.1
 
 Operational Directive of 9 January 2013 no. 19 is hereby repealed.
