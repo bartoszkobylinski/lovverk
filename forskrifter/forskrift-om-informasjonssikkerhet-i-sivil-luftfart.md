@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2025-10-24"
-last_change_in_force: null
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "8be208238f24ba952610d996957862d39132e75a05c994bd2cdc5e298ca867aa"
+xml_hash: "9705a226520f8c01881f7fbfde5427f928fe83b29f5be89bf3d4d7f9ece274f6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,9 @@ eu_basis: []
 
 (1) [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66zbg (forordning [(EU) 2022/1645](eu/32022r1645)) om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EU) 2018/1139](eu/32018r1139) med hensyn til krav til håndtering av informasjonssikkerhetsrisikoer med mulig innvirkning på flysikkerheten for organisasjoner som omfattes av kommisjonsforordning [(EU) nr. 748/2012](eu/32012r0748) og [(EU) nr. 139/2014](eu/32014d0139), og om endring av kommisjonsforordning [(EU) nr. 748/2012](eu/32012r0748) og [(EU) nr. 139/2014](eu/32014d0139), gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
-(2) [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66zbh (forordning [(EU) 2023/203](eu/32023r0203)) om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EU) 2018/1139](eu/32018r1139) med hensyn til krav til håndtering av informasjonssikkerhetsrisikoer med mulig innvirkning på flysikkerheten for organisasjoner som omfattes av kommisjonsforordning [(EU) nr. 1321/2014](eu/32014r1321), [(EU) nr. 965/2012](eu/32012r0965), [(EU) nr. 1178/2011](eu/32011r1178) og [(EU) 2015/340](eu/32015r0340) og Kommisjonens gjennomføringsforordning [(EU) 2017/373](eu/32017r0373) og [(EU) 2021/664](eu/32021r0664), og for vedkommende myndigheter som omfattes av kommisjonsforordning [(EU) nr. 748/2012](eu/32012r0748), [(EU) nr. 1321/2014](eu/32014r1321), [(EU) nr. 965/2012](eu/32012r0965), [(EU) nr. 1178/2011](eu/32011r1178), [(EU) 2015/340](eu/32015r0340) og [(EU) nr. 139/2014](eu/32014d0139) og Kommisjonens gjennomføringsforordning [(EU) 2017/373](eu/32017r0373) og [(EU) 2021/664](eu/32021r0664), og om endring av kommisjonsforordning [(EU) nr. 1178/2011](eu/32011r1178), [(EU) nr. 748/2012](eu/32012d0748), [(EU) nr. 965/2012](eu/32012r0965), [(EU) nr. 139/2014](eu/32014d0139), [(EU) nr. 1321/2014](eu/32014r1321) og [(EU) 2015/340](eu/32015r0340) og Kommisjonens gjennomføringsforordning [(EU) 2017/373](eu/32017r0373) og [(EU) 2021/664](eu/32021r0664), endret ved forordning [(EU) 2023/1769](eu/32023r1769) og [(EU) 2024/1109](eu/32024r1109), gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](eu/32017r0373/vedleggXIII), protokoll 1 til avtalen og avtalen for øvrig.
+(2) [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66zbh (forordning [(EU) 2023/203](eu/32023r0203)) om fastsettelse av regler for anvendelsen av forordning [(EU) 2018/1139](eu/32018r1139) med hensyn til krav til håndtering av informasjonssikkerhetsrisikoer med mulig innvirkning på flysikkerheten for organisasjoner som omfattes av forordning [(EU) nr. 1321/2014](eu/32014r1321), [(EU) nr. 965/2012](eu/32012r0965), [(EU) nr. 1178/2011](eu/32011r1178) og [(EU) 2015/340](eu/32015r0340) og forordning [(EU) 2017/373](eu/32017r0373) og [(EU) 2021/664](eu/32021r0664), og for vedkommende myndigheter som omfattes av forordning [(EU) nr. 748/2012](eu/32012r0748), [(EU) nr. 1321/2014](eu/32014r1321), [(EU) nr. 965/2012](eu/32012r0965), [(EU) nr. 1178/2011](eu/32011r1178), [(EU) 2015/340](eu/32015r0340) og [(EU) nr. 139/2014](eu/32014d0139) og forordning [(EU) 2017/373](eu/32017r0373) og [(EU) 2021/664](eu/32021r0664), og om endring av forordning [(EU) nr. 1178/2011](eu/32011r1178), [(EU) nr. 748/2012](eu/32012r0748), [(EU) nr. 965/2012](eu/32012r0965), [(EU) nr. 139/2014](eu/32014d0139), [(EU) nr. 1321/2014](eu/32014r1321) og [(EU) 2015/340](eu/32015r0340) og forordning [(EU) 2017/373](eu/32017r0373) og [(EU) 2021/664](eu/32021r0664), endret ved:forordning [(EU) 2023/1769](eu/32023r1769),forordning [(EU) 2024/1109](eu/32024r1109),forordning [(EU) 2025/2293](eu/32025r2293),gjelder som forskrift med de tilpasninger som følger av [vedlegg XIII](avtale/avt-1992-05-02-1-v13), protokoll 1 til avtalen og avtalen for øvrig.
+
+> Endret ved forskrift [1 juli 2026 nr. 1481](forskrift/2026-07-01-1481).
 
 ## § 2. Geografisk virkeområde
 
@@ -45,6 +47,22 @@ Luftfartstilsynet kan gi forskrifter som gjennomfører utfyllende bestemmelser t
 Ved overtredelse av bestemmelser i vedlegget til forordning [(EU) 2022/1645](eu/32022r1645) og forordning [(EU) 2023/203](eu/32023r0203) vedlegg II som gjennomført i forskriften [§ 1](forskrift/2025-10-24-2093/§1), kan overtredelsesgebyr ilegges, jf. [luftfartsloven § 13a-5](lov/1993-06-11-101/§13a-5).
 
 ## § 6. Endringer i andre forskrifter
+
+**1.** [Forskrift 28. november 2015 nr. 1365 om sertifisering av besetningsmedlemmer](forskrift/2015-11-28-1365) endres slik: – – –
+
+**2.** [Forskrift 4. mars 2013 nr. 252 om luftdyktighets- og miljøsertifisering for luftfartøyer mv. og sertifisering av design- og produksjonsorganisasjoner (sertifiseringsforskriften)](forskrift/2013-03-04-252) endres slik: – – –
+
+**3.** [Forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner](forskrift/2013-08-07-956) endres slik: – – –
+
+**4.** [Forskrift 25. august 2015 nr. 1000 om sertifisering av flyplasser mv.](forskrift/2015-08-25-1000) endres slik: – – –
+
+**5.** [Forskrift 7. mai 2015 nr. 488 om kontinuerlig luftdyktighet mv. (vedlikeholdsforskriften)](forskrift/2015-05-07-488) endres slik: – – –
+
+**6.** [Forskrift 17. juni 2016 nr. 710 om utdanning og sertifisering av flygeledere](forskrift/2016-06-17-710) endres slik: – – –
+
+**7.** [Forskrift 16. juni 2022 nr. 1029 om krav til lufttrafikktjenester og ytere av lufttrafikkstyrings- og flysikringstjenester (ATM/ANS) m.m.](forskrift/2022-06-16-1029) endres slik: – – –
+
+**8.** [Forskrift 23. oktober 2024 nr. 2572 om U-space og krav til en integrert digital luftfartspublikasjon for brukere av luftrommet](forskrift/2024-10-23-2572) endres slik: – – –
 
 ## § 7. Ikrafttredelse
 
