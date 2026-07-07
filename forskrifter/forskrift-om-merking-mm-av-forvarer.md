@@ -12,11 +12,11 @@ ministry:
 date_in_force: "2011-05-01"
 last_change_in_force: "2025-03-19"
 last_updated: "2011-08-09"
-xml_hash: "2e24a215e16fefca30ab131e7618c8f78b1f06d96a244333fa651b06406c23f6"
+xml_hash: "9c007fb07eeb4e3df9bae10a55e5953348d356e0fb0e27143ab70393c154e422"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -85,6 +85,9 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 767/
 
 Forordning [(EF) nr. 767/2009](eu/32009r0767) er konsolidert til og med endringer gjennomført ved forordning [(EU) nr. 568/2010](eu/32010r0568), forordning [(EU) nr. 939/2010](eu/32010r0939), forordning [(EU) 2017/2279](eu/32017r2279) og forordning [(EU) 2018/1903](eu/32018r1903).
 
+► **B** Forordning [(EF) nr. 767/2009](eu/32009r0767)
+som endret ved
+
 - ► **M1** Forordning [(EU) nr. 568/2010](eu/32010r0568)
 - ► **M2** Forordning [(EU) nr. 939/2010](eu/32010r0939)
 - ► **M3** Forordning [(EU) 2017/2279](eu/32017r2279)
@@ -93,6 +96,8 @@ Forordning [(EF) nr. 767/2009](eu/32009r0767) er konsolidert til og med endringe
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 767/2009](eu/32009r0767)
 av 13. juli 2009
 om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) og oppheving av rådsdirektiv [79/373/EØF](eu/31979l0373*), kommisjonsdirektiv [80/511/EØF](eu/31980l0511), rådsdirektiv [82/471/EØF](eu/31982l0471), [83/228/EØF](eu/31983l0228), [93/74/EØF](eu/31993*0074), [93/113/EF](eu/31993l0113) og [96/25/EF](eu/31996l0025) samt kommisjonsbeslutning [2004/217/EF](eu/32004d0217)
+
+EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR –
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 37 og artikkel 152 nr. 4 bokstav b),
 
@@ -106,6 +111,50 @@ etter framgangsmåten fastsatt i traktatens artikkel 251,2 og
 
 ut fra følgende betraktninger:Det å oppnå et høyt vernenivå for menneskers og dyrs helse er et av de grunnleggende målene i næringsmiddelregelverket, som fastsatt i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet.3 Ved nevnte forordning fastsettes også jord-til-bord-prinsippet, der fôr defineres som et følsomt trinn i begynnelsen av næringskjeden. Å sikre et høyt vernenivå for menneskers helse er et av de grunnleggende målene for denne forordning.Produksjonen av fôr er et viktig avsetningsområde for europeiske landbruksprodukter med tanke på at størstedelen av de midlene som brukes til fôrvareproduksjon, er landbruksprodukter oppført i traktatens vedlegg I. Dessuten er fôr av største viktighet for de 5 millioner oppdretterne i Fellesskapet, ettersom det utgjør den største utgiftsposten.Fôr kan komme i form av fôrmidler, fôrblandinger, tilsetningsstoffer i fôrvarer, premikser eller medisinfôr. Reglene for omsetning av tilsetningsstoffer i fôrvarer er fastsatt i europarlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) 22. september 2003 om tilsetningsstoffer i fôrvarer4 og for medisinfôr i rådsdirektiv [90/167/EØF](eu/31990l0167*) av 26. mars 1990 om fastsettelse av vilkårene for tilberedning, omsetning og bruk av medisinfôr innenfor Fellesskapet.5Den eksisterende lovgivningen om markedsføring og bruk av fôrmidler og fôrblandinger, som omfatter fôr til kjæledyr, det vil si rådsdirektiv [79/373/EØF](eu/31979l0373*) av 2. april 1979 om markedsføring av fôrblandinger,6 rådsdirektiv [93/74/EØF](eu/31993l0074) av 13. september 1993 om fôrvarer med særlige ernæringsformål,7 rådsdirektiv [96/25/EF](eu/31996l0025) av 29. april 1996 om omsetning og bruk av fôrmidler8 og rådsdirektiv [82/471/EØF](eu/31982l0471) av 30. juni 1982 om visse produkter som brukes i fôrvarer9 («bioproteiner»), bør ajourføres og erstattes av en enkelt forordning. Av klarhetshensyn bør rådsdirektiv [83/228/EØF](eu/31983l0228) av 18. april 1983 om fastsettelse av retningslinjer for vurdering av visse produkter som brukes i fôrvarer10 og kommisjonsdirektiv [80/511/EØF](eu/31980l0511) av 2. mai 1980 om tillatelse til i bestemte tilfeller å markedsføre fôrblandinger i pakninger eller beholdere som ikke er forseglet,11 oppheves.Som følge av opphevingen av direktiv [79/373/EØF](eu/31979l0373*) ved denne forordning, bør rådsdirektiv [93/113/EF](eu/31993l0113) av 14. desember 1993 om bruk og markedsføring av enzymer, mikroorganismer og preparater av disse i fôrvarer12 også oppheves. Som følge av opphevingen av direktiv [79/373/EØF](eu/31979l0373*) og med tanke på at denne forordningen inneholder regler om merkingen av fôrvarer med tilsetningsstoffer, bør artikkel 16 i rådsdirektiv [70/524/EØF](eu/31970l0524*) av 23. november 1970 om tilsetningsstoffer i fôrvarer,13 som fortsatt gjaldt etter opphevingen av direktiv [70/524/EØF](eu/31970l0524*) gjennom forordning [(EF) nr. 1831/2003](eu/32003r1831), oppheves.I motsetning til næringsmidler, som definert i forordning [(EF) nr. 178/2002](eu/32002r0178), omfatter definisjonen av fôr ikke vann. Dessuten, med tanke på at vann ikke omsettes som fôrvare, bør denne forordning ikke inneholde vilkår for vann som brukes i fôrvarer. Den bør imidlertid gjelde for fôr som inntas sammen med vann. Fôrforetakenes bruk av vann omfattes av europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) av 12. januar 2005 om fastsettelse av krav til fôrvarehygiene,14 som fastslår at det bør brukes rent vann når det er nødvendig for å hindre forurensning som kan være farlig, og at vann som brukes til framstilling av fôr, bør være av egnet kvalitet.Med tanke på risikoen for forurensning av nærings- og fôrkjeden, bør denne forordning gjelde for fôr både til dyr som er bestemt til næringsmiddelproduksjon og dyr som ikke er bestemt til næringsmiddelproduksjon, herunder ville dyr.Ansvaret til driftsansvarlige for fôrforetak, som er fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178) og forordning [(EF) nr. 183/2005](eu/32005r0183) får tilsvarende anvendelse på fôr til dyr som ikke er bestemt til næringsmiddelproduksjon.For å sikre at denne forordning overholdes, bør medlemsstatene utføre offentlige kontroller i samsvar med europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes.15 Disse kontrollene bør omfatte ikke bare de obligatoriske, men også de frivillige merkingsopplysningene. For å gjøre det mulig å kontrollere dataene for sammensetning, bør det fastsettes akseptable toleranser for de verdiene som er angitt i merkingen.For å håndtere risiko knyttet til fôrtrygghet, bør listen over midler hvis omsetning som fôrvarer er forbudt i henhold til kommisjonsvedtak [2004/217/EF](eu/32004d0217),16 samt en liste over midler hvis omsetning som fôrvarer er begrenset, tas med i et vedlegg til denne forordning. At et slikt vedlegg finnes, bør imidlertid ikke tolkes slik at alle produkter som ikke står på listen, kan anses som trygge.Skillet mellom fôrmidler, tilsetningsstoffer i fôrvarer og andre produkter som veterinærpreparater, har betydning for vilkårene for omsetning av slike produkter. Fôrmidler brukes først og fremst til å oppfylle dyrs behov, for eksempel for energi, næringsstoffer, mineraler eller kostfiber. De er vanligvis ikke kjemisk veldefinerte, bortsett fra for grunnleggende ernæringsmessige bestanddeler. Virkninger som kan begrunnes gjennom vitenskapelig vurdering og som bare gjelder tilsetningsstoffer i fôrvarer og veterinærpreparater, bør unntas fra de objektive bruksområdene for fôrmidler. Det er derfor hensiktsmessig å utarbeide ikke-bindende retningslinjer for å skille mellom disse typene av produkter. I behørig begrunnede tilfeller bør Kommisjonen ha myndighet til klargjøre hvorvidt et produkt utgjør en fôrvare som definert i denne forordning.Definisjonen av tilskuddsfôr i direktiv [79/373/EØF](eu/31979l0373*) gav opphav til problemer med anvendelsen i flere av medlemsstatene. Det er hensiktsmessig å avklare forskjellen mellom tilskuddsfôr og premiks med henblikk på anvendelsen av forordning [(EF) nr. 183/2005](eu/32005r0183).For å sikre ensartet anvendelse av lovgivningen, bør fôrmidler og tilskuddsfôr ikke ha et innhold av tilsetningsstoffer over et visst nivå. Imidlertid kan høykonsentrert fôr, som slikkespann som inneholder mineraler, brukes til direkte fôring dersom sammensetningen oppfyller det særlige ernæringsformålet med hensyn til relevant bruksområde. Vilkårene for bruk av slikt fôr bør være angitt på merkingen for å sikre at reglene som gjelder innholdet av tilsetningsstoffer i dagsrasjonen, er oppfylt.Direktiv [82/471/EØF](eu/31982l0471) har som mål å forbedre tilgangen på fôr som brukes til direkte og indirekte proteinkilder i Fellesskapet. Dette direktiv krever en framgangsmåte med forhåndstillatelse for alle mulige bioproteiner. Imidlertid er det bare gitt noen få nye tillatelser fram til dagens dato, og mangelen på proteinrikt fôr er fortsatt åpenbar. Dermed har det generelle kravet om forhåndstillatelse før omsetning vist seg å være en hindring, og sikkerhetsrisikoen kan i stedet håndteres ved å forby risikoprodukter på grunnlag av markedsovervåking. I tilfeller der resultatet av risikovurderingen av et bioprotein var eller er negativt, bør omsetningen eller bruken av det forbys. Derfor bør det særlige kravet om en generell framgangsmåte for forhåndstillatelse før omsetning for bioproteiner oppheves, med den følge at sikkerhetssystemet for slike produkter blir det samme som for alle andre fôrmidler. De eksisterende begrensningene eller forbudet for visse bioproteiner bør ikke påvirkes.Bestemmelsene i direktiv [93/74/EF](eu/31993l0074) som ble gjennomført ved Kommisjonsdirektiv [2008/38/EF](eu/32008l0038) av 5. mars 2008 om utarbeiding av en liste over bruksområdene for fôrvarer med særlige ernæringsformål,17 har vist seg å fungere bra. Listen over bruksområder som ble utarbeidet, bør derfor opprettholdes, og det bør fastsettes bestemmelser for ajourføring av den i denne forordning. Særlig bør Den europeiske myndighet for næringsmiddeltrygghet rådspørres om slike fôrvarers effektivitet og sikkerhet, når det på grunnlag av tilgjengelige vitenskapelige og teknologiske opplysninger er grunn til å tro at bruken av det aktuelle fôret kanskje ikke oppfyller det særlige ernæringsformålet, eller at det har skadevirkninger på dyrs og menneskers helse, på miljøet eller på dyrs velferd.Vitenskapelig dokumentasjon bør være den viktigste faktoren som bør tas i betraktning når det framsettes påstander om fôr, og driftsansvarlige for fôrforetak som framsetter slike påstander, bør kunne dokumentere dem. En påstand kan dokumenteres vitenskapelig ved å ta hensyn til alle tilgjengelige vitenskapelige opplysninger, og ved en avveining av den samlede dokumentasjonen.Merkingen fungerer som hjelp ved gjennomføring av håndheving, sporing og kontroll. I tillegg bør merking gi kjøperne de opplysninger som er nødvendige for at de skal kunne treffe et best mulig valg for sine behov, og de bør være ensartede, sammenhengende, tydelige og forståelige. Ettersom kjøperne, særlig oppdrettere, treffer sine valg ikke bare på utsalgsstedet der de kan undersøke emballasjen til fôret, må kravet om opplysninger som gis på merkingen, ikke bare gjelde etiketter på produktet, men også for andre typer kommunikasjon mellom selgeren og kjøperen. Disse prinsippene bør dessuten også gjelde presentasjonen av og reklame for fôret.Merkingen omfatter obligatoriske og frivillige opplysninger. De obligatoriske opplysningene bør bestå av generelle merkingskrav samt særlige krav til henholdsvis fôrmidler eller fôrblandinger, og tilleggskrav for fôrvarer med særlige ernæringsformål, forurensede fôrmidler og fôr til kjæledyr.Den nåværende situasjonen med hensyn til kjemiske urenheter fra produksjonsprosessen for fôrmidler og fra tekniske hjelpestoffer er ikke tilfredsstillende. For å sikre et høyt nivå av fôrtrygghet og dermed et høyt vernenivå for menneskers helse, og for å forbedre innsynet, bør det vedtas bestemmelser som fastsetter akseptable nivåer for slike kjemiske urenheter i samsvar med god praksis som nevnt i forordning [(EF) nr. 183/2005](eu/32005r0183).Prinsippet om at bare visse tilsetningsstoffer i fôrvarer må merkes når de brukes i fôrmidler og fôrblandinger, fungerer godt. Imidlertid bør kategoriseringen i henhold til forordning [(EF) nr. 1831/2003](eu/32003r1831) ajourføres og moderniseres, særlig fordi eiere av kjæledyr kan bli forvirret av visse former for merking av tilsetningsstoffer.Som en følge av bovin spongiform encefalopati (BSE)– og dioksinkrisene ble det i 2002 ved europaparlaments- og rådsdirektiv [2002/2/EF](eu/32002l0002) av 28. januar 2002 om endring av rådsdirektiv [79/373/EØF](eu/31979l0373*) om markedsføring av fôrblandinger,18 på initiativ fra Europaparlamentet, innført et krav om at vektprosenten skal angis for alle fôrmidler i fôrblandinger. Næringsmiddel- og fôrtryggheten er dessuten blitt vesentlig forbedret som følge av forordning [(EF) nr. 178/2002](eu/32002r0178) og forordning [(EF) nr. 183/2005](eu/32005r0183) samt deres gjennomføringstiltak, særlig som følge av at det er fokusert på ansvaret til driftsansvarlige for fôr- og næringsmiddelforetak, det forbedrede sporingssystemet, innføringen av prinsippet om fareanalyse og kritiske styringspunkter (HACCP) i fôrforetak og utarbeiding av retningslinjer for god hygienepraksis i fôrforetak. Disse positive resultatene, som gjenspeiles i underretninger til hurtigvarslingssystemet for næringsmiddel og fôr (RASFF), gjør at plikten til å angi vektprosent for alle fôrmidler i fôrblandinger på merkingen, ikke lenger er nødvendig for å sikre et høyt nivå av fôrtrygghet og dermed et høyt vernenivå for menneskers helse. De nøyaktige prosentdelene kan imidlertid gis på frivillig grunnlag for å gi kjøperne korrekte opplysninger. Med tanke på at vedkommende myndigheter har tilgang til opplysninger om nøyaktige vektprosent for alle fôrmidler i fôrblandinger, bør de dessuten på grunnlag av eventuelle hastesaker i forbindelse med menneskers eller dyrs helse eller i forbindelse med miljøet, og i samsvar med europaparlaments- og rådsdirektiv [2004/48/EF](eu/32004l0048*) av 29. april 2004 om håndheving av immaterialrettigheter,19 kunne gi ytterligere opplysninger til kjøperne.For å sikre at kjøperen får tilstrekkelige opplysninger og ikke villedes, bør den nøyaktige vektprosenten imidlertid kreves i slike tilfeller der det aktuelle fôrmiddelet er framhevet på merkingen til en fôrblanding.Angivelsen av fôrmidler i fôrblandingen i rekkefølge etter fallende vekt, gir allerede viktige opplysninger om varens sammensetning. På visse områder der produsenten ikke er forpliktet til å ta med visse opplysninger på merkingen, bør kjøperen ha mulighet til å be om ytterligere opplysninger. I slike tilfeller bør det opprettholdes en margin på +/15 % av den angitte verdien.Produsentenes immaterialrettigheter bør beskyttes. For håndheving av slike immaterialrettigheter bør direktiv [2004/48/EF](eu/32004l0048*) få anvendelse. Det bør også anerkjennes at fôrblandingers kvantitative sammensetning, til forskjell fra betegnelsene på de fôrmidlene som inngår i dem, under visse omstendigheter kan anses som fortrolige opplysninger som må beskyttes.Europaparlaments- og rådsdirektiv [2002/32/EF](eu/32002l0032) av 7. mai 2002 om uønskede stoffer i fôrvarer20 får ikke anvendelse på merkingen av fôr med altfor høye nivåer av uønskede stoffer, Det bør derfor fastsettes bestemmelser for å sikre tilstrekkelig merking og overholdelse av forbudet mot fortynning fastsatt i artikkel 5 i nevnte direktiv, inntil slike forurensede fôrmidler er blitt detoksifisert av et detoksifiseringsforetak godkjent i samsvar med artikkel 10 nr. 2 eller 3 i forordning [(EF) nr. 183/2005](eu/32005r0183), eller inntil de er blitt renset.Unntak fra de generelle merkingskravene bør være mulige i det omfang disse kravene ikke er nødvendige for å verne menneskers eller dyrs helse eller forbrukerinteresser, og ville utgjøre en urimelig byrde for produsenten eller de driftsansvarlige for fôrforetaket som er ansvarlig for merkingen. På grunnlag av erfaringen bør slike unntak særlig omfatte fôr levert av en gårdbruker til en annen, til bruk på vedkommendes gård, små mengder fôr, fôrblandinger som ikke inneholder mer enn tre fôrmidler og for blandinger av hele korn, frø og frukt.Som en generell regel skal fôrblandinger omsettes i forseglede beholdere, men det bør fastsettes hensiktsmessige unntak i det omfang dette kravet ikke er nødvendig for å verne menneskers eller dyrs helse eller forbrukerinteresser, og det vil utgjøre en urimelig byrde for driftsansvarlige for fôrforetaket.Del B i vedlegget til direktiv [96/25/EF](eu/31996l0025) og kolonne 2–4 i vedlegget til direktiv [82/471/EØF](eu/31982l0471) inneholder lister over betegnelser, beskrivelser og merkingsbestemmelser for visse fôrmidler. Disse listene skal tilrettelegge for utveksling av opplysninger om produktegenskaper mellom produsenten og kjøperen. Tidligere erfaringer med å oppmuntre interessentene til å utarbeide frivillige standarder ved hjelp av fellesskapsretningslinjer på området fôrvarehygiene, har vært utelukkende positive. Det kan oppnås større fleksibilitet og bedre tilpasning til brukernes informasjonsbehov dersom interessentene, og ikke lovgiverne, utarbeider mer omfattende lister. Interessentene kan selv bestemme hvor mye arbeid de vil legge ned avhengig av verdien av en liste over fôrmidler. Det er derfor ønskelig å utarbeide en ikke-uttømmende fortegnelse over fôrmidler som skal brukes av driftsansvarlige for fôrforetak på frivillig grunnlag, bortsett fra når det gjelder bruken av betegnelsen på fôrmiddelet.De nåværende listene over fôrmidler som er oppført i del B i vedlegget til direktiv [96/25/EF](eu/31996l0025) og kolonne 2–4 i vedlegget til direktiv [82/471/EØF](eu/31982l0471) bør utgjøre den første versjonen av fellesskapsfortegnelsen over fôrmidler. Denne første versjonen skal deretter utfylles på initiativ fra interessentene, i samsvar med deres interesser, herunder ved tilføyelse av nye fôrmidler.Av hensyn til innsyn er det hensiktsmessig å underrette representantene for interessentene om et fôrmiddel som ikke er oppført i fortegnelsen, så snart dette fôrmiddelet bringes i omsetning for første gang.Moderne merking fremmer et konkurransepreget markedsmiljø der dynamiske, effektive, nyskapende foretak kan utnytte merking fullt ut for å selge sine produkter. Med hensyn til foretakenes forhold til hverandre ved omsetning av fôr til husdyr, og forbindelsen mellom produsenten og kjøperen av fôr til kjæledyr, kan reglene for god merking for disse to områdene være et nyttig middel til å oppnå målene for moderne merking. Reglene skal fastsette bestemmelser som gjør det mulig for kjøperen å foreta valg på velinformert grunnlag. De bør også gi personen som er ansvarlig for merkingen, nødvendig veiledning i forskjellige elementer av merkingen. De bør også gi den merkingsansvarlige veiledning om rammene for frivillig merking eller utforming av obligatorisk merking. Bruk av reglene bør være frivillig, bortsett fra i tilfeller der bruken av reglene er angitt på merkingen.Det er av avgjørende betydning at alle berørte parter deltar, for å sikre at fortegnelsen og reglene for god merking holder høy kvalitet og er relevante. For å styrke brukernes rett til korrekte opplysninger, må det tas hensyn til deres interesser. Dette kan sikres ved at Kommisjonen godkjenner fortegnelsen og reglene, forutsatt at innholdet i dem er gjennomførbart, og at de er hensiktsmessige for å oppnå målene i denne forordning.Medlemsstatene bør fastsette sanksjoner for overtredelse av bestemmelsene i denne forordning, og bør treffe alle nødvendige tiltak for å sikre at de får anvendelse. Disse sanksjonene bør være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende.En overgangsperiode er nødvendig, særlig for fôr som oppfyller et særlig ernæringsformål og for akseptable nivåer av kjemiske urenheter fra produksjonsprosessen og fra tekniske hjelpestoffer. Det bør også være tillat å omsette eksisterende beholdninger til de er brukt opp. Det kan dessuten være hensiktsmessig å angi på hvilke vilkår fôrvarer kan merkes, i samsvar med denne forordning før den trer i kraft.Ettersom målet med denne forordningen, det vil si å harmonisere vilkårene for omsetning og bruk av fôrvarer, for å sikre et høyt nivå av fôrtrygghet og dermed et høyt vernenivå for menneskers helse, samt for å framlegge tilstrekkelige opplysninger for brukere og forbrukere, og å sikre at det indre marked fungerer effektivt, ikke i tilstrekkelig grad kan oppnås av medlemsstatene, men bedre kan oppnås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet omhandlet i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå disse målene.Tiltakene som er nødvendige for å gjennomføre denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.21Kommisjonen bør særlig ha myndighet til å endre listen over fôrmidler hvis bruk som fôrvarer er begrenset eller forbudt, til å godkjenne fôrvarer beregnet på særlige ernæringsformål, til å utarbeide en liste over merkingskategorier for fôrmidler til dyr som ikke er bestemt til næringsmiddelproduksjon, bortsett fra pelsdyr, til å vedta endringen i fortegnelsen med fastsettelse av grenseverdien for kjemiske urenheter eller nivået av botanisk renhet eller vanninnholdet eller opplysninger som erstatter den obligatoriske angivelsen, til å tilpasse vedleggene i lys av den vitenskapelige og teknologiske utviklingen og å vedta overgangstiltak. Ettersom det dreier seg om generelle tiltak som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, blant annet ved å supplere dem med nye ikke-grunnleggende bestemmelser, bør de vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 5a i beslutning [1999/468/EF](eu/31999d0468).Av hensyn til effektivitet bør de normale fristene fastsatt for framgangsmåten med forskriftskomité med kontroll forkortes med sikte på vedtakelse av ajourføringer av listen over bruksområder. I de tilfeller der det av tvingende grunner ikke er mulig å overholde de normale fristene for framgangsmåten med forskriftskomité med kontroll, bør Kommisjonen kunne anvende framgangsmåten for behandling av hastesaker fastsatt i artikkel 5a nr. 6 i beslutning [1999/468/EF](eu/31999d0468) for å vedta de endringer av listen over fôrmidler hvis omsetning eller bruk som fôrvarer er begrenset eller forbudt.I artikkel 16 i forordning [(EF) nr. 1831/2003](eu/32003r1831) er det fastsatt bestemmelser om merking og emballering av tilsetningsstoffer i fôrvarer og premikser. Særlig reglene for premikser har vist seg å gi praktiske problemer med gjennomføringen, for industrien og for vedkommende myndigheter. Artikkelen bør endres for å sikre en mer ensartet merking av premikser –
 
+1 EUT C 77 av 31.3.2009, s. 84.
+
+2 Europaparlamentsuttalelse av 5. februar 2009 (ennå ikke offentliggjort i EUT) og rådsbeslutning av 22. juni 2009.
+
+3 EFT L 31 av 1.2.2002, s. 1.
+
+4 EUT L 268 av 18.10.2003, s. 29.
+
+5 EFT L 92 av 7.4.1990, s. 42.
+
+6 EFT L 86 av 6.4.1979, s. 30.
+
+7 EFT L 237 av 22.9.1993, s. 23.
+
+8 EFT L 125 av 23.5.1996, s. 35.
+
+9 EFT L 213 av 21.7.1982, s. 8.
+
+10 EFT L 126 av 13.5.1983, s. 23.
+
+11 EFT L 126 av 21.5.1980, s. 14.
+
+12 EFT L 334 av 31.12.1993, s. 17.
+
+13 EFT L 270 av 14.12.1970, s. 1.
+
+14 EUT L 35 av 8.2.2005, s. 1.
+
+15 EUT L 165 av 30.4.2004, s. 1.
+
+16 EUT L 67 av 5.3.2004, s. 31.
+
+17 EUT L 62 av 6.3.2008, s. 9.
+
+18 EUT L 63 av 6.3.2002, s. 23.
+
+19 EUT L 157 av 30.4.2004, s. 45.
+
+20 EUT L 140 av 30.5.2002, s. 10.
+
+21 EFT L 184 av 17.7.1999, s. 23.
+
+VEDTATT DENNE FORORDNING:
+
 ### Kapittel I
 Innledende bestemmelser
 
@@ -115,57 +164,59 @@ Formålet med denne forordning, i samsvar med de allmenne prinsippene fastsatt i
 
 ### Artikkel 2. Virkeområde
 
-1. Denne forordning fastsetter regler for omsetning og bruk av fôrvarer både til dyr som er bestemt til næringsmiddelproduksjon og dyr som ikke er bestemt til næringsmiddelproduksjon i Fellesskapet, herunder krav til merking, emballering og presentasjon.
+1\. Denne forordning fastsetter regler for omsetning og bruk av fôrvarer både til dyr som er bestemt til næringsmiddelproduksjon og dyr som ikke er bestemt til næringsmiddelproduksjon i Fellesskapet, herunder krav til merking, emballering og presentasjon.
 
-2. Denne forordningen får anvendelse med forbehold for andre fellesskapsbestemmelser på fôrområdet, særlig:direktiv [90/167/EØF](eu/31990l0167*),direktiv [2002/32/EØF](eu/32002l0032),europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å forebygge, bekjempe og utrydde visse typer overførbar spongiform encefalopati,1europaparlaments- og rådsforordning [(EF) nr. 1774/2002](eu/32002r1774*) av 3. oktober 2002 om hygieneregler for animalske biprodukter som ikke er beregnet på konsum,2europaparlaments- og rådsforordning [(EF) nr. 1829/2003](eu/32003r1829) av 22. september 2003 om genmodifiserte næringsmidler og fôrvarer,3europaparlaments- og rådsforordning [(EF) nr. 1830/2003](eu/32003r1830) av 22. september 2003 om sporbarhet og merking av genmodifiserte organismer og om sporbarhet av næringsmidler og fôr framstilt på grunnlag av genmodifiserte organismer,4forordning [(EF) nr. 1831/2003](eu/32003r1831), ogrådsforordning [(EF) nr. 834/2007](eu/32007r0834) av 28. juni 2007 om økologisk produksjon og merking av økologiske produkter.5
+2\. Denne forordningen får anvendelse med forbehold for andre fellesskapsbestemmelser på fôrområdet, særlig:direktiv [90/167/EØF](eu/31990l0167*),direktiv [2002/32/EØF](eu/32002l0032),europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å forebygge, bekjempe og utrydde visse typer overførbar spongiform encefalopati,1europaparlaments- og rådsforordning [(EF) nr. 1774/2002](eu/32002r1774*) av 3. oktober 2002 om hygieneregler for animalske biprodukter som ikke er beregnet på konsum,2europaparlaments- og rådsforordning [(EF) nr. 1829/2003](eu/32003r1829) av 22. september 2003 om genmodifiserte næringsmidler og fôrvarer,3europaparlaments- og rådsforordning [(EF) nr. 1830/2003](eu/32003r1830) av 22. september 2003 om sporbarhet og merking av genmodifiserte organismer og om sporbarhet av næringsmidler og fôr framstilt på grunnlag av genmodifiserte organismer,4forordning [(EF) nr. 1831/2003](eu/32003r1831), ogrådsforordning [(EF) nr. 834/2007](eu/32007r0834) av 28. juni 2007 om økologisk produksjon og merking av økologiske produkter.5
 
-3. Denne forordning får ikke anvendelse på vann, enten det inntas direkte av dyrene eller det er bevisst tilsatt i fôret. Den skal imidlertid få anvendelse på fôr som er beregnet på å bli inntatt sammen med vann.
+3\. Denne forordning får ikke anvendelse på vann, enten det inntas direkte av dyrene eller det er bevisst tilsatt i fôret. Den skal imidlertid få anvendelse på fôr som er beregnet på å bli inntatt sammen med vann.
+
+1 EFT L 147 av 31.5.2001, s. 1.2 EFT L 273 av 10.10.2002, s. 1. Forordning [(EF) nr. 1774/2002](eu/32002r1774*) er erstattet av forordning [(EF) nr. 1069/2009](eu/32009r1069).3 EUT L 268 av 18.10.2003, s. 1.4 EUT L 268 av 18.10.2003, s. 24.5 EUT L 189 av 20.7.2007, s. 1.
 
 ### Artikkel 3. Definisjoner
 
-1. I denne forordning får følgende definisjoner anvendelse:de definisjonene av «fôr», «fôrvarer», «fôrforetak» og «bringe i omsetning» som er fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178),de definisjonene av «tilsetningsstoffer i fôrvarer», «premiks», «tekniske hjelpestoffer» og «dagsrasjon» som er fastsatt i forordning [(EF) nr. 1831/2003](eu/32003r1831), ogde definisjonene av «virksomhet» og «vedkommende myndighet» som er fastsatt i forordning [(EF) nr. 183/2005](eu/32005r0183).
+1\. I denne forordning får følgende definisjoner anvendelse:de definisjonene av «fôr», «fôrvarer», «fôrforetak» og «bringe i omsetning» som er fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178),de definisjonene av «tilsetningsstoffer i fôrvarer», «premiks», «tekniske hjelpestoffer» og «dagsrasjon» som er fastsatt i forordning [(EF) nr. 1831/2003](eu/32003r1831), ogde definisjonene av «virksomhet» og «vedkommende myndighet» som er fastsatt i forordning [(EF) nr. 183/2005](eu/32005r0183).
 
-2. Dessuten menes med:«driftsansvarlig for fôrforetak» den eller de fysiske eller juridiske personene som har ansvar for at kravene i denne forordning overholdes i det fôrforetaket vedkommende driver,«ernæring av dyr ved fôring» fôrtilførsel gjennom munnen til dyrets mage-tarm-kanal, med det formål å oppfylle dyrets ernæringsbehov og/eller opprettholde produktiviteten hos normalt friske dyr,«dyr bestemt til næringsmiddelproduksjon» alle dyr som fores, avles eller holdes for produksjon av næringsmidler beregnet på konsum, herunder dyr som ikke er beregnet på konsum, men som tilhører arter som normalt brukes til konsum i Fellesskapet,«dyr som ikke er bestemt til næringsmiddelproduksjon» alle dyr som fôres, avles eller holdes, men som ikke brukes til konsum, som pelsdyr, kjæledyr og dyr som holdes i laboratorier, zoologiske hager eller sirkus,«pelsdyr» alle dyr som ikke er bestemt til næringsmiddelproduksjon, som fôres, avles eller holdes for pelsproduksjon, og som ikke er beregnet på konsum,«kjæledyr» alle dyr som ikke er bestemt til næringsmiddelproduksjon, som tilhører arter som fôres, oppdrettes eller holdes, men som normalt ikke brukes til konsum i Fellesskapet,«fôrmidler» produkter av vegetabilsk eller animalsk opprinnelse, hvis hovedformål er å oppfylle dyrenes ernæringsbehov, i naturlig tilstand, ferske eller konserverte, og avledede produkter av disse etter industriell bearbeiding samt organiske og uorganiske stoffer, med eller uten tilsetningsstoffer, som i ubearbeidet form eller etter bearbeiding er beregnet til ernæring av dyr ved fôring, til framstilling av fôrblandinger eller som bærestoff i premikser,«fôrblanding» en blanding av minst to fôrmidler, med eller uten tilsetningsstoffer, som er beregnet på ernæring av dyr ved fôring i form av fullfôr eller tilskuddsfôr,«fullfôr» fôrblanding som ved sin sammensetning dekker dagsrasjonen,«tilskuddsfôr» fôrblanding som har et høyt innhold av visse stoffer, og som ved sin sammensetning dekker dagsrasjonen bare dersom det kombineres med andre fôrvarer,«mineralfôr» tilskuddsfôr som inneholder minst 40 % råaske,«melkeerstatningsfôr» fôrblanding som i tørr form eller etter fortynning i en bestemt mengde væske gis til ungdyr som et tilskudd til eller erstatning for melk etter kolostrum eller som fôr til ungdyr som kalver, lam eller kje beregnet på slakting,«bærestoff» et stoff som brukes til å løse opp, fortynne, dispergere eller på annen måte endre fysisk et tilsetningsstoff i fôrvarer for å gjøre det enklere å håndtere, anvende eller bruke uten å endre dets teknologiske funksjon og uten at det får noen teknologisk virkning i seg selv,«særlig ernæringsformål» det formål å oppfylle særlige ernæringsbehov hos visse dyr hvis fordøyelse, næringsopptak eller stoffskifte kan bli eller er forstyrret midlertidig eller kronisk, og som derfor kan ha fordel av å innta fôrvarer som er hensiktsmessige for deres tilstand,«fôrvarer med særlige ernæringsformål» fôrblandinger med det formål å dekke visse ernæringsbehov, som i kraft av sin særlige sammensetning eller produksjonsprosess kan skilles klart fra vanlige fôrvarer. Fôrvarer med særlige ernæringsformål omfatter ikke medisinfôr som definert i direktiv [90/167/EØF](eu/31990l0167*),«forurensede fôrmidler» fôr som inneholder en mengde uønskede stoffer som overstiger det nivået som er akseptabelt i henhold til direktiv [2002/32/EF](eu/32002l0032),«holdbarhetsgrense» den perioden når den personen som er ansvarlig for merkingen, garanterer at fôret beholder sine angitte egenskaper, under egnede oppbevaringsforhold; og det kan bare angis en holdbarhetsgrense for fôret som helhet, og den fastslås på grunnlag av holdbarhetsgrensen for hver enkelt av fôrets bestanddeler,«parti» en identifiserbar mengde fôr som er fastslått å ha felles egenskaper, som opprinnelse, sort, type emballasje, emballeringsbedrift, avsender eller merking, og når det gjelder en produksjonsprosess, en produksjonsenhet fra et og samme anlegg som benytter ensartede produksjonsparametrer, eller en rekke slike enheter, når de er framstilt fortløpende og oppbevares sammen,«merking» betegnelse av fôr med angivelser, opplysninger, varemerker, varenavn, bilder eller symboler på ethvert medium som viser til eller ledsager fôret, som emballasje, beholder, skilt, etikett, dokument, halsetikett, krage eller på Internett, herunder til reklameformål,«etikett» enhver merkelapp, merke, tegn, bilde eller annet beskrivende materiell, som er skrevet, trykt, stensilert, angitt, preget, stemplet eller vedlagt pakningen eller beholderen med fôr, og«presentasjon» form, utseende eller emballasje og emballasjemateriale som er brukt til fôret, samt den måten fôret er arrangert på og de omgivelsene det stilles ut i.
+2\. Dessuten menes med:«driftsansvarlig for fôrforetak» den eller de fysiske eller juridiske personene som har ansvar for at kravene i denne forordning overholdes i det fôrforetaket vedkommende driver,«ernæring av dyr ved fôring» fôrtilførsel gjennom munnen til dyrets mage-tarm-kanal, med det formål å oppfylle dyrets ernæringsbehov og/eller opprettholde produktiviteten hos normalt friske dyr,«dyr bestemt til næringsmiddelproduksjon» alle dyr som fores, avles eller holdes for produksjon av næringsmidler beregnet på konsum, herunder dyr som ikke er beregnet på konsum, men som tilhører arter som normalt brukes til konsum i Fellesskapet,«dyr som ikke er bestemt til næringsmiddelproduksjon» alle dyr som fôres, avles eller holdes, men som ikke brukes til konsum, som pelsdyr, kjæledyr og dyr som holdes i laboratorier, zoologiske hager eller sirkus,«pelsdyr» alle dyr som ikke er bestemt til næringsmiddelproduksjon, som fôres, avles eller holdes for pelsproduksjon, og som ikke er beregnet på konsum,«kjæledyr» alle dyr som ikke er bestemt til næringsmiddelproduksjon, som tilhører arter som fôres, oppdrettes eller holdes, men som normalt ikke brukes til konsum i Fellesskapet,«fôrmidler» produkter av vegetabilsk eller animalsk opprinnelse, hvis hovedformål er å oppfylle dyrenes ernæringsbehov, i naturlig tilstand, ferske eller konserverte, og avledede produkter av disse etter industriell bearbeiding samt organiske og uorganiske stoffer, med eller uten tilsetningsstoffer, som i ubearbeidet form eller etter bearbeiding er beregnet til ernæring av dyr ved fôring, til framstilling av fôrblandinger eller som bærestoff i premikser,«fôrblanding» en blanding av minst to fôrmidler, med eller uten tilsetningsstoffer, som er beregnet på ernæring av dyr ved fôring i form av fullfôr eller tilskuddsfôr,«fullfôr» fôrblanding som ved sin sammensetning dekker dagsrasjonen,«tilskuddsfôr» fôrblanding som har et høyt innhold av visse stoffer, og som ved sin sammensetning dekker dagsrasjonen bare dersom det kombineres med andre fôrvarer,«mineralfôr» tilskuddsfôr som inneholder minst 40 % råaske,«melkeerstatningsfôr» fôrblanding som i tørr form eller etter fortynning i en bestemt mengde væske gis til ungdyr som et tilskudd til eller erstatning for melk etter kolostrum eller som fôr til ungdyr som kalver, lam eller kje beregnet på slakting,«bærestoff» et stoff som brukes til å løse opp, fortynne, dispergere eller på annen måte endre fysisk et tilsetningsstoff i fôrvarer for å gjøre det enklere å håndtere, anvende eller bruke uten å endre dets teknologiske funksjon og uten at det får noen teknologisk virkning i seg selv,«særlig ernæringsformål» det formål å oppfylle særlige ernæringsbehov hos visse dyr hvis fordøyelse, næringsopptak eller stoffskifte kan bli eller er forstyrret midlertidig eller kronisk, og som derfor kan ha fordel av å innta fôrvarer som er hensiktsmessige for deres tilstand,«fôrvarer med særlige ernæringsformål» fôrblandinger med det formål å dekke visse ernæringsbehov, som i kraft av sin særlige sammensetning eller produksjonsprosess kan skilles klart fra vanlige fôrvarer. Fôrvarer med særlige ernæringsformål omfatter ikke medisinfôr som definert i direktiv [90/167/EØF](eu/31990l0167*),«forurensede fôrmidler» fôr som inneholder en mengde uønskede stoffer som overstiger det nivået som er akseptabelt i henhold til direktiv [2002/32/EF](eu/32002l0032),«holdbarhetsgrense» den perioden når den personen som er ansvarlig for merkingen, garanterer at fôret beholder sine angitte egenskaper, under egnede oppbevaringsforhold; og det kan bare angis en holdbarhetsgrense for fôret som helhet, og den fastslås på grunnlag av holdbarhetsgrensen for hver enkelt av fôrets bestanddeler,«parti» en identifiserbar mengde fôr som er fastslått å ha felles egenskaper, som opprinnelse, sort, type emballasje, emballeringsbedrift, avsender eller merking, og når det gjelder en produksjonsprosess, en produksjonsenhet fra et og samme anlegg som benytter ensartede produksjonsparametrer, eller en rekke slike enheter, når de er framstilt fortløpende og oppbevares sammen,«merking» betegnelse av fôr med angivelser, opplysninger, varemerker, varenavn, bilder eller symboler på ethvert medium som viser til eller ledsager fôret, som emballasje, beholder, skilt, etikett, dokument, halsetikett, krage eller på Internett, herunder til reklameformål,«etikett» enhver merkelapp, merke, tegn, bilde eller annet beskrivende materiell, som er skrevet, trykt, stensilert, angitt, preget, stemplet eller vedlagt pakningen eller beholderen med fôr, og«presentasjon» form, utseende eller emballasje og emballasjemateriale som er brukt til fôret, samt den måten fôret er arrangert på og de omgivelsene det stilles ut i.
 
 ### Kapittel 2
 Generelle krav
 
 ### Artikkel 4. Krav til sikkerhet og omsetning
 
-1. Fôrvarer kan bare bringes i omsetning og brukes dersom:de er trygge, ogde ikke har noen direkte skadevirkning på miljøet eller på dyrs velferd.Kravene fastsatt i artikkel 15 i forordning [(EF) nr. 178/2002](eu/32002r0178) får tilsvarende anvendelse på fôr til dyr som ikke er bestemt til næringsmiddelproduksjon.
+1\. Fôrvarer kan bare bringes i omsetning og brukes dersom:de er trygge, ogde ikke har noen direkte skadevirkning på miljøet eller på dyrs velferd.Kravene fastsatt i artikkel 15 i forordning [(EF) nr. 178/2002](eu/32002r0178) får tilsvarende anvendelse på fôr til dyr som ikke er bestemt til næringsmiddelproduksjon.
 
-2. I tillegg til kravene som er fastsatt i nr. 1 i denne artikkelen, skal driftsansvarlige for fôrforetak som bringer fôr i omsetning, sikre at fôret:er sunt, ekte, uforfalsket, egnet til formålet og av godhandelskvalitet, oger merket, pakket og presentert i samsvar med bestemmelsene fastsatt i denne forordning og andre gjeldende fellesskapsrettsakter.Kravene fastsatt i artikkel 16 i forordning [(EF) nr. 178/2002](eu/32002r0178), får tilsvarende anvendelse på fôr til dyr som ikke er bestemt til næringsmiddelproduksjon.
+2\. I tillegg til kravene som er fastsatt i nr. 1 i denne artikkelen, skal driftsansvarlige for fôrforetak som bringer fôr i omsetning, sikre at fôret:er sunt, ekte, uforfalsket, egnet til formålet og av godhandelskvalitet, oger merket, pakket og presentert i samsvar med bestemmelsene fastsatt i denne forordning og andre gjeldende fellesskapsrettsakter.Kravene fastsatt i artikkel 16 i forordning [(EF) nr. 178/2002](eu/32002r0178), får tilsvarende anvendelse på fôr til dyr som ikke er bestemt til næringsmiddelproduksjon.
 
-3. Fôr skal overholde de tekniske bestemmelsene om urenheter og andre kjemiske bestanddeler fastsatt i vedlegg I til denne forordning.
+3\. Fôr skal overholde de tekniske bestemmelsene om urenheter og andre kjemiske bestanddeler fastsatt i vedlegg I til denne forordning.
 
 ### Artikkel 5. Fôrforetakenes ansvar og forpliktelser
 
-1. Driftsansvarlige for fôrforetak skal tilsvarende oppfylle forpliktelsene fastsatt i artikkel 18 og 20 i forordning [(EF) nr. 178/2002](eu/32002r0178) og artikkel 4 nr. 1 i forordning [(EF) nr. 183/2005](eu/32005r0183) når det gjelder fôr til dyr som ikke er bestemt til næringsmiddelproduksjon.
+1\. Driftsansvarlige for fôrforetak skal tilsvarende oppfylle forpliktelsene fastsatt i artikkel 18 og 20 i forordning [(EF) nr. 178/2002](eu/32002r0178) og artikkel 4 nr. 1 i forordning [(EF) nr. 183/2005](eu/32005r0183) når det gjelder fôr til dyr som ikke er bestemt til næringsmiddelproduksjon.
 
-2. Personen som er ansvarlig for merkingen av fôr, skal framlegge for vedkommende myndigheter alle opplysninger som gjelder sammensetning eller påståtte egenskaper hos fôret som denne personen har brakt i omsetning, noe som gjør det mulig å etterprøve om opplysningene som gis på merkingen, er riktige, herunder de nøyaktige vektprosentene av fôrmidler som brukes i fôrblandinger.
+2\. Personen som er ansvarlig for merkingen av fôr, skal framlegge for vedkommende myndigheter alle opplysninger som gjelder sammensetning eller påståtte egenskaper hos fôret som denne personen har brakt i omsetning, noe som gjør det mulig å etterprøve om opplysningene som gis på merkingen, er riktige, herunder de nøyaktige vektprosentene av fôrmidler som brukes i fôrblandinger.
 
-3. I tilfelle eventuelle hastesaker i forbindelse med menneskers eller dyrs helse eller i forbindelse med miljøet, og med forbehold for bestemmelsene i direktiv [2004/48/EF](eu/32004l0048*), kan vedkommende myndighet gi kjøperen opplysninger som den har tilgang til i henhold til nr. 2 i denne artikkel, forutsatt at den har avveid produsentenes og kjøpernes respektive legitime interesser, og kommet fram til at det er berettiget å utlevere slike opplysninger. Dersom det er relevant, skal vedkommende myndighet kreve at kjøperen undertegner en fortrolighetsklausul som forutsetning for å framlegge slike opplysninger.
+3\. I tilfelle eventuelle hastesaker i forbindelse med menneskers eller dyrs helse eller i forbindelse med miljøet, og med forbehold for bestemmelsene i direktiv [2004/48/EF](eu/32004l0048*), kan vedkommende myndighet gi kjøperen opplysninger som den har tilgang til i henhold til nr. 2 i denne artikkel, forutsatt at den har avveid produsentenes og kjøpernes respektive legitime interesser, og kommet fram til at det er berettiget å utlevere slike opplysninger. Dersom det er relevant, skal vedkommende myndighet kreve at kjøperen undertegner en fortrolighetsklausul som forutsetning for å framlegge slike opplysninger.
 
 ### Artikkel 6. Begrensninger og forbud
 
-1. Fôr skal ikke innholde eller bestå av fôrmidler hvis omsetning eller bruk som fôrvarer er begrenset eller forbudt. Listen over disse materialene er oppført i vedlegg III.
+1\. Fôr skal ikke innholde eller bestå av fôrmidler hvis omsetning eller bruk som fôrvarer er begrenset eller forbudt. Listen over disse materialene er oppført i vedlegg III.
 
-2. Kommisjonen skal endre listen over materialer hvis omsetning eller bruk som fôrvarer er begrenset eller forbudt, samtidig som det tas hensyn til tilgjengelige vitenskapelige data, den teknologiske utviklingen, underretninger i henhold til hurtigvarslingssystemet for næringsmidler og fôr (RASFF) eller resultatene av offentlige kontroller i henhold til forordning [(EF) nr. 882/2004](eu/32004r0882*).Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.I de tilfeller der det av tvingende grunner er nødvendig med hastesaksbehandling, kan Kommisjonen anvende framgangsmåten for behandling av hastesaker omhandlet i artikkel 28 nr. 5, med henblikk på å vedta disse tiltakene.
+2\. Kommisjonen skal endre listen over materialer hvis omsetning eller bruk som fôrvarer er begrenset eller forbudt, samtidig som det tas hensyn til tilgjengelige vitenskapelige data, den teknologiske utviklingen, underretninger i henhold til hurtigvarslingssystemet for næringsmidler og fôr (RASFF) eller resultatene av offentlige kontroller i henhold til forordning [(EF) nr. 882/2004](eu/32004r0882*).Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.I de tilfeller der det av tvingende grunner er nødvendig med hastesaksbehandling, kan Kommisjonen anvende framgangsmåten for behandling av hastesaker omhandlet i artikkel 28 nr. 5, med henblikk på å vedta disse tiltakene.
 
 ### Kapittel 3
 Omsetning av særlige typer fôrvarer
 
 ### Artikkel 7. Fôrtypers egenskaper
 
-1. Etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 3, kan Kommisjonen vedta retningslinjer for å klargjøre skillet mellom fôrmidler, tilsetningsstoffer i fôrvarer og andre produkter som veterinærpreparater.
+1\. Etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 3, kan Kommisjonen vedta retningslinjer for å klargjøre skillet mellom fôrmidler, tilsetningsstoffer i fôrvarer og andre produkter som veterinærpreparater.
 
-2. Kommisjonen kan om nødvendig vedta tiltak for å klargjøre hvorvidt et bestemt produkt utgjør en fôrvare som definert i denne forordning.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.
+2\. Kommisjonen kan om nødvendig vedta tiltak for å klargjøre hvorvidt et bestemt produkt utgjør en fôrvare som definert i denne forordning.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.
 
 ### Artikkel 8. Innhold av tilsetningsstoffer i fôrvarer
 
-1. Uten av det berører vilkårene for bruk fastsatt i den relevante rettsakten som godkjenner det enkelte tilsetningsstoffet, skal fôrmidler og tilskuddsfôr ikke ha et innhold av tilsetningsstoffer som er 100 ganger høyere enn den relevante grenseverdien for fullfôr eller fem ganger høyere dersom det gjelder koksidiostatika og histomonostatika.
+1\. Uten av det berører vilkårene for bruk fastsatt i den relevante rettsakten som godkjenner det enkelte tilsetningsstoffet, skal fôrmidler og tilskuddsfôr ikke ha et innhold av tilsetningsstoffer som er 100 ganger høyere enn den relevante grenseverdien for fullfôr eller fem ganger høyere dersom det gjelder koksidiostatika og histomonostatika.
 
-2. Innholdet på 100 ganger mer enn den relevante grenseverdien for fullfôr nevnt i nr. 1, kan bare overskrides dersom sammensetningen av de berørte produktene oppfyller det særlige ernæringsformålet med hensyn til relevant bruksområde i henhold til artikkel 10 i denne forordning. Vilkårene for bruk av denne fôrvaren skal presiseres ytterligere i listen over bruksområder. Virksomheter som står under kontroll av en produsent av slike fôrvarer, som bruker tilsetningsstoffer nevnt i kapittel 2 i vedlegg IV til forordning [(EF) nr. 183/2005](eu/32005r0183), skal være godkjente i samsvar med nr. 1 bokstav b) i artikkel 10 i nevnte forordning.
+2\. Innholdet på 100 ganger mer enn den relevante grenseverdien for fullfôr nevnt i nr. 1, kan bare overskrides dersom sammensetningen av de berørte produktene oppfyller det særlige ernæringsformålet med hensyn til relevant bruksområde i henhold til artikkel 10 i denne forordning. Vilkårene for bruk av denne fôrvaren skal presiseres ytterligere i listen over bruksområder. Virksomheter som står under kontroll av en produsent av slike fôrvarer, som bruker tilsetningsstoffer nevnt i kapittel 2 i vedlegg IV til forordning [(EF) nr. 183/2005](eu/32005r0183), skal være godkjente i samsvar med nr. 1 bokstav b) i artikkel 10 i nevnte forordning.
 
 ### Artikkel 9. Omsetning av fôrvarer beregnet på særlige ernæringsformål
 
@@ -173,64 +224,66 @@ Fôrvarer med særlige ernæringsformål kan bare omsettes som dette dersom bruk
 
 ### Artikkel 10. Liste over bruksområdene for fôrvarer med særlige ernæringsformål
 
-1. Kommisjonen kan oppdatere listen over bruksområder fastsatt i direktiv [2008/38/EF](eu/32008l0038) ved å tilføye et bruksområde, trekke tilbake et bruksområde eller ved å tilføye, oppheve eller endre vilkårene knyttet til et bestemt bruksområde.
+1\. Kommisjonen kan oppdatere listen over bruksområder fastsatt i direktiv [2008/38/EF](eu/32008l0038) ved å tilføye et bruksområde, trekke tilbake et bruksområde eller ved å tilføye, oppheve eller endre vilkårene knyttet til et bestemt bruksområde.
 
-2. Framgangsmåten for å ajourføre listen over bruksområder kan innledes gjennom innlevering av en søknad til Kommisjonen fra en fysisk eller juridisk person med bosted i Fellesskapet, eller av en medlemsstat. En gyldig søknad skal omfatte en saksmappe som viser at den nøyaktige sammensetningen av fôrvaren oppfyller det særlige ernæringsformålet, og at den ikke har noen skadevirkninger på dyrs og menneskers helse, på miljøet eller på dyrs velferd.
+2\. Framgangsmåten for å ajourføre listen over bruksområder kan innledes gjennom innlevering av en søknad til Kommisjonen fra en fysisk eller juridisk person med bosted i Fellesskapet, eller av en medlemsstat. En gyldig søknad skal omfatte en saksmappe som viser at den nøyaktige sammensetningen av fôrvaren oppfyller det særlige ernæringsformålet, og at den ikke har noen skadevirkninger på dyrs og menneskers helse, på miljøet eller på dyrs velferd.
 
-3. Kommisjonen skal omgående gjøre søknaden, herunder saksmappen, tilgjengelig for medlemsstatene.
+3\. Kommisjonen skal omgående gjøre søknaden, herunder saksmappen, tilgjengelig for medlemsstatene.
 
-4. Dersom Kommisjonen, på grunnlag av tilgjengelige vitenskapelige og teknologiske opplysninger, har grunn til å tro at bruken av den aktuelle fôrvaren ikke oppfyller det særlige ernæringsformålet eller har skadevirkninger på dyrs og menneskers helse, på miljøet eller på dyrs velferd, skal Kommisjonen, innen tre måneder etter å ha mottatt en gyldig søknad, anmode om en uttalelse fra Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten»). Myndigheten skal avgi sin uttalelse innen seks måneder etter at anmodningen er mottatt. Denne fristen skal forlenges dersom myndigheten ønsker utfyllende opplysninger fra søkeren.
+4\. Dersom Kommisjonen, på grunnlag av tilgjengelige vitenskapelige og teknologiske opplysninger, har grunn til å tro at bruken av den aktuelle fôrvaren ikke oppfyller det særlige ernæringsformålet eller har skadevirkninger på dyrs og menneskers helse, på miljøet eller på dyrs velferd, skal Kommisjonen, innen tre måneder etter å ha mottatt en gyldig søknad, anmode om en uttalelse fra Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten»). Myndigheten skal avgi sin uttalelse innen seks måneder etter at anmodningen er mottatt. Denne fristen skal forlenges dersom myndigheten ønsker utfyllende opplysninger fra søkeren.
 
-5. Innen seks måneder etter at en gyldig søknad er mottatt, eller dersom det er relevant, etter å ha mottatt myndighetens uttalelse, skal Kommisjonen vedta en forordning som ajourfører listen over bruksområder dersom vilkårene som er fastsatt i nr. 2, er oppfylt.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 6.
+5\. Innen seks måneder etter at en gyldig søknad er mottatt, eller dersom det er relevant, etter å ha mottatt myndighetens uttalelse, skal Kommisjonen vedta en forordning som ajourfører listen over bruksområder dersom vilkårene som er fastsatt i nr. 2, er oppfylt.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 6.
 
-6. Som unntak fra nr. 5, innen seks måneder etter at en gyldig søknad er mottatt, eller dersom det er relevant, etter å ha mottatt myndighetens uttalelse, skal Kommisjonen avslutte framgangsmåten og beslutte å ikke gå videre med ajourføringen, på noe stadium av ajourføringen, dersom den anser at en slik ajourføring ikke er berettiget. Kommisjonen skal gjøre dette etter framgangsmåten med forskriftskomité fastsatt i artikkel 28 nr. 3.I slike tilfeller skal Kommisjonen når det er relevant informere søkeren og medlemsstatene direkte, og i sitt brev opplyse om årsakene til at den ikke anser at en ajourføring er berettiget.
+6\. Som unntak fra nr. 5, innen seks måneder etter at en gyldig søknad er mottatt, eller dersom det er relevant, etter å ha mottatt myndighetens uttalelse, skal Kommisjonen avslutte framgangsmåten og beslutte å ikke gå videre med ajourføringen, på noe stadium av ajourføringen, dersom den anser at en slik ajourføring ikke er berettiget. Kommisjonen skal gjøre dette etter framgangsmåten med forskriftskomité fastsatt i artikkel 28 nr. 3.I slike tilfeller skal Kommisjonen når det er relevant informere søkeren og medlemsstatene direkte, og i sitt brev opplyse om årsakene til at den ikke anser at en ajourføring er berettiget.
 
-7. Kommisjonen skal, etter framgangsmåten med forskriftskomité fastsatt i artikkel 28 nr. 3, vedta gjennomføringstiltak angående utarbeiding og framlegging av søknaden.
+7\. Kommisjonen skal, etter framgangsmåten med forskriftskomité fastsatt i artikkel 28 nr. 3, vedta gjennomføringstiltak angående utarbeiding og framlegging av søknaden.
 
 ### Kapittel 4
 Merking, presentasjon og emballering
 
 ### Artikkel 11. Prinsipper for merking og presentasjon
 
-1. Merkingen og presentasjonen av fôrvarer skal ikke villede brukeren, særlig ikke:med hensyn til fôrvarens bruksområde eller egenskaper, især dets art, framstillings- eller produksjonsmetode, egenskaper, sammensetning, mengde, holdbarhet, dyreart eller -kategori som den er beregnet på,ved at fôrvaren tillegges virkninger eller egenskaper den ikke har eller ved å antyde at fôrvaren har særlige egenskaper når alle tilsvarende fôrvarer har de samme egenskapene, ellernår det gjelder om merkingen er gjort i samsvar med fellesskapsfortegnelsen og fellesskapsreglene nevnt i artikkel 24 og 25.
+1\. Merkingen og presentasjonen av fôrvarer skal ikke villede brukeren, særlig ikke:med hensyn til fôrvarens bruksområde eller egenskaper, især dets art, framstillings- eller produksjonsmetode, egenskaper, sammensetning, mengde, holdbarhet, dyreart eller -kategori som den er beregnet på,ved at fôrvaren tillegges virkninger eller egenskaper den ikke har eller ved å antyde at fôrvaren har særlige egenskaper når alle tilsvarende fôrvarer har de samme egenskapene, ellernår det gjelder om merkingen er gjort i samsvar med fellesskapsfortegnelsen og fellesskapsreglene nevnt i artikkel 24 og 25.
 
-2. Fôrmidler eller fôrblandinger som selges i løs vekt eller i uforseglede pakninger eller beholdere i samsvar med artikkel 23 nr. 2, skal ledsages av et dokument som inneholder alle obligatoriske merkingsopplysninger som kreves i henhold til denne forordning.
+2\. Fôrmidler eller fôrblandinger som selges i løs vekt eller i uforseglede pakninger eller beholdere i samsvar med artikkel 23 nr. 2, skal ledsages av et dokument som inneholder alle obligatoriske merkingsopplysninger som kreves i henhold til denne forordning.
 
-3. Når fôrvarer tilbys for salg ved hjelp av fjernkommunikasjonsmidler som definert i artikkel 2 i europaparlaments- og rådsdirektiv [97/7/EF](eu/31997l0007) av 20. mai 1997 om forbrukervern ved fjernsalgsavtaler,1 skal de obligatoriske merkingsopplysningene som kreves gjennom denne forordning, bortsett fra opplyninger nevnt i artikkel 15 bokstav b), d), e) og artikkel 16 nr. 2 bokstav c) eller artikkel 17 nr. 1 bokstav d), framgå av det materialet som brukes til fjernsalg, eller det skal framkomme gjennom andre egnede måter før en fjernsalgsavtale inngås. Opplysningene nevnt i artikkel 15 bokstav b), d), e) og artikkel 16 nr. 2 bokstav c) eller artikkel 17 nr. 1 bokstav d), skal gis senest på det tidspunktet fôret leveres.
+3\. Når fôrvarer tilbys for salg ved hjelp av fjernkommunikasjonsmidler som definert i artikkel 2 i europaparlaments- og rådsdirektiv [97/7/EF](eu/31997l0007) av 20. mai 1997 om forbrukervern ved fjernsalgsavtaler,1 skal de obligatoriske merkingsopplysningene som kreves gjennom denne forordning, bortsett fra opplyninger nevnt i artikkel 15 bokstav b), d), e) og artikkel 16 nr. 2 bokstav c) eller artikkel 17 nr. 1 bokstav d), framgå av det materialet som brukes til fjernsalg, eller det skal framkomme gjennom andre egnede måter før en fjernsalgsavtale inngås. Opplysningene nevnt i artikkel 15 bokstav b), d), e) og artikkel 16 nr. 2 bokstav c) eller artikkel 17 nr. 1 bokstav d), skal gis senest på det tidspunktet fôret leveres.
 
-4. Merkingsbestemmelser ut over dem som er oppført i dette kapittel, er fastsatt i vedlegg II.
+4\. Merkingsbestemmelser ut over dem som er oppført i dette kapittel, er fastsatt i vedlegg II.
 
-5. I tillegg IV til denne forordning er det fastsatt tillatte toleranser for avvik mellom de verdiene som er angitt i merkingen av sammensetningen av et fôrmiddel eller en fôrblanding, og verdiene som er analysert i offentlige kontroller i samsvar med forordning [(EF) nr. 882/2004](eu/32004r0882*).
+5\. I tillegg IV til denne forordning er det fastsatt tillatte toleranser for avvik mellom de verdiene som er angitt i merkingen av sammensetningen av et fôrmiddel eller en fôrblanding, og verdiene som er analysert i offentlige kontroller i samsvar med forordning [(EF) nr. 882/2004](eu/32004r0882*).
+
+1 EFT L 144 av 4.6.1997, s. 19.
 
 ### Artikkel 12. Ansvar
 
-1. Personen som ansvarlig for merkingen, skal sikre at merkingsopplysningene finnes med og at de er korrekte.
+1\. Personen som ansvarlig for merkingen, skal sikre at merkingsopplysningene finnes med og at de er korrekte.
 
-2. Personen som er ansvarlig for merkingen, skal være den driftsansvarlige for fôrforetak som først bringer fôrvaren i omsetning, eller når det er relevant, den driftsansvarlige for fôrforetak under hvis navn eller firma fôrvaren omsettes.
+2\. Personen som er ansvarlig for merkingen, skal være den driftsansvarlige for fôrforetak som først bringer fôrvaren i omsetning, eller når det er relevant, den driftsansvarlige for fôrforetak under hvis navn eller firma fôrvaren omsettes.
 
-3. I det omfang deres virksomhet påvirker merkingen i den virksomheten de kontrollerer, skal driftsansvarlige for fôrforetak sikre at opplysningene som gis ved hjelp av hvilket som helst middel, oppfyller kravene i denne forordning.
+3\. I det omfang deres virksomhet påvirker merkingen i den virksomheten de kontrollerer, skal driftsansvarlige for fôrforetak sikre at opplysningene som gis ved hjelp av hvilket som helst middel, oppfyller kravene i denne forordning.
 
-4. Driftsansvarlige for fôrforetak som er ansvarlige for salgs- eller distribusjonsvirksomhet som ikke påvirker merkingen, skal opptre med aktsomhet for å bidra til å sikre overholdelse av merkingskravene, særlig ved å unngå å levere fôrvarer, på grunnlag av opplysninger som de besitter og som fagfolk, som de vet eller burde ha visst ikke oppfyller disse kravene.
+4\. Driftsansvarlige for fôrforetak som er ansvarlige for salgs- eller distribusjonsvirksomhet som ikke påvirker merkingen, skal opptre med aktsomhet for å bidra til å sikre overholdelse av merkingskravene, særlig ved å unngå å levere fôrvarer, på grunnlag av opplysninger som de besitter og som fagfolk, som de vet eller burde ha visst ikke oppfyller disse kravene.
 
-5. Driftsansvarlige for fôrforetak skal innenfor de virksomhetene som de leder, sikre at de obligatoriske merkingsopplysningene videreformidles gjennom hele næringskjeden, slik at opplysningene kan bli gitt til sluttbrukerne av fôrvarer i samsvar med denne forordningen.
+5\. Driftsansvarlige for fôrforetak skal innenfor de virksomhetene som de leder, sikre at de obligatoriske merkingsopplysningene videreformidles gjennom hele næringskjeden, slik at opplysningene kan bli gitt til sluttbrukerne av fôrvarer i samsvar med denne forordningen.
 
 ### Artikkel 13. Påstander
 
-1. Det kan i merkingen og presentasjonen av fôrmidler og fôrblandinger gjøres særlig oppmerksom på at fôret inneholder eller ikke inneholder et bestemt stoff, på en bestemt ernæringsmessig egenskap eller prosess eller på en særlig funksjon knyttet til et av disse elementene, forutsatt at følgende vilkår er oppfylt:påstanden er objektiv, kan bekreftes av vedkommende myndighet og kan forstås av brukeren av fôret, ogpersonen som er ansvarlig for merkingen, framlegger på anmodning fra vedkommende myndighet, vitenskapelig dokumentasjon på påstanden, enten ved å vise til offentlig tilgjengelige vitenskapelige bevis eller gjennom dokumentert selskapsforskning. Den vitenskapelige dokumentasjonen skal være tilgjengelig når fôret bringes i omsetning. Kjøperne skal ha rett til å gjøre vedkommende myndighet oppmerksom på at de er i tvil om at påstanden er sannferdig. Dersom det kan sluttes at påstanden ikke er tilstrekkelig dokumentert, skal merkingen i tilknytning til en slik påstand anses å være villedende som definert i artikkel 11. Dersom vedkommende myndighet er i tvil angående den vitenskapelige dokumentasjonen på den berørte påstanden, kan den framlegge spørsmålet for Kommisjonen. Kommisjonen kan vedta en beslutning, eventuelt etter å ha fått en uttalelse fra myndigheten, etter framgangsmåten med rådgivende komité som fastsatt i artikkel 28 nr. 2.
+1\. Det kan i merkingen og presentasjonen av fôrmidler og fôrblandinger gjøres særlig oppmerksom på at fôret inneholder eller ikke inneholder et bestemt stoff, på en bestemt ernæringsmessig egenskap eller prosess eller på en særlig funksjon knyttet til et av disse elementene, forutsatt at følgende vilkår er oppfylt:påstanden er objektiv, kan bekreftes av vedkommende myndighet og kan forstås av brukeren av fôret, ogpersonen som er ansvarlig for merkingen, framlegger på anmodning fra vedkommende myndighet, vitenskapelig dokumentasjon på påstanden, enten ved å vise til offentlig tilgjengelige vitenskapelige bevis eller gjennom dokumentert selskapsforskning. Den vitenskapelige dokumentasjonen skal være tilgjengelig når fôret bringes i omsetning. Kjøperne skal ha rett til å gjøre vedkommende myndighet oppmerksom på at de er i tvil om at påstanden er sannferdig. Dersom det kan sluttes at påstanden ikke er tilstrekkelig dokumentert, skal merkingen i tilknytning til en slik påstand anses å være villedende som definert i artikkel 11. Dersom vedkommende myndighet er i tvil angående den vitenskapelige dokumentasjonen på den berørte påstanden, kan den framlegge spørsmålet for Kommisjonen. Kommisjonen kan vedta en beslutning, eventuelt etter å ha fått en uttalelse fra myndigheten, etter framgangsmåten med rådgivende komité som fastsatt i artikkel 28 nr. 2.
 
-2. Uten å berøre nr. 1 er påstander om optimering av ernæringen og støtte eller vern av de fysiologiske forhold tillatt, med mindre de inneholder en påstand av typen nevnt i nr. 3 bokstav a).
+2\. Uten å berøre nr. 1 er påstander om optimering av ernæringen og støtte eller vern av de fysiologiske forhold tillatt, med mindre de inneholder en påstand av typen nevnt i nr. 3 bokstav a).
 
-3. Merkingen eller presentasjonen av fôrmidler og fôrblandinger skal ikke hevde at:de forebygger, behandler eller helbreder en sykdom, unntatt koksidiostatika og histomonostatika som er godkjente i henhold til forordning [(EF) nr. 1831/2003](eu/32003r1831); dette nummer får imidlertid ikke anvendelse på påstander om ernæringsmessig ubalanse forutsatt at det ikke er noen patologiske symptomer knyttet til dette,den har er et bestemt ernæringsmessig formål, som fastsatt i listen over bruksområder som det vises til i artikkel 9, med mindre den oppfyller kravene som er oppført der.
+3\. Merkingen eller presentasjonen av fôrmidler og fôrblandinger skal ikke hevde at:de forebygger, behandler eller helbreder en sykdom, unntatt koksidiostatika og histomonostatika som er godkjente i henhold til forordning [(EF) nr. 1831/2003](eu/32003r1831); dette nummer får imidlertid ikke anvendelse på påstander om ernæringsmessig ubalanse forutsatt at det ikke er noen patologiske symptomer knyttet til dette,den har er et bestemt ernæringsmessig formål, som fastsatt i listen over bruksområder som det vises til i artikkel 9, med mindre den oppfyller kravene som er oppført der.
 
-4. Spesifikasjoner knyttet til kravene fastsatt i nr. 1 og 2, kan inngå i fellesskapsreglene nevnt i artikkel 25.
+4\. Spesifikasjoner knyttet til kravene fastsatt i nr. 1 og 2, kan inngå i fellesskapsreglene nevnt i artikkel 25.
 
 ### Artikkel 14. Presentasjon av merkingsopplysninger
 
-1. De obligatoriske merkingsopplysningene skal gjengis i sin helhet på et framtredende sted på emballasjen, beholderen, på en etikett som er festet på denne, eller på det ledsagende dokumentet fastsatt i artikkel 11 nr. 2, de skal være synlige, lett lesbare og ikke kunne slettes, på det offisielle språket eller minst ett av de offisielle språkene i medlemsstaten eller regionene der fôret bringes i omsetning.
+1\. De obligatoriske merkingsopplysningene skal gjengis i sin helhet på et framtredende sted på emballasjen, beholderen, på en etikett som er festet på denne, eller på det ledsagende dokumentet fastsatt i artikkel 11 nr. 2, de skal være synlige, lett lesbare og ikke kunne slettes, på det offisielle språket eller minst ett av de offisielle språkene i medlemsstaten eller regionene der fôret bringes i omsetning.
 
-2. De obligatoriske merkingsopplysningene skal være lett gjenkjennelige og skal ikke skjules av annen informasjon. De skal vises med en farge, en skrifttype og en størrelse som ikke skjuler eller framhever noen del av opplysningene, med mindre slik variasjon skal gjøre oppmerksom på sikkerhetssetninger.
+2\. De obligatoriske merkingsopplysningene skal være lett gjenkjennelige og skal ikke skjules av annen informasjon. De skal vises med en farge, en skrifttype og en størrelse som ikke skjuler eller framhever noen del av opplysningene, med mindre slik variasjon skal gjøre oppmerksom på sikkerhetssetninger.
 
-3. Spesifikasjoner knyttet til kravene fastsatt i nr. 1 og 2, samt presentasjonen av den frivillige merkingen, kan inngå i fellesskapsreglene nevnt i artikkel 25.
+3\. Spesifikasjoner knyttet til kravene fastsatt i nr. 1 og 2, samt presentasjonen av den frivillige merkingen, kan inngå i fellesskapsreglene nevnt i artikkel 25.
 
 ### Artikkel 15. Generelle obligatoriske merkingskrav
 
@@ -238,19 +291,19 @@ Et fôrmiddel eller en fôrblanding skal ikke bringes i omsetning med mindre mer
 
 ### Artikkel 16. Særlige obligatoriske merkingskrav for fôrmidler
 
-1. I tillegg til kravene som er fastsatt i artikkel 15, skal merkingen av fôrmidler også omfatte:navnet på fôrmiddelet; navnet skal brukes i samsvar med artikkel 24 nr. 5, ogden obligatoriske angivelsen som tilsvarer en kategori som er oppført i listen i vedlegg V; den obligatoriske angivelsen kan erstattes av opplysningene fastsatt i fellesskapsfortegnelsen nevnt i artikkel 24 for hvert fôrmiddel i den angjeldende kategorien.
+1\. I tillegg til kravene som er fastsatt i artikkel 15, skal merkingen av fôrmidler også omfatte:navnet på fôrmiddelet; navnet skal brukes i samsvar med artikkel 24 nr. 5, ogden obligatoriske angivelsen som tilsvarer en kategori som er oppført i listen i vedlegg V; den obligatoriske angivelsen kan erstattes av opplysningene fastsatt i fellesskapsfortegnelsen nevnt i artikkel 24 for hvert fôrmiddel i den angjeldende kategorien.
 
-2. I tillegg til kravene som er fastsatt i artikkel 1, skal merkingen av fôrmidler også omfatte følgende når fôrmidlene også inneholder tilsetningsstoffer:dyrearter eller dyrekategorier som fôrmidlene er beregnet på, når de aktuelle tilsetningsstoffene ikke er blitt godkjent for alle dyrearter eller er blitt godkjent med grenseverdi for enkelte arter,instruksjoner for korrekt bruk i samsvar med nr. 4 i vedlegg II, hvor det er fastsatt en grenseverdi for de aktuelle tilsetningsstoffene, ogholdbarhetsgrense for andre tilsetningsstoffer enn teknologiske tilsetningsstoffer.
+2\. I tillegg til kravene som er fastsatt i artikkel 1, skal merkingen av fôrmidler også omfatte følgende når fôrmidlene også inneholder tilsetningsstoffer:dyrearter eller dyrekategorier som fôrmidlene er beregnet på, når de aktuelle tilsetningsstoffene ikke er blitt godkjent for alle dyrearter eller er blitt godkjent med grenseverdi for enkelte arter,instruksjoner for korrekt bruk i samsvar med nr. 4 i vedlegg II, hvor det er fastsatt en grenseverdi for de aktuelle tilsetningsstoffene, ogholdbarhetsgrense for andre tilsetningsstoffer enn teknologiske tilsetningsstoffer.
 
 ### Artikkel 17. Særlige obligatoriske merkingskrav for fôrblandinger
 
-1. I tillegg til kravene som er fastsatt i artikkel 15, skal merkingen av fôrblandinger også omfatte:dyrearter eller dyrekategorier som fôrblandingen er beregnet på,instruksjoner for korrekt bruk som angir formålet som fôret er beregnet på; slike instruksjoner skal i relevante tilfeller være i samsvar med nr. 4 i vedlegg II,i tilfeller når produsenten ikke er personen som er ansvarlig for merkingen, skal følgende angis:navn eller firma og adressen til produsenten, ellergodkjenningsnummeret til produsenten som nevnt i artikkel 15 bokstav c) eller et identifikasjonsnummer i samsvar med artikkel 9, 23 eller 24 i forordning [(EF) nr. 183/2005](eu/32005r0183); dersom et slikt nummer ikke er tilgjengelig, et identifikasjonsnummer tildelt på anmodning fra produsentene eller den driftsansvarlige for det importerende fôrforetaket, som skal være i samsvar med formatet fastsatt i kapittel II i vedlegg V til forordning [(EF) nr. 183/2005](eu/32005r0183),holdbarhetsgrensen skal angis på følgende måte:«brukes før ...» etterfulgt av datoen som angir en bestemt dag for fôrvarer som er lett bedervelige på grunn av nedbrytingsprosessen,«best før ...» etterfulgt av datoen som angir en bestemt måned for andre fôrvarer.Dersom produksjonsdatoen er angitt på etiketten, kan datoen som angir holdbarhetsgrensen angis sammen med teksten « ... (antall dager eller måneder) etter produksjonsdato»,en liste over fôrmidler som fôret er sammensatt av, med overskriften «sammensetning» og angivelse av navnet på hvert fôrmiddel i samsvar med artikkel 16 nr. 1 bokstav a), i fallende orden etter vekt beregnet ut fra vanninnhold i fôrblandingen; denne listen kan inneholde en angivelse av vektprosent, ogde obligatoriske angivelsene fastsatt i kapittel II i vedlegg VI eller VII, etter hva som er relevant.
+1\. I tillegg til kravene som er fastsatt i artikkel 15, skal merkingen av fôrblandinger også omfatte:dyrearter eller dyrekategorier som fôrblandingen er beregnet på,instruksjoner for korrekt bruk som angir formålet som fôret er beregnet på; slike instruksjoner skal i relevante tilfeller være i samsvar med nr. 4 i vedlegg II,i tilfeller når produsenten ikke er personen som er ansvarlig for merkingen, skal følgende angis:navn eller firma og adressen til produsenten, ellergodkjenningsnummeret til produsenten som nevnt i artikkel 15 bokstav c) eller et identifikasjonsnummer i samsvar med artikkel 9, 23 eller 24 i forordning [(EF) nr. 183/2005](eu/32005r0183); dersom et slikt nummer ikke er tilgjengelig, et identifikasjonsnummer tildelt på anmodning fra produsentene eller den driftsansvarlige for det importerende fôrforetaket, som skal være i samsvar med formatet fastsatt i kapittel II i vedlegg V til forordning [(EF) nr. 183/2005](eu/32005r0183),holdbarhetsgrensen skal angis på følgende måte:«brukes før ...» etterfulgt av datoen som angir en bestemt dag for fôrvarer som er lett bedervelige på grunn av nedbrytingsprosessen,«best før ...» etterfulgt av datoen som angir en bestemt måned for andre fôrvarer.Dersom produksjonsdatoen er angitt på etiketten, kan datoen som angir holdbarhetsgrensen angis sammen med teksten « ... (antall dager eller måneder) etter produksjonsdato»,en liste over fôrmidler som fôret er sammensatt av, med overskriften «sammensetning» og angivelse av navnet på hvert fôrmiddel i samsvar med artikkel 16 nr. 1 bokstav a), i fallende orden etter vekt beregnet ut fra vanninnhold i fôrblandingen; denne listen kan inneholde en angivelse av vektprosent, ogde obligatoriske angivelsene fastsatt i kapittel II i vedlegg VI eller VII, etter hva som er relevant.
 
-2. Når det gjelder listen fastsatt i nr. 1 bokstav e), skal følgende krav gjelde:navn og vektprosent for et fôrmiddel skal angis dersom forekomsten av fôrmiddel er framhevet på merkingen med ord, bilder eller grafikk,dersom vektprosentene for fôrmidlene i fôrblandingen til dyr bestemt til næringsmiddelproduksjon, ikke er angitt på merkingen, skal personen som er ansvarlig for merkingen, uten at det berører direktiv [2004/48/EF](eu/32004l0048*), på anmodning gjøre tilgjengelig for kjøperen opplysninger om den kvantitative sammensetningen, som skal ligge innenfor +/– 15 % av verdiene i henhold til fôrets sammensetning, ognår det gjelder fôrblandinger beregnet på dyr som ikke er bestemt til næringsmiddelproduksjon, kan angivelsen av det særlige navnet på fôrmiddelet erstattes med navnet på kategorien som fôrmidlene tilhører.
+2\. Når det gjelder listen fastsatt i nr. 1 bokstav e), skal følgende krav gjelde:navn og vektprosent for et fôrmiddel skal angis dersom forekomsten av fôrmiddel er framhevet på merkingen med ord, bilder eller grafikk,dersom vektprosentene for fôrmidlene i fôrblandingen til dyr bestemt til næringsmiddelproduksjon, ikke er angitt på merkingen, skal personen som er ansvarlig for merkingen, uten at det berører direktiv [2004/48/EF](eu/32004l0048*), på anmodning gjøre tilgjengelig for kjøperen opplysninger om den kvantitative sammensetningen, som skal ligge innenfor +/– 15 % av verdiene i henhold til fôrets sammensetning, ognår det gjelder fôrblandinger beregnet på dyr som ikke er bestemt til næringsmiddelproduksjon, kan angivelsen av det særlige navnet på fôrmiddelet erstattes med navnet på kategorien som fôrmidlene tilhører.
 
-3. I tilfelle eventuelle hastesaker i forbindelse med menneskers eller dyrs helse eller i forbindelse med miljøet, og med forbehold for direktiv [2004/48/EF](eu/32004l0048*), kan vedkommende myndighet gi kjøperen opplysninger som den har tilgang til i henhold til artikkel 5 nr. 2, forutsatt at den har avveid produsentenes og kjøpernes respektive legitime interesser, og kommet fram til at det er berettiget å utlevere slike opplysninger. Dersom det er relevant, skal vedkommende myndighet kreve at kjøperen undertegner en fortrolighetsklausul som forutsetning for å framlegge slike opplysninger.
+3\. I tilfelle eventuelle hastesaker i forbindelse med menneskers eller dyrs helse eller i forbindelse med miljøet, og med forbehold for direktiv [2004/48/EF](eu/32004l0048*), kan vedkommende myndighet gi kjøperen opplysninger som den har tilgang til i henhold til artikkel 5 nr. 2, forutsatt at den har avveid produsentenes og kjøpernes respektive legitime interesser, og kommet fram til at det er berettiget å utlevere slike opplysninger. Dersom det er relevant, skal vedkommende myndighet kreve at kjøperen undertegner en fortrolighetsklausul som forutsetning for å framlegge slike opplysninger.
 
-4. Som fastsatt i nr. 2 bokstav c) skal Kommisjonen opprette en liste over fôrmiddelkategorier som kan angis i stedet for de enkelte fôrmidlene på merkingen av fôr til dyr som ikke er bestemt til næringsmiddelproduksjon, unntatt pelsdyr.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.
+4\. Som fastsatt i nr. 2 bokstav c) skal Kommisjonen opprette en liste over fôrmiddelkategorier som kan angis i stedet for de enkelte fôrmidlene på merkingen av fôr til dyr som ikke er bestemt til næringsmiddelproduksjon, unntatt pelsdyr.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.
 
 ### Artikkel 18. Ytterligere obligatoriske merkingskrav for fôrvarer med særlige ernæringsformål
 
@@ -262,111 +315,113 @@ På etiketten til fôr til kjæledyr skal det være angitt et avgiftsfritt telef
 
 ### Artikkel 20. Ytterligere obligatoriske merkingskrav for fôr som ikke oppfyller kravene
 
-1. I tillegg til kravene fastsatt i artikkel 15, 16, 17 og 18, skal fôr som ikke oppfyller kravene i fellesskapslovgivningen fastsatt i vedlegg VIII, som forurensede fôrmidler, være forsynt med de merkingsopplysningene som er fastsatt i nevnte vedlegg.
+1\. I tillegg til kravene fastsatt i artikkel 15, 16, 17 og 18, skal fôr som ikke oppfyller kravene i fellesskapslovgivningen fastsatt i vedlegg VIII, som forurensede fôrmidler, være forsynt med de merkingsopplysningene som er fastsatt i nevnte vedlegg.
 
-2. Kommisjonen kan endre vedlegg VIII for å bringe det i samsvar med den rettslige utviklingen mot nye standarder.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.
+2\. Kommisjonen kan endre vedlegg VIII for å bringe det i samsvar med den rettslige utviklingen mot nye standarder.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.
 
 ### Artikkel 21. Unntak
 
-1. Opplysningene nevnt i artikkel 15 bokstav c), d), e) og g), og artikkel 16 nr. 1 bokstav b) skal ikke være påkrevd dersom kjøperen, før hver transaksjon, skriftlig har gitt avkall på disse opplysningene. En transaksjon kan bestå av flere forsendelser.
+1\. Opplysningene nevnt i artikkel 15 bokstav c), d), e) og g), og artikkel 16 nr. 1 bokstav b) skal ikke være påkrevd dersom kjøperen, før hver transaksjon, skriftlig har gitt avkall på disse opplysningene. En transaksjon kan bestå av flere forsendelser.
 
-2. Når det gjelder emballert fôr kan opplysningene nevnt i artikkel 15 bokstav c), d) og e) og artikkel 16 nr. 2 bokstav c) eller artikkel 17 nr. 1 bokstav c), d) og e), angis på emballasjen, utenfor etiketten som nevnt i artikkel 14 nr. 1. I slike tilfeller skal det angis hvor disse opplysningene finnes.
+2\. Når det gjelder emballert fôr kan opplysningene nevnt i artikkel 15 bokstav c), d) og e) og artikkel 16 nr. 2 bokstav c) eller artikkel 17 nr. 1 bokstav c), d) og e), angis på emballasjen, utenfor etiketten som nevnt i artikkel 14 nr. 1. I slike tilfeller skal det angis hvor disse opplysningene finnes.
 
-3. Uten at det berører vedlegg I til forordning [(EF) nr. 183/2005](eu/32005r0183) skal opplysningene nevnt i artikkel 15 bokstav c), d), e) og g) og artikkel 16 nr. 1 bokstav b) i denne forordning, ikke være obligatoriske for fôrmidler som ikke inneholder tilsetningsstoffer, unntatt konserveringsmidler eller tilsetningsstoffer for ensilasje, og som er produsert og levert av en driftsansvarlig for et næringsmiddelforetak i samsvar med artikkel 5 nr. 1 i forordning [(EF) nr. 183/2005](eu/32005r0183) til en bruker av fôrvarer som er involvert i primærproduksjon til bruk på egen driftsenhet.
+3\. Uten at det berører vedlegg I til forordning [(EF) nr. 183/2005](eu/32005r0183) skal opplysningene nevnt i artikkel 15 bokstav c), d), e) og g) og artikkel 16 nr. 1 bokstav b) i denne forordning, ikke være obligatoriske for fôrmidler som ikke inneholder tilsetningsstoffer, unntatt konserveringsmidler eller tilsetningsstoffer for ensilasje, og som er produsert og levert av en driftsansvarlig for et næringsmiddelforetak i samsvar med artikkel 5 nr. 1 i forordning [(EF) nr. 183/2005](eu/32005r0183) til en bruker av fôrvarer som er involvert i primærproduksjon til bruk på egen driftsenhet.
 
-4. De obligatoriske angivelsene nevnt i artikkel 17 nr. 1 bokstav f), skal ikke være påkrevd for blandinger av hele korn, frø og frukt.
+4\. De obligatoriske angivelsene nevnt i artikkel 17 nr. 1 bokstav f), skal ikke være påkrevd for blandinger av hele korn, frø og frukt.
 
-5. Når det gjelder fôrblandinger sammensatt av høyst tre fôrmidler, skal opplysningene nevnt i artikkel 17 nr. 1 bokstav a) og b), ikke være påkrevd dersom det klart framgår av beskrivelsen hvilke fôrmidler som er brukt.
+5\. Når det gjelder fôrblandinger sammensatt av høyst tre fôrmidler, skal opplysningene nevnt i artikkel 17 nr. 1 bokstav a) og b), ikke være påkrevd dersom det klart framgår av beskrivelsen hvilke fôrmidler som er brukt.
 
-6. For mengder som ikke overstiger 20 kg fôrmidler eller fôrblandinger beregnet på sluttbrukeren, og som selges i løs vekt, kan opplysningene nevnt i artikkel 15, 16 og 17, gjøres kjent for kjøperen gjennom egnet oppslag på utsalgsstedet. I slike tilfeller skal opplysningene nevnt i artikkel 15 bokstav a) og artikkel 16 nr. 1 eller artikkel 17 nr. 1 bokstav a) og b), etter hva som er relevant, gis til kjøperen senest på eller sammen med fakturaen.
+6\. For mengder som ikke overstiger 20 kg fôrmidler eller fôrblandinger beregnet på sluttbrukeren, og som selges i løs vekt, kan opplysningene nevnt i artikkel 15, 16 og 17, gjøres kjent for kjøperen gjennom egnet oppslag på utsalgsstedet. I slike tilfeller skal opplysningene nevnt i artikkel 15 bokstav a) og artikkel 16 nr. 1 eller artikkel 17 nr. 1 bokstav a) og b), etter hva som er relevant, gis til kjøperen senest på eller sammen med fakturaen.
 
-7. For mengder av fôr til kjæledyr som selges i pakninger med flere beholdere, kan de opplysningene som er nevnt i artikkel 15 bokstav b), c), f) og g) og artikkel 17 nr. 1 bokstav b), c), e) og f), gis bare på den ytre emballasjen i stedet for på hver beholder, forutsatt at hele den samlede vekten av pakningen ikke overstiger 10 kg.
+7\. For mengder av fôr til kjæledyr som selges i pakninger med flere beholdere, kan de opplysningene som er nevnt i artikkel 15 bokstav b), c), f) og g) og artikkel 17 nr. 1 bokstav b), c), e) og f), gis bare på den ytre emballasjen i stedet for på hver beholder, forutsatt at hele den samlede vekten av pakningen ikke overstiger 10 kg.
 
-8. Som unntak fra bestemmelsene i denne forordning kan medlemsstatene anvende nasjonale bestemmelser for fôr til dyr som holdes for vitenskapelige formål eller som forsøksdyr, forutsatt at dette formålet er klart angitt på etiketten. Medlemsstatene skal gi melding til Kommisjonen om disse bestemmelsene omgående.
+8\. Som unntak fra bestemmelsene i denne forordning kan medlemsstatene anvende nasjonale bestemmelser for fôr til dyr som holdes for vitenskapelige formål eller som forsøksdyr, forutsatt at dette formålet er klart angitt på etiketten. Medlemsstatene skal gi melding til Kommisjonen om disse bestemmelsene omgående.
 
 ### Artikkel 22. Frivillig merking
 
-1. I tillegg til de obligatoriske merkingskravene, kan merkingen av fôrmidler og fôrblandinger også omfatte frivillige merkingsopplysninger, forutsatt at de allmenne prinsippene fastsatt i denne forordning, overholdes.
+1\. I tillegg til de obligatoriske merkingskravene, kan merkingen av fôrmidler og fôrblandinger også omfatte frivillige merkingsopplysninger, forutsatt at de allmenne prinsippene fastsatt i denne forordning, overholdes.
 
-2. Ytterligere vilkår for frivilling merking kan inngå i fellesskapsreglene nevnt i artikkel 25.
+2\. Ytterligere vilkår for frivilling merking kan inngå i fellesskapsreglene nevnt i artikkel 25.
 
 ### Artikkel 23. Emballering
 
-1. Fôrmidler og fôrblandinger skal utelukkende bringes i omsetning i forseglede pakninger eller beholdere. Pakninger eller beholdere skal forsegles på en slik måte at når pakningen eller beholderen åpnes, blir forseglingen ødelagt og kan ikke gjenbrukes.
+1\. Fôrmidler og fôrblandinger skal utelukkende bringes i omsetning i forseglede pakninger eller beholdere. Pakninger eller beholdere skal forsegles på en slik måte at når pakningen eller beholderen åpnes, blir forseglingen ødelagt og kan ikke gjenbrukes.
 
-2. Som unntak fra nr. 1 kan følgende fôrvarer selges i løs vekt eller i uforseglede pakninger eller beholdere:fôrmidler,fôrblandinger som utelukkende er framstilt ved å blande hele korn, frø eller hel frukt,leveranser mellom produsenter av fôrblandinger,leveranser av fôrblandinger direkte fra produsenten til brukeren av fôrvarer,leveranser fra produsenter av fôrblandinger til emballeringsforetak,mengder av fôrblandinger som ikke overstiger 50 kg i vekt, som er beregnet på sluttbrukeren og som tas direkte fra en forseglet pakning eller beholder, ogblokker eller slikkesteiner.
+2\. Som unntak fra nr. 1 kan følgende fôrvarer selges i løs vekt eller i uforseglede pakninger eller beholdere:fôrmidler,fôrblandinger som utelukkende er framstilt ved å blande hele korn, frø eller hel frukt,leveranser mellom produsenter av fôrblandinger,leveranser av fôrblandinger direkte fra produsenten til brukeren av fôrvarer,leveranser fra produsenter av fôrblandinger til emballeringsforetak,mengder av fôrblandinger som ikke overstiger 50 kg i vekt, som er beregnet på sluttbrukeren og som tas direkte fra en forseglet pakning eller beholder, ogblokker eller slikkesteiner.
 
 ### Kapittel 5
 Fellesskapsfortegnelse over fôrmidler og fellesskapsregler for god merkingspraksis
 
 ### Artikkel 24. Fellesskapsfortegnelse over fôrmidler
 
-1. Fellesskapsfortegnelsen over fôrmidler (heretter kalt «fortegnelsen») skal opprettes som et verktøy for å forbedre merkingen av fôrmidler og fôrblandinger. Fortegnelsen skal tilrettelegge for utveksling av opplysninger om produktegenskaper og skal inneholde en ikke-uttømmende liste over fôrmidler. Den skal for hvert fôrmiddel som er oppført, minst inneholde følgende opplysninger:betegnelse,identifikasjonsnummer,en beskrivelse av fôrmiddelet, herunder opplysninger om produksjonsprosessen, dersom det er relevant,opplysninger som erstatter den obligatoriske angivelsen i henhold til artikkel 16 nr. 1 bokstav b), ogen ordliste med definisjoner over de forskjellige prosessene og tekniske uttrykkene som er brukt.
+1\. Fellesskapsfortegnelsen over fôrmidler (heretter kalt «fortegnelsen») skal opprettes som et verktøy for å forbedre merkingen av fôrmidler og fôrblandinger. Fortegnelsen skal tilrettelegge for utveksling av opplysninger om produktegenskaper og skal inneholde en ikke-uttømmende liste over fôrmidler. Den skal for hvert fôrmiddel som er oppført, minst inneholde følgende opplysninger:betegnelse,identifikasjonsnummer,en beskrivelse av fôrmiddelet, herunder opplysninger om produksjonsprosessen, dersom det er relevant,opplysninger som erstatter den obligatoriske angivelsen i henhold til artikkel 16 nr. 1 bokstav b), ogen ordliste med definisjoner over de forskjellige prosessene og tekniske uttrykkene som er brukt.
 
-2. Den første versjonen av fellesskapsfortegnelsen skal vedtas etter framgangsmåten med rådgivende komité som fastsatt i artikkel 28 nr. 2 innen 21. mars 2010, og oppføringene i fortegnelsen skal bestå av postene oppført i del B i vedlegget til direktiv [96/25/EF](eu/31996l0025) og kolonne 2–4 i vedlegget til direktiv [82/471/EØF](eu/31982l0471). Ordlisten skal bestå av nr. IV i del A i vedlegget til direktiv [96/25/EF](eu/31996l0025).
+2\. Den første versjonen av fellesskapsfortegnelsen skal vedtas etter framgangsmåten med rådgivende komité som fastsatt i artikkel 28 nr. 2 innen 21. mars 2010, og oppføringene i fortegnelsen skal bestå av postene oppført i del B i vedlegget til direktiv [96/25/EF](eu/31996l0025) og kolonne 2–4 i vedlegget til direktiv [82/471/EØF](eu/31982l0471). Ordlisten skal bestå av nr. IV i del A i vedlegget til direktiv [96/25/EF](eu/31996l0025).
 
-3. Framgangsmåten fastsatt i artikkel 26 får anvendelse på endringer av fortegnelsen.
+3\. Framgangsmåten fastsatt i artikkel 26 får anvendelse på endringer av fortegnelsen.
 
-4. Denne artikkel gjelder uten å berøre sikkerhetskravene fastsatt i artikkel 4.
+4\. Denne artikkel gjelder uten å berøre sikkerhetskravene fastsatt i artikkel 4.
 
-5. Den driftsansvarlige for fôrforetakets bruk av fortegnelsen skal være frivillig. Betegnelsen på et fôrmiddel oppført i fortegnelsen, kan imidlertid brukes bare under forutsetning av at alle relevante bestemmelser i fortegnelsen er oppfylt.
+5\. Den driftsansvarlige for fôrforetakets bruk av fortegnelsen skal være frivillig. Betegnelsen på et fôrmiddel oppført i fortegnelsen, kan imidlertid brukes bare under forutsetning av at alle relevante bestemmelser i fortegnelsen er oppfylt.
 
-6. Den personen som for første gang bringer et fôrmiddel som ikke er oppført i fortegnelsen, i omsetning, skal omgående underrette om bruken av det til representantene for de europeiske fôrvaresektorene nevnt i artikkel 26 nr. 1. Representantene for den europeiske fôrvaresektorene skal offentliggjøre et register over slike underretninger på Internett, og ajourføre registeret regelmessig.
+6\. Den personen som for første gang bringer et fôrmiddel som ikke er oppført i fortegnelsen, i omsetning, skal omgående underrette om bruken av det til representantene for de europeiske fôrvaresektorene nevnt i artikkel 26 nr. 1. Representantene for den europeiske fôrvaresektorene skal offentliggjøre et register over slike underretninger på Internett, og ajourføre registeret regelmessig.
 
 ### Artikkel 25. Fellesskapsregler for god merkingspraksis
 
-1. Kommisjonen skal oppmuntre til utarbeiding av to fellesskapsregelverk for god merkingspraksis (heretter kalt «reglene»), ett for fôr til kjæledyr og ett for fôrblandinger til dyr bestemt til næringsmiddelproduksjon, som kan omfatte et avsnitt om fôrblandinger til pelsdyr.
+1\. Kommisjonen skal oppmuntre til utarbeiding av to fellesskapsregelverk for god merkingspraksis (heretter kalt «reglene»), ett for fôr til kjæledyr og ett for fôrblandinger til dyr bestemt til næringsmiddelproduksjon, som kan omfatte et avsnitt om fôrblandinger til pelsdyr.
 
-2. Reglene har som mål å forbedre kvaliteten på merkingen. De skal særlig omfatte bestemmelser om presentasjon av merkingsopplysninger fastsatt i artikkel 14, om frivillig merking fastsatt i artikkel 22 og om bruk av påstandene fastsatt i artikkel 13.
+2\. Reglene har som mål å forbedre kvaliteten på merkingen. De skal særlig omfatte bestemmelser om presentasjon av merkingsopplysninger fastsatt i artikkel 14, om frivillig merking fastsatt i artikkel 22 og om bruk av påstandene fastsatt i artikkel 13.
 
-3. Framgangsmåten fastsatt i artikkel 26, får anvendelse på utarbeidingen av reglene og eventuelle endringer av dem.
+3\. Framgangsmåten fastsatt i artikkel 26, får anvendelse på utarbeidingen av reglene og eventuelle endringer av dem.
 
-4. Den driftsansvarlige for fôrforetakets bruk av reglene skal være frivillig. Bruken av noen av reglene kan imidlertid være angitt på merkingen bare under forutsetning av at alle relevante bestemmelser i slike regler er oppfylt.
+4\. Den driftsansvarlige for fôrforetakets bruk av reglene skal være frivillig. Bruken av noen av reglene kan imidlertid være angitt på merkingen bare under forutsetning av at alle relevante bestemmelser i slike regler er oppfylt.
 
 ### Artikkel 26. Utarbeiding av reglene og endringer i fellesskapsfortegnelsen og fellesskapsreglene
 
-1. Utkast til endringer av fellesskapsfortegnelsen og utkast til reglene samt eventuelle endringer av disse skal utarbeides og endres av alle relevante representanter for europeiske fôrvaresektorer:i samråd med andre berørte parter, som brukere av fôrvarer,i samarbeid med vedkommende myndigheter i medlemsstatene, og dersom det er relevant, med myndigheten,idet det tas hensyn til relevant erfaring fra uttalelser avgitt av myndigheten og den vitenskapelige og teknologiske utviklingen.
+1\. Utkast til endringer av fellesskapsfortegnelsen og utkast til reglene samt eventuelle endringer av disse skal utarbeides og endres av alle relevante representanter for europeiske fôrvaresektorer:i samråd med andre berørte parter, som brukere av fôrvarer,i samarbeid med vedkommende myndigheter i medlemsstatene, og dersom det er relevant, med myndigheten,idet det tas hensyn til relevant erfaring fra uttalelser avgitt av myndigheten og den vitenskapelige og teknologiske utviklingen.
 
-2. Med forbehold om nr. 3 skal Kommisjonen vedta tiltak i henhold til denne artikkel etter framgangsmåten med rådgivende komité fastsatt i artikkel 28 nr. 2.
+2\. Med forbehold om nr. 3 skal Kommisjonen vedta tiltak i henhold til denne artikkel etter framgangsmåten med rådgivende komité fastsatt i artikkel 28 nr. 2.
 
-3. Endringer i fellesskapsfortegnelsen som fastsetter grenseverdien for kjemiske urenheter som nevnt nr. 1 i vedlegg I, eller nivået av botanisk renhet som nevnt i nr. 2 i vedlegg I eller vanninnholdet som nevnt i nr. 6 i vedlegg I, eller opplysninger som erstatter den obligatoriske angivelsen nevnt i artikkel 16 nr. 1 bokstav b), skal vedtas. Slike tiltak, som har som formål å endre ikke-vesentlige elementer av denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.
+3\. Endringer i fellesskapsfortegnelsen som fastsetter grenseverdien for kjemiske urenheter som nevnt nr. 1 i vedlegg I, eller nivået av botanisk renhet som nevnt i nr. 2 i vedlegg I eller vanninnholdet som nevnt i nr. 6 i vedlegg I, eller opplysninger som erstatter den obligatoriske angivelsen nevnt i artikkel 16 nr. 1 bokstav b), skal vedtas. Slike tiltak, som har som formål å endre ikke-vesentlige elementer av denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.
 
-4. Tiltak i henhold til denne artikkel skal vedtas bare forutsatt at følgende vilkår er oppfylt:de er blitt utarbeidet i samsvar med nr. 1,innholdet i dem er praktisk gjennomførbart i hele Fellesskapet, i de sektorene som de viser til, ogde er hensiktsmessige som middel til å nå målene i denne forordning.
+4\. Tiltak i henhold til denne artikkel skal vedtas bare forutsatt at følgende vilkår er oppfylt:de er blitt utarbeidet i samsvar med nr. 1,innholdet i dem er praktisk gjennomførbart i hele Fellesskapet, i de sektorene som de viser til, ogde er hensiktsmessige som middel til å nå målene i denne forordning.
 
-5. Fortegnelsen skal kunngjøres i L-serien i *Den europeiske unions tidende*. Titlene og henvisningene til reglene skal kunngjøres i C-serien i *Den europeiske unions tidende*.
+5\. Fortegnelsen skal kunngjøres i L-serien i *Den europeiske unions tidende*. Titlene og henvisningene til reglene skal kunngjøres i C-serien i *Den europeiske unions tidende*.
 
 ### Kapittel 6
 Alminnelige bestemmelser og sluttbestemmelser
 
 ### Artikkel 27. Gjennomføringstiltak
 
-1. Kommisjonen kan endre vedleggene for å tilpasse dem til den vitenskapelige og teknologiske utviklingen.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i denne forordning ved blant annet å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.
+1\. Kommisjonen kan endre vedleggene for å tilpasse dem til den vitenskapelige og teknologiske utviklingen.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i denne forordning ved blant annet å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.
 
-2. Andre gjennomføringstiltak som er nødvendige for anvendelsen av denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 3, med mindre annet uttrykkelig er angitt.
+2\. Andre gjennomføringstiltak som er nødvendige for anvendelsen av denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 3, med mindre annet uttrykkelig er angitt.
 
 ### Artikkel 28. Komitéframgangsmåte
 
-1. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen som er nedsatt ved artikkel 58 i forordning [(EF) nr. 178/2002](eu/32002r0178) (heretter kalt «komiteen»).
+1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen som er nedsatt ved artikkel 58 i forordning [(EF) nr. 178/2002](eu/32002r0178) (heretter kalt «komiteen»).
 
-2. Når det vises til dette nummer, får artikkel 3 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+2\. Når det vises til dette nummer, får artikkel 3 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
 
-3. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468), skal være tre måneder.
+3\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468), skal være tre måneder.
 
-4. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+4\. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
 
-5. Når det vises til dette nummer, får artikkel 5a nr. 1, 2, 4 og 6 og artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+5\. Når det vises til dette nummer, får artikkel 5a nr. 1, 2, 4 og 6 og artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
 
-6. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og nr. 5 bokstav b) og artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Fristene fastsatt i artikkel 5a nr. 3 bokstav c) og nr. 4 bokstav b) og e) i beslutning [1999/468/EF](eu/31999d0468), skal være henholdsvis to måneder, én måned og to måneder.
+6\. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og nr. 5 bokstav b) og artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Fristene fastsatt i artikkel 5a nr. 3 bokstav c) og nr. 4 bokstav b) og e) i beslutning [1999/468/EF](eu/31999d0468), skal være henholdsvis to måneder, én måned og to måneder.
 
 ### Artikkel 29. Endring av forordning (EF) nr. 1831/2003
 
 I artikkel 16 i forordning [(EF) nr. 1831/2003](eu/32003r1831) gjøres følgende endringer:
 
-1. I nr. 1 gjøres følgende endringer:bokstav d) skal lyde:når det er relevant, det godkjenningsnummeret til virksomheten som framstiller eller omsetter tilsetningsstoff til fôrvarer eller premiks i samsvar med artikkel 10 i europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) av 12. januar 2005 om fastsettelse av krav til fôrvarehygiene1 eller, etter dersom det er relevant, til artikkel 5 i direktiv [95/69/EF](eu/31995l0069),»I nr. 1 skal nytt ledd lyde:«Når det gjelder fôrblandinger, skal bokstav b), d), e) og g) ikke gjelde for de tilsetningsstoffene som inngår i fôret,»
+1\. I nr. 1 gjøres følgende endringer:bokstav d) skal lyde:når det er relevant, det godkjenningsnummeret til virksomheten som framstiller eller omsetter tilsetningsstoff til fôrvarer eller premiks i samsvar med artikkel 10 i europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) av 12. januar 2005 om fastsettelse av krav til fôrvarehygiene1 eller, etter dersom det er relevant, til artikkel 5 i direktiv [95/69/EF](eu/31995l0069),»I nr. 1 skal nytt ledd lyde:«Når det gjelder fôrblandinger, skal bokstav b), d), e) og g) ikke gjelde for de tilsetningsstoffene som inngår i fôret,»
 
-2. Nr. 3 skal lyde:I tillegg til opplysningene angitt i nr. 1, skal emballasjen eller beholderen for et tilsetningsstoff som tilhører en funksjonell gruppe angitt i vedlegg III, eller for en premiks som inneholder et tilsetningsstoff som tilhører en funksjonell gruppe angitt i vedlegg III, være forsynt med opplysningene angitt i vedlegg III, og disse skal være tydelige, lett leselige og skal ikke kunne slettes,»
+2\. Nr. 3 skal lyde:I tillegg til opplysningene angitt i nr. 1, skal emballasjen eller beholderen for et tilsetningsstoff som tilhører en funksjonell gruppe angitt i vedlegg III, eller for en premiks som inneholder et tilsetningsstoff som tilhører en funksjonell gruppe angitt i vedlegg III, være forsynt med opplysningene angitt i vedlegg III, og disse skal være tydelige, lett leselige og skal ikke kunne slettes,»
 
-3. Nr. 4 skal lyde:Når det gjelder premikser, skal dessuten ordet «premiks» være angitt på etiketten. Bærestoff skal være angitt når det gjelder fôrmidler, i samsvar med artikkel 17 nr. 1 bokstav e) i europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767) av 13. juli 2009 om omsetning og bruk av fôrvarer,2 og når vann brukes som bærestoff, skal vanninnholdet i premiksen være angitt. Only one minimum storage life may be indicated in respect of each premixture as a whole; such minimum storage life shall be determined on the basis of the minimum storage life of each of its components.»
+3\. Nr. 4 skal lyde:Når det gjelder premikser, skal dessuten ordet «premiks» være angitt på etiketten. Bærestoff skal være angitt når det gjelder fôrmidler, i samsvar med artikkel 17 nr. 1 bokstav e) i europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767) av 13. juli 2009 om omsetning og bruk av fôrvarer,2 og når vann brukes som bærestoff, skal vanninnholdet i premiksen være angitt. Only one minimum storage life may be indicated in respect of each premixture as a whole; such minimum storage life shall be determined on the basis of the minimum storage life of each of its components.»
+
+1 EUT L 35 av 8.2.2005, s. 1.2 EFT L 229 av 1.9.2009, s. 1.
 
 ### Artikkel 30. Oppheving
 
@@ -382,13 +437,13 @@ Medlemsstatene skal gi melding til Kommisjonen om disse bestemmelsene innen 1. s
 
 ### Artikkel 32. Overgangstiltak
 
-1. Som unntak fra artikkel 33 annet ledd, kan fôrvarer som er omsatt eller merket i samsvar med direktiv [79/373/EØF](eu/31979l0373*), [82/471/EØF](eu/31982l0471), [93/74/EØF](eu/31993*0074) og [96/25/EF](eu/31996l0025) innen 1. september 2010, likevel omsettes helt til lagrene er tømt.
+1\. Som unntak fra artikkel 33 annet ledd, kan fôrvarer som er omsatt eller merket i samsvar med direktiv [79/373/EØF](eu/31979l0373*), [82/471/EØF](eu/31982l0471), [93/74/EØF](eu/31993*0074) og [96/25/EF](eu/31996l0025) innen 1. september 2010, likevel omsettes helt til lagrene er tømt.
 
-2. Som unntak fra artikkel 8 nr. 2 kan fôrvaretyper nevnt i denne artikkelen, som allerede er lovlig markedsført innen 1. september 2010, omsettes helt til det er truffet beslutning om søknad om ajourføring av listen over bruksområder nevnt i artikkel 10, forutsatt at en slik søknad er blitt innlevert før 1. september 2010.
+2\. Som unntak fra artikkel 8 nr. 2 kan fôrvaretyper nevnt i denne artikkelen, som allerede er lovlig markedsført innen 1. september 2010, omsettes helt til det er truffet beslutning om søknad om ajourføring av listen over bruksområder nevnt i artikkel 10, forutsatt at en slik søknad er blitt innlevert før 1. september 2010.
 
-3. Som unntak fra nr. 1 i vedlegg I til denne forordning, kan fôrmidler omsettes og brukes helt til den særlige grenseverdien for kjemiske urenheter fra produksjonsprosessen og fra tekniske hjelpestoffer er fastsatt, forutsatt at de minst oppfyller vilkårene fastsatt i nr. 1 i del A avdeling II i vedlegget til direktiv [96/25/EF](eu/31996l0025). Dette unntaket skal imidlertid opphøre å gjelde 1. september 2012.
+3\. Som unntak fra nr. 1 i vedlegg I til denne forordning, kan fôrmidler omsettes og brukes helt til den særlige grenseverdien for kjemiske urenheter fra produksjonsprosessen og fra tekniske hjelpestoffer er fastsatt, forutsatt at de minst oppfyller vilkårene fastsatt i nr. 1 i del A avdeling II i vedlegget til direktiv [96/25/EF](eu/31996l0025). Dette unntaket skal imidlertid opphøre å gjelde 1. september 2012.
 
-4. Det kan treffes tiltak for å lette overgangen til anvendelsen av denne forordning. Det kan særlig angis på hvilke vilkår fôrvarer kan merkes i samsvar med denne forordning før den datoen den tas i anvendelse. Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i denne forordning ved blant annet å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.
+4\. Det kan treffes tiltak for å lette overgangen til anvendelsen av denne forordning. Det kan særlig angis på hvilke vilkår fôrvarer kan merkes i samsvar med denne forordning før den datoen den tas i anvendelse. Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i denne forordning ved blant annet å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.
 
 ### Artikkel 33. Ikrafttredelse
 
@@ -402,7 +457,11 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 13. juli 2009.
 
-*For Europaparlamentet**For Rådet*H.-G. PÖTTERINGE. ERLANDSSON*President**Formann*
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+| H.-G. PÖTTERING | E. ERLANDSSON |
+| *President* | *Formann* |
 
 ### Vedlegg I
 Tekniske bestemmelsene om urenheter, melkeerstatningsfôr, fôrmidler til binding eller denaturering, askeinnhold og vanninnhold som nevnt i artikkel 4
@@ -426,20 +485,42 @@ Alminnelige bestemmelser om merking som nevnt i artikkel 11 nr. 4
 ### Vedlegg III
 Liste over fôrmidler hvis omsetning eller bruk som fôrvarer er begrenset eller forbudt som nevnt i artikkel 6
 
+Kapittel 1: Forbudte fôrmidler
+
 1. Avføring, urin og separert mage- og tarminnhold etter tømming og fjerning av fordøyelseskanalen, uansett eventuell behandling eller blanding.
 2. Hud behandlet med garvestoffer, herunder avfall fra denne behandlingen.
 3. Frø og annet vegetabilsk formeringsmateriale som etter innhøsting har gjennomgått særlig behandling med plantevernmidler for deres bruksområde (formering), og deres biprodukter.
 4. Tre, herunder sagflis og andre materialer som stammer fra tre, som er behandlet med treimpregneringsmidler som definert i vedlegg V til europaparlaments- og rådsdirektiv [98/8/EF](eu/31998l0008*) av 16. februar 1998 om markedsføring av biocidprodukter.1
 ► **M1**
-5. Alt avfall fra de forskjellige fasene i rensingen av avløpsvann fra byområder og spillvann fra husholdninger og industri som definert i artikkel 2 i rådsdirektiv [91/271/EØF](eu/31991l0271) av 21. mai 1991 om rensing av avløpsvann fra byområder,* uten hensyn til eventuell senere behandling av dette avfallet, og uten hensyn til avløps- eller spillvannets opprinnelse.**
-6. Fast avfall fra byområder,*** som for eksempel husholdningsavfall.
+5. Alt avfall fra de forskjellige fasene i rensingen av avløpsvann fra byområder og spillvann fra husholdninger og industri som definert i artikkel 2 i rådsdirektiv [91/271/EØF](eu/31991l0271) av 21. mai 1991 om rensing av avløpsvann fra byområder,\* uten hensyn til eventuell senere behandling av dette avfallet, og uten hensyn til avløps- eller spillvannets opprinnelse.\*\*
+6. Fast avfall fra byområder,\*\*\* som for eksempel husholdningsavfall.
 ◄ **M1**
 7. Emballasje og deler av emballasje fra bruken av produkter fra landbruksbasert næringsindustri.
 ► **M1**
 8. Proteinprodukter framstilt av gjærsorten «Candida» dyrket på n-alkaner.»
 ◄ **M1**
 
+Kapittel 2: Fôrmidler som er underlagt begrensninger
+
+1 EFT L 123 av 24.4.1998, s. 1.
+
+► **M1**
+
+\* EFT L 135 av 30.5.1991, s. 40.
+
+\*\* Termene «avløpsvann» og «spillvann» omfatter ikke prosessvann, dvs. vann fra uavhengige ledninger i næringsmiddel- eller fôrvareindustrien. Når slike ledninger forsynes med vann, kan ikke vannet brukes i fôr med mindre det holder tilstrekkelig hygienisk kvalitet og er rent, som fastsatt i artikkel 4 i rådsdirektiv [98/83/EF](eu/31998l0083*) av 3. november 1998 om drikkevannets kvalitet (EFT L 330 av 5.12.1998, s. 32). Når det gjelder fiskerinæringen, kan ledningene også forsynes med rent sjøvann som definert i artikkel 2 i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene (EUT L 139 av 30.4.2004, s. 1). Prosessvann kan brukes i fôr bare dersom det inneholder fôr- eller næringsmiddelmateriale og er teknisk fritt for rengjøringsmidler, desinfeksjonsmidler eller andre stoffer som ikke er tillatt etter fôrvareregelverket.
+
+\*\*\* Termen «fast avfall fra byområder» omfatter ikke kjøkken- og matavfall som definert i forordning [(EF) nr. 1774/2002](eu/32002r1774*).»
+
+◄ **M1**
+
 ### Vedlegg IV
+
+► **M2**
+
+**Tillatte toleranser for merking av sammensetningen av fôrmidler eller fôrblandinger som nevnt i artikkel 11 nr. 5**
+
+► **M3**
 
 ### Del A: Toleranser for de analytiske bestanddelene omhandlet i vedlegg I, V, VI og VII
 
@@ -448,14 +529,70 @@ Liste over fôrmidler hvis omsetning eller bruk som fôrvarer er begrenset eller
 1–5
 ◄**M4**30%>51,5kalium<10,20,41–520 %40 %>512vanninnhold<2ingen fastsatte grenser0,42 – < 520 %5-12,51>12,58 %energiinnhold25 %10 %proteinverdi210 %20 %
 
+1 Toleransene er angitt enten som en absolutt prosentverdi (denne verdien må trekkes fra/legges til det angitte innholdet) eller som en relativ verdi merket med «%» etter verdien (denne prosentverdien må anvendes på det angitte innholdet for å beregne akseptabelt avvik).
+
+2 Toleransene får anvendelse dersom det ikke er fastsatt noen toleranse i samsvar med en EU-metode eller en offisiell nasjonal metode i den medlemsstaten der fôrvaren bringes i omsetning, eller i samsvar med en metode som er vedtatt av Den europeiske standardiseringsorganisasjon ( [https://standards.cen.eu/dyn/www/f?p=204:32:0::::FSP_ORG_ID,FSP_lange_ID:6308,25&cs=1C252307F473504B6354F4EE56B99E235](https://standards.cen.eu/dyn/www/f?p=204:32:0::::FSP_ORG_ID,FSP_lange_ID:6308,25&cs=1C252307F473504B6354F4EE56B99E235)).
+
+◄ **M3**
+
 ### Del B: Toleranser for tilsetningsstoffer i fôrvarer som er merket i samsvar med vedlegg I, V, VI og VII
 
 1. Toleransene fastsatt i denne del omfatter bare tekniske avvik. De gjelder for tilsetningsstoffer som er oppført på listen over tilsetningsstoffer i næringsmidler og på listen over analytiske bestanddeler.Når det gjelder tilsetningsstoffer i fôrvarer som er oppført som analytiske bestanddeler, gjelder toleransene for den samlede mengden som på merkingen er angitt som garantert mengde ved fôrvarens holdbarhetsgrense.Dersom det konstateres at innholdet av et tilsetningsstoff i et fôrmiddel eller en fôrblanding er lavere enn det angitte innholdet, gjelder følgende toleranser:110 % av det angitte innholdet dersom det angitte innholdet er 1 000 enheter eller mer,100 enheter dersom det angitte innholdet er mindre enn 1 000 enheter, men minst 500 enheter,20 % av det angitte innholdet dersom det angitte innholdet er mindre enn 500 enheter, men minst 1 enhet,0,2 enheter dersom det angitte innholdet er mindre enn 1 enhet, men minst 0,5 enheter,40 % av det angitte innholdet dersom det angitte innholdet er mindre enn 0,5 enheter.
 2. Dersom det i rettsakten om godkjenning av et tilsetningsstoff er fastsatt et laveste eller høyeste innhold av vedkommende tilsetningsstoff i en fôrvare, gjelder de tekniske toleransene fastsatt i nr. 1 bare over det laveste innholdet eller under det høyeste innholdet, alt etter hva som er relevant.
 3. Så lenge det fastsatte høyeste innholdet av et tilsetningsstoff som nevnt i nr. 2 ikke overskrides, kan avviket fra det angitte innholdet være opptil tre ganger toleransen fastsatt i nr. 1. Dersom det i rettsakten om godkjenning av et tilsetningsstoff som tilhører gruppen mikroorganismer, er fastsatt et høyeste innhold av vedkommende tilsetningsstoff i fôrvarer, skal imidlertid det høyeste innholdet utgjøre den høyeste tillatte verdien.»
 
+1 Med 1 enhet i dette nummer menes 1 mg, 1 000 IE, 1 × 109 KDE eller 100 enzymaktivitetsenheter av det aktuelle tilsetningsstoffet per kg fôr, alt etter hva som er relevant.
+
+◄ **M2**
+
 ### Vedlegg V
 Den obligatoriske angivelsen for fôrmidler som nevnt i artikkel 16 nr. 1 bokstav b)
+
+|  | *Fôrmidler som består av* | *Obligatorisk angivelse av* |
+| --- | --- | --- |
+| 1. | Fôr, herunder grovfôr | Råprotein, dersom > 10 % Kostfiber |
+| 2. | Korn |  |
+| 3. | Produkter og biprodukter av korn | Stivelse, dersom > 20 % |
+|  |  | Råprotein, dersom > 10 % |
+|  |  | ►**M4**Råfett◄**M4**, dersom > 5 % Kostfiber |
+| 4. | Oljeholdige frø og frukter |  |
+| 5. | Produkter og biprodukter av oljeholdige frø og frukter | Råprotein, dersom > 10 % |
+|  |  | ►**M4**Råfett◄**M4**, dersom > 5 % |
+|  |  | Kostfiber |
+| 6. | Frø av belgvekster |  |
+| 7. | Produkter og biprodukter av frø av belgvekster | Råprotein, dersom > 10 % |
+|  |  | Kostfiber |
+| 8. | Rotknoller og rotvekster |  |
+| 9. | Produkter og biprodukter av rotknoller og rotvekster | Stivelse |
+|  |  | Kostfiber |
+|  |  | Aske som er uløselig i HCl, dersom > 3,5 % av tørrstoffet |
+| 10. | Produkter og biprodukter fra bearbeiding av sukkerbeter | Kostfiber, dersom > 15 % |
+|  |  | Totalsukker uttrykt som sukrose |
+|  |  | Aske som er uløselig i HCl, dersom > 3,5 % av tørrstoffet |
+| 11. | Produkter og biprodukter fra bearbeiding av sukkerrør | Kostfiber, dersom > 15 % |
+|  |  | Totalsukker uttrykt som sukrose |
+| 12. | Andre frø og frukter samt produkter og biprodukter av disse, unntatt de som er nevnt i 2–7 | Råprotein Kostfiber ►**M4**Råfett◄**M4**, dersom > 10 % |
+| 13. | Andre planter samt produkter og biprodukter av disse, unntatt de som er nevnt i 8–11 | Råprotein, dersom > 10 % |
+|  |  | Kostfiber |
+| 14. | Melkeprodukter og biprodukter av disse | Råprotein |
+|  |  | Vanninnhold, dersom > 5 % |
+|  |  | Laktose, dersom > 10 % |
+| 15. | Produkter og biprodukter av landdyr | Råprotein, dersom > 10 % |
+|  |  | ►**M4**Råfett◄**M4**, dersom > 5 % |
+|  |  | Vanninnhold, dersom > 8 % |
+| 16. | Fisk og andre sjødyr samt produkter og biprodukter av disse | Råprotein, dersom > 10 % |
+|  |  | ►**M4**Råfett◄**M4**, dersom > 5 % |
+|  |  | Vanninnhold, dersom > 8 % |
+| 17. | Mineraler | Kalsium |
+|  |  | Natrium |
+|  |  | Fosfor |
+|  |  | Andre relevante mineraler |
+| 18. | Diverse produkter | Råprotein, dersom > 10 % |
+|  |  | Kostfiber |
+|  |  | ►**M4**Råfett◄**M4**, dersom > 10 % |
+|  |  | Stivelse, dersom > 30 % |
+|  |  | Totalsukker uttrykt som sukrose, dersom > 10 % |
+|  |  | Aske som er uløselig i HCl, dersom > 3,5 % av tørrstoffet |
 
 ### ► **M3** Vedlegg VI
 Merkingsopplysninger for fôrmidler og fôrblandinger til dyr bestemt til næringsmiddelproduksjon
@@ -564,17 +701,90 @@ Katter, hunder og pelsdyr– Råprotein
 2. Stoffer som angis under denne overskriften, og som også er sensoriske eller ernæringsmessige tilsetningsstoffer, skal angis sammen med den samlede mengden av dem.
 3. Dersom energiverdien og/eller proteinverdien er angitt, skal angivelsen være i samsvar med artikkel 11 i forordning [(EF) nr. 882/2004](eu/32004r0882*).
 
+1 På tysk kan «analytische Bestandteile» erstattes med «Inhaltsstoffe». På svensk kan «Analytiska beståndsdelar» erstattes med «Analyserat innehåll».
+
+2 På tysk kan «analytische Bestandteile» erstattes med «Inhaltsstoffe». På svensk kan «Analytiska beståndsdelar» erstattes med «Analyserat innehåll».
+
+◄ **M3**
+
 ### Vedlegg VIII
 Særlige bestemmelser for merking av fôrvarer som ikke oppfyller krav til sikkerhet og omsetning i henhold til fellesskapsretten som nevnt i artikkel 20 nr. 1
 
+► **M3**
+
 1. Forurensede fôrmidler skal merkes som «fôr med altfor høye nivåer av ... (betegnelse på det eller de uønskede stoffene i samsvar med vedlegg I til direktiv [2002/32/EF](eu/32002l0032)), og må bare brukes som fôr etter detoksifisering i godkjente virksomheter». Godkjenningen av slike virksomheter skal være i samsvar med artikkel 10 nr. 2 eller 3 i forordning [(EF) nr. 183/2005](eu/32005r0183).
+
+◄ **M3**
 
 1. Dersom hensikten er å redusere eller fjerne forurensingen ved rensing, skal merkingen av forurensede fôrmidler inneholde følgende tilføyelse: «fôr med altfor høye nivåer av ... (betegnelse på det eller de uønskede stoffene i samsvar med vedlegg I til direktiv [2002/32/EF](eu/32002l0032)), og må bare brukes som fôr etter hensiktsmessig rensing».
 
+► **M3**
+
 1. Uten at det berører nr. 1 og 2, skal tidligere næringsmidler som må behandles før de kan brukes som fór, merkes på følgende måte: «tidligere næringsmiddel, kan bare brukes som fórmiddel etter ... (angivelse av egnet prosess i samsvar med del B i vedlegget til forordning [(EU) nr. 68/2013](eu/32013r0068)).
+
+◄ **M3**
 
 ### Vedlegg IX
 Sammenligningstabell
+
+| *Direktiv [79/373/EØF](eu/31979l0373*)* | *Direktiv [96/25/EØF](eu/31996l0025)* | *Andre rettsakter: direktiv [80/511/EØF](eu/31980l0511) (1), [82/471/EØF](eu/31982l0471) (2), [93/74/EØF](eu/31993*0074) (3), 93/113 EF (4) eller vedtak [2004/217/EF](eu/32004d0217) (5)* | *Denne forordning* |
+| --- | --- | --- | --- |
+| – | – | – | Artikkel 1 |
+| Artikkel 1 | Artikkel 1 | (2), (4): Artikkel 1<br>(3): Artikkel 4 | Artikkel 2 |
+| Artikkel 2 | Artikkel 2 | (2), (3): Artikkel 2 | Artikkel 3 |
+| – | – | – | Artikkel 4 nr. 1 |
+| Artikkel 3 | Artikkel 3 | (3): Artikkel 1 nr. 2 | Artikkel 4 nr. 2 |
+|  | Artikkel 4 |  | Artikkel 4 nr. 3 |
+| – | – | – | Artikkel 5 nr. 1 |
+| Artikkel 12 |  | (3): Artikkel 10 nr. 2 | Artikkel 5 nr. 2 |
+| Artikkel 10a nr. 3 | Artikkel 11 bokstav b) | (2): Artikkel 8 | Artikkel 6 |
+| – | – | – | Artikkel 7 |
+| – | – | – | Artikkel 8 |
+|  |  | (3): Artikkel 3 | Artikkel 9 |
+|  |  | (3): Artikkel 6 | Artikkel 10 |
+| Artikkel 5e |  |  | Artikkel 11 nr. 1 |
+| Artikkel 5 nr. 2 | Artikkel 5 nr. 1 | (2): Artikkel 5 nr. 2 | Artikkel 11 nr. 2 |
+| – | – | – | Artikkel 11 nr. 3 |
+| Artikkel 5 nr. 6 | Artikkel 4 og artikkel 6 nr. 4 |  | Artikkel 11 nr. 4 |
+| Artikkel 6 | Artikkel 4 |  | Artikkel 11 nr. 5 |
+| Artikkel 5 nr. 1 | Artikkel 5 nr. 1 |  | Artikkel 12 |
+| Artikkel 5e | Artikkel 5 nr. 2 | (3): Artikkel 5 nr. 6 | Artikkel 13 |
+| Artikkel 5 nr. 1 og artikkel 11 | Artikkel 5 nr. 1 og artikkel 9 |  | Artikkel 14 |
+| Artikkel 5 nr. 1 og artikkel 5 nr. 5 bokstav c) | Artikkel 5 nr. 1 | (4): Artikkel 7 nr. 1 avsnitt E og direktiv [70/524/EØF](eu/31970l0524*): Artikkel 16 | Artikkel 15 |
+|  | Artikkel 5 nr. 1 bokstav c) og d) og artikkel 7 |  | Artikkel 16 |
+| Artikkel 5 nr. 1, artikkel 5c og artikkel 5d |  |  | Artikkel 17 nr. 1 |
+| – | – | – | Artikkel 17 nr. 2 |
+| Artikkel 5c nr. 3 |  |  | Artikkel 17 nr. 3 |
+|  |  | (3): Artikkel 5 nr. 1, 4, 7 og artikkel 6 bokstav a) | Artikkel 18 |
+| – | – | – | Artikkel 19 |
+|  | Artikkel 8 |  | Artikkel 20 |
+|  | Artikkel 6 nr. 1 bokstav a) |  | Artikkel 21 nr. 1 |
+| Artikkel 5 nr. 5 bokstav d) |  |  | Artikkel 21 nr. 2 |
+|  | Artikkel 6 nr. 3 bokstav a) |  | Artikkel 21 nr. 3 |
+| Artikkel 5 nr. 5 bokstav b) |  |  | Artikkel 21 nr. 4 |
+| Artikkel 5 nr. 5 bokstav a) |  |  | Artikkel 21 nr. 5 |
+| Artikkel 5 nr. 2 | Artikkel 5 nr. 3 og artikkel 6 nr. 1 bokstav b) |  | Artikkel 21 nr. 6 |
+| – | – | – | Artikkel 21 nr. 7 |
+| Artikkel 14 bokstav c) |  |  | Artikkel 21 nr. 8 |
+| Artikkel 5 nr. 3, artikkel 5c nr. 4 og artikkel 5e | Artikkel 5 nr. 2 |  | Artikkel 22 |
+| Artikkel 4 nr. 1 |  | (1): Artikkel 1 | Artikkel 23 |
+| – | – | – | Artikkel 24 |
+| – | – | – | Artikkel 25 |
+| – | – | – | Artikkel 26 |
+| Artikkel 10 | Artikkel 11 |  | Artikkel 27 |
+| Artikkel 13 | Artikkel 13 | (2): Artikkel 13 og 14<br>(3): Artikkel 9 | Artikkel 28 |
+| – | – | – | Artikkel 29 |
+| – | – | – | Artikkel 30 |
+| – | – | – | Artikkel 31 |
+| – | – | – | Artikkel 32 |
+| – | – | – | Artikkel 33 |
+| Vedlegg del A nr. 2, 3 og 4 | Vedlegg del A avsnitt II og IV |  | Vedlegg I |
+| Vedlegg del A nr. 1 og artikkel 5 nr. 6 | Artikkel 6 nr. 4 |  | Vedlegg II |
+|  |  | (5): Vedlegg | Vedlegg III |
+| Vedlegg del A nr. 5 og 6 | Vedlegg del A avsnitt VII |  | Vedlegg IV |
+|  | Vedlegg del C |  | Vedlegg V |
+| Vedlegg del B |  |  | Vedlegg VI |
+| Vedlegg del B |  |  | Vedlegg VII |
 
 ### Forordning (EU) nr. 454/2010
 
@@ -582,19 +792,29 @@ Sammenligningstabell
 av 26. mai 2010
 om overgangstiltak i henhold til europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767) med hensyn til bestemmelsene om merking av fôrvarer
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767) av 13. juli 2009 om markedsføring og bruk av fôrvarer,1 særlig artikkel 32 nr. 4, og
 
 ut fra følgende betraktninger:I medfør av forordning [(EF) nr. 767/2009](eu/32009r0767) må det foretas en fullstendig revisjon av EUs regler for de vilkår som gjelder for markedsføring av fôrmidler og fôrblandinger, og i henhold til forordningens artikkel 32 nr. 4 kan det fastsettes tiltak for å lette overgangen til de nye reglene.Reglene for merking i forordning [(EF) nr. 767/2009](eu/32009r0767) får anvendelse fra 1. september 2010. Dette vil innebære en plutselig endring og hindre en myk overgang for foretak som markedsfører fôrvarer. Å endre utformingen og produksjonen av etiketter og de eksisterende maskinene fra den ene dagen til den andre, vil være dyrt for disse foretakene. Byrden som følge av dette vil ikke stå i forhold til formålet med endringen. Det bør derfor før 1. september 2010 fastsettes en overgangsperiode der fôrvarer kan merkes i samsvar med forordning [(EF) nr. 767/2009](eu/32009r0767).Når det gjelder fôrvarer til kjæledyr, består markedet av en stor mengde ulike varer med særskilte etiketter. Det er bare artikkel 15 bokstav f), artikkel 17 nr. 1 bokstav f) og artikkel 19 i forordning [(EF) nr. 767/2009](eu/32009r0767) som innebærer endringer av de gjeldende reglene for merking av slike varer, og det dreier seg bare om mindre endringer uten betydning for tryggheten. For å muliggjøre en myk overgang for de berørte fôrforetakene bør det fastsettes en overgangsperiode på ett år der de nåværende etikettene fortsatt kan brukes på fôrvarer til kjæledyr etter 1. september 2010.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
+1 EUT L 229 av 1.9.2009, s. 1.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
 Som unntak fra artikkel 33 annet ledd i forordning [(EF) nr. 767/2009](eu/32009r0767) og uten at det berører rådsdirektiv [79/373/EØF](eu/31979l0373*),1 [82/471/EØF](eu/31982l0471),2 [93/74/EØF](eu/31993*0074)3 og [96/25/EF](eu/31996l0025),4 kan fôrvarer som er merket i samsvar med forordning [(EF) nr. 767/2009](eu/32009r0767), markedsføres fra og med den dato denne forordning trer i kraft.
 
+1 EFT L 86 av 6.4.1979, s. 30.2 EFT L 213 av 21.7.1982, s. 8.3 EFT L 237 av 22.9.1993, s. 23.4 EFT L 125 av 23.5.1996, s. 35.
+
 ### Artikkel 2
 
 Som unntak fra artikkel 33 annet ledd i forordning [(EF) nr. 767/2009](eu/32009r0767) kan fôrvarer som er beregnet på kjæledyr og som er merket i samsvar med direktiv [79/373/EØF](eu/31979l0373*) og artikkel 16 i rådsdirektiv [70/524/EØF](eu/31970l0524*),1 markedsføres til og med 31. august 2011. Deretter kan de forbli på markedet til lagrene er tømt.
+
+1 EFT L 270 av 14.12.1970, s. 1.
 
 ### Artikkel 3
 
@@ -604,7 +824,11 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 26. mai 2010.
 
-*For Kommisjonen*José Manuel BARROSO*President*
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
 
 ### Forordning (EU) nr. 68/2013
 
@@ -612,17 +836,24 @@ Utferdiget i Brussel, 26. mai 2010.
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 68/2013](eu/32013r0068) endret ved forordning [(EU) 2017/1017](eu/32017r1017) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I kapittel II.
 
+► **B** Forordning [(EU) nr. 68/2013](eu/32013r0068)
+Som endret ved
+
 - ► **M1** Forordning [(EU) 2017/1017](eu/32017r1017)
 
 ### KOMMISJONSFORORDNING [(EU) nr. 68/2013](eu/32013r0068)
 av 16. januar 2013
 om fortegnelsen over fôrmidler
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767) av 13. juli 2009 om markedsføring og bruk av fôrvarer, endring av europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) og oppheving av rådsdirektiv [79/373/EØF](eu/31979l0373*), kommisjonsdirektiv [80/511/EØF](eu/31980l0511), rådsdirektiv [82/471/EØF](eu/31982l0471), [83/228/EØF](eu/31983l0228), [93/74/EØF](eu/31993*0074), [93/113/EF](eu/31993l0113) og [96/25/EF](eu/31996l0025) samt kommisjonsvedtak [2004/217/EF](eu/32004d0217),1 særlig artikkel 26 nr. 2 og 3, og
 
 ut fra følgende betraktninger:Kommisjonsforordning [(EU) nr. 575/2011](eu/32011r0575) av 16. juni 2011 om fortegnelsen over fôrmidler2 (fortegnelsen) erstattet den første versjonen av fortegnelsen over fôrmidler fastsatt i kommisjonsforordning [(EU) nr. 242/2010](eu/32010r0242) av 19. mars 2010 om opprettelse av en fortegnelse over fôrmidler.3Aktuelle representanter for de europeiske fôrvaresektorene har, i samråd med andre berørte parter og i samarbeid med nasjonale vedkommende myndigheter, utarbeidet endringer til forordning [(EU) nr. 575/2011](eu/32011r0575), idet de har tatt hensyn til relevant erfaring fra uttalelser avgitt av Den europeiske myndighet for næringsmiddeltrygghet samt til den vitenskapelige eller tekniske utvikling.Disse endringene gjelder nye poster for behandlingsmetoder og fôrmidler og forbedringer av eksisterende poster, særlig for olje- og fettderivater.Endringene gjelder dessuten grenseverdier for kjemiske urenheter fra produksjonsprosessen eller tekniske hjelpestoffer, som skal fastsettes i samsvar med nr. 1 i vedlegg I til forordning [(EF) nr. 767/2009](eu/32009r0767). Særlige regler bør gjelde for tidligere næringsmidler, som produksjonsoverskudd, deformerte produkter eller næringsmidler der siste forbruksdato er utløpt, som er framstilt i samsvar med næringsmiddelregelverket i Unionen.Vilkårene fastsatt i artikkel 26 i forordning [(EF) nr. 767/2009](eu/32009r0767) er oppfylt.Ettersom det skal gjøres svært mange endringer i forordning [(EU) nr. 575/2011](eu/32011r0575), bør den av hensyn til sammenheng, klarhet og forenkling oppheves og erstattes.For å unngå unødvendige handelsforstyrrelser bør den administrative byrden for markedsdeltakerne lettes ved at det fastsettes en frist som gjør det mulig med en smidig endring av merkingen.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -646,7 +877,15 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 16. januar 2013.
 
-*For Kommisjonen*José Manuel BARROSO*President*
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
+
+1 EUT L 229 av 1.9.2009, s. 1.2 EUT L 159 av 17.6.2011, s. 25.3 EUT L 77 av 24.3.2010, 2. 17.
+
+► **M1**
 
 ### Vedlegg
 Katalog over fôrmidler
@@ -669,11 +908,117 @@ Katalog over fôrmidler
 14. I artikkel 15 bokstav g) i forordning [(EF) nr. 767/2009](eu/32009r0767) sammenholdt med nr. 6 i vedlegg I til samme forordning er det fastsatt merkingskrav med hensyn til vanninnhold. I artikkel 16 nr. 1 bokstav b) i samme forordning sammenholdt med dens vedlegg V er det fastsatt merkingskrav med hensyn til andre analytiske bestanddeler. I henhold til nr. 5 i vedlegg I til forordning [(EF) nr. 767/2009](eu/32009r0767) skal dessuten innholdet av aske som er uløselig i saltsyre , angis generelt dersom det overstiger 2,2 %, eller for visse fôrmidler dersom det overstiger grenseverdien fastsatt i det relevante avsnittet i vedlegg V til forordningen. Enkelte poster i listen over fôrmidler i del C avviker imidlertid fra disse reglene på følgende måter:De obligatoriske opplysningene om analytiske bestanddeler i listen over fôrmidler i del C erstatter de obligatoriske opplysningene fastsatt i det relevante avsnittet i vedlegg V til forordning [(EF) nr. 767/2009](eu/32009r0767).Dersom det i kolonnen for obligatoriske opplysninger i listen over fôrmidler i del C ikke er angitt analytiske bestanddeler som det er påkrevd å angi i samsvar med det relevante avsnittet i vedlegg V til forordning [(EF) nr. 767/2009](eu/32009r0767), er det ikke nødvendig å angi noen av disse bestanddelene på etiketten. Dersom det for aske som er uløselig i saltsyre, ikke er fastsatt noen grenseverdi i listen over fôrmidler i del C, skal innholdet angis dersom det overstiger 2,2 %.Dersom det er fastsatt en eller flere særskilte verdier for vanninnhold i kolonnen «Obligatoriske opplysninger» i listen over fôrmidler i del C, skal disse verdiene anvendes i stedet for verdiene i nr. 6 i vedlegg I til forordning [(EF) nr. 767/2009](eu/32009r0767). Dersom vanninnholdet er under 14 %, er det imidlertid ikke obligatorisk å angi det. Dersom det ikke er fastsatt noen særskilt verdi for vanninnhold i nevnte kolonne, får nr. 6 i vedlegg I til forordning [(EF) nr. 767/2009](eu/32009r0767) anvendelse.
 15. En driftsansvarlig for et fôrforetak som hevder at en fôrvare har flere egenskaper enn dem som er oppgitt i kolonnen «Beskrivelse» i listen over fôrvarer i del C, eller henviser til en behandlingsmetode som er oppført i del B som kan sidestilles med en påstand (f.eks. beskyttelse mot nedbryting i vom), skal overholde artikkel 13 i forordning [(EF) nr. 767/2009](eu/32009r0767). Dessuten kan fôrmidler ha særlige ernæringsformål i samsvar med artikkel 9 og 10 i forordning [(EF) nr. 767/2009](eu/32009r0767).
 
+1 Europaparlaments- og rådsforordning [(EF) nr. 1829/2003](eu/32003r1829) av 22. september 2003 om genmodifiserte næringsmidler og fôr (EUT L 268 av 18.10.2003, s. 1).
+
+2 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774*) (EUT L 300 av 14.11.2009, s. 1).
+
+3 Kommisjonsforordning [(EF) nr. 142/2011](eu/32011r0142) av 25. februar 2011 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om gjennomføring av rådsdirektiv [97/78/EF](eu/31997l0078) med hensyn til visse prøver og produkter som er unntatt fra veterinærkontroll på grensen i henhold til nevnte direktiv (EUT L 54 av 26.2.2011, s. 1).
+
+4 EFT L 147 av 31.5.2001, s. 1.
+
+5 EUT L 35 av 8.2.2005, s. 1.
+
+6 ALARA: As Low As Reasonably Achievable (så lavt nivå som det med rimelighet er mulig å oppnå)
+
+7 EFT L 140 av 30.5.2002, s. 10.
+
+8 EUT L 70 av 16.3.2005, s. 1.
+
+9 EUT L 268 av 18.10.2003, s. 29.
+
+10 Bestemmelsene om kjemiske urenheter og tekniske hjelpestoffer i dette nummer får ikke anvendelse på fôrmidler som er oppført i registeret over fôrmidler nevnt i artikkel 24 nr. 6 i forordning [(EF) nr. 767/2009](eu/32009r0767).
+
+11 Som et unntak fra dette kravet er det for behandlingsmetoden «tørking» valgfritt å tilføye den alminnelige betegnelsen eller det alminnelige uttrykket.
+
 ### Del B: Ordliste over behandlingsmetoder
+
+|  | *Behandlingsmetode* | *Definisjon* | *Alminnelig betegnelse/uttrykk* |
+| --- | --- | --- | --- |
+| 1 | Luftseparering | Atskilling av partikler ved hjelp av en luftstrøm. | Luftseparert |
+| 2 | Aspirering | Metode for ved hjelp av en luftstrøm å fjerne støv, fine partikler og andre partikler med svevestoffer fra korn under transport. | Aspirert |
+| 3 | Blansjering | Metode som består av varmebehandling av et organisk stoff ved koking eller damping, for å denaturere naturlige enzymer, bløtgjøre vev og fjerne rå aromaer, etterfulgt av nedsenking i kaldt vann for å stanse kokingen. | Blansjert |
+| 4 | Bleking | Fjerning av naturlig farge ved hjelp av kjemiske eller fysiske prosesser eller ved hjelp av blekejord. | Bleket |
+| 5 | Kjøling | Senking av temperaturen til under omgivelsestemperaturen, men over frysepunktet, for å bedre produktets holdbarhet. | Kjølt |
+| 6 | Hakking | Redusering av partikkelstørrelsen ved hjelp av en eller flere kniver. | Hakket |
+| 7 | Rensing | Fjerning av fremmedlegemer (f.eks. steiner) eller plantedeler, f.eks. løse stråpartikler, skall eller ugress. | Renset/sortert |
+| 8 | Konsentrasjon1 | Fjerning av vann og/eller andre bestanddeler. | Konsentrat, konsentrert |
+| 9 | Kondensering | Et stoffs overgang fra gass til flytende form. | Kondensert |
+| 10 | Koking | Endring av fôrmidlers fysiske og kjemiske egenskaper ved tilførsel av varme. | Kokt |
+| 11 | Knusing | Redusering av partikkelstørrelsen ved hjelp av en knuser. | Knust |
+| 12 | Krystallisering | Rensing av en løsning ved å omdanne væske til krystaller. Urenheter i væsken bindes vanligvis ikke til krystallenes gitterstruktur. | Krystallisert |
+| 13 | Avskalling2 | Hel eller delvis fjerning av ytre lag fra korn, frø, frukter, nøtter og annet | Avskallet, delvis avskallet |
+| 14 | Skrelling/pilling | Fjerning av skalldeler fra bønner, korn og frø, vanligvis med fysiske metoder. | Skrelt eller pillet3 |
+| 15 | Avpektinisering | Ekstrahering av pektiner fra et fôrmiddel. | Avpektinisert |
+| 16 | Uttørking | Metode for å trekke ut fuktighet. | Uttørket |
+| 17 | Avsliming | Metode for å fjerne slimlaget på et produkts overflate. | Avslimet |
+| 18 | Avsukring | Hel eller delvis fjerning av mono- og disakkarider fra melasse og andre sukkerholdige stoffer ved hjelp av kjemiske eller fysiske prosesser. | Avsukret, delvis avsukret |
+| 19 | Avgifting | Metode for å ødelegge giftstoffer eller redusere konsentrasjonen av dem. | Avgiftet |
+| 20 | Destillasjon | Fraksjonering av væsker ved koking og oppsamling av kondensert damp i en separat beholder. | Destillert |
+| 21 | Tørking | Kunstig eller naturlig dehydrering. | Naturlig tørket eller kunstig tørket, alt etter hva som er relevant |
+| 22 | Ensilering | Oppbevaring av fôrmidler med eller uten tilsetning av konserveringsmidler eller under anaerobe forhold med eller uten tilsetningsstoffer til ensilasje. | Ensilert |
+| 23 | Fordamping | Redusering av vanninnhold. | Fordampet |
+| 24 | Ekspandering | Varmebehandling der kraftig fordamping av vanninnholdet i et produkt fører til at produktet splittes opp. | Ekspandert eller puffet |
+| 25 | Oljeutvinning ved pressing | Fjerning av olje/fett ved pressing. | Ekspeller/kake og olje/fett |
+| 26 | Ekstrahering | Fjerning av fett eller olje fra materialer ved hjelp av organisk løsemiddel, eller av sukker eller andre vannløselige bestanddeler ved hjelp av vandig løsemiddel. | Ekstrakt/mel og fett/olje, melasse/pulp og sukker eller andre vannløselige bestanddeler |
+| 27 | Ekstrudering | Varmebehandling der rask fordamping av vanninnholdet i et produkt fører til at produktet brytes ned, samtidig med at produktet gis en bestemt form ved at det passerer gjennom en dyse. | Ekstrudert |
+| 28 | Gjæring | Metode der mikroorganismer som bakterier, sopp eller gjær enten framstilles eller brukes for å endre materialers kjemiske sammensetning eller egenskaper. | Gjæret |
+| 29 | Filtrering | Prosessen med å la en væske passere gjennom et porøst medium eller en membran for å fjerne faste partikler. | Filtrert |
+| 30 | Flakframstilling | Valsing av et dampbehandlet produkt for å framstille tynne stykker av materiale. | Flak |
+| 31 | Tørr formaling | Fysisk bearbeiding av korn for å redusere partikkelstørrelsen og lette oppdelingen i kornets bestanddeler (dvs. mel, kli og fôrmel). | Mel, kli, fôrmel4 eller fôr, alt etter hva som er relevant |
+| 32 | Vinterisering | Kjøling av olje for å skille de mer mettede bestanddelene av oljen fra de mer umettede bestanddelene. De mer mettede bestanddelene av oljen stivner ved kjøling, mens de mer umettede bestanddelene er flytende og kan f.eks. dekanteres. Det vinteriserte produktet er den stivnede oljen. | Vinterisert |
+| 33 | Fragmentering | Metode for å bryte opp et fôrmiddel i fragmenter. | Fragmentert |
+| 34 | Steking | Metode for å varmebehandle fôrmidler i olje eller fett. | Stekt |
+| 35 | Gelering | Metode for å danne en gel, som er et fast, gelélignende materiale med egenskaper som kan variere fra bløtt og tyntflytende til hardt og seigt, vanligvis ved hjelp av geleringsmidler. | Gelert |
+| 36 | Granulering | Behandling av fôrmidler for å oppnå en bestemt partikkelstørrelse og konsistens. | Granulert |
+| 37 | Formaling | Redusering av faste fôrmidlers partikkelstørrelse ved tørr eller våt bearbeiding. | Formalt |
+| 38 | Oppvarming | Varmebehandling som foretas under bestemte vilkår, som trykk og fuktighet. | Oppvarmet/varmebehandlet |
+| 39 | Hydrogenering | Katalytisk prosess for å mette dobbeltbindinger av oljer/fettstoffer/fettsyrer som utføres ved høy temperatur under hydrogentrykk for å framstille helt eller delvis mettede triglyserider/fettsyrer eller for å framstille polyoler ved å redusere karbonylgrupper av karbohydrater til hydroksylgrupper. | Hydrogenert, delvis hydrogenert |
+| 40 | Hydrolyse | Redusering av molekylstørrelsen ved egnet behandling med vann og enten varme/trykk, enzymer eller syre/base. | Hydrolysert |
+| 41 | Flytendegjøring | Omdanning av et fast stoff eller en gass til en væske. | Flytendegjort |
+| 42 | Maserasjon | Mekanisk redusering av fôrmidlers størrelse, ofte med tilsetning av vann eller andre væsker. | Maserert |
+| 43 | Malting | Igangsetting av spiring av korn for å aktivere naturlige enzymer som kan omdanne stivelse til gjærbare karbohydrater og proteiner til aminosyrer og peptider. | Maltet |
+| 44 | Smelting | Overgang fra fast til flytende tilstand ved tilføring av varme. | Smeltet |
+| 45 | Mikronisering | Metode for å redusere den gjennomsnittlige partikkelstørrelsen i et fast materiale til mikrometerstørrelse. | Mikronisert |
+| 46 | Forvelling | Bløtlegging i vann og varmebehandling, slik at stivelsen gelatineres fullstendig, med påfølgende tørkeprosess. | Forvellet («parboiled») |
+| 47 | Pasteurisering | Oppvarming til en kritisk temperatur i et nærmere angitt tidsrom for å eliminere skadelige mikroorganismer, etterfulgt av rask nedkjøling. | Pasteurisert |
+| 48 | Skrelling | Fjerning av skrell/skall fra frukt og grønnsaker. | Skrelt |
+| 49 | Pelletering | Pressing i pelletform. | Pellet, pelletert |
+| 50 | Formaling av ris | Fjerning av nesten alt eller deler av kli og kim fra avskallet ris. | Formalt |
+| 51 | Pregelatinering | Modifisering av stivelse for å gi den en vesentlig bedre evne til å svelle i kaldt vann. | Pregelatinert5 |
+| 52 | Pressing6 | Fysisk fjerning av væsker som fett, olje, vann eller saft fra faste stoffer. | Ekspeller/kake (oljeholdige materialer)<br>Pulp, pressrester (frukt osv.)<br>Pulp (sukkerbeter) |
+| 53 | Raffinering | Hel eller delvis fjerning av urenheter eller uønskede bestanddeler ved fysisk/kjemisk behandling. | Raffinert, delvis raffinert |
+| 54 | Risting | Oppvarming av formidler til tørr tilstand for å bedre fordøyeligheten, forsterke fargen og/eller begrense naturlige antinæringsstoffer. | Ristet |
+| 55 | Valsing | Redusering av partikkelstørrelsen ved å la materialet, f.eks. korn, passere mellom valser. | Valset |
+| 56 | Beskyttelse mot nedbryting i vom | Metode som, enten ved fysisk behandling med bruk av varme, trykk, damp eller en kombinasjon av disse og/eller ved hjelp av aldehyder, lignosulfonat, natriumhydroksid eller organiske syrer (som propionsyre eller garvesyre), beskytter næringsstoffene mot nedbryting i vommen.<br>Fôrmidler som er beskyttet mot nedbryting i vommen med aldehyder, kan inneholde opptil 0,12 % frie aldehyder. | Beskyttet mot nedbryting i vommen ved hjelp av [skriv inn det som passer] |
+| 57 | Sikting/sålding | Atskilling av partikler av forskjellig størrelse ved å riste eller helle fôrmidler gjennom en eller flere sikter. | Siktet, såldet |
+| 58 | Skumming | Mekanisk utskilling av det flytende øverste laget i en væske, f.eks. melkefett. | Skummet |
+| 59 | Skiving | Skjæring av fôrmidler i skiver | Skivet, snittet |
+| 60 | Bløtlegging/støpsetting | Fukting og bløtgjøring av fôrmidler, vanligvis frø, for å redusere koketiden, lette fjerningen av frøskall og fremme vannopptaket for å aktivere spiringsprosessen eller redusere konsentrasjonen av naturlig forekommende antinæringsstoffer. | Bløtlagt, støpt |
+| 61 | Spraytørking | Redusering av vanninnholdet i en væske ved å omdanne fôrmiddelet til en tåke som det blåses varm luft gjennom, slik at forholdet mellom overflate og vekt økes. | Spraytørket |
+| 62 | Damping | Metode for oppvarming og koking ved hjelp av damp under trykk for å øke fordøyeligheten. | Dampet |
+| 63 | Tørristing | Oppvarming med tørr varme, vanligvis brukt på oljefrø, f.eks. for å redusere eller fjerne naturlig forekommende antinæringsstoffer. | Tørristet |
+| 64 | Ultrafiltrering | Filtrering av væsker gjennom en fin membran som bare små molekyler kan trenge gjennom. | Ultrafiltrert |
+| 65 | Avkiming | Metode for hel eller delvis fjerning av kim fra knuste korn. | Avkimet |
+| 66 | Infrarød mikronisering | Termisk prosess med infrarød varmebehandling for koking og risting av korn, røtter, frø eller rotknoller, eller deres biprodukter, vanligvis etterfulgt av flakframstilling. | Infrarødmikronisert |
+| 67 | Spalting av oljer/fettstoffer og hydrogenerte oljer/fettstoffer | Kjemisk prosess med hydrolyse av fettstoffer/oljer. Fettstoffers/oljers reaksjon med vann, utført ved høy temperatur og høyt trykk, gjør det mulig å framstille råfettsyrer i den hydrofobe fase og glyserolvann (råglyserol) i den hydrofile fase. | Spaltet |
+| 68 | Ultralydbehandling | Frigjøring av vannløselige forbindelser ved mekanisk bearbeiding med høyintensiv ultralyd og varme i vann. | Ultralydbehandlet |
+| 69 | Mekanisk fjerning av næringsmiddelemballasje | Mekanisk fjerning av innpakningsmateriale | Mekanisk utpakket |
+
+1 I tysk utgave kan «Konzentrieren» eventuelt erstattes med «Eindicken». Tilsvarende alminnelig betegnelse/uttrykk blir da «eingedickt».
+
+2 «Avskalling» kan eventuelt erstattes med «skrelling» eller «pilling». Tilsvarende alminnelig betegnelse/uttrykk blir da «skrelt» eller «pillet».
+
+3 Når det gjelder ris, kalles denne prosessen «avskalling», og den alminnelige betegnelsen er «avskallet».
+
+4 I fransk utgave kan betegnelsen «issues» eventuelt benyttes.
+
+5 I tysk utgave kan uttrykket «aufgeschlossen» og betegnelsen «Quellwasser» (i forbindelse med stivelse) benyttes. I dansk utgave kan uttrykket «kvældning» og betegnelsen «kvældet» (i forbindelse med stivelse) benyttes.
+
+6 I fransk utgave kan «Pressage» eventuelt erstattes med «Extraction mécanique».
 
 ### Del C: Liste over fôrmidler
 
-1. *Korn og produkter framstilt av korn**Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*1.1.1ByggKorn av *Hordeum vulgare* L. Kan være beskyttet mot nedbryting i vom.1.1.2Bygg, puffetProdukt framstilt av formalt eller knust bygg ved behandling under fuktige, varme forhold og under trykk.Stivelse1.1.3Bygg, ristetProdukt fremkommet ved delvis risting av bygg, med svak farge.Stivelse, dersom > 10 %
+1. *Korn og produkter framstilt av korn* *Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*1.1.1ByggKorn av *Hordeum vulgare* L. Kan være beskyttet mot nedbryting i vom.1.1.2Bygg, puffetProdukt framstilt av formalt eller knust bygg ved behandling under fuktige, varme forhold og under trykk.Stivelse1.1.3Bygg, ristetProdukt fremkommet ved delvis risting av bygg, med svak farge.Stivelse, dersom > 10 %
 Råprotein, dersom > 15 %1.1.4ByggflakProdukt framstilt ved damping eller infrarød mikronisering og valsing av avskallet bygg. Kan inneholde en liten andel skalldeler. Kan være beskyttet mot nedbryting i vom.Stivelse1.1.5ByggfiberProdukt fra framstilling av byggstivelse. Består av deler av endosperm og hovedsakelig av fiber.Råtrevler
 Råprotein, dersom > 10 %1.1.6ByggskallProdukt fra framstilling av etanolstivelse etter tørrformaling, sikting og avskalling av byggkorn.Råtrevler
 Råprotein, dersom > 10 %1.1.7ByggfôrmelProdukt framkommet ved framstilling av byggryn eller mel av siktet, avskallet bygg. Består hovedsakelig av deler av endosperm og finere skalldeler samt noen sikterester.Råtrevler
@@ -763,7 +1108,13 @@ Dersom vanninnhold < 65 %:
 Dersom vanninnhold < 45 %:
 Råprotein
 
-1. *Oljefrø, oljefrukter og produkter framstilt av disse**Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*2.1.1BabassuekspellerProdukt fra utvinning av olje ved pressing av nøtter fra babassupalmen (sorter av arten *Orbignya*).Råprotein
+1 Kornarten kan føyes til betegnelsen.
+
+2 Merk at på engelsk kan mais benevnes enten som «maize» eller «corn».
+
+3 Dersom det er foretatt en finere formaling av dette produktet, kan ordet «fin» føyes til betegnelsen, eller betegnelsen kan erstattes av en tilsvarende betegnelse.
+
+1. *Oljefrø, oljefrukter og produkter framstilt av disse* *Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*2.1.1BabassuekspellerProdukt fra utvinning av olje ved pressing av nøtter fra babassupalmen (sorter av arten *Orbignya*).Råprotein
 Råfett
 Råtrevler2.2.1DodrefrøFrø av *Camelina sativa* L. Crantz.2.2.2DodreekspellerProdukt fra utvinning av olje ved pressing av dodrefrø.Råprotein
 Råfett
@@ -866,7 +1217,11 @@ Kan være beskyttet mot nedbryting i vom.Råprotein
 Råtrevler2.20.1Vegetabilsk olje og vegetabilsk fett2Olje og fett fra oljefrø og oljefrukter (unntatt ricinusolje). Kan være avslimet, raffinert og/eller hydrogenert.Vanninnhold, dersom > 1 %2.20.2Brukt vegetabilsk olje fra næringsmiddelindustrienVegetabilske oljer som har vært brukt av driftsansvarlige for næringsmiddelforetak i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*) til koking, og som ikke har vært i kontakt med kjøtt, animalsk fett, fisk eller akvatiske dyr.Vanninnhold, dersom > 1 %2.21.1RålecitinerProdukt framkommet ved avsliming av råolje fra oljefrø og oljefrukter med vann. Sitronsyre, fosforsyre, natriumhydroksid eller enzymer kan tilsettes under avsliming av råoljen.2.22.1HampefrøKontrollerte frø av sorter av *Cannabis sativa* L. med et høyeste innhold av tetrahydrocannabinol i samsvar med forordning [(EF) nr. 1782/2003](eu/32003r1782*).2.22.2HampekspellerProdukt fra utvinning av olje ved pressing av hampefrø.Råprotein
 Råtrevler2.22.3HampoljeOlje framstilt ved pressing av hampplanter og hampefrø.Vanninnhold, dersom > 1 %2.23.1ValmuefrøFrø av *Papaver somniferum* L.2.23.2ValmuemelProdukt fra utvinning av olje ved ekstrahering av valmuefrøekspeller.Råprotein
 
-1. *Frø av belgvekster og produkter av disse**Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*3.1.1Bønner, ristedeFrø av *Phaseolus* spp. eller *Vigna* spp. som har gjennomgått egnet varmebehandling. Kan være beskyttet mot nedbryting i vom.3.1.2Proteinkonsentrat av bønnerProdukt framstilt av bønnefruktvannet som utskilles ved framstilling av stivelse.Råprotein3.2.1JohannesbrødbelgerTørkede frukter av johannesbrødtreet, *Ceratonia siliqua* L., med frø.Råtrevler3.2.3Knuste johannesbrødbelgerProdukt framstilt ved knusing av tørkede frukter (belger) av johannesbrødtreet der frøene er fjernet.Råtrevler3.2.4Johannesbrødpulver [johannesbrødmel]Produkt framstilt ved mikronisering av tørkede frukter (belger) av johannesbrødtreet der frøene er fjernet.Råtrevler
+1 Angivelsen «Lavt glukosinolatinnhold», som definert i Unionens regelverk, kan eventuelt tilføyes. Dette gjelder alle produkter av rapsfrø.
+
+2 Betegnelsen «vegetabilsk olje og fett» kan erstattes med «vegetabilsk olje» eller «vegetabilsk fett», alt etter hva som er relevant. Plantearten og, dersom det er relevant, plantedelen skal føyes til betegnelsen. Det skal angis om oljen og/eller fettet er i rå tilstand eller raffinert.
+
+1. *Frø av belgvekster og produkter av disse* *Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*3.1.1Bønner, ristedeFrø av *Phaseolus* spp. eller *Vigna* spp. som har gjennomgått egnet varmebehandling. Kan være beskyttet mot nedbryting i vom.3.1.2Proteinkonsentrat av bønnerProdukt framstilt av bønnefruktvannet som utskilles ved framstilling av stivelse.Råprotein3.2.1JohannesbrødbelgerTørkede frukter av johannesbrødtreet, *Ceratonia siliqua* L., med frø.Råtrevler3.2.3Knuste johannesbrødbelgerProdukt framstilt ved knusing av tørkede frukter (belger) av johannesbrødtreet der frøene er fjernet.Råtrevler3.2.4Johannesbrødpulver [johannesbrødmel]Produkt framstilt ved mikronisering av tørkede frukter (belger) av johannesbrødtreet der frøene er fjernet.Råtrevler
 Totalsukker uttrykt som sukrose3.2.5JohannesbrødkimKim av johannesbrødfrø.Råprotein3.2.6JohannesbrødkimekspellerProdukt fra utvinning av olje ved pressing av johannesbrødkim.Råprotein3.2.7JohannesbrødfrøFrø (kjerner) fra johannesbrødbelger, bestående av endosperm, skall og kim.Råtrevler3.2.8JohannesbrødfrøskallSkall fra johannesbrødfrø, framkommet ved avskalling av frøene fra johannesbrødtreet.Råtrevler3.3.1KikerterFrø av *Cicer arietinum* L.3.4.1PerlebønneFrø av *Ervum ervilia* L.3.5.1BukkehornfrøFrø av bukkehornkløver (*Trigonella foenum-graecum*).3.6.1GuarmelProdukt fra ekstrahering av planteslim fra frø av guarplanten, *Cyanopsis tetragonoloba* (L.) Taub.Råprotein3.6.2Guarkim-melProdukt fra ekstrahering av planteslim fra kimen av guarfrø.Råprotein3.7.1HestebønnerFrø av *Vicia faba* L. *ssp. faba* var. *equina* Pers. og var. *minuta* (Alef.) Mansf.3.7.2HestebønneflakProdukt framstilt ved damping eller infrarød mikronisering og valsing av avskallede hestebønner.Stivelse
 Råprotein3.7.3HestebønneskallProdukt framkommet ved avskalling av hestebønner, bestående hovedsakelig av ytre skall.Råtrevler
 Råprotein3.7.4Avskallede hestebønnerProdukt framkommet ved avskalling av hestebønner, bestående hovedsakelig av bønnekjerner.Råprotein
@@ -880,7 +1235,7 @@ Råtrevler
 Innhold av aske som er uløselig i HCl, dersom > 3,5 % av tørrstoffet3.11.11Pressaft fra erterProdukt fra våt ekstrahering av stivelse og protein fra erter. Består hovedsakelig av løselige proteiner og oligosakkarider.Vanninnhold, dersom < 60 % eller > 85 %
 Totalsukker uttrykt som sukrose
 Råprotein3.11.12ErtefiberProdukt framstilt ved ekstrahering etter formaling og sikting av avskallede erter.Råtrevler3.12.1VikkerFrø av *Vicia sativa* L. var. *sativa* og andre sorter.3.13.1FôrskolmFrø av *Lathyrus sativus* L. som har gjennomgått egnet varmebehandling.Varmebehandlingsmetode3.14.1MonanthavikkeFrø av *Vicia monanthos* Desf.
-2. *Rotknoller, røtter og produkter framstilt av disse**Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*4.1.1SukkerbeteRot av *Beta vulgaris* L. ssp. *vulgaris* var. *altissima* Doell.4.1.2Topper og røtter av sukkerbeteFerskt produkt fra sukkerframstilling, bestående hovedsakelig av rensede deler av sukkerbete med eller uten bladdeler.Innhold av aske som er uløselig i HCl, dersom > 5 % av tørrstoffet
+2. *Rotknoller, røtter og produkter framstilt av disse* *Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*4.1.1SukkerbeteRot av *Beta vulgaris* L. ssp. *vulgaris* var. *altissima* Doell.4.1.2Topper og røtter av sukkerbeteFerskt produkt fra sukkerframstilling, bestående hovedsakelig av rensede deler av sukkerbete med eller uten bladdeler.Innhold av aske som er uløselig i HCl, dersom > 5 % av tørrstoffet
 Vanninnhold, dersom < 50 %4.1.3(Bete)sukker [sukrose]Sukker ekstrahert fra sukkerbeter ved hjelp av vann.4.1.4(Sukker)betemelasseSirupsaktig produkt framkommet ved framstilling eller foredling av sukker fra sukkerbeter. Kan inneholde opptil 0,5 % skumdempende midler, 0,5 % avleiringshemmere, 2 % sulfat og 0,25 % sulfitt.Totalsukker uttrykt som sukrose
 Vanninnhold, dersom > 28 %4.1.5(Sukker)betemelasse, delvis avsukret og/eller uten betainProdukt fra ytterligere ekstrahering av sukrose og/eller betain fra sukkerbetemelasse ved hjelp av vann. Kan inneholde opptil 2 % sulfat og 0,25 % sulfitt.Totalsukker uttrykt som sukrose
 Vanninnhold, dersom > 28 %4.1.6IsomaltulosemelasseIkke-krystallisert fraksjon fra framstilling av isomaltulose ved enzymatisk omdanning av sukrose fra sukkerbeter.Vanninnhold, dersom > 40 %4.1.7Våt (sukker)betepulpProdukt fra sukkerframstilling, bestående av snitter av sukkerbete der sukkeret er ekstrahert med vann. Vanninnhold: minst 82 %. Sukkerinnholdet er lavt og synker mot null på grunn av (melkesyre)gjæring.Innhold av aske som er uløselig i HCl, dersom > 5 % av tørrstoffet
@@ -926,7 +1281,11 @@ Dersom vanninnhold < 50 %:
 – Råprotein
 – Råaske4.8.15PotetgranulatPoteter etter vasking, skrelling, findeling (ved skjæring, flakframstilling e.l.) og tørking.4.9.1SøtpotetRotknoller av *Ipomoea batatas* L., uansett presentasjon.Vanninnhold, dersom < 57 % eller > 78 %4.10.1JordskokkerRotknoller av *Helianthus tuberosus* L., uansett presentasjon.Vanninnhold, dersom < 75 % eller > 80 %
 
-1. *Andre frø og frukter og produkter framstilt av disse**Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*5.1.1EikenøtterHele frukter av *Quercus robur* L., *Quercus petraea* (Matt.) Liebl., *Quercus suber* L., eller andre eikearter.5.1.2Eikenøtter, avskalledeProdukt framkommet ved avskalling av eikenøtter.Råprotein
+1 Uttrykkene skiller seg fra hverandre hovedsakelig med hensyn til vanninnhold og brukes etter hva som er relevant.
+
+2 Plantearten skal føyes til betegnelsen.
+
+1. *Andre frø og frukter og produkter framstilt av disse* *Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*5.1.1EikenøtterHele frukter av *Quercus robur* L., *Quercus petraea* (Matt.) Liebl., *Quercus suber* L., eller andre eikearter.5.1.2Eikenøtter, avskalledeProdukt framkommet ved avskalling av eikenøtter.Råprotein
 Råtrevler5.2.1MandlerHele eller knuste frukter av *Prunus dulcis*, med eller uten skall.5.2.2MandelskallFrøskall fra avskallede mandler, mekanisk fjernet fra kjernene og malt.Råtrevler5.2.3MandelkjerneekspellerProdukt fra utvinning av olje ved pressing av mandelkjerner.Råprotein
 Råtrevler5.3.1AnisfrøFrø av *Pimpinella anisum*.5.4.1Eplepulp, tørket [pressrester av epler, tørkede]Produkt fra framstilling av saft av *Malus domestica* eller fra framstilling av sider. Består hovedsakelig av pulp og skall som er tørket. Kan være avpektinisert.Råtrevler5.4.2Eplepulp, presset [pressrester av epler, pressede]Vått produkt fra framstilling av eplesaft eller eplesider. Består hovedsakelig av pulp og skall som er presset. Kan være avpektinisert.Råtrevler5.4.3EplemelasseProdukt fra framstilling av pektin av eplepulp. Kan være avpektinisert.Råprotein
 Råtrevler
@@ -942,7 +1301,11 @@ Råtrevler5.41.1GranatepleekspellerProdukt fra utvinning av olje ved pressing av
 Råtrevler5.42.1ValnøttkjerneekspellerProdukt fra utvinning av olje ved pressing av valnøttkjerner (*Juglans regia* L.).Råprotein
 Råtrevler
 
-1. *Fôr, herunder grovfôr, og produkter av dette**Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*6.1.1BetebladerBlader av *Beta* spp.6.2.1Kornplanter1Hele planter av kornarter eller deler av slike. Kan være tørket, friske eller ensilert.6.3.1Kornhalm1Halm av korn.6.3.2Kornhalm, behandlet1 2Produkt framstilt ved egnet behandling av kornhalm.Natrium, dersom behandlet med NaOH6.4.1KløvermelProdukt framstilt ved tørking og formaling av kløver *Trifolium* spp. Kan inneholde inntil 20 % luserne (*Medicago sativa* L. og *Medicago* var. *Martyn*) eller andre fôrvekster dersom de tørkes og formales samtidig med kløveren.Råprotein
+1 Ordet «avpektinisert» skal føyes til betegnelsen når det er relevant.
+
+2 Plantearten skal føyes til betegnelsen.
+
+1. *Fôr, herunder grovfôr, og produkter av dette* *Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*6.1.1BetebladerBlader av *Beta* spp.6.2.1Kornplanter1Hele planter av kornarter eller deler av slike. Kan være tørket, friske eller ensilert.6.3.1Kornhalm1Halm av korn.6.3.2Kornhalm, behandlet1 2Produkt framstilt ved egnet behandling av kornhalm.Natrium, dersom behandlet med NaOH6.4.1KløvermelProdukt framstilt ved tørking og formaling av kløver *Trifolium* spp. Kan inneholde inntil 20 % luserne (*Medicago sativa* L. og *Medicago* var. *Martyn*) eller andre fôrvekster dersom de tørkes og formales samtidig med kløveren.Råprotein
 Råtrevler
 Innhold av aske som er uløselig i HCl, dersom > 3,5 % av tørrstoffet6.5.1Gressmel3 [grøntmel]3Produkt fra tørking og formaling og i noen tilfeller komprimering av fôrvekster.Råprotein
 Råtrevler
@@ -956,7 +1319,15 @@ Innhold av aske som er uløselig i HCl, dersom > 3,5 % av tørrstoffet6.10.6Pre
 Råtrevler6.10.7Proteinkonsentrat av luserne [proteinkonsentrat av alfalfa]Produkt framkommet ved kunstig tørking av fraksjoner av lusernepressaft etter sentrifugering og varmebehandling for å utfelle protein.Råprotein
 Karoten6.10.8Pressaft fra luserneProdukt fra ekstrahering av protein fra lusernesaft. Kan være tørket.Råprotein6.11.1MaisensilasjeEnsilerte planter eller plantedeler av *Zea mays* L. *ssp. mays*.6.12.1ErtehalmHalm av *Pisum* spp.6.13.1RapshalmHalm av *Brassica napus* L. ssp. *oleifera* (Metzg.) Sinsk., av indisk sarson *Brassica napus* L. var. *glauca* (Roxb.) O.E. Schulz og av raps *Brassica rapa* ssp. *oleifera* (Metzg.)
 
-1. *Andre planter, alger og produkter av disse**Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*7.1.1Alger1Alger, levende eller bearbeidet, herunder ferske, kjølte eller fryste alger. Kan inneholde opptil 0,1 % skumdempende midler.Råprotein
+1 Plantearten skal føyes til betegnelsen.
+
+2 En angivelse av hvilken behandling som er foretatt, skal føyes til betegnelsen.
+
+3 Fôrvekstarten kan føyes til betegnelsen.
+
+4 Ordet «mel» kan erstattes med «pelleter». Tørkingsmetoden kan føyes til betegnelsen.
+
+1. *Andre planter, alger og produkter av disse* *Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*7.1.1Alger1Alger, levende eller bearbeidet, herunder ferske, kjølte eller fryste alger. Kan inneholde opptil 0,1 % skumdempende midler.Råprotein
 Råfett
 Råaske7.1.2Tørkede alger1Produkt framstilt ved tørking av alger. Produktet kan være vasket for å redusere jodinnholdet, og algene er inaktivert. Kan inneholde opptil 0,1 % skumdempende midler.Råprotein
 Råfett
@@ -967,94 +1338,42 @@ Vanninnhold, dersom > 30 %7.6.2Sukkerrørmelasse, delvis avsukretProdukt fra yt
 Vanninnhold, dersom > 28 %7.6.3(Rør)sukker [sukrose]Sukker ekstrahert fra sukkerrør ved hjelp av vann.7.6.4BagasseProdukt framkommet ved ekstrahering av sukker fra sukkerrør ved hjelp av vann. Består hovedsakelig av fibrer.Råtrevler7.7.1Blader, tørkede1Tørkede blader av spiselige planter og fraksjoner av disse.Råtrevler7.8.1LignocelluloseProdukt framstilt ved mekanisk bearbeiding av ubehandlet, naturlig tørket tre, bestående hovedsakelig av lignocellulose. Den skal tas hensyn til det naturlige innhold av sporstoffer.Råtrevler7.8.2CellulosepulverProdukt som framstilles ved nedbryting, utskilling av lignin og ytterligere rensing av cellulose for vegetabilske fibrer av ubehandlet tre, og som endres bare ved mekanisk bearbeiding. NDF («neutral detergent fibre»): minst 87 %.Råtrevler7.9.1LakrisrotRot av *Glycyrrhiza* L.7.10.1MynteProdukt framstilt ved tørking av overjordiske deler av planten *Mentha apicata, Mentha piperita* eller *Mentha viridis* (L.), uansett presentasjon.7.11.1Spinat, tørketProdukt framstilt ved tørking av planten *Spinacia oleracea* L., uansett presentasjon.7.12.1Yucca schidigeraFinmalt *Yucca schidigera* Roezl.Råtrevler7.12.2Saft fra Yucca schidigeraProdukt som framkommer ved skjæring og pressing av *Yucca schidigera*, bestående hovedsakelig av karbohydrater.7.13.1Vegetabilsk karbon [trekull]Produkt framstilt ved karbonisering av vegetabilsk materiale.Råtrevler7.14.1Tre1Tre som ikke er kjemisk behandlet, eller fibrer av slikt tre.Råtrevler7.15.1Mel av *Solanum glaucophyllum*Produkt framstilt ved tørking og formaling av bladene fra *Solanum glaucophyllum*.Råtrevler
 Vitamin D3
 
+1 Plante- eller algearten skal føyes til betegnelsen.
+
 1. *Melkeprodukter og produkter av disse*
 
-Fôrmidler i dette kapittel skal oppfylle kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og forordning [(EU) nr. 142/2011](eu/32011r0142) og kan være omfattet av restriksjoner i henhold til forordning [(EF) nr. 999/2001](eu/32001r0999).*Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*8.1.1Smør og smørprodukterSmør og produkter fra framstilling eller bearbeiding av smør (f.eks. myse), med mindre de er oppført særskilt.Råprotein
-Råfett
-Laktose
-Vanninnhold, dersom > 6 %8.2.1Kjernemelk, kjernemelkpulver1Produkt fra kjerning av smør av fløte, eller lignende bearbeiding.
-Kan være konsentrert og/eller tørket.
-Når det er særskilt tilberedt som fôrmiddel, kan det inneholde
-– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen,Råprotein
-Råfett
-Laktose
-Vanninnhold, dersom > 6 %– opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,
-– opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,
-– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper.8.3.1KaseinProdukt fra skummet melk eller kjernemelk, framstilt ved tørking av kasein utskilt ved hjelp av syre eller løype.Råprotein
-Vanninnhold, dersom > 10 %8.4.1KaseinatProdukt ekstrahert fra ostemasse eller kasein ved hjelp av nøytraliserende stoffer og tørking.Råprotein
-Vanninnhold, dersom > 10 %8.5.1Ost og osteprodukterOst og produkter framstilt av ost og av melkebaserte produkter.Råprotein
-Råfett8.6.1Råmelk/råmelkpulver1Den væsken som skilles ut fra melkekjertlene hos melkeproduserende dyr i opptil fem dager etter nedkomst. Kan være konsentrert og/eller tørket.Råprotein8.7.1MelkebiprodukterProdukter fra framstilling av melkeprodukter (herunder, men ikke begrenset til, melkeprodukter som ikke lenger kan brukes som næringsmidler, sentrifuge- eller separatorslam, grensemelk, melkemineraler).
-Når det er særskilt tilberedt som fôrmiddel, kan det inneholde
-– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen,
-– opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,
-– opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,
-– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper.Fuktighet
-Råprotein
-Råfett
-Totalsukker uttrykt som sukrose8.8.1Gjærede melkeprodukterProdukter framstilt ved gjæring av melk (f.eks. yoghurt).Råprotein
-Råfett8.9.1LaktoseSukker utskilt fra melk eller myse ved rensing og tørking.Vanninnhold, dersom > 5 %8.10.1Melk/melkepulver1Normal jursekresjon fra en eller flere melkinger. Kan være konsentrert og/eller tørket.Råprotein
-Råfett
-Vanninnhold, dersom > 5 %8.11.1Skummetmelk/skummetmelkpulver1Melk der fettinnholdet er redusert ved separering.
-Kan være konsentrert og/eller tørket.Råprotein
-Vanninnhold, dersom > 5 %8.12.1MelkefettProdukt fra skumming av melk.Råfett8.13.1MelkeproteinpulverProdukt framstilt ved tørking av proteinforbindelser ekstrahert fra melk ved kjemisk eller fysisk behandling.Råprotein
-Vanninnhold, dersom > 8 %8.14.1Kondensert og inndampet melk og produkter av detteKondensert og inndampet melk og produkter fra framstilling eller bearbeiding av disse produktene.Råprotein
-Råfett
-Vanninnhold, dersom > 5 %8.15.1Melkepermeat/melkepermeatpulver1Produkt fra den flytende fasen av ultra-, nano- eller mikrofiltrering av melk, der laktosen kan være delvis fjernet.
-Kan ha gjennomgått omvendt osmose og kan være tørket og/eller konsentrert.Råaske
-Råprotein
-Laktose
-Vanninnhold, dersom > 8 %8.16.1Melkeretentat/melkeretentatpulver1Produkt som holdes tilbake av membranen ved ultra-, nano- eller mikrofiltrering av melk.
-Kan være konsentrert og/eller tørket.Råprotein
-Råaske
-Laktose
-Vanninnhold, dersom > 8 %8.17.1Myse/mysepulver1Produkt fra framstilling av ost, kvark eller kasein eller lignende prosesser.
-Kan være konsentrert og/eller tørket.
-Når det er særskilt tilberedt som fôrmiddel, kan det inneholde
-– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen,Råprotein
-Laktose
-Vanninnhold, dersom > 8 %
-Råaske– opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,
-– opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,
-– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper.8.18.1Laktoseredusert myse/laktoseredusert mysepulver1Myse der laktosen er delvis fjernet.
-Kan være konsentrert og/eller tørket.
-Når det er særskilt tilberedt som fôrmiddel, kan det inneholde
-– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen,
-– opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,
-– opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,
-– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper.Råprotein
-Laktose
-Vanninnhold, dersom > 8 %
-Råaske8.19.1Myseprotein/myseproteinpulver1Produkt framstilt ved tørking av proteinforbindelser ekstrahert fra myse ved kjemisk eller fysisk behandling. Kan være konsentrert og/eller tørket.
-Når det er særskilt tilberedt som fôrmiddel, kan det inneholde
-– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen,
-– opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,Råprotein
-Vanninnhold, dersom > 8 %– opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,
-– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper.8.20.1Demineralisert, laktoseredusert myse/demineralisert, laktoseredusert mysepulver1Myse der laktosen og mineralene er delvis fjernet.
-Kan være konsentrert og/eller tørket.
-Når det er særskilt tilberedt som fôrmiddel, kan det inneholde
-– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen,
-– opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,
-– opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,
-– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper.Råprotein
-Laktose
-Råaske
-Vanninnhold, dersom > 8 %8.21.1Mysepermeat/mysepermeatpulver1Produkt fra den flytende fasen av ultra-, nano- eller mikrofiltrering av myse, der laktosen kan være delvis fjernet. Kan ha gjennomgått omvendt osmose og kan være tørket og/eller konsentrert.
-Når det er særskilt tilberedt som fôrmiddel, kan det inneholde
-– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen,
-– opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,Råaske
-Råprotein
-Laktose
-Vanninnhold, dersom > 8 %– opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,
-– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper.8.22.1Myseretentat/myseretentatpulver1Produkt som holdes tilbake av membranen ved ultra-, nano- eller mikrofiltrering av myse.
-Kan være konsentrert og/eller tørket.
-Når det er særskilt tilberedt som fôrmiddel, kan det inneholde
-– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen,
-– opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,
-– opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,
-– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper.Råprotein
-Råaske
-Laktose
-Vanninnhold, dersom > 8 %
+Fôrmidler i dette kapittel skal oppfylle kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og forordning [(EU) nr. 142/2011](eu/32011r0142) og kan være omfattet av restriksjoner i henhold til forordning [(EF) nr. 999/2001](eu/32001r0999).
+
+| *Nummer* | *Betegnelse* | *Beskrivelse* | *Obligatoriske opplysninger* |
+| --- | --- | --- | --- |
+| 8.1.1 | Smør og smørprodukter | Smør og produkter fra framstilling eller bearbeiding av smør (f.eks. myse), med mindre de er oppført særskilt. | Råprotein<br>Råfett<br>Laktose<br>Vanninnhold, dersom > 6 % |
+| 8.2.1 | Kjernemelk, kjernemelkpulver1 | Produkt fra kjerning av smør av fløte, eller lignende bearbeiding.<br>Kan være konsentrert og/eller tørket.<br>Når det er særskilt tilberedt som fôrmiddel, kan det inneholde<br>– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen, | Råprotein<br>Råfett<br>Laktose<br>Vanninnhold, dersom > 6 % |
+|  |  | – opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,<br>– opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,<br>– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper. |  |
+| 8.3.1 | Kasein | Produkt fra skummet melk eller kjernemelk, framstilt ved tørking av kasein utskilt ved hjelp av syre eller løype. | Råprotein<br>Vanninnhold, dersom > 10 % |
+| 8.4.1 | Kaseinat | Produkt ekstrahert fra ostemasse eller kasein ved hjelp av nøytraliserende stoffer og tørking. | Råprotein<br>Vanninnhold, dersom > 10 % |
+| 8.5.1 | Ost og osteprodukter | Ost og produkter framstilt av ost og av melkebaserte produkter. | Råprotein<br>Råfett |
+| 8.6.1 | Råmelk/råmelkpulver1 | Den væsken som skilles ut fra melkekjertlene hos melkeproduserende dyr i opptil fem dager etter nedkomst. Kan være konsentrert og/eller tørket. | Råprotein |
+| 8.7.1 | Melkebiprodukter | Produkter fra framstilling av melkeprodukter (herunder, men ikke begrenset til, melkeprodukter som ikke lenger kan brukes som næringsmidler, sentrifuge- eller separatorslam, grensemelk, melkemineraler).<br>Når det er særskilt tilberedt som fôrmiddel, kan det inneholde<br>– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen,<br>– opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,<br>– opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,<br>– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper. | Fuktighet<br>Råprotein<br>Råfett<br>Totalsukker uttrykt som sukrose |
+| 8.8.1 | Gjærede melkeprodukter | Produkter framstilt ved gjæring av melk (f.eks. yoghurt). | Råprotein<br>Råfett |
+| 8.9.1 | Laktose | Sukker utskilt fra melk eller myse ved rensing og tørking. | Vanninnhold, dersom > 5 % |
+| 8.10.1 | Melk/melkepulver1 | Normal jursekresjon fra en eller flere melkinger. Kan være konsentrert og/eller tørket. | Råprotein<br>Råfett<br>Vanninnhold, dersom > 5 % |
+| 8.11.1 | Skummetmelk/skummetmelkpulver1 | Melk der fettinnholdet er redusert ved separering.<br>Kan være konsentrert og/eller tørket. | Råprotein<br>Vanninnhold, dersom > 5 % |
+| 8.12.1 | Melkefett | Produkt fra skumming av melk. | Råfett |
+| 8.13.1 | Melkeproteinpulver | Produkt framstilt ved tørking av proteinforbindelser ekstrahert fra melk ved kjemisk eller fysisk behandling. | Råprotein<br>Vanninnhold, dersom > 8 % |
+| 8.14.1 | Kondensert og inndampet melk og produkter av dette | Kondensert og inndampet melk og produkter fra framstilling eller bearbeiding av disse produktene. | Råprotein<br>Råfett<br>Vanninnhold, dersom > 5 % |
+| 8.15.1 | Melkepermeat/melkepermeatpulver1 | Produkt fra den flytende fasen av ultra-, nano- eller mikrofiltrering av melk, der laktosen kan være delvis fjernet.<br>Kan ha gjennomgått omvendt osmose og kan være tørket og/eller konsentrert. | Råaske<br>Råprotein<br>Laktose<br>Vanninnhold, dersom > 8 % |
+| 8.16.1 | Melkeretentat/melkeretentatpulver1 | Produkt som holdes tilbake av membranen ved ultra-, nano- eller mikrofiltrering av melk.<br>Kan være konsentrert og/eller tørket. | Råprotein<br>Råaske<br>Laktose<br>Vanninnhold, dersom > 8 % |
+| 8.17.1 | Myse/mysepulver1 | Produkt fra framstilling av ost, kvark eller kasein eller lignende prosesser.<br>Kan være konsentrert og/eller tørket.<br>Når det er særskilt tilberedt som fôrmiddel, kan det inneholde<br>– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen, | Råprotein<br>Laktose<br>Vanninnhold, dersom > 8 %<br>Råaske |
+|  |  | – opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,<br>– opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,<br>– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper. |  |
+| 8.18.1 | Laktoseredusert myse/laktoseredusert mysepulver1 | Myse der laktosen er delvis fjernet.<br>Kan være konsentrert og/eller tørket.<br>Når det er særskilt tilberedt som fôrmiddel, kan det inneholde<br>– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen,<br>– opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,<br>– opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,<br>– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper. | Råprotein<br>Laktose<br>Vanninnhold, dersom > 8 %<br>Råaske |
+| 8.19.1 | Myseprotein/myseproteinpulver1 | Produkt framstilt ved tørking av proteinforbindelser ekstrahert fra myse ved kjemisk eller fysisk behandling. Kan være konsentrert og/eller tørket.<br>Når det er særskilt tilberedt som fôrmiddel, kan det inneholde<br>– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen,<br>– opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen, | Råprotein<br>Vanninnhold, dersom > 8 % |
+|  |  | – opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,<br>– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper. |  |
+| 8.20.1 | Demineralisert, laktoseredusert myse/demineralisert, laktoseredusert mysepulver1 | Myse der laktosen og mineralene er delvis fjernet.<br>Kan være konsentrert og/eller tørket.<br>Når det er særskilt tilberedt som fôrmiddel, kan det inneholde<br>– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen,<br>– opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,<br>– opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,<br>– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper. | Råprotein<br>Laktose<br>Råaske<br>Vanninnhold, dersom > 8 % |
+| 8.21.1 | Mysepermeat/mysepermeatpulver1 | Produkt fra den flytende fasen av ultra-, nano- eller mikrofiltrering av myse, der laktosen kan være delvis fjernet. Kan ha gjennomgått omvendt osmose og kan være tørket og/eller konsentrert.<br>Når det er særskilt tilberedt som fôrmiddel, kan det inneholde<br>– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen,<br>– opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen, | Råaske<br>Råprotein<br>Laktose<br>Vanninnhold, dersom > 8 % |
+|  |  | – opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,<br>– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper. |  |
+| 8.22.1 | Myseretentat/myseretentatpulver1 | Produkt som holdes tilbake av membranen ved ultra-, nano- eller mikrofiltrering av myse.<br>Kan være konsentrert og/eller tørket.<br>Når det er særskilt tilberedt som fôrmiddel, kan det inneholde<br>– opptil 0,5 % fosfater, f.eks. polyfosfater (f.eks. natriumheksametafosfat) og difosfater (f.eks. tetranatriumpyrofosfat), som brukes til å redusere viskositeten og stabilisere proteiner under bearbeidingen,<br>– opptil 0,3 % uorganiske syrer, dvs. svovelsyre, saltsyre og fosforsyre, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,<br>– opptil 0,5 % alkaliske stoffer, f.eks. natrium, kalium, kalsium og magnesiumhydroksider, som brukes til å justere pH-verdiene i mange stadier av produksjonsprosessen,<br>– opptil 2 % flytfremmende midler, f.eks. silisiumoksid, pentanatriumtrifosfat og trikalsiumfosfat, som brukes til å forbedre pulverets flytegenskaper. | Råprotein<br>Råaske<br>Laktose<br>Vanninnhold, dersom > 8 % |
+
+1 Uttrykkene er ikke synonyme og skiller seg fra hverandre hovedsakelig med hensyn til vanninnhold. Velg egnet betegnelse ut fra sammenhengen.
 
 1. *Produkter av landdyr og produkter av disse*Fôrmidler i dette kapittel skal oppfylle kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og forordning [(EU) nr. 142/2011](eu/32011r0142) og kan være omfattet av restriksjoner i henhold til forordning [(EF) nr. 999/2001](eu/32001r0999).*Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*9.1.1Animalske biprodukter1Hele varmblodige landdyr eller deler av slike i fersk, fryst, kokt, syrebehandlet eller tørket tilstand.Råprotein
 Råfett
@@ -1090,192 +1409,152 @@ Totalsukker uttrykt som sukrose9.15.5Eggeskall, tørkedeProdukt framstilt av fj�
 Råfett
 Råaske
 
+1 Uten at det berører de obligatoriske kravene til handelsdokumenter og hygienesertifikater for animalske biprodukter og avledede produkter som er fastsatt i forordning [(EU) nr. 142/2011](eu/32011r0142) (vedlegg VIII kapittel III), skal betegnelsen, dersom katalogen brukes for merking, erstattes med følgende, alt etter hva som er relevant:
+– dyreart og
+– del av det animalske produktet (f.eks. lever, kjøtt (bare dersom skjelettmuskulatur)) og/eller
+– livsstadium (f.eks. larver) og/eller
+– navn på dyreart som ikke er brukt, i henhold til forbudet mot ombruk innenfor samme art (f.eks. uten fjørfe),eller utfylles med følgende, alt etter hva som er relevant:
+– dyreart og/eller
+– del av det animalske produktet (f.eks. lever, kjøtt (bare dersom skjelettmuskulatur)) og/eller
+– livsstadium (f.eks. larver) og/eller
+– navn på dyreart som ikke er brukt i henhold til forbudet mot ombruk innenfor samme art.
+
+2 Uten at det berører de obligatoriske kravene til handelsdokumenter og hygienesertifikater for animalske biprodukter og avledede produkter som er fastsatt i forordning [(EU) nr. 142/2011](eu/32011r0142) (vedlegg VIII, kapittel III), skal følgende føyes til betegnelsen dersom katalogen brukes for merking, alt etter hva som er relevant:
+– bearbeidet dyreart (f.eks. svin, drøvtygger, fjørfe, insekt) og/eller
+– livsstadium (f.eks. larver) og/eller
+– bearbeidet materiale (f.eks. bein) og/eller
+– prosess som er brukt (f.eks. avfettet, raffinert), og/eller
+– navn på dyreart som ikke er brukt i henhold til forbudet mot ombruk innenfor samme art (f.eks. uten fjørfe).
+
 1. *Fisk, andre akvatiske dyr samt produkter av disse*
 
-Fôrmidler i dette kapittel skal oppfylle kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og forordning [(EU) nr. 142/2011](eu/32011r0142) og kan være omfattet av restriksjoner i henhold til forordning [(EF) nr. 999/2001](eu/32001r0999).*Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*10.1.1Virvelløse akvatiske dyr1Hele eller deler av virvelløse saltvanns- eller ferskvannsdyr, uansett livsstadium, unntatt arter som er sykdomsframkallende for mennesker og dyr, i behandlet eller ubehandlet tilstand, f.eks. ferske, fryste eller tørkede.Råprotein
-Råfett
-Råaske10.2.1Biprodukter av vanndyr1Produkter fra foretak eller anlegg som bearbeider eller framstiller produkter til konsum, i behandlet eller ubehandlet tilstand, f.eks. ferske, fryste eller tørkede.Råprotein
-Råfett
-Råaske10.3.1Krepsdyrmel2Produkt framstilt ved oppvarming, pressing og tørking av hele eller deler av krepsdyr, herunder villreker og oppdrettsreker.Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 5 %10.4.1Fisk2Hele eller deler av fisk i fersk, fryst, kokt, syrebehandlet eller tørket tilstand.Råprotein
-Vanninnhold, dersom > 8 %10.4.2Fiskemel2Produkt framstilt ved oppvarming, pressing og tørking av hele eller deler av fisk. Fiskelimvann kan være tilbakeført til produktet før tørking.Råprotein
-Råfett
-Råaske, dersom > 20 %
-Vanninnhold, dersom > 8 %10.4.3FiskelimvannKondensert produkt fra framstilling av fiskemel, som er utskilt og stabilisert ved syrning eller tørking.Råprotein
-Råfett
-Vanninnhold, dersom > 5 %10.4.4Fiskeprotein, hydrolysertProteiner framstilt ved sur hydrolyse av hele eller deler av fisk, som kan være konsentrert ved tørking.Råprotein
-Råfett
-Råaske, dersom > 20 %
-Vanninnhold, dersom > 8 %10.4.5FiskebeinmelProdukt framstilt ved oppvarming, pressing og tørking av deler av fisk. Består hovedsakelig av fiskebein.Råaske10.4.6FiskeoljeOlje som er framstilt av fisk eller deler av fisk, og som deretter er sentrifugert for å fjerne vann (kan inneholde nærmere opplysninger om art, f.eks. torskelevertran).Råfett
-Vanninnhold, dersom > 1 %10.4.7Fiskeolje, hydrogenertOlje framstilt ved hydrogenering av fiskeolje.Vanninnhold, dersom > 1 %10.4.8Fiskeoljestearin [vinterisert fiskeolje]Fraksjon av fiskeolje med høyt innhold av mettet fett framkommet ved raffinering av rå fiskeolje til raffinert fiskeolje ved hjelp av en vinteriseringsprosess der det mettede fettet stivner og deretter samles inn.Råfett
-Vanninnhold, dersom > 1 %10.5.1KrilloljeOlje som er framstilt av kokt og presset plankton/krill og deretter sentrifugert for å fjerne vann.Vanninnhold, dersom > 1 %10.5.2Proteinkonsentrat av krill, hydrolysertProdukt framstilt ved enzymatisk hydrolyse av hele eller deler av krill, ofte konsentrert ved tørking.Råprotein
-Råfett
-Råaske, dersom > 20 %
-Vanninnhold, dersom > 8 %10.6.1Mel av marine leddormerProdukt framstilt ved oppvarming og tørking av hele eller deler av marine leddormer, herunder *Nereis virens* M. Sars.Råfett
-Aske, dersom > 20 %
-Vanninnhold, dersom > 8 %10.7.1Mel av marint dyreplanktonProdukt framstilt ved oppvarming, pressing og tørking av marint dyreplankton, f.eks. krill.Råprotein
-Råfett
-Råaske, dersom > 20 %
-Vanninnhold, dersom > 8 %10.7.2Olje av marint dyreplanktonOlje som er framstilt av kokt og presset marint dyreplankton og deretter sentrifugert for å fjerne vann.Vanninnhold, dersom > 1 %10.8.1BløtdyrmelProdukt framstilt ved oppvarming og tørking av hele eller deler av bløtdyr, herunder blekksprut og muslinger.Råprotein
-Råfett
-Råaske, dersom > 20 %
-Vanninnhold, dersom > 8 %10.9.1BlekksprutmelProdukt framstilt ved oppvarming, pressing og tørking av hele eller deler av blekksprut.Råprotein
-Råfett
-Råaske, dersom > 20 %
-Vanninnhold, dersom > 8 %10.10.1SjøstjernemelProdukt framstilt ved oppvarming, pressing og tørking av hele *Asteroidea* eller deler av *Asteroidea*.Råprotein
-Råfett
-Råaske, dersom > 20 %
-Vanninnhold, dersom > 8 %
+Fôrmidler i dette kapittel skal oppfylle kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og forordning [(EU) nr. 142/2011](eu/32011r0142) og kan være omfattet av restriksjoner i henhold til forordning [(EF) nr. 999/2001](eu/32001r0999).
+
+| *Nummer* | *Betegnelse* | *Beskrivelse* | *Obligatoriske opplysninger* |
+| --- | --- | --- | --- |
+| 10.1.1 | Virvelløse akvatiske dyr1 | Hele eller deler av virvelløse saltvanns- eller ferskvannsdyr, uansett livsstadium, unntatt arter som er sykdomsframkallende for mennesker og dyr, i behandlet eller ubehandlet tilstand, f.eks. ferske, fryste eller tørkede. | Råprotein<br>Råfett<br>Råaske |
+| 10.2.1 | Biprodukter av vanndyr1 | Produkter fra foretak eller anlegg som bearbeider eller framstiller produkter til konsum, i behandlet eller ubehandlet tilstand, f.eks. ferske, fryste eller tørkede. | Råprotein<br>Råfett<br>Råaske |
+| 10.3.1 | Krepsdyrmel2 | Produkt framstilt ved oppvarming, pressing og tørking av hele eller deler av krepsdyr, herunder villreker og oppdrettsreker. | Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 10.4.1 | Fisk2 | Hele eller deler av fisk i fersk, fryst, kokt, syrebehandlet eller tørket tilstand. | Råprotein<br>Vanninnhold, dersom > 8 % |
+| 10.4.2 | Fiskemel2 | Produkt framstilt ved oppvarming, pressing og tørking av hele eller deler av fisk. Fiskelimvann kan være tilbakeført til produktet før tørking. | Råprotein<br>Råfett<br>Råaske, dersom > 20 %<br>Vanninnhold, dersom > 8 % |
+| 10.4.3 | Fiskelimvann | Kondensert produkt fra framstilling av fiskemel, som er utskilt og stabilisert ved syrning eller tørking. | Råprotein<br>Råfett<br>Vanninnhold, dersom > 5 % |
+| 10.4.4 | Fiskeprotein, hydrolysert | Proteiner framstilt ved sur hydrolyse av hele eller deler av fisk, som kan være konsentrert ved tørking. | Råprotein<br>Råfett<br>Råaske, dersom > 20 %<br>Vanninnhold, dersom > 8 % |
+| 10.4.5 | Fiskebeinmel | Produkt framstilt ved oppvarming, pressing og tørking av deler av fisk. Består hovedsakelig av fiskebein. | Råaske |
+| 10.4.6 | Fiskeolje | Olje som er framstilt av fisk eller deler av fisk, og som deretter er sentrifugert for å fjerne vann (kan inneholde nærmere opplysninger om art, f.eks. torskelevertran). | Råfett<br>Vanninnhold, dersom > 1 % |
+| 10.4.7 | Fiskeolje, hydrogenert | Olje framstilt ved hydrogenering av fiskeolje. | Vanninnhold, dersom > 1 % |
+| 10.4.8 | Fiskeoljestearin [vinterisert fiskeolje] | Fraksjon av fiskeolje med høyt innhold av mettet fett framkommet ved raffinering av rå fiskeolje til raffinert fiskeolje ved hjelp av en vinteriseringsprosess der det mettede fettet stivner og deretter samles inn. | Råfett<br>Vanninnhold, dersom > 1 % |
+| 10.5.1 | Krillolje | Olje som er framstilt av kokt og presset plankton/krill og deretter sentrifugert for å fjerne vann. | Vanninnhold, dersom > 1 % |
+| 10.5.2 | Proteinkonsentrat av krill, hydrolysert | Produkt framstilt ved enzymatisk hydrolyse av hele eller deler av krill, ofte konsentrert ved tørking. | Råprotein<br>Råfett<br>Råaske, dersom > 20 %<br>Vanninnhold, dersom > 8 % |
+| 10.6.1 | Mel av marine leddormer | Produkt framstilt ved oppvarming og tørking av hele eller deler av marine leddormer, herunder *Nereis virens* M. Sars. | Råfett<br>Aske, dersom > 20 %<br>Vanninnhold, dersom > 8 % |
+| 10.7.1 | Mel av marint dyreplankton | Produkt framstilt ved oppvarming, pressing og tørking av marint dyreplankton, f.eks. krill. | Råprotein<br>Råfett<br>Råaske, dersom > 20 %<br>Vanninnhold, dersom > 8 % |
+| 10.7.2 | Olje av marint dyreplankton | Olje som er framstilt av kokt og presset marint dyreplankton og deretter sentrifugert for å fjerne vann. | Vanninnhold, dersom > 1 % |
+| 10.8.1 | Bløtdyrmel | Produkt framstilt ved oppvarming og tørking av hele eller deler av bløtdyr, herunder blekksprut og muslinger. | Råprotein<br>Råfett<br>Råaske, dersom > 20 %<br>Vanninnhold, dersom > 8 % |
+| 10.9.1 | Blekksprutmel | Produkt framstilt ved oppvarming, pressing og tørking av hele eller deler av blekksprut. | Råprotein<br>Råfett<br>Råaske, dersom > 20 %<br>Vanninnhold, dersom > 8 % |
+| 10.10.1 | Sjøstjernemel | Produkt framstilt ved oppvarming, pressing og tørking av hele *Asteroidea* eller deler av *Asteroidea*. | Råprotein<br>Råfett<br>Råaske, dersom > 20 %<br>Vanninnhold, dersom > 8 % |
+
+1 Arten skal føyes til betegnelsen.
+
+2 Arten skal føyes til betegnelsen når produktet er framstilt av oppdrettsfisk eller oppdrettskrepsdyr, alt etter hva som er relevant.
 
 1. *Mineraler og produkter av disse*
 
-Fôrmidler i dette kapittel som inneholder animalske produkter, skal oppfylle kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og forordning [(EU) nr. 142/2011](eu/32011r0142) og kan være omfattet av restriksjoner i henhold til forordning [(EF) nr. 999/2001](eu/32001r0999).*Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*11.1.1Kalsiumkarbonat1 [kalkstein]Produkt framstilt ved formaling av kalsiumkarbonatkilder (CaCO3 ), f.eks. kalkstein, eller ved utfelling fra syreløsning.
-Kan inneholde opptil 0,25 % propylenglykol. Kan inneholde opptil 0,1 % formalingsmiddel.Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.1.2Kalkholdige skall av marine skjellProdukt av naturlig opprinnelse framstilt av skall av marine skjell, formalt eller granulert, f.eks. østers- eller muslingskall.Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.1.3Kalsium- og magnesiumkarbonatNaturlig blanding av kalsiumkarbonat (CaCO3 ) og magnesiumkarbonat (MgCO3 ). Kan inneholde opptil 0,1 % formalingsmiddel.Kalsium
-Magnesium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.1.4MaerlProdukt av naturlig opprinnelse framstilt av malte eller granulerte kalkholdige havalger.Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.1.5LithothamniumProdukt av naturlig opprinnelse framstilt av malte eller granulerte kalkholdige havalger (*Phymatolithon calcareum* (Pall.)).Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.1.6KalsiumkloridKalsiumklorid (CaCl2 ). Kan inneholde opptil 0,2 % bariumsulfat.Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.1.7KalsiumhydroksidKalsiumhydroksid (Ca(OH)2 ).
-Kan inneholde opptil 0,1 % formalingsmiddel.Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.1.8Vannfritt kalsiumsulfatVannfritt kalsiumsulfat (CaSO4 ) framstilt ved formaling av vannfritt kalsiumsulfat eller dehydrering av kalsiumsulfatdihydrat.Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.1.9KalsiumsulfathemihydratKalsiumsulfathemihydrat (CaSO4 × ½ H2 O) framstilt ved delvis dehydrering av kalsiumsulfatdihydrat.Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.1.10KalsiumsulfatdihydratKalsiumsulfatdihydrat (CaSO4 × 2H2O ) framstilt ved formaling av kalsiumsulfatdihydrat eller hydrering av kalsiumsulfathemihydrat.Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.1.11Kalsiumsalter av organiske syrer2Kalsiumsalter av spiselige organiske syrer med minst fire karbonatomer.Kalsium
-Organisk syre11.1.12KalsiumoksidKalsiumoksid (CaO) framstilt ved brenning av naturlig kalkstein.
-Kan inneholde opptil 0,1 % formalingsmiddel.Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.1.13KalsiumglukonatKalsiumsalt av glukonsyre, vanligvis uttrykt som Ca(C6 H11 O7 )2 og hydratformene av dette.Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.1.15Kalsiumsulfat/kalsiumkarbonatProdukt framkommet ved framstilling av natriumkarbonat.Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.1.16KalsiumpidolatKalsium-L-pidolat (C10 H12 CaN2 O6 ). Kan inneholde opptil 5 % glutaminsyre.Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.1.17KalsiumkarbonatmagnesiumoksidProdukt framstilt ved oppvarming av naturlig kalsium og magnesium som inneholder stoffer som dolomitt. Kan inneholde opptil 0,1 % formalingsmiddel.Kalsium
-Magnesium11.2.1MagnesiumoksidKalsinert magnesiumoksid (MgO) som inneholder minst 70 % MgO.Magnesium
-Innhold av aske som er uløselig i HCl, dersom > 15 %
-Innhold av jern som Fe2 O3 , dersom > 5 %.11.2.2MagnesiumsulfatheptahydratMagnesiumsulfat (MgSO4 × 7 H2 O).Magnesium
-Svovel
-Innhold av aske som er uløselig i HCl, dersom > 15 %11.2.3MagnesiumsulfatmonohydratMagnesiumsulfat (MgSO4 × H2 O).Magnesium
-Svovel
-Innhold av aske som er uløselig i HCl, dersom > 15 %11.2.4Vannfritt magnesiumsulfatVannfritt magnesiumsulfat (MgSO4 ).Magnesium
-Svovel
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.2.5MagnesiumpropionatMagnesiumpropionat (C6 H10 MgO4 ).Magnesium11.2.6MagnesiumkloridMagnesiumklorid (MgCl2 )) eller oppløsning framstilt ved naturlig konsentrering av sjøvann etter utfelling av natriumklorid.Magnesium
-Klor
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.2.7MagnesiumkarbonatNaturlig magnesiumkarbonat (MgCO3 ).Magnesium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.2.8MagnesiumhydroksidMagnesiumhydroksid (Mg(OH)2 ).Magnesium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.2.9MagnesiumkaliumsulfatMagnesiumkaliumsulfat (K2 Mg(SO4 )2 × nH2 O, n = 4,6).Magnesium
-Kalium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.2.10Magnesiumsalter av organiske syrer2Magnesiumsalter av spiselige organiske syrer med minst fire karbonatomer.Magnesium
-Organisk syre11.2.11MagnesiumglukonatMagnesiumsalt av glukonsyre, vanligvis uttrykt som Mg(C6 H11 O7 )2 og hydratformene av dette.Magnesium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.2.13MagnesiumpidolatMagnesium-L-pidolat (C10 H12 MgN2 O6 ). Kan inneholde opptil 5 % glutaminsyre.Magnesium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.3.1Dikalsiumfosfat3 4 [kalsiumhydrogenortofosfat]Kalsiummonohydrogenfosfat framstilt av bein eller uorganiske kilder (CaHPO4 × nH2 O, n = 0 eller 2)
-Ca/P > 1,2
-Kan inneholde opptil 3 % klorid uttrykt som NaC1.Kalsium
-Totalfosfor
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.3.2MonodikalsiumfosfatProdukt bestående av dikalsiumfosfat og monokalsiumfosfat (CaHPO4 × Ca(H2 PO4 )2 × nH2 O, n = 0 eller 1)
-0,8 < Ca/P < 1,3Totalfosfor
-Kalsium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.3Monokalsiumfosfat [kalsiumtetrahydrogendiortofosfat]Kalsium-bis-dihydrogenfosfat (Ca(H2 PO4 )2 × nH2 O, n = 0 eller 1)
-Ca/P > 0,9.Totalfosfor
-Kalsium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.4Trikalsiumfosfat4 [trikalsiumortofosfat]Trikalsiumfosfat fra bein eller uorganiske kilder (Ca3 (PO4 )2 × H2 O) eller hydroksylapatitt (Ca5 (PO4 )3 OH)
-Ca/P > 1,3Kalsium
-Totalfosfor
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.3.5KalsiummagnesiumfosfatKalsiummagnesiumfosfat (Ca3 Mg3 (PO4 )4 ).Kalsium
-Magnesium
-Totalfosfor
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.6Defluorinert fosfatProdukt framstilt av uorganiske kilder, kalsinert og ytterligere varmebehandlet.Totalfosfor
-Kalsium
-Natrium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.3.7Dikalsiumpyrofosfat, [dikalsiumdifosfat]Dikalsiumpyrofosfat (Ca2 P2 O7 ).Totalfosfor
-Kalsium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.8MagnesiumfosfatProdukt bestående av mono- og/eller di- og/eller trimagnesiumfosfat.Totalfosfor
-Magnesium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.3.9NatriumkalsiummagnesiumfosfatProdukt av natriumkalsiummagnesiumfosfat.Totalfosfor
-Magnesium
-Kalsium
-Natrium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.10Mononatriumfosfat [natriumdihydrogenortofosfat]Mononatriumfosfat
-(NaH2 PO4 × nH2 O; n = 0, 1 eller 2)Totalfosfor
-Natrium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.11Dinatriumfosfat [dinatriumhydrogenortofosfat]Dinatriumfosfat (Na2 HPO4 × nH2 O; n = 0, 2, 7 eller 12)Totalfosfor
-Natrium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.12Trinatriumfosfat [trinatriumortofosfat]Trinatriumfosfat (Na3 PO4 × nH2 O; n = 0, 1/2, 1, 6, 8 eller 12)Totalfosfor
-Natrium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.13Natriumpyrofosfat [tetranatriumdifosfat]Natriumpyrofosfat (Na4 P2 O7 × nH2 O; n = 0 eller 10)Totalfosfor
-Natrium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.14Monokaliumfosfat [kaliumdihydrogenortofosfat]Monokaliumfosfat (KH2 PO4 )Totalfosfor
-Kalium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.15Dikaliumfosfat [dikaliumdihydrogenortofosfat]Dikaliumfosfat (K2 HPO4 × nH2 O; n = 0, 3 eller 6)Totalfosfor
-Kalium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.16KalsiumnatriumfosfatKalsiumnatriumfosfat (CaNaPO4 ).Totalfosfor
-Kalsium
-Natrium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.17Monoammoniumfosfat [ammoniumdihydrogenortofosfat]Monoammoniumfosfat (NH4 H2 PO4 ).Totalnitrogen
-Totalfosfor
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.18Diammoniumfosfat [diammoniumhydrogenortofosfat]Diammoniumfosfat ((NH4 )2 HPO4 ).Totalnitrogen
-Totalfosfor
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.19Natriumtripolyfosfat [pentanatriumtrifosfat]Natriumtripolyfosfat (Na5 P3 O10 × nH2 O; n = 0 eller 6)Totalfosfor
-Natrium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.20NatriummagnesiumfosfatNatriummagnesiumfosfat (MgNaPO4 ).Totalfosfor
-Magnesium
-Natrium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.21MagnesiumhypofosfittMagnesiumhypofosfitt (Mg(H2 PO2 )2 × 6H2 O)Magnesium
-Totalfosfor
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.22Beinmel, avlimetAvlimet, sterilisert og formalt bein der fettet er fjernet.Totalfosfor
-Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.3.23BeinaskeMineralrester fra forbrenning eller forgassing av animalske biprodukter.Totalfosfor
-Kalsium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.3.24KalsiumpolyfosfatHeterogene blandinger av kalsiumsalter av kondenserte polyfosforsyrer med den generelle formelen H(n+2) PnO(3n+1) , der «n» ikke er mindre enn 2.Totalfosfor
-Kalsium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.25KalsiumdihydrogendifosfatMonokalsiumdihydrogenpyrofosfat (CaH2 P2 O7 ).Totalfosfor
-Kalsium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.26MagnesiumsyrepyrofosfatMagnesiumsyrepyrofosfat (MgH2 P2 O7 ). Framstilt av renset fosforsyre og renset magnesiumhydroksid eller magnesiumoksid ved fordamping av vann og kondensering av ortofosfat til difosfat.Totalfosfor
-Magnesium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.27DinatriumdihydrogendifosfatDinatriumdihydrogendifosfat (Na2 H2 P2 O7 ).Totalfosfor
-Kalsium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.28TrinatriumdifosfatTrinatriummonohydrogendifosfat (vannfritt: Na3 HP2 O7 , monohydrat: Na3 HP2 O7 × nH2 O; n = 0, 1 eller 9)Totalfosfor
-Natrium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.29Natriumpolyfosfat, [natriumheksametafosfat]Heterogene blandinger av natriumsalter av lineære, kondenserte polyfosforsyrer med den generelle formelen H(n+2) PnO(3n+1) , der «n» ikke er mindre enn 2.Totalfosfor
-Natrium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.30TrikaliumfosfatTrikaliumfosfat (K3 PO4 × nH2 O; n = 0, 1, 3, 7 eller 9)Totalfosfor
-Kalium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.31TetrakaliumdifosfatTetrakaliumpyrofosfat (K4 P2 O7 × nH2 O; n = 0, 1 eller 3)Totalfosfor
-Kalium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.32PentakaliumtrifosfatPentakaliumtripolyfosfat (K5 P3 O10 ).Totalfosfor
-Kalium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.33KaliumpolyfosfatHeterogene blandinger av kaliumsalter av lineære, kondenserte polyfosforsyrer med den generelle formelen H(n+2) PnO(3n+1) , der «n» ikke er mindre enn 2.Totalfosfor
-Kalium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.3.34KalsiumnatriumpolyfosfatKalsiumnatriumpolyfosfat.Totalfosfor
-Natrium
-Kalsium
-Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %11.4.1Natriumklorid1Natriumklorid (NaCl) eller produkt framstilt ved fordamping og krystallisering av saltlake (mettet eller redusert i en annen prosess) (vakuumsalt), fordamping av sjøvann (havsalt, solsalt) eller formaling av steinsalt.Natrium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.4.2Natriumbikarbonat [natriumhydrogenkarbonat]Natriumbikarbonat (NaHCO3 ).Natrium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.4.3Natrium-/ammonium(bi)karbonat [natrium-/ammonium(hydrogen)karbonat]Produkt framkommet ved framstilling av natriumkarbonat og natriumbikarbonat, med spor av ammoniumbikarbonat (høyst 5 %).Natrium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.4.4NatriumkarbonatNatriumkarbonat (Na2 CO3 ).Natrium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.4.5Natriumsesquikarbonat [trinatriumhydrogendikarbonat]Natriumsesquikarbonat (Na3 H(CO3 )2 ).Natrium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.4.6NatriumsulfatNatriumsulfat (Na2 SO4 ).
-Kan inneholde opptil 0,3 % metionin.Natrium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.4.7Natriumsalter av organiske syrer2Natriumsalter av spiselige organiske syrer med minst fire karbonatomer.Natrium
-Organisk syre11.5.1KaliumkloridKaliumklorid (KC1) eller produkt framstilt ved formaling av naturlige kilder til kaliumklorid.Kalium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.5.2KaliumsulfatKaliumsulfat (K2 SO4 ).Kalium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.5.3KaliumkarbonatKaliumkarbonat (K2 CO3 ).Kalium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.5.4Kaliumbikarbonat [kaliumhydrogenkarbonat]Kaliumbikarbonat (KHCO3 )Kalium
-Innhold av aske som er uløselig i HCl, dersom > 10 %11.5.5Kaliumsalter av organiske syrer2Kaliumsalter av spiselige organiske syrer med minst fire karbonatomer.Kalium
-Organisk syre11.5.6KaliumpidolatKalium-L-pidolat (C5 H6 KNO3 ). Kan inneholde opptil 5 % glutaminsyre.Kalium
-Innhold av aske som er uløselig i HCl, dersom > 5 %11.6.1SvovelblomstPulver framstilt av naturlige mineralavsetninger. Også et produkt fra utvinning av svovel ved oljeraffinering.Svovel11.7.1AttapulgittNaturlig mineral bestående av magnesium, aluminium og silisium.Magnesium11.7.2KvartsNaturlig mineral framstilt ved formaling av kvartskilder.
-Kan inneholde opptil 0,1 % formalingsmiddel.11.7.3CristobalittSilisiumdioksid (SiO2 ) framstilt ved rekrystallisering av kvarts.
-Kan inneholde opptil 0,1 % formalingsmiddel.11.8.1AmmoniumsulfatAmmoniumsulfat ((NH4 )2 SO4 ) framstilt ved kjemisk syntese. Kan presenteres i form av en vandig løsning.Nitrogen uttrykt som råprotein
-Svovel11.8.3Ammoniumsalter av organiske syrer2Ammoniumsalter av spiselige organiske syrer med minst fire karbonatomer.Nitrogen uttrykt som råprotein
-Organisk syre11.8.4AmmoniumlaktatAmmoniumlaktat (CH3 CHOHCOONH4 ). Omfatter ammoniumlaktat framstilt ved gjæring med *actobacillus delbrueckii ssp. Bulgaricus*, *Lactococcus lactis* ssp., *Leuconostoc mesenteroides*, *Streptococcus thermophilus*, *Lactobacillus* spp. eller *Bifidobacterium* spp., med et nitrogeninnhold på minst 44 % uttrykt som råprotein.
-Kan inneholde opptil 2 % fosfor, 2 % kalium, 0,7 % magnesium, 2 % natrium, 2 % sulfater 0,5 % klorider, 5 % sukkerarter og 0,1 % skumdempende silikon.Nitrogen uttrykt som råprotein
-Råaske
-Kalium, dersom > 1,5 %
-Magnesium, dersom > 1,5 %
-Natrium, dersom > 1,5 %11.8.5AmmoniumacetatAmmoniumacetat (CH3 COONH4 ) i vandig løsning med et innhold av ammoniumsulfat på minst 55 %.Nitrogen uttrykt som råprotein11.9.1Kråseflint [kråseflintstein]Produkt framstilt ved knusing av naturlig forekommende mineraler i form av grusPartikkelstørrelse11.9.2Rødstein [kråserødstein]Produkt framstilt ved knusing og formaling av produkter fra brenning av leirePartikkelstørrelse
-Vanninnhold, dersom > 2 %
+Fôrmidler i dette kapittel som inneholder animalske produkter, skal oppfylle kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og forordning [(EU) nr. 142/2011](eu/32011r0142) og kan være omfattet av restriksjoner i henhold til forordning [(EF) nr. 999/2001](eu/32001r0999).
+
+| *Nummer* | *Betegnelse* | *Beskrivelse* | *Obligatoriske opplysninger* |
+| --- | --- | --- | --- |
+| 11.1.1 | Kalsiumkarbonat1 [kalkstein] | Produkt framstilt ved formaling av kalsiumkarbonatkilder (CaCO3 ), f.eks. kalkstein, eller ved utfelling fra syreløsning.<br>Kan inneholde opptil 0,25 % propylenglykol. Kan inneholde opptil 0,1 % formalingsmiddel. | Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.1.2 | Kalkholdige skall av marine skjell | Produkt av naturlig opprinnelse framstilt av skall av marine skjell, formalt eller granulert, f.eks. østers- eller muslingskall. | Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.1.3 | Kalsium- og magnesiumkarbonat | Naturlig blanding av kalsiumkarbonat (CaCO3 ) og magnesiumkarbonat (MgCO3 ). Kan inneholde opptil 0,1 % formalingsmiddel. | Kalsium<br>Magnesium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.1.4 | Maerl | Produkt av naturlig opprinnelse framstilt av malte eller granulerte kalkholdige havalger. | Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.1.5 | Lithothamnium | Produkt av naturlig opprinnelse framstilt av malte eller granulerte kalkholdige havalger (*Phymatolithon calcareum* (Pall.)). | Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.1.6 | Kalsiumklorid | Kalsiumklorid (CaCl2 ). Kan inneholde opptil 0,2 % bariumsulfat. | Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.1.7 | Kalsiumhydroksid | Kalsiumhydroksid (Ca(OH)2 ).<br>Kan inneholde opptil 0,1 % formalingsmiddel. | Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.1.8 | Vannfritt kalsiumsulfat | Vannfritt kalsiumsulfat (CaSO4 ) framstilt ved formaling av vannfritt kalsiumsulfat eller dehydrering av kalsiumsulfatdihydrat. | Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.1.9 | Kalsiumsulfathemihydrat | Kalsiumsulfathemihydrat (CaSO4 × ½ H2 O) framstilt ved delvis dehydrering av kalsiumsulfatdihydrat. | Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.1.10 | Kalsiumsulfatdihydrat | Kalsiumsulfatdihydrat (CaSO4 × 2H2O ) framstilt ved formaling av kalsiumsulfatdihydrat eller hydrering av kalsiumsulfathemihydrat. | Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.1.11 | Kalsiumsalter av organiske syrer2 | Kalsiumsalter av spiselige organiske syrer med minst fire karbonatomer. | Kalsium<br>Organisk syre |
+| 11.1.12 | Kalsiumoksid | Kalsiumoksid (CaO) framstilt ved brenning av naturlig kalkstein.<br>Kan inneholde opptil 0,1 % formalingsmiddel. | Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.1.13 | Kalsiumglukonat | Kalsiumsalt av glukonsyre, vanligvis uttrykt som Ca(C6 H11 O7 )2 og hydratformene av dette. | Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.1.15 | Kalsiumsulfat/kalsiumkarbonat | Produkt framkommet ved framstilling av natriumkarbonat. | Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.1.16 | Kalsiumpidolat | Kalsium-L-pidolat (C10 H12 CaN2 O6 ). Kan inneholde opptil 5 % glutaminsyre. | Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.1.17 | Kalsiumkarbonatmagnesiumoksid | Produkt framstilt ved oppvarming av naturlig kalsium og magnesium som inneholder stoffer som dolomitt. Kan inneholde opptil 0,1 % formalingsmiddel. | Kalsium<br>Magnesium |
+| 11.2.1 | Magnesiumoksid | Kalsinert magnesiumoksid (MgO) som inneholder minst 70 % MgO. | Magnesium<br>Innhold av aske som er uløselig i HCl, dersom > 15 %<br>Innhold av jern som Fe2 O3 , dersom > 5 %. |
+| 11.2.2 | Magnesiumsulfatheptahydrat | Magnesiumsulfat (MgSO4 × 7 H2 O). | Magnesium<br>Svovel<br>Innhold av aske som er uløselig i HCl, dersom > 15 % |
+| 11.2.3 | Magnesiumsulfatmonohydrat | Magnesiumsulfat (MgSO4 × H2 O). | Magnesium<br>Svovel<br>Innhold av aske som er uløselig i HCl, dersom > 15 % |
+| 11.2.4 | Vannfritt magnesiumsulfat | Vannfritt magnesiumsulfat (MgSO4 ). | Magnesium<br>Svovel<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.2.5 | Magnesiumpropionat | Magnesiumpropionat (C6 H10 MgO4 ). | Magnesium |
+| 11.2.6 | Magnesiumklorid | Magnesiumklorid (MgCl2 )) eller oppløsning framstilt ved naturlig konsentrering av sjøvann etter utfelling av natriumklorid. | Magnesium<br>Klor<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.2.7 | Magnesiumkarbonat | Naturlig magnesiumkarbonat (MgCO3 ). | Magnesium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.2.8 | Magnesiumhydroksid | Magnesiumhydroksid (Mg(OH)2 ). | Magnesium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.2.9 | Magnesiumkaliumsulfat | Magnesiumkaliumsulfat (K2 Mg(SO4 )2 × nH2 O, n = 4,6). | Magnesium<br>Kalium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.2.10 | Magnesiumsalter av organiske syrer2 | Magnesiumsalter av spiselige organiske syrer med minst fire karbonatomer. | Magnesium<br>Organisk syre |
+| 11.2.11 | Magnesiumglukonat | Magnesiumsalt av glukonsyre, vanligvis uttrykt som Mg(C6 H11 O7 )2 og hydratformene av dette. | Magnesium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.2.13 | Magnesiumpidolat | Magnesium-L-pidolat (C10 H12 MgN2 O6 ). Kan inneholde opptil 5 % glutaminsyre. | Magnesium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.3.1 | Dikalsiumfosfat3 4 [kalsiumhydrogenortofosfat] | Kalsiummonohydrogenfosfat framstilt av bein eller uorganiske kilder (CaHPO4 × nH2 O, n = 0 eller 2)<br>Ca/P > 1,2<br>Kan inneholde opptil 3 % klorid uttrykt som NaC1. | Kalsium<br>Totalfosfor<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.3.2 | Monodikalsiumfosfat | Produkt bestående av dikalsiumfosfat og monokalsiumfosfat (CaHPO4 × Ca(H2 PO4 )2 × nH2 O, n = 0 eller 1)<br>0,8 < Ca/P < 1,3 | Totalfosfor<br>Kalsium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.3 | Monokalsiumfosfat [kalsiumtetrahydrogendiortofosfat] | Kalsium-bis-dihydrogenfosfat (Ca(H2 PO4 )2 × nH2 O, n = 0 eller 1)<br>Ca/P > 0,9. | Totalfosfor<br>Kalsium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.4 | Trikalsiumfosfat4 [trikalsiumortofosfat] | Trikalsiumfosfat fra bein eller uorganiske kilder (Ca3 (PO4 )2 × H2 O) eller hydroksylapatitt (Ca5 (PO4 )3 OH)<br>Ca/P > 1,3 | Kalsium<br>Totalfosfor<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.3.5 | Kalsiummagnesiumfosfat | Kalsiummagnesiumfosfat (Ca3 Mg3 (PO4 )4 ). | Kalsium<br>Magnesium<br>Totalfosfor<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.6 | Defluorinert fosfat | Produkt framstilt av uorganiske kilder, kalsinert og ytterligere varmebehandlet. | Totalfosfor<br>Kalsium<br>Natrium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.3.7 | Dikalsiumpyrofosfat, [dikalsiumdifosfat] | Dikalsiumpyrofosfat (Ca2 P2 O7 ). | Totalfosfor<br>Kalsium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.8 | Magnesiumfosfat | Produkt bestående av mono- og/eller di- og/eller trimagnesiumfosfat. | Totalfosfor<br>Magnesium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 %<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.3.9 | Natriumkalsiummagnesiumfosfat | Produkt av natriumkalsiummagnesiumfosfat. | Totalfosfor<br>Magnesium<br>Kalsium<br>Natrium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.10 | Mononatriumfosfat [natriumdihydrogenortofosfat] | Mononatriumfosfat<br>(NaH2 PO4 × nH2 O; n = 0, 1 eller 2) | Totalfosfor<br>Natrium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.11 | Dinatriumfosfat [dinatriumhydrogenortofosfat] | Dinatriumfosfat (Na2 HPO4 × nH2 O; n = 0, 2, 7 eller 12) | Totalfosfor<br>Natrium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.12 | Trinatriumfosfat [trinatriumortofosfat] | Trinatriumfosfat (Na3 PO4 × nH2 O; n = 0, 1/2, 1, 6, 8 eller 12) | Totalfosfor<br>Natrium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.13 | Natriumpyrofosfat [tetranatriumdifosfat] | Natriumpyrofosfat (Na4 P2 O7 × nH2 O; n = 0 eller 10) | Totalfosfor<br>Natrium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.14 | Monokaliumfosfat [kaliumdihydrogenortofosfat] | Monokaliumfosfat (KH2 PO4 ) | Totalfosfor<br>Kalium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.15 | Dikaliumfosfat [dikaliumdihydrogenortofosfat] | Dikaliumfosfat (K2 HPO4 × nH2 O; n = 0, 3 eller 6) | Totalfosfor<br>Kalium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.16 | Kalsiumnatriumfosfat | Kalsiumnatriumfosfat (CaNaPO4 ). | Totalfosfor<br>Kalsium<br>Natrium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.17 | Monoammoniumfosfat [ammoniumdihydrogenortofosfat] | Monoammoniumfosfat (NH4 H2 PO4 ). | Totalnitrogen<br>Totalfosfor<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.18 | Diammoniumfosfat [diammoniumhydrogenortofosfat] | Diammoniumfosfat ((NH4 )2 HPO4 ). | Totalnitrogen<br>Totalfosfor<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.19 | Natriumtripolyfosfat [pentanatriumtrifosfat] | Natriumtripolyfosfat (Na5 P3 O10 × nH2 O; n = 0 eller 6) | Totalfosfor<br>Natrium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.20 | Natriummagnesiumfosfat | Natriummagnesiumfosfat (MgNaPO4 ). | Totalfosfor<br>Magnesium<br>Natrium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.21 | Magnesiumhypofosfitt | Magnesiumhypofosfitt (Mg(H2 PO2 )2 × 6H2 O) | Magnesium<br>Totalfosfor<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.22 | Beinmel, avlimet | Avlimet, sterilisert og formalt bein der fettet er fjernet. | Totalfosfor<br>Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.3.23 | Beinaske | Mineralrester fra forbrenning eller forgassing av animalske biprodukter. | Totalfosfor<br>Kalsium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.3.24 | Kalsiumpolyfosfat | Heterogene blandinger av kalsiumsalter av kondenserte polyfosforsyrer med den generelle formelen H(n+2) PnO(3n+1) , der «n» ikke er mindre enn 2. | Totalfosfor<br>Kalsium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.25 | Kalsiumdihydrogendifosfat | Monokalsiumdihydrogenpyrofosfat (CaH2 P2 O7 ). | Totalfosfor<br>Kalsium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.26 | Magnesiumsyrepyrofosfat | Magnesiumsyrepyrofosfat (MgH2 P2 O7 ). Framstilt av renset fosforsyre og renset magnesiumhydroksid eller magnesiumoksid ved fordamping av vann og kondensering av ortofosfat til difosfat. | Totalfosfor<br>Magnesium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.27 | Dinatriumdihydrogendifosfat | Dinatriumdihydrogendifosfat (Na2 H2 P2 O7 ). | Totalfosfor<br>Kalsium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.28 | Trinatriumdifosfat | Trinatriummonohydrogendifosfat (vannfritt: Na3 HP2 O7 , monohydrat: Na3 HP2 O7 × nH2 O; n = 0, 1 eller 9) | Totalfosfor<br>Natrium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.29 | Natriumpolyfosfat, [natriumheksametafosfat] | Heterogene blandinger av natriumsalter av lineære, kondenserte polyfosforsyrer med den generelle formelen H(n+2) PnO(3n+1) , der «n» ikke er mindre enn 2. | Totalfosfor<br>Natrium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.30 | Trikaliumfosfat | Trikaliumfosfat (K3 PO4 × nH2 O; n = 0, 1, 3, 7 eller 9) | Totalfosfor<br>Kalium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.31 | Tetrakaliumdifosfat | Tetrakaliumpyrofosfat (K4 P2 O7 × nH2 O; n = 0, 1 eller 3) | Totalfosfor<br>Kalium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.32 | Pentakaliumtrifosfat | Pentakaliumtripolyfosfat (K5 P3 O10 ). | Totalfosfor<br>Kalium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.33 | Kaliumpolyfosfat | Heterogene blandinger av kaliumsalter av lineære, kondenserte polyfosforsyrer med den generelle formelen H(n+2) PnO(3n+1) , der «n» ikke er mindre enn 2. | Totalfosfor<br>Kalium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.3.34 | Kalsiumnatriumpolyfosfat | Kalsiumnatriumpolyfosfat. | Totalfosfor<br>Natrium<br>Kalsium<br>Innhold av fosfor som ikke er løselig i 2 % sitronsyre, dersom > 10 % |
+| 11.4.1 | Natriumklorid1 | Natriumklorid (NaCl) eller produkt framstilt ved fordamping og krystallisering av saltlake (mettet eller redusert i en annen prosess) (vakuumsalt), fordamping av sjøvann (havsalt, solsalt) eller formaling av steinsalt. | Natrium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.4.2 | Natriumbikarbonat [natriumhydrogenkarbonat] | Natriumbikarbonat (NaHCO3 ). | Natrium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.4.3 | Natrium-/ammonium(bi)karbonat [natrium-/ammonium(hydrogen)karbonat] | Produkt framkommet ved framstilling av natriumkarbonat og natriumbikarbonat, med spor av ammoniumbikarbonat (høyst 5 %). | Natrium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.4.4 | Natriumkarbonat | Natriumkarbonat (Na2 CO3 ). | Natrium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.4.5 | Natriumsesquikarbonat [trinatriumhydrogendikarbonat] | Natriumsesquikarbonat (Na3 H(CO3 )2 ). | Natrium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.4.6 | Natriumsulfat | Natriumsulfat (Na2 SO4 ).<br>Kan inneholde opptil 0,3 % metionin. | Natrium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.4.7 | Natriumsalter av organiske syrer2 | Natriumsalter av spiselige organiske syrer med minst fire karbonatomer. | Natrium<br>Organisk syre |
+| 11.5.1 | Kaliumklorid | Kaliumklorid (KC1) eller produkt framstilt ved formaling av naturlige kilder til kaliumklorid. | Kalium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.5.2 | Kaliumsulfat | Kaliumsulfat (K2 SO4 ). | Kalium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.5.3 | Kaliumkarbonat | Kaliumkarbonat (K2 CO3 ). | Kalium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.5.4 | Kaliumbikarbonat [kaliumhydrogenkarbonat] | Kaliumbikarbonat (KHCO3 ) | Kalium<br>Innhold av aske som er uløselig i HCl, dersom > 10 % |
+| 11.5.5 | Kaliumsalter av organiske syrer2 | Kaliumsalter av spiselige organiske syrer med minst fire karbonatomer. | Kalium<br>Organisk syre |
+| 11.5.6 | Kaliumpidolat | Kalium-L-pidolat (C5 H6 KNO3 ). Kan inneholde opptil 5 % glutaminsyre. | Kalium<br>Innhold av aske som er uløselig i HCl, dersom > 5 % |
+| 11.6.1 | Svovelblomst | Pulver framstilt av naturlige mineralavsetninger. Også et produkt fra utvinning av svovel ved oljeraffinering. | Svovel |
+| 11.7.1 | Attapulgitt | Naturlig mineral bestående av magnesium, aluminium og silisium. | Magnesium |
+| 11.7.2 | Kvarts | Naturlig mineral framstilt ved formaling av kvartskilder.<br>Kan inneholde opptil 0,1 % formalingsmiddel. |  |
+| 11.7.3 | Cristobalitt | Silisiumdioksid (SiO2 ) framstilt ved rekrystallisering av kvarts.<br>Kan inneholde opptil 0,1 % formalingsmiddel. |  |
+| 11.8.1 | Ammoniumsulfat | Ammoniumsulfat ((NH4 )2 SO4 ) framstilt ved kjemisk syntese. Kan presenteres i form av en vandig løsning. | Nitrogen uttrykt som råprotein<br>Svovel |
+| 11.8.3 | Ammoniumsalter av organiske syrer2 | Ammoniumsalter av spiselige organiske syrer med minst fire karbonatomer. | Nitrogen uttrykt som råprotein<br>Organisk syre |
+| 11.8.4 | Ammoniumlaktat | Ammoniumlaktat (CH3 CHOHCOONH4 ). Omfatter ammoniumlaktat framstilt ved gjæring med *actobacillus delbrueckii ssp. Bulgaricus*, *Lactococcus lactis* ssp., *Leuconostoc mesenteroides*, *Streptococcus thermophilus*, *Lactobacillus* spp. eller *Bifidobacterium* spp., med et nitrogeninnhold på minst 44 % uttrykt som råprotein.<br>Kan inneholde opptil 2 % fosfor, 2 % kalium, 0,7 % magnesium, 2 % natrium, 2 % sulfater 0,5 % klorider, 5 % sukkerarter og 0,1 % skumdempende silikon. | Nitrogen uttrykt som råprotein<br>Råaske<br>Kalium, dersom > 1,5 %<br>Magnesium, dersom > 1,5 %<br>Natrium, dersom > 1,5 % |
+| 11.8.5 | Ammoniumacetat | Ammoniumacetat (CH3 COONH4 ) i vandig løsning med et innhold av ammoniumsulfat på minst 55 %. | Nitrogen uttrykt som råprotein |
+| 11.9.1 | Kråseflint [kråseflintstein] | Produkt framstilt ved knusing av naturlig forekommende mineraler i form av grus | Partikkelstørrelse |
+| 11.9.2 | Rødstein [kråserødstein] | Produkt framstilt ved knusing og formaling av produkter fra brenning av leire | Partikkelstørrelse<br>Vanninnhold, dersom > 2 % |
+
+1 Kan i stedet betegnes med produktets opprinnelse, eller en slik angivelse kan føyes til betegnelsen.
+
+2 Betegnelsen skal endres eller utfylles, slik at det framgår hvilken organisk syre det dreier seg om.
+
+3 Framstillingsmåten kan angis i betegnelsen.
+
+4 Ordene «fra bein» skal føyes til betegnelsen når det er relevant.
 
 1. *Produkter og biprodukter fra gjæring med inaktiverte mikroorganismer, som fører til fravær av levende mikroorganismer*Fôrmidler oppført i dette kapittel som utgjør eller er framstilt av genmodifiserte organismer, eller som er resultat av en gjæringsprosess der genmodifiserte mikroorganismer inngår, skal oppfylle kravene i forordning [(EF) nr. 1829/2003](eu/32003r1829) om genmodifiserte næringsmidler og fôrvarer.*Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*12.1.1Produkt av *Methylophilus methylotrophus* med høyt proteininnhold1 2Gjæringsprodukt framstilt ved dyrking av *Methylophilus methylotrophus* (stamme NCIMB 10.515) på metanol, der innholdet av råprotein er minst 68 %, og refleksjonstallet er minst 50.Råprotein
 Råaske
@@ -1309,82 +1588,102 @@ Substrat og eventuelt angivelse av produksjonsprosess12.2.2Biprodukter fra frams
 Råaske12.2.5Biprodukter fra framstilling av aminosyrer med *Escherichia coli* K122 5Biprodukter fra framstilling av aminosyrer ved gjæring med *Escherichia coli* K12 på et substrat av vegetabilsk eller kjemisk opprinnelse, ammoniakk eller mineralsalter.Råprotein
 Råaske12.2.6Biprodukt fra enzymframstilling med *Aspergillus niger*2 5Biprodukt fra enzymframstilling ved gjæring av *Aspergillus niger* på hvete og maltRåprotein12.2.7Polyhydroksybutyrat fra gjæring med *Ralstonia eutropha*2Produkt som inneholder 3-hydroksybutyrat og 3-hydroksyvalerat som er framstilt ved gjæring med *Ralstonia eutropha*, og ikke-levedyktig bakterielt proteinmel som gjenstår fra bakteriene og gjæringsmediet som er brukt i framstillingen.
 
+1 Produkter framstilt av biomassen av bestemte mikroorganismer dyrket på visse substrater Kan inneholde opptil 0,3 % skumdempende midler, 1,5 % filtrerings-/klaringsmidler og 2,9 % propionsyre.
+
+2 Mikroorganismene brukt i gjæringen er inaktivert, slik at det ikke finnes levedyktige mikroorganismer i fôrmidlene.
+
+3 Dyrking på n-alkaner er forbudt (forordning [(EU) nr. 568/2010](eu/32010r0568)).
+
+4 Betegnelsen som brukes på gjærstammene, kan avvike fra den vitenskapelig taksonomien. Derfor kan synonymer til de oppførte gjærstammene også brukes.
+
+5 Andre gjæringsbiprodukter. Kan inneholde opptil 0,6 % skumdempende midler, 0,5 % avleiringshemmere og 0,2 % sulfitter.
+
+6 Med deler menes alle løselige og uløselige fraksjoner av gjæren, herunder fra cellemembranen og de innvendige celledelene.
+
 1. *Diverse produkter*
 
-Fôrmidler i dette kapittel som inneholder animalske produkter, skal oppfylle kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og forordning [(EU) nr. 142/2011](eu/32011r0142) og kan være omfattet av restriksjoner i henhold til forordning [(EF) nr. 999/2001](eu/32001r0999).*Nummer**Betegnelse**Beskrivelse**Obligatoriske opplysninger*13.1.1Produkter fra bakeri- og pastaindustrienProdukter fra framstilling av brød, kjeks, vafler eller pasta. Kan være tørket.Stivelse
-Totalsukker uttrykt som sukrose
-Råfett, dersom > 5 %13.1.2Produkter fra konditorvareindustrienProdukter fra framstilling av konditorvarer og kaker. Kan være tørket.Stivelse
-Totalsukker uttrykt som sukrose
-Råfett, dersom > 5 %13.1.3Produkter fra framstilling av frokostkornStoffer eller produkter som er beregnet på konsum eller som med rimelighet kan forventes å kunne konsumeres, i bearbeidet, delvis bearbeidet eller ubearbeidet tilstand. Kan være tørket.Råprotein, dersom > 10 %
-Råtrevler
-Råolje/råfett, dersom > 10 %
-Stivelse, dersom > 30 %
-Totalsukker uttrykt som sukrose, dersom > 10 %13.1.4Produkter fra sukkervareindustrienProdukter fra framstilling av sukkervarer, herunder sjokoladevarer. Kan være tørket.Stivelse
-Råfett, dersom > 5 %
-Totalsukker uttrykt som sukrose13.1.5Produkter fra iskremindustrienProdukter fra framstilling av iskrem. Kan være tørket.Stivelse
-Totalsukker uttrykt som sukrose
-Råfett13.1.6Produkter og biprodukter fra bearbeiding av frisk frukt og friske grønnsaker1Produkter fra bearbeiding av frisk frukt og friske grønnsaker (herunder skall, hele stykker av frukt/grønnsaker og blandinger av dette). Kan være tørket eller fryst.Stivelse
-Råtrevler
-Råfett, dersom > 5 %
-Innhold av aske som er uløselig i HCl, dersom > 3,5 %13.1.7Produkter fra bearbeiding av planter1Produkter fra frysing eller tørking av hele planter eller deler av planter.Råtrevler13.1.8Produkter fra bearbeiding av krydder og smaksingredienser1Produkter fra frysing eller tørking av krydder og smaksingredienser eller deler av disse.Råprotein, dersom > 10 %
-Råtrevler
-Råolje/råfett, dersom > 10 %
-Stivelse, dersom > 30 %
-Totalsukker uttrykt som sukrose, dersom > 10 %13.1.9Produkter fra bearbeiding av urter1Produkter fra knusing, formaling, frysing eller tørking av urter eller deler av urter.Råtrevler13.1.10Produkter fra potetbearbeidingsindustrienProdukter fra bearbeiding av poteter. Kan være tørket eller fryst.Stivelse
-Råtrevler
-Råfett, dersom > 5 %
-Innhold av aske som er uløselig i HCl, dersom > 3,5 %13.1.11Produkter og biprodukter fra sausframstillingStoffer fra sausframstilling som er beregnet på konsum eller som med rimelighet kan forventes å kunne konsumeres, i bearbeidet, delvis bearbeidet eller ubearbeidet tilstand. Kan være tørket.Råfett13.1.12Produkter og biprodukter fra snacksindustrienProdukter og biprodukter fra framstilling av snacks – potetchips, potet- og eller kornbasert snacks (direkte ekstrudert, deigbasert og pelletert) og nøtter.Råfett13.1.13Produkter fra framstilling av spiseferdige næringsmidlerProdukter framkommet ved framstilling av spiseferdige næringsmidler. Kan være tørket.Råfett, dersom > 5 %13.1.14Plantebiprodukter fra brennevinsframstillingFaste produkter fra planter (herunder bær og frø, f.eks. anisfrø) framkommet etter maserasjon av plantene i en alkoholholdig løsning eller etter fordamping og/eller destillering av alkohol ved utvikling av aromaer til brennevinsframstilling. Produktene må destilleres for å fjerne de alkoholholdige restene.Råprotein, dersom > 10 %
-Råtrevler
-Råolje/råfett, dersom > 10 %13.1.15FôrølProdukt fra brygging som ikke kan selges til konsum.Alkoholinnhold
-Vanninnhold, dersom < 75 %13.1.16Søte aromatiserte drikkerProdukter fra leskedrikkindustrien fra framstilling av søte aromatiserte leskedrikker eller fra uemballerte, uomsettelige søte aromatiserte leskedrikker.
-Kan være konsentrert eller tørket.Totalsukker uttrykt som sukrose
-Vanninnhold, dersom > 30 %13.1.17FruktsirupProdukter fra fruktsirupindustrien fra framstilling av fruktsirup beregnet på konsum.Totalsukker uttrykt som sukrose
-Vanninnhold, dersom > 30 %13.1.18Søt aromatisert sirupProdukter fra industriell framstilling av søt aromatisert sirup eller fra uemballert, uomsettelig sirup.
-Kan være konsentrert eller tørket.Totalsukker uttrykt som sukrose
-Vanninnhold, dersom > 30 %13.2.1Karamellisert sukkerProdukt framstilt ved kontrollert oppvarming av alle typer sukker.Totalsukker uttrykt som sukrose13.2.2DekstroseDekstrose framkommer etter hydrolyse av stivelse og består av renset, krystallisert glukose med eller uten krystallvann.13.2.3FruktoseFruktose som renset krystallinsk pulver. Framstilt av glukose i glukosesirup ved hjelp av glukoseisomerase og sukroseinvertering.13.2.4GlukosesirupGlukosesirup er en renset og konsentrert vandig løsning av næringsgivende sakkarider framstilt ved hydrolyse av stivelse. Kan være tørket.Vanninnhold, dersom > 30 %13.2.5GlukosemelasseProdukt fra raffinering av glukosesirup.Totalsukker uttrykt som sukrose13.2.6XyloseSukker ekstrahert fra tre.13.2.7LaktuloseHalvsyntetisk disakkarid (4-O-D-galaktopyranosyl-D-fruktose) framstilt ved isomerisering av glukose til fruktose. Finnes i varmebehandlet melk og varmebehandlede melkeprodukter.13.2.8Glukosamin (kitosamin)6Aminosukker (monosakkarid) som utgjør en del av strukturen i polysakkaridene kitosan og kitin. Framstilt ved hydrolyse av krepsdyrs og andre leddyrs eksoskjelett eller ved gjæring av korn, f.eks. mais eller hvete.Natrium eller kalium, alt etter hva som er relevant.13.2.9Xylo-oligosakkaridKjeder av xylosemolekyler med β1-4-bindinger med polymeriseringsgrad på mellom 2 og 10, framstilt ved enzymatisk hydrolyse av ulike råstoffer med høyt innhold av hemicellulose.Vanninnhold, dersom > 5 %13.2.10Gluko-oligosakkaridProdukt framstilt enten ved gjæring eller hydrolyse og/eller fysisk varmebehandling av glukosepolymerer, glukose, sukrose og maltose.Vanninnhold, dersom > 28 %13.3.1Stivelse2Stivelse.Stivelse13.3.2Stivelse,2 pregelatinertProdukt som består av stivelse som er ekspandert ved varmebehandling.Stivelse13.3.3Stivelsesblanding2Produkt bestående av naturlig og/eller modifisert næringsmiddelstivelse fra forskjellige botaniske kilder.Stivelse13.3.4Stivelseshydrolysatkake2Produkt fra filtrering av stivelseshydrolysevæske som består av følgende: protein, stivelse, polysakkarider, fett, olje og filtreringsmidler (f.eks. kiselgur, trefiber).Vanninnhold, dersom < 25 % eller > 45 %
-Dersom vanninnhold < 25 %:
-– Råfett
-– Råprotein13.3.5DekstrinDekstrin er delvis syrehydrolysert stivelse.13.3.6MaltdekstrinMaltdekstrin er delvis hydrolysert stivelse.13.4.1PolydekstroseTilfeldig forbundet massepolymer av glukose framstilt ved termisk polymerisering av D-glukose.13.5.1PolyolerProdukt framstilt ved hydrogenering eller gjæring, bestående av reduserte mono-, di- eller oligosakkarider eller polysakkarider.13.5.2IsomaltSukkeralkohol framstilt av sukrose etter enzymatisk omdanning og hydrogenering.13.5.3MannitolProdukt framstilt ved hydrogenering eller gjæring, bestående av redusert glukose og/eller fruktose.13.5.4XylitolProdukt framstilt ved hydrogenering og gjæring av xylose.13.5.5SorbitolProdukt framstilt ved hydrogenering av glukose.13.6.1Fettsyrer fra kjemisk raffinering3Produkt framkommet ved avsyrning av oljer og fettstoffer av vegetabilsk eller animalsk opprinnelse ved hjelp av base, etterfulgt av syrebehandling og deretter separering av vannfasen, som inneholder frie fettsyrer, oljer eller fettstoffer og naturlige bestanddeler av frø, frukt eller animalsk vev som mono- og diglyserider, rålecitin og fibrer.Råfett
-Vanninnhold, dersom > 1 %13.6.2Fettsyrer forestret med glyserol4Glyserider framstilt ved forestring av fettsyrer med glyserol. Kan inneholde opptil 50 ppm nikkel fra hydrogenering.Vanninnhold, dersom > 1 %
-Råfett
-Nikkel, dersom > 20 ppm13.6.3Mono-, di- og triglyserider av fettsyrer4Produkt som består av en blanding av mono-, di- og triestere av glyserol med fettsyrer.
-De kan inneholde små mengder av frie fettsyrer og fri glyserol.
-Kan inneholde opptil 50 ppm nikkel fra hydrogenering.Råfett
-Nikkel, dersom > 20 ppm13.6.4Salter av fettsyrer4Produkt framstilt ved at fettsyrer med minst fire karbonatomer reagerer med hydroksider, oksider eller salter av kalsium, magnesium, natrium eller kalium.
-Kan inneholde opptil 50 ppm nikkel fra hydrogenering.Råfett (etter hydrolyse)
-Fuktighet
-Ca eller Na eller K eller Mg (alt etter hva som er relevant)
-Nikkel, dersom > 20 ppm13.6.5Fettsyredestillater fra fysisk raffinering3Produkt framkommet ved avsyrning av oljer og fettstoffer av vegetabilsk eller animalsk opprinnelse ved hjelp av destillering, som inneholder frie fettsyrer, oljer eller fettstoffer og naturlige bestanddeler av frø, frukt eller animalsk vev som mono- og diglyserider, steroler og tokoferoler.Råfett
-Vanninnhold, dersom > 1 %13.6.6Råfettsyrer fra spalting3Produkt framstilt ved spalting av olje/fett. Består per definisjon av råfettsyrer C6 -C24 , alifatiske, lineære, mettede og umettede, samt monokarboksylsyrer. Kan inneholde opptil 50 ppm nikkel fra hydrogenering.Råfett
-Vanninnhold, dersom > 1 %
-Nikkel, dersom > 20 ppm13.6.7Rene, destillerte fettsyrer fra spalting3Produkt framstilt ved destillering av råfettsyrer fra spalting av olje/fett, eventuelt med hydrogenering. Består per definisjon av rene, destillerte fettsyrer C6 -C24 , alifatiske, lineære, mettede og umettede, samt monokarboksylsyrer.
-Kan inneholde opptil 50 ppm nikkel fra hydrogenering.Råfett
-Vanninnhold, dersom > 1 %
-Nikkel, dersom > 20 ppm13.6.8Nøytralisasjonsmasse3Produkt framkommet ved avsyrning av vegetabilske oljer og fettstoffer ved hjelp av vandig hydroksidløsning av kalsium, magnesium, natrium eller kalium, som inneholder salter fra fettsyrer, oljer eller fettstoffer og naturlige bestanddeler av frø, frukt eller animalsk vev som mono- og diglyserider, rålecitin og fibrer.Vanninnhold, dersom < 40 % og > 50 %
-Ca eller Na eller K eller Mg, alt etter hva som er relevant13.6.9Mono- og diglyserider av fettsyrer forestret med organiske syrer4 5Mono- og diglyserider av fettsyrer med minst fire karbonatomer forestret med organiske syrer.Råfett13.6.10Sukroseestere av fettsyrer4Estere av sakkarose og fettsyrer.Totalsukker uttrykt som sukrose
-Råfett13.6.11Sukroseglyserider av fettsyrer4Blanding av estere av sakkarose og mono- og diglyserider av fettsyrer.Totalsukker uttrykt som sukrose
-Råfett13.6.12PalmitoylglukosaminOrganisk lipidforbindelse som finnes i røttene til mange planter, framfor alt de fleste belgvekster. Framstilles ved acylering av D-glukosamin med palmitinsyre. Kan inneholde opptil 0,5 % aceton.Vanninnhold, dersom > 2 %
-Råfett13.6.13Salt av laktylater av fettsyrerIkke-glyseridester av fettsyrer Produktet kan være et kalsium-, magnesium-, natrium- eller kaliumsalt av fettsyrer forestret med melkesyre. Det kan inneholde saltene av frie fettsyrer og melkesyre.Råfett
-Vanninnhold, dersom > 1 %
-Nikkel, dersom > 20 ppm
-Ca eller Na eller K eller Mg, alt etter hva som er relevant13.8.1Glyserin, rå
-[glyserol, rå]Biprodukt fra
-– fettbearbeidingsprosess ved spalting av olje/fettstoffer for framstilling av fettsyrer og glyserolvann, etterfulgt av konsentrering av glyserolvann for framstilling av råglyserin eller av transesterifisering (kan inneholde opptil 0,5 % metanol) av naturlige oljer/fettstoffer for framstilling av metylestere av fettsyrer og glyserolvann, etterfulgt av konsentrering av glyserolvann for framstilling av råglyserin,
-– biodieselproduksjon (metyl- eller etylestere av fettsyrer), framstilt ved transesterifisering av oljer og fettstoffer av vegetabilsk og animalsk opprinnelse uten nærmere angivelse. Det kan fortsatt finnes mineralsalter og organiske salter i glyserinen (opptil 7,5 %).
-Kan inneholde opptil 0,5 % metanol og opptil 4 % organisk materiale som ikke er glyserol (MONG), bestående av metylestere av fettsyrer, etylestere av fettsyrer, frie fettsyrer og frie glyserider.
-– forsåpning av oljer/fettstoffer av vegetabilsk eller animalsk opprinnelse, vanligvis med alkali/jordalkalier, for framstilling av såpe.
-Kan inneholde opptil 50 ppm nikkel fra hydrogenering.Glyserol
-Kalium, dersom > 1,5 %
-Natrium, dersom > 1,5 %
-Nikkel, dersom > 20 ppm13.8.2Glyserin
-[glyserol]Produkt fra
-– fettbearbeidingsprosess med a) spalting av olje/fettstoffer etterfulgt av konsentrering av glyserolvann og raffinering ved destillering (se del B, ordliste over behandlingsmetoder, post nr. 20) eller ionebytterprosess eller b) transesterifisering av naturlige oljer/fettstoffer for framstilling av metylestere av fettsyrer og råglyserolvann, etterfulgt av konsentrering av glyserolvann for framstilling av råglyserin og raffinering ved destillering eller ionebytterprosess,
-– biodieselproduksjon (metyl- eller etylestere av fettsyrer), framstilt ved transesterifisering av oljer og fettstoffer av vegetabilsk og animalsk opprinnelse uten nærmere angivelse, med etterfølgende raffinering av glyserinen. Glyserolinnhold: minst 99 % av tørrstoff,Glyserol dersom < 99 % i tørrstoff
-Natrium, dersom > 0,1 %
-Kalium, dersom > 0,1 %
-Nikkel, dersom > 20 ppm– forsåpning av oljer/fettstoffer av vegetabilsk eller animalsk opprinnelse, vanligvis med alkali/jordalkalier, for framstilling av såpe, etterfulgt av raffinering av råglyserol og destillering.
-Kan inneholde opptil 50 ppm nikkel fra hydrogenering.13.9.1MetylsulfonylmetanOrganisk svovelforbindelse ((CH3 )2 SO2 ) framstilt ved kjemisk syntese, som er identisk med den som forekommer naturlig i planter.Svovel13.10.1TorvProdukt fra naturlig nedbryting av planter (hovedsakelig torvmose) i anaerobt og oligotroft miljø.Råtrevler13.10.2LeonardittProdukt som er et naturlig forekommende mineralkompleks av fenolhydrokarboner, også kalt humussurt salt, og som kommer fra nedbryting av organisk materiale i løpet av millioner av år.Råtrevler13.11.1Propylenglykol [1,2-propandiol] [propan-1,2-diol]Organisk forbindelse (diol eller dobbeltalkohol) med formelen C3 H8 O2 . Viskøs væske med svakt søtlig smak, hygroskopisk og blandbar med vann, aceton og kloroform. Kan inneholde opptil 0,3 % dipropylenglykol.13.11.2Monoestere av propylenglykol og fettsyrer4Monoestere av propylenglykol og fettsyrer, alene eller blandet med diestere.Propylenglykol
-Råfett13.12.1HyaluronsyreGlukosaminglukan (polysakkarid) med repeterende enhet bestående av et aminosukker (N-acetyl-D-glukosamin) og D-glukuronsyre, som finnes i hud, leddvæske og i navlestrengen, framstilt f.eks. av animalsk vev eller ved mikrobiell gjæring.Natrium eller kalium, alt etter hva som er relevant.13.12.2KondroitinsulfatProdukt framstilt ved ekstrahering fra sener, bein og annet animalsk vev som inneholder brusk og mykt bindevev.Natrium13.12.3GlukonsyreGlukonsyre (C6 H12 O7 ), en vannløselig organisk syre med pKa-verdi på 3,7 og klar til brun farge. I flytende form har den et minsteinnhold av glukonsyre på 50 %. Framstilt ved mikrobiell gjæring av glukosesirup eller som biprodukt fra framstilling av glukono-delta-lakton av næringsmiddelkvalitet.Glukonsyre
+Fôrmidler i dette kapittel som inneholder animalske produkter, skal oppfylle kravene i forordning [(EF) nr. 1069/2009](eu/32009r1069) og forordning [(EU) nr. 142/2011](eu/32011r0142) og kan være omfattet av restriksjoner i henhold til forordning [(EF) nr. 999/2001](eu/32001r0999).
+
+| *Nummer* | *Betegnelse* | *Beskrivelse* | *Obligatoriske opplysninger* |
+| --- | --- | --- | --- |
+| 13.1.1 | Produkter fra bakeri- og pastaindustrien | Produkter fra framstilling av brød, kjeks, vafler eller pasta. Kan være tørket. | Stivelse<br>Totalsukker uttrykt som sukrose<br>Råfett, dersom > 5 % |
+| 13.1.2 | Produkter fra konditorvareindustrien | Produkter fra framstilling av konditorvarer og kaker. Kan være tørket. | Stivelse<br>Totalsukker uttrykt som sukrose<br>Råfett, dersom > 5 % |
+| 13.1.3 | Produkter fra framstilling av frokostkorn | Stoffer eller produkter som er beregnet på konsum eller som med rimelighet kan forventes å kunne konsumeres, i bearbeidet, delvis bearbeidet eller ubearbeidet tilstand. Kan være tørket. | Råprotein, dersom > 10 %<br>Råtrevler<br>Råolje/råfett, dersom > 10 %<br>Stivelse, dersom > 30 %<br>Totalsukker uttrykt som sukrose, dersom > 10 % |
+| 13.1.4 | Produkter fra sukkervareindustrien | Produkter fra framstilling av sukkervarer, herunder sjokoladevarer. Kan være tørket. | Stivelse<br>Råfett, dersom > 5 %<br>Totalsukker uttrykt som sukrose |
+| 13.1.5 | Produkter fra iskremindustrien | Produkter fra framstilling av iskrem. Kan være tørket. | Stivelse<br>Totalsukker uttrykt som sukrose<br>Råfett |
+| 13.1.6 | Produkter og biprodukter fra bearbeiding av frisk frukt og friske grønnsaker1 | Produkter fra bearbeiding av frisk frukt og friske grønnsaker (herunder skall, hele stykker av frukt/grønnsaker og blandinger av dette). Kan være tørket eller fryst. | Stivelse<br>Råtrevler<br>Råfett, dersom > 5 %<br>Innhold av aske som er uløselig i HCl, dersom > 3,5 % |
+| 13.1.7 | Produkter fra bearbeiding av planter1 | Produkter fra frysing eller tørking av hele planter eller deler av planter. | Råtrevler |
+| 13.1.8 | Produkter fra bearbeiding av krydder og smaksingredienser1 | Produkter fra frysing eller tørking av krydder og smaksingredienser eller deler av disse. | Råprotein, dersom > 10 %<br>Råtrevler<br>Råolje/råfett, dersom > 10 %<br>Stivelse, dersom > 30 %<br>Totalsukker uttrykt som sukrose, dersom > 10 % |
+| 13.1.9 | Produkter fra bearbeiding av urter1 | Produkter fra knusing, formaling, frysing eller tørking av urter eller deler av urter. | Råtrevler |
+| 13.1.10 | Produkter fra potetbearbeidingsindustrien | Produkter fra bearbeiding av poteter. Kan være tørket eller fryst. | Stivelse<br>Råtrevler<br>Råfett, dersom > 5 %<br>Innhold av aske som er uløselig i HCl, dersom > 3,5 % |
+| 13.1.11 | Produkter og biprodukter fra sausframstilling | Stoffer fra sausframstilling som er beregnet på konsum eller som med rimelighet kan forventes å kunne konsumeres, i bearbeidet, delvis bearbeidet eller ubearbeidet tilstand. Kan være tørket. | Råfett |
+| 13.1.12 | Produkter og biprodukter fra snacksindustrien | Produkter og biprodukter fra framstilling av snacks – potetchips, potet- og eller kornbasert snacks (direkte ekstrudert, deigbasert og pelletert) og nøtter. | Råfett |
+| 13.1.13 | Produkter fra framstilling av spiseferdige næringsmidler | Produkter framkommet ved framstilling av spiseferdige næringsmidler. Kan være tørket. | Råfett, dersom > 5 % |
+| 13.1.14 | Plantebiprodukter fra brennevinsframstilling | Faste produkter fra planter (herunder bær og frø, f.eks. anisfrø) framkommet etter maserasjon av plantene i en alkoholholdig løsning eller etter fordamping og/eller destillering av alkohol ved utvikling av aromaer til brennevinsframstilling. Produktene må destilleres for å fjerne de alkoholholdige restene. | Råprotein, dersom > 10 %<br>Råtrevler<br>Råolje/råfett, dersom > 10 % |
+| 13.1.15 | Fôrøl | Produkt fra brygging som ikke kan selges til konsum. | Alkoholinnhold<br>Vanninnhold, dersom < 75 % |
+| 13.1.16 | Søte aromatiserte drikker | Produkter fra leskedrikkindustrien fra framstilling av søte aromatiserte leskedrikker eller fra uemballerte, uomsettelige søte aromatiserte leskedrikker.<br>Kan være konsentrert eller tørket. | Totalsukker uttrykt som sukrose<br>Vanninnhold, dersom > 30 % |
+| 13.1.17 | Fruktsirup | Produkter fra fruktsirupindustrien fra framstilling av fruktsirup beregnet på konsum. | Totalsukker uttrykt som sukrose<br>Vanninnhold, dersom > 30 % |
+| 13.1.18 | Søt aromatisert sirup | Produkter fra industriell framstilling av søt aromatisert sirup eller fra uemballert, uomsettelig sirup.<br>Kan være konsentrert eller tørket. | Totalsukker uttrykt som sukrose<br>Vanninnhold, dersom > 30 % |
+| 13.2.1 | Karamellisert sukker | Produkt framstilt ved kontrollert oppvarming av alle typer sukker. | Totalsukker uttrykt som sukrose |
+| 13.2.2 | Dekstrose | Dekstrose framkommer etter hydrolyse av stivelse og består av renset, krystallisert glukose med eller uten krystallvann. |  |
+| 13.2.3 | Fruktose | Fruktose som renset krystallinsk pulver. Framstilt av glukose i glukosesirup ved hjelp av glukoseisomerase og sukroseinvertering. |  |
+| 13.2.4 | Glukosesirup | Glukosesirup er en renset og konsentrert vandig løsning av næringsgivende sakkarider framstilt ved hydrolyse av stivelse. Kan være tørket. | Vanninnhold, dersom > 30 % |
+| 13.2.5 | Glukosemelasse | Produkt fra raffinering av glukosesirup. | Totalsukker uttrykt som sukrose |
+| 13.2.6 | Xylose | Sukker ekstrahert fra tre. |  |
+| 13.2.7 | Laktulose | Halvsyntetisk disakkarid (4-O-D-galaktopyranosyl-D-fruktose) framstilt ved isomerisering av glukose til fruktose. Finnes i varmebehandlet melk og varmebehandlede melkeprodukter. |  |
+| 13.2.8 | Glukosamin (kitosamin)6 | Aminosukker (monosakkarid) som utgjør en del av strukturen i polysakkaridene kitosan og kitin. Framstilt ved hydrolyse av krepsdyrs og andre leddyrs eksoskjelett eller ved gjæring av korn, f.eks. mais eller hvete. | Natrium eller kalium, alt etter hva som er relevant. |
+| 13.2.9 | Xylo-oligosakkarid | Kjeder av xylosemolekyler med β1-4-bindinger med polymeriseringsgrad på mellom 2 og 10, framstilt ved enzymatisk hydrolyse av ulike råstoffer med høyt innhold av hemicellulose. | Vanninnhold, dersom > 5 % |
+| 13.2.10 | Gluko-oligosakkarid | Produkt framstilt enten ved gjæring eller hydrolyse og/eller fysisk varmebehandling av glukosepolymerer, glukose, sukrose og maltose. | Vanninnhold, dersom > 28 % |
+| 13.3.1 | Stivelse2 | Stivelse. | Stivelse |
+| 13.3.2 | Stivelse,2 pregelatinert | Produkt som består av stivelse som er ekspandert ved varmebehandling. | Stivelse |
+| 13.3.3 | Stivelsesblanding2 | Produkt bestående av naturlig og/eller modifisert næringsmiddelstivelse fra forskjellige botaniske kilder. | Stivelse |
+| 13.3.4 | Stivelseshydrolysatkake2 | Produkt fra filtrering av stivelseshydrolysevæske som består av følgende: protein, stivelse, polysakkarider, fett, olje og filtreringsmidler (f.eks. kiselgur, trefiber). | Vanninnhold, dersom < 25 % eller > 45 %<br>Dersom vanninnhold < 25 %:<br>– Råfett<br>– Råprotein |
+| 13.3.5 | Dekstrin | Dekstrin er delvis syrehydrolysert stivelse. |  |
+| 13.3.6 | Maltdekstrin | Maltdekstrin er delvis hydrolysert stivelse. |  |
+| 13.4.1 | Polydekstrose | Tilfeldig forbundet massepolymer av glukose framstilt ved termisk polymerisering av D-glukose. |  |
+| 13.5.1 | Polyoler | Produkt framstilt ved hydrogenering eller gjæring, bestående av reduserte mono-, di- eller oligosakkarider eller polysakkarider. |  |
+| 13.5.2 | Isomalt | Sukkeralkohol framstilt av sukrose etter enzymatisk omdanning og hydrogenering. |  |
+| 13.5.3 | Mannitol | Produkt framstilt ved hydrogenering eller gjæring, bestående av redusert glukose og/eller fruktose. |  |
+| 13.5.4 | Xylitol | Produkt framstilt ved hydrogenering og gjæring av xylose. |  |
+| 13.5.5 | Sorbitol | Produkt framstilt ved hydrogenering av glukose. |  |
+| 13.6.1 | Fettsyrer fra kjemisk raffinering3 | Produkt framkommet ved avsyrning av oljer og fettstoffer av vegetabilsk eller animalsk opprinnelse ved hjelp av base, etterfulgt av syrebehandling og deretter separering av vannfasen, som inneholder frie fettsyrer, oljer eller fettstoffer og naturlige bestanddeler av frø, frukt eller animalsk vev som mono- og diglyserider, rålecitin og fibrer. | Råfett<br>Vanninnhold, dersom > 1 % |
+| 13.6.2 | Fettsyrer forestret med glyserol4 | Glyserider framstilt ved forestring av fettsyrer med glyserol. Kan inneholde opptil 50 ppm nikkel fra hydrogenering. | Vanninnhold, dersom > 1 %<br>Råfett<br>Nikkel, dersom > 20 ppm |
+| 13.6.3 | Mono-, di- og triglyserider av fettsyrer4 | Produkt som består av en blanding av mono-, di- og triestere av glyserol med fettsyrer.<br>De kan inneholde små mengder av frie fettsyrer og fri glyserol.<br>Kan inneholde opptil 50 ppm nikkel fra hydrogenering. | Råfett<br>Nikkel, dersom > 20 ppm |
+| 13.6.4 | Salter av fettsyrer4 | Produkt framstilt ved at fettsyrer med minst fire karbonatomer reagerer med hydroksider, oksider eller salter av kalsium, magnesium, natrium eller kalium.<br>Kan inneholde opptil 50 ppm nikkel fra hydrogenering. | Råfett (etter hydrolyse)<br>Fuktighet<br>Ca eller Na eller K eller Mg (alt etter hva som er relevant)<br>Nikkel, dersom > 20 ppm |
+| 13.6.5 | Fettsyredestillater fra fysisk raffinering3 | Produkt framkommet ved avsyrning av oljer og fettstoffer av vegetabilsk eller animalsk opprinnelse ved hjelp av destillering, som inneholder frie fettsyrer, oljer eller fettstoffer og naturlige bestanddeler av frø, frukt eller animalsk vev som mono- og diglyserider, steroler og tokoferoler. | Råfett<br>Vanninnhold, dersom > 1 % |
+| 13.6.6 | Råfettsyrer fra spalting3 | Produkt framstilt ved spalting av olje/fett. Består per definisjon av råfettsyrer C6 -C24 , alifatiske, lineære, mettede og umettede, samt monokarboksylsyrer. Kan inneholde opptil 50 ppm nikkel fra hydrogenering. | Råfett<br>Vanninnhold, dersom > 1 %<br>Nikkel, dersom > 20 ppm |
+| 13.6.7 | Rene, destillerte fettsyrer fra spalting3 | Produkt framstilt ved destillering av råfettsyrer fra spalting av olje/fett, eventuelt med hydrogenering. Består per definisjon av rene, destillerte fettsyrer C6 -C24 , alifatiske, lineære, mettede og umettede, samt monokarboksylsyrer.<br>Kan inneholde opptil 50 ppm nikkel fra hydrogenering. | Råfett<br>Vanninnhold, dersom > 1 %<br>Nikkel, dersom > 20 ppm |
+| 13.6.8 | Nøytralisasjonsmasse3 | Produkt framkommet ved avsyrning av vegetabilske oljer og fettstoffer ved hjelp av vandig hydroksidløsning av kalsium, magnesium, natrium eller kalium, som inneholder salter fra fettsyrer, oljer eller fettstoffer og naturlige bestanddeler av frø, frukt eller animalsk vev som mono- og diglyserider, rålecitin og fibrer. | Vanninnhold, dersom < 40 % og > 50 %<br>Ca eller Na eller K eller Mg, alt etter hva som er relevant |
+| 13.6.9 | Mono- og diglyserider av fettsyrer forestret med organiske syrer4 5 | Mono- og diglyserider av fettsyrer med minst fire karbonatomer forestret med organiske syrer. | Råfett |
+| 13.6.10 | Sukroseestere av fettsyrer4 | Estere av sakkarose og fettsyrer. | Totalsukker uttrykt som sukrose<br>Råfett |
+| 13.6.11 | Sukroseglyserider av fettsyrer4 | Blanding av estere av sakkarose og mono- og diglyserider av fettsyrer. | Totalsukker uttrykt som sukrose<br>Råfett |
+| 13.6.12 | Palmitoylglukosamin | Organisk lipidforbindelse som finnes i røttene til mange planter, framfor alt de fleste belgvekster. Framstilles ved acylering av D-glukosamin med palmitinsyre. Kan inneholde opptil 0,5 % aceton. | Vanninnhold, dersom > 2 %<br>Råfett |
+| 13.6.13 | Salt av laktylater av fettsyrer | Ikke-glyseridester av fettsyrer Produktet kan være et kalsium-, magnesium-, natrium- eller kaliumsalt av fettsyrer forestret med melkesyre. Det kan inneholde saltene av frie fettsyrer og melkesyre. | Råfett<br>Vanninnhold, dersom > 1 %<br>Nikkel, dersom > 20 ppm<br>Ca eller Na eller K eller Mg, alt etter hva som er relevant |
+| 13.8.1 | Glyserin, rå<br>[glyserol, rå] | Biprodukt fra<br>– fettbearbeidingsprosess ved spalting av olje/fettstoffer for framstilling av fettsyrer og glyserolvann, etterfulgt av konsentrering av glyserolvann for framstilling av råglyserin eller av transesterifisering (kan inneholde opptil 0,5 % metanol) av naturlige oljer/fettstoffer for framstilling av metylestere av fettsyrer og glyserolvann, etterfulgt av konsentrering av glyserolvann for framstilling av råglyserin,<br>– biodieselproduksjon (metyl- eller etylestere av fettsyrer), framstilt ved transesterifisering av oljer og fettstoffer av vegetabilsk og animalsk opprinnelse uten nærmere angivelse. Det kan fortsatt finnes mineralsalter og organiske salter i glyserinen (opptil 7,5 %).<br>Kan inneholde opptil 0,5 % metanol og opptil 4 % organisk materiale som ikke er glyserol (MONG), bestående av metylestere av fettsyrer, etylestere av fettsyrer, frie fettsyrer og frie glyserider.<br>– forsåpning av oljer/fettstoffer av vegetabilsk eller animalsk opprinnelse, vanligvis med alkali/jordalkalier, for framstilling av såpe.<br>Kan inneholde opptil 50 ppm nikkel fra hydrogenering. | Glyserol<br>Kalium, dersom > 1,5 %<br>Natrium, dersom > 1,5 %<br>Nikkel, dersom > 20 ppm |
+| 13.8.2 | Glyserin<br>[glyserol] | Produkt fra<br>– fettbearbeidingsprosess med a) spalting av olje/fettstoffer etterfulgt av konsentrering av glyserolvann og raffinering ved destillering (se del B, ordliste over behandlingsmetoder, post nr. 20) eller ionebytterprosess eller b) transesterifisering av naturlige oljer/fettstoffer for framstilling av metylestere av fettsyrer og råglyserolvann, etterfulgt av konsentrering av glyserolvann for framstilling av råglyserin og raffinering ved destillering eller ionebytterprosess,<br>– biodieselproduksjon (metyl- eller etylestere av fettsyrer), framstilt ved transesterifisering av oljer og fettstoffer av vegetabilsk og animalsk opprinnelse uten nærmere angivelse, med etterfølgende raffinering av glyserinen. Glyserolinnhold: minst 99 % av tørrstoff, | Glyserol dersom < 99 % i tørrstoff<br>Natrium, dersom > 0,1 %<br>Kalium, dersom > 0,1 %<br>Nikkel, dersom > 20 ppm |
+|  |  | – forsåpning av oljer/fettstoffer av vegetabilsk eller animalsk opprinnelse, vanligvis med alkali/jordalkalier, for framstilling av såpe, etterfulgt av raffinering av råglyserol og destillering.<br>Kan inneholde opptil 50 ppm nikkel fra hydrogenering. |  |
+| 13.9.1 | Metylsulfonylmetan | Organisk svovelforbindelse ((CH3 )2 SO2 ) framstilt ved kjemisk syntese, som er identisk med den som forekommer naturlig i planter. | Svovel |
+| 13.10.1 | Torv | Produkt fra naturlig nedbryting av planter (hovedsakelig torvmose) i anaerobt og oligotroft miljø. | Råtrevler |
+| 13.10.2 | Leonarditt | Produkt som er et naturlig forekommende mineralkompleks av fenolhydrokarboner, også kalt humussurt salt, og som kommer fra nedbryting av organisk materiale i løpet av millioner av år. | Råtrevler |
+| 13.11.1 | Propylenglykol [1,2-propandiol] [propan-1,2-diol] | Organisk forbindelse (diol eller dobbeltalkohol) med formelen C3 H8 O2 . Viskøs væske med svakt søtlig smak, hygroskopisk og blandbar med vann, aceton og kloroform. Kan inneholde opptil 0,3 % dipropylenglykol. |  |
+| 13.11.2 | Monoestere av propylenglykol og fettsyrer4 | Monoestere av propylenglykol og fettsyrer, alene eller blandet med diestere. | Propylenglykol<br>Råfett |
+| 13.12.1 | Hyaluronsyre | Glukosaminglukan (polysakkarid) med repeterende enhet bestående av et aminosukker (N-acetyl-D-glukosamin) og D-glukuronsyre, som finnes i hud, leddvæske og i navlestrengen, framstilt f.eks. av animalsk vev eller ved mikrobiell gjæring. | Natrium eller kalium, alt etter hva som er relevant. |
+| 13.12.2 | Kondroitinsulfat | Produkt framstilt ved ekstrahering fra sener, bein og annet animalsk vev som inneholder brusk og mykt bindevev. | Natrium |
+| 13.12.3 | Glukonsyre | Glukonsyre (C6 H12 O7 ), en vannløselig organisk syre med pKa-verdi på 3,7 og klar til brun farge. I flytende form har den et minsteinnhold av glukonsyre på 50 %. Framstilt ved mikrobiell gjæring av glukosesirup eller som biprodukt fra framstilling av glukono-delta-lakton av næringsmiddelkvalitet. | Glukonsyre |
+
+1 Arten av frukt, grønnsak, plante, krydder og urt skal føyes til betegnelsen, alt etter hva som er relevant.
+
+2 En angivelse av botanisk opprinnelse skal føyes til betegnelsen.
+
+3 En angivelse av botanisk eller animalsk opprinnelse skal føyes til betegnelsen.
+
+4 Betegnelsen skal endres eller utfylles, slik at det framgår hvilke fettsyrer som er brukt.
+
+5 Betegnelsen skal endres eller utfylles, slik at det framgår hvilken organisk syre det dreier seg om.
+
+6 Ordene «fra animalsk vev» eller «fra gjæring» skal føyes til betegnelsen, alt etter hva som er relevant.
+
+◄ **M1**
 
 ### Forordning [(EU) 2020/354](eu/32020r0354)
 
@@ -1394,11 +1693,22 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2020/354
 
 Forordning [(EU) 2020/354](eu/32020r0354) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2024/2899](eu/32024r2899).
 
+►**B** Forordning [(EU) 2020/354](eu/32020r0354)
+som endret ved
+
 - ►**M1** Forordning [(EU) 2024/2899](eu/32024r2899)
 
 ### Kommisjonsforordning [(EU) 2020/354](eu/32020r0354)
 av 4. mars 2020
 om utarbeiding av en liste over bruksområder for fôr med særlige ernæringsformål og om oppheving av direktiv [2008/38/EF](eu/32008l0038)
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767) av 13. juli 2009 om omsetning og bruk av fôrvarer, endring av europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) og oppheving av rådsdirektiv [79/373/EØF](eu/31979l0373), kommisjonsdirektiv [80/511/EØF](eu/31980l0511), rådsdirektiv [82/471/EØF](eu/31982l0471), [83/228/EØF](eu/31983l0228), [93/74/EØF](eu/31993l0074), [93/113/EF](eu/31993l0113) og [96/25/EF](eu/31996l0025) samt kommisjonsvedtak [2004/217/EF](eu/32004d0217)1, særlig artikkel 10 nr. 5, og
+
+ut fra følgende betraktninger:
 
 1. Reglene for å bringe i omsetning og bruke fôr er fastsatt i forordning [(EF) nr. 767/2009](eu/32009r0767). I samsvar med artikkel 9 i den forordningen kan fôr med særlige ernæringsformål bringes i omsetning bare dersom dets tiltenkte bruk er oppført på en liste over bruksområder i samsvar med artikkel 10 i samme forordning.
 2. Ved kommisjonsdirektiv [2008/38/EF](eu/32008l0038)2 ble det opprettet en liste over bruksområder for fôr med særlige ernæringsformål.
@@ -1414,6 +1724,12 @@ om utarbeiding av en liste over bruksområder for fôr med særlige ernæringsfo
 12. Av klarhetshensyn og av praktiske årsaker bør direktiv [2008/38/EF](eu/32008l0038) oppheves og erstattes med en forordning, som ikke inneholder bestemmelser som krever innarbeiding i medlemsstatenes nasjonale rett. De seneste endringene av direktivet er steg for steg allerede gjort gjennom forordninger, fordi det ikke var nødvendig å innarbeide de aktuelle bestemmelsene i nasjonal rett. Dessuten er de alminnelige kravene for å kunne bringe i omsetning og bruke fôr med særlige ernæringsformål fastsatt i forordning [(EF) nr. 767/2009](eu/32009r0767).
 13. For at medlemsstatene skal få mulighet til å gjøre de nødvendige tilpasningene, bør det fastsettes et tilstrekkelig tidsrom før denne forordningen kommer til anvendelse.
 14. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Komiteen.
+
+1 EUT L 229 av 1.9.2009, s. 1.
+
+2 Kommisjonsdirektiv [2008/38/EF](eu/32008l0038) av 5. mars 2008 om utarbeiding av en liste over bruksområdene for fôrvarer med særlige ernæringsformål (EUT L 62 av 6.3.2008, s. 9).
+
+VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1
 
@@ -1441,6 +1757,12 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 
 Utferdiget i Brussel 4. mars 2020.
 
+*For Kommisjonen*
+
+Ursula von der Leyen
+
+*President*
+
 ### Vedlegg
 
 ### Del A
@@ -1458,5 +1780,122 @@ Alminnelig bestemmelse om fôr med særlige ernæringsformål
 10. Når et fôr med særlige ernæringsformål bringes i omsetning i form av en bolus og er et fôrmiddel eller tilskuddsfôr som skal gis oralt til hvert dyr, med langsom frigivelse av forbindelsene, dvs. som varer i mer enn 24 timer, skal, dersom det er relevant, den maksimale perioden med kontinuerlig frigivelse av forbindelsene i bolusen samt den daglige frigivelsesraten angis på merkingen for hvert fôrtilsetningsstoff der det er fastsatt et høyeste tillatte innhold i fullfôr. Den driftsansvarlige for et fôrforetak som bringer en bolus i omsetning, skal ha dokumentasjon på at den daglige mengden tilgjengelig tilsetningsstoff i fordøyelseskanalen ikke på noe tidspunkt i fôringsperioden vil overstige, dersom det er relevant, det fastsatte høyeste tillatte innholdet av tilsetningsstoffet per kg fullfôr (virkning ved langsom frigivelse). Slik dokumentasjon bør bygge på en fagfellevurdert metode eller intern analyse.
 11. For bruksområder der det i kolonne 2 for tilskuddsfôr tillates en konsentrasjon av visse fôrtilsetningsstoffer på over 100 ganger det relevante høyeste tillatte innholdet i fullfôr, skal konsentrasjonen av disse fôrtilsetningsstoffene ikke være høyere enn 500 ganger det relevante fastsatte høyeste tillatte innholdet i fullfôr, unntatt når det gjelder boluser som nevnt i punkt 10. Ved tilsetning av slikt tilskuddsfôr til dyrets diett skal det sikres at dyrets inntak er innenfor det fastsatte høyeste tillatte innholdet i fullfôr.
 
+1 Europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer (EUT L 268 av 18.10.2003, s. 29).
+
+2 Europaparlaments- og rådsdirektiv [2004/48/EF](eu/32004l0048) av 29. april 2004 om håndheving av immaterialrettigheter (EUT L 157 av 30.4.2004, s. 45).
+
 ### Del B
 **Liste over bruksområder**
+
+| *Nummer* | *Særlig ernærings­formål* | *Grunnleggende ernærings­egenskaper GP1* | *Dyreart eller dyregruppe* | *Merkings­opplysninger GP2* | *Anbefalt bruksperiode* | *Andre bestemmelser* |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2 | 3 | 4 | 5 | 6 |  |
+| 10 | Støtte av nyrefunksjon­en ved kronisk nyresvikt1 | Proteiner av høy kvalitet og fosfor ≤ 5 g/kg fullfôr med et vanninnhold på 12 %2 og råprotein ≤ 220 g/kg fullfôr med et vanninnhold på 12 %2 | Hunder | – Proteinkilde(r)<br>– Kalsium<br>– Fosfor<br>– Kalium<br>– Natrium<br>– Essensielle fettsyrer (dersom tilsatt) | Innledningsvis opptil seks måneder3 | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Anbefalt proteinfordøyelighet: minst 85 %.<br>3. Følgende skal angis på merkingen: «Det anbefales å rådføre seg med veterinær før bruk og før bruksperioden forlenges.»<br>4. Følgende skal angis i bruksanvisningen: «Vann bør være tilgjengelig til enhver tid.» |
+| Redusert fosforopptak ved tilførsel av lantankarbonatoktahydrat | Voksne hunder | – Proteinkilde(r)<br>– Kalsium<br>– Fosfor<br>– Kalium<br>– Natrium<br>– Essensielle fettsyrer (dersom tilsatt)<br>– Lantankarbonatoktahydrat | Innledningsvis opptil seks måneder3 | 1. Følgende skal angis på merkingen: «Det anbefales å rådføre seg med veterinær før bruk og før bruksperioden forlenges.»<br>2. Følgende skal angis i bruksanvisningen: «Vann bør være tilgjengelig til enhver tid.» |  |  |
+| Proteiner av høy kvalitet og fosfor ≤ 6,5 g/kg fullfôr med et vanninnhold på 12 %2 og råprotein ≤ 320 g/kg fullfôr med et vanninnhold på 12 %2 | Katter | – Proteinkilde(r)<br>– Kalsium<br>– Fosfor<br>– Kalium<br>– Natrium<br>– Essensielle fettsyrer (dersom tilsatt) | Innledningsvis opptil seks måneder3 | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Anbefalt proteinfordøyelighet: minst 85 %.<br>3. Følgende skal angis på merkingen: «Det anbefales å rådføre seg med veterinær før bruk og før bruksperioden forlenges.»<br>4. Følgende skal angis i bruksanvisningen: «Vann bør være tilgjengelig til enhver tid.» |  |  |
+| Redusert fosforopptak ved tilførsel av lantankarbonatoktahydrat | Voksne katter | – Proteinkilde(r)<br>– Kalsium<br>– Fosfor<br>– Kalium<br>– Natrium | Innledningsvis opptil seks måneder3 | 1. Følgende skal angis på merkingen: «Det anbefales å rådføre seg med veterinær før bruk og før bruksperioden forlenges.»<br>2. Følgende skal angis i bruksanvisningen: «Vann bør være tilgjengelig til enhver tid.» |  |  |
+|  |  |  |  | – Essensielle fettsyrer (dersom tilsatt)<br>– Lantankarbonatoktahydrat |  |  |
+|  |  | Høy energitetthet med mer enn 8,8 MJ/kg fôr med et vanninnhold på 12 %.<br>Lettfordøyelige og velsmakende stivelseskilder.<br>Begrenset proteininnhold: ≤ 106 g råprotein/kg fôr med et vanninnhold på 12 %.<br>Natriuminnhold: 2 g/100 kg kroppsvekt per dag.<br>Høyt innhold av eikosapentaensyre og dokosaheksaensyre, sammenlagt ≥ 0,2 g per kg kroppsvekt 0,75 per dag | Dyr av hestefamilien | – Protein- og energikilde(r)<br>– Kalsium<br>– Fosfor<br>– Kalium<br>– Magnesium<br>– Natrium<br>– Sammenlagt innhold av eikosapentaensyre og dokosaheksaensyre | Innledningsvis opptil seks måneder<br>I lang tid eller til problemet er løst | 1. Fôret skal bringes i omsetning som tilskuddsfôr.<br>2. Følgende skal angis på merkingen:<br>– «Det anbefales å rådføre seg med veterinær før bruk eller før bruksperioden forlenges.»<br>– Tilskuddsfôret bør ikke brukes ved hypernatremi og hyperkloremi.<br>– Tilskuddsfôret bør stå for minst 10 til 20 % av det daglige energiinntaket (ca. 0,05 til 0,1 MJ/kg kroppsvekt 0,75 per dag).<br>3. Rasjonen bør sikre et energiinntak på > 0,62 MJ/kg kroppsvekt 0,75 per dag.<br>4. Rasjonen bør ikke overstige 50 mg kalsium/kg tørrstoff/dag.<br>5. Følgende skal angis i bruksanvisningen: «Vann bør være tilgjengelig til enhver tid.» |
+| 11 | Reduksjon av dannelse av oksalatsteiner | Lavt innhold av kalsium, lavt innhold av vitamin D og urinalkaliserende egenskaper | Hunder og katter | – Fosfor<br>– Kalsium<br>– Natrium<br>– Magnesium<br>– Kalium<br>– Klorider<br>– Svovel<br>– Vitamin D (totalt)<br>– Hydroksyprolin<br>– Urinalkaliserende stoffer | Opptil seks måneder | Følgende skal angis på merkingen:<br>«Det anbefales å rådføre seg med veterinær før bruk.» |
+| 12 | Regulering av glukosetilførselen (Diabetes mellitus) | Totalt sukkerinnhold (mono- og disakkarider) ≤ 62 g/kg fullfôr med et vanninnhold på 12 %2 | Hunder og katter | – Karbohydratkilde(r)<br>– Eventuell behandling av karbohydrater<br>– Stivelse<br>– Totalt sukkerinnhold<br>– Fruktose (dersom tilsatt)<br>– Essensielle fettsyrer (dersom tilsatt)<br>– Kilde(r) til kortkjedede og mellomlangkjedede fettsyrer (dersom tilsatt) | Innledningsvis opptil seks måneder | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Følgende skal angis på merkingen:<br>– «Lavt innhold av mono- og disakkarider.»<br>– «Det anbefales å rådføre seg med veterinær før bruk og før bruksperioden forlenges.» |
+| 13 | Reduksjon av intoleranse for bestanddeler og næringsstoffer4 | Utvalgt og begrenset antall proteinkilder<br>og/eller<br>kilder til hydrolysert protein<br>og/eller<br>utvalgte karbohydratkilder | Hunder og katter | – Proteinkilder, herunder eventuell behandling (dersom tilsatt).<br>– Karbohydratkilde(r), herunder eventuell behandling (dersom tilsatt).<br>– Essensielle fettsyrer (dersom tilsatt) | Tre til åtte uker: Dersom tegnene på intoleranse forsvinner, kan dette fôret innledningsvis brukes i opptil ett år. | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Det anbefales å begrense antall hovedproteinkilder til tre.<br>3. Følgende skal angis på merkingen:<br>– Egnet kombinasjon av de vesentlige ernæringsmessige egenskapene, alt etter hva som er relevant.<br>– «Det anbefales å rådføre seg med veterinær før bruk og før bruksperioden forlenges.» |
+| 14 | Reduksjon av dannelse av cystinsteiner | Urinalkaliserende egenskaper og råprotein ≤ 160 g/kg fullfôr med vanninnhold på 12 %2<br>eller<br>Proteiner som er valgt på grunn av sitt begrensede innhold av cystin og cystein (f.eks. kasein, erteprotein, soyaprotein), og råprotein ≤ 220 g/kg fullfôr med et vanninnhold på 12 %2 | Hunder | – Svovelaminosyrer (totalt)<br>– Proteinkilder<br>– Natrium<br>– Kalium<br>– Klorider<br>– Urinalkaliserende stoffer (dersom tilsatt) | Innledningsvis opptil seks måneder | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Følgende skal angis i bruksanvisningen:<br>«Vann bør være tilgjengelig til enhver tid.»<br>3. Følgende skal angis på merkingen:<br>– «Urinalkaliserende egenskaper og lavt proteininnhold» eller «Lavt innhold av utvalgte proteiner», alt etter hva som er relevant.<br>– «Det anbefales å rådføre seg med veterinær før bruk eller før bruksperioden forlenges.»<br>4. Merknad til veterinæren eller ernæringsfysiologen: Alkaliserende egenskaper betyr at dietten bør settes sammen med sikte på en urin-pH ≥ 7. |
+| 15 | Ernæringsmessig gjenoppbygging, rekonvalesens5 | Lett fordøyelige bestanddeler med<br>energitetthet ≥ 3 520 kcal og råprotein ≥ 250 g per kg fullfôr med et vanninnhold på 12 %2 | Hunder | – Kilder til lett fordøyelige bestanddeler, herunder eventuelt behandlingen av dem<br>– Energiinnhold | Inntil dyret er restituert | 1. Anbefalt apparent fordøyelighet av tørrstoff ≥ 80 % eller av organisk materiale ≥ 85 %.<br>2. Når fôret er særlig beregnet på å tilføres ved hjelp av sonde eller slange, skal følgende angis på emballasjen, beholderen eller etiketten: «Tilføres under tilsyn av veterinær.»<br>3. Det kan angis på merkingen hvilke spesifikke omstendigheter diettfôret er beregnet på.<br>4. Følgende skal angis på merkingen:<br>«Høy energitetthet, høy konsentrasjon av essensielle næringsstoffer og lett fordøyelige bestanddeler.» |
+| Lettfordøyelige bestanddeler med energitetthet ≥ 3 520 kcal og råprotein ≥ 270 g per kg fullfôr med et vanninnhold på 12 %2 | Katter |  |  |  |  |  |
+| 16 | Reduksjon av dannelse av uretersteiner | Råprotein ≤ 130 g/kg fullfôr med et vanninnhold på 12 %2<br>eller<br>Råprotein ≤ 220 g/kg fullfôr med et vanninnhold på 12 %2 og utvalgte proteinkilder | Hunder | – Proteinkilde(r) | Opptil seks måneder, men hele livet ved uopprettelige forstyrrelser i urinsyrestoffskiftet | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Proteinkvalitet og innhold av puriner bør tas i betraktning ved valg av proteinkilde. Eksempler på utvalgte proteinkilder av høy kvalitet med lavt innhold av puriner er egg, kasein, soyaproteiner og maisgluten.<br>3. Følgende skal angis i bruksanvisningen: «Vann bør være tilgjengelig til enhver tid.»<br>4. Følgende skal angis på merkingen:<br>– «Det anbefales å rådføre seg med veterinær før bruk.»<br>– «Lavt proteininnhold» eller «Begrenset innhold av protein og utvalgte proteinkilder», alt etter hva som er relevant. |
+| Råprotein ≤ 317 g/kg fullfôr med vanninnhold på 12 %2 | Katter |  |  | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Proteinkvalitet og innhold av puriner bør tas i betraktning ved valg av proteinkilde. Eksempler på utvalgte proteinkilder av høy kvalitet med lavt innhold av puriner er egg, kasein, soyaproteiner og maisgluten.<br>3. Følgende skal angis på merkingen:<br>– «Det anbefales å rådføre seg med veterinær før bruk.»<br>– «Begrenset proteininnhold.»<br>4. Følgende skal angis i bruksanvisningen: «Vann bør være tilgjengelig til enhver tid.» |  |  |
+| 17 | Oppløsning av struvittsteiner6 | Urinundermettende7 egenskaper for struvitt<br>og/eller<br>Urinforsurende egenskaper8<br>og<br>Magnesium ≤ 1,8 g/kg fullfôr med vanninnhold på 12 %2 | Hunder og katter | – Fosfor<br>– Kalsium<br>– Natrium<br>– Magnesium<br>– Kalium<br>– Klorid<br>– Svovel | Fem til tolv uker | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Følgende skal angis på merkingen:<br>– «Det anbefales å rådføre seg med veterinær før bruk og før bruksperioden forlenges.»<br>– «Urinundermettende egenskaper med hensyn til struvitt, og/eller urinforsurende egenskaper.»<br>3. Følgende skal angis i bruksanvisningen: «Vann bør være tilgjengelig til enhver tid.»<br>4. Samsvarserklæring som underbygger diettens undermettende og/eller forsurende egenskaper, skal stilles til rådighet for vedkommende myndigheter på anmodning. |
+| 18 | Reduksjon av ny dannelse av struvittsteiner6 | Fullfôr med urinundermettende7 eller metastabiliserende9 egenskaper med hensyn til struvitt<br>og/eller<br>Diett med urinforsurende egenskaper8<br>og | Hunder og katter | – Fosfor<br>– Kalsium<br>– Natrium<br>– Magnesium<br>– Kalium<br>– Klorid<br>– Svovel | Innledningsvis opptil seks måneder | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Følgende skal angis på merkingen:<br>– «Det anbefales å rådføre seg med veterinær før bruk og før bruksperioden forlenges.»<br>– «Urinundermettende eller metastabiliserende egenskaper med hensyn til struvitt, og/eller urinforsurende egenskaper.» |
+|  |  | Magnesium ≤ 1,8 g/kg fullfôr med vanninnhold på 12 %2 |  |  |  | 3. Følgende skal angis i bruksanvisningen: «Vann bør være tilgjengelig til enhver tid.»<br>4. Samsvarserklæring som underbygger diettens undermettende eller metastabiliserende og/eller forsurende egenskaper, skal stilles til rådighet for vedkommende myndigheter på anmodning. |
+| 19 | Kompensasjon for dårlig fordøyelse10 | Lett fordøyelig diett:<br>Apparent fordøyelighet av<br>– fôr med lavt fiberinnhold (råfiber ≤ 44 g per kg fullfôr med et vanninnhold på 12 %2):<br>Råprotein ≥ 85 %<br>Råfett ≥ 90 %<br>eller<br>– fiberberiket fôr (råfiber > 44 g per kg fullfôr med et vanninnhold på 12 %2):<br>Råprotein ≥ 80 %<br>Råfett ≥ 80 % | Hunder og katter | – Kilder til lett fordøyelige bestanddeler, herunder eventuelt behandlingen av dem | Innledningsvis opptil tolv uker, og hele livet ved kronisk pankreassvikt | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Følgende skal angis på merkingen:<br>– «Lett fordøyelig fôr.»<br>– «Det anbefales å rådføre seg med veterinær før bruk.» |
+| 20 | Reduksjon av opptaksforstyrrelser i tarmen | Lett fordøyelig diett:<br>Apparent fordøyelighet av<br>– fôr med lavt fiberinnhold (råfiber ≤ 44 g per kg fullfôr med et vanninnhold på 12 %2):<br>Råprotein ≥ 85 %<br>Råfett ≥ 90 %<br>eller<br>– fôr med lavt fiberinnhold (råfiber ≤ 44 g per kg fullfôr med et vanninnhold på 12 %2):<br>Råprotein ≥ 80 %<br>Råfett ≥ 80 %<br>Natrium ≥ 1,8 g per kg fullfôr<br>med et vanninnhold på 12 %2<br>og<br>Kalium ≥ 5 g per kg fullfôr med et vanninnhold på 12 %2 | Hunder og katter | – Kilder til lett fordøyelige bestanddeler, herunder eventuelt behandlingen av dem<br>– Natrium<br>– Kalium | Opptil tolv uker | Følgende skal angis på merkingen:<br>– «Lett fordøyelig fôr med økt innhold av natrium og kalium.»<br>– «Det anbefales å rådføre seg med veterinær før bruk.» |
+| 21 | Reduksjon av akutte opptaksforstyrrelser i tarmsystemet | Økt innhold av elektrolytter:<br>– Natrium ≥ 1,8 %<br>– Kalium ≥ 0,6 %<br>og<br>Lett fordøyelige karbohydrater:<br>– ≥ 32 % | Hunder og katter | – Natrium<br>– Kalium<br>– Karbohydratkilde(r) | En til sju dager | 1. Fôret skal bringes i omsetning som tilskuddsfôr.<br>2. Følgende skal angis på merkingen:<br>– «I perioder med akutt diaré og i påfølgende rekonvalesensperioder.»<br>– «Det anbefales å rådføre seg med veterinær før bruk.»<br>3. Når det gjelder fast fôr, bør den anbefalte elektrolyttmengden beregnes på grunnlag av et normalt daglig frivillig inntak av vann. |
+| 22 | Støtte av lipidstoffskiftet ved hyperlipidemi | Fett11 ≤ 110 g/kg fullfôr med et vanninnhold på 12 %12 | Hunder og katter | – Råfett | Innledningsvis opptil to måneder | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Følgende skal angis på merkingen:<br>– «Det anbefales å rådføre seg med veterinær før bruk eller før bruksperioden forlenges.»<br>– «Lavt fettinnhold.» |
+| 23 | Støtte av leverfunksjonen ved kronisk leversvikt | Moderat proteininnhold:<br>Råprotein ≤ 279 g/kg fullfôr med vanninnhold på 12 %2 for hunder<br>Råprotein ≤ 370 g/kg fullfôr med vanninnhold på 12 %2 for katter<br>og<br>Utvalgte proteinkilder<br>og<br>Anbefalt fordøyelighet av fôrproteiner ≥ 85 % | Hunder og katter | – Proteinkilde(r)<br>– Kobber (totalt)<br>– Natrium | Innledningsvis opptil fire måneder | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Eksempler på utvalgte proteinkilder basert på lettfordøyelighet: melkeproteiner (myse, kasein, melk, cottage cheese), andre animalske proteiner (egg, fjørfe) og vegetabilske proteiner (soya).<br>3. Følgende skal angis i bruksanvisningen: «Vann bør være tilgjengelig til enhver tid.»<br>4. Følgende skal angis på merkingen:<br>– «Moderat innhold av utvalgte og lett fordøyelige proteiner.»<br>– «Det anbefales å rådføre seg med veterinær før bruk.» |
+|  |  | Lavt innhold av proteiner av høy kvalitet og lett fordøyelige karbohydrater | Dyr av hestefamilien | – Protein- og fiberkilder<br>– Lett fordøyelige karbohydrater, herunder eventuelt behandlingen av dem<br>– Metionin<br>– Kolin<br>– Innhold av n-3-fettsyrer (dersom tilsatt) | Innledningsvis opptil seks måneder | 1. Følgende skal angis på merkingen:<br>– «Det anbefales å rådføre seg med veterinær før bruk eller før bruksperioden forlenges.»<br>2. Det bør angis hvordan fôret skal gis, f.eks. i mange små rasjoner per dag. |
+| 24 | Støtte av hjertefunksjonen ved kronisk hjertesvikt | Begrenset natriuminnhold:<br>natrium ≤ 2,6 g per kg fullfôr med et vanninnhold på 12 %2 | Hunder og katter | – Magnesium<br>– Kalium<br>– Natrium | Innledningsvis opptil seks måneder | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Følgende skal angis på merkingen: «Det anbefales å rådføre seg med veterinær før bruk og før bruksperioden forlenges.» |
+| 25 | Reduksjon av overvekt | Omsettelig energi < 3 060 kcal/kg fullfôr med et vanninnhold på 12 %13<br>eller<br>Omsettelig energi < 560 kcal/kg fullfôr med et vanninnhold på 85 %13 | Hunder | – Energiinnhold | Til ønsket kroppsvekt er nådd, og etter dette dersom det er nødvendig for å opprettholde den ønskede kroppsvekten | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. For å sikre at minstekravene oppfylles, bør næringsinnholdet i en diett for å redusere overvekt økes tilsvarende for å kompensere for det begrensede daglige energiinntaket14<br>3. Følgende skal angis på merkingen:<br>– «Det anbefales å rådføre seg med veterinær før bruk.»<br>– «For katter anbefales en overgangsperiode ved begynnelsen av dietten.»<br>– «For å oppnå effektivt vekttap eller opprettholdelse av idealvekt bør det anbefalte daglige energiinntaket ikke overskrides.» |
+| Omsettelig energi < 3 190 kcal per kg fullfôr med et vanninnhold på 12 %13<br>eller<br>Omsettelig energi < 580 kcal per kg fullfôr med et vanninnhold på 85 %13 | Katter |  |  |  |  |  |
+| 26 | Støtte av hudfunksjonen ved dermatose og håravfall | Linolsyre ≥ 12,3 g per kg og sammenlagt innhold av eikosapentaensyre og dokosaheksaensyre ≥ 2,9 g per kg fullfôr med et vanninnhold på 12 %2 | Hunder og katter | – Linolsyre<br>– Sammenlagt innhold av eikosapentaensyre og dokosaheksaensyre | Innledningsvis opptil to måneder | Følgende skal angis på merkingen:<br>– «Det anbefales å rådføre seg med veterinær før bruk.»<br>– «Høyt innhold av linolsyre (LA) og sammenlagt innhold av eikosapentaensyre (EPA) og dokosaheksaensyre (DHA).» |
+| Linolsyre ≥ 18,5 g per kg og sammenlagt innhold av eikosapentaensyre og dokosaheksaensyre ≥ 0,39 g per kg fullfôr med et vanninnhold på 12 %2 | Hunder |  |  |  |  |  |
+| Linolsyre ≥ 18,5 g per kg og sammenlagt innhold av eikosapentaensyre og dokosaheksaensyre ≥ 0,09 g per kg fullfôr med et vanninnhold på 12 %2 | Katter |  |  |  |  |  |
+| 27 | Støtte av stoffskiftet i leddene ved osteoartritt | Totalt innhold av omega-3-fettsyrer ≥ 29 g per kg og eikosapentaensyre ≥ 3,3 g per kg fullfôr med et vanninnhold på 12 %2<br>og<br>Passende innhold av vitamin E. | Hunder | – Omega-3-fettsyrer (totalt)<br>– Eikosapentaensyre (totalt)<br>– Vitamin E (totalt) | Innledningsvis opptil tre måneder | Følgende skal angis på merkingen:<br>– «Det anbefales å rådføre seg med veterinær før bruk og før bruksperioden forlenges.» |
+| Totalt innhold av omega-3-fettsyrer ≥ 10,6 g per kg fullfôr med et vanninnhold på 12 %2 og eikosapentaensyre ≥ 2,5 g per kg fullfôr med et vanninnhold på 12 %2<br>og<br>Økt innhold av metionin og mangan.<br>Passende innhold av vitamin E. | Katter | – Omega-3-fettsyrer (totalt)<br>– Dokosaheksaensyre (totalt)<br>– Metionin (totalt)<br>– Mangan (totalt)<br>– Vitamin E (totalt) |  |  |  |  |
+| 28 | Reduksjon av kobberopphopning i leveren | Begrenset kobberinnhold: kobber ≤ 8,8 mg per kg fullfôr med et vanninnhold på 12 %2 | Hunder | Kobber (totalt) | Innledningsvis opptil seks måneder | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Følgende skal angis på merkingen:<br>– «Det anbefales å rådføre seg med veterinær før bruk og før bruksperioden forlenges.» |
+| 29 | Reduksjon av jodinnhold i fôr ved hypertyreose | Begrenset jodinnhold: jod ≤ 0,26 mg per kg fullfôr med et vanninnhold på 12 %2 | Katter | Jod (totalt) | Innledningsvis opptil tre måneder | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Følgende skal angis på merkingen:<br>– «Det anbefales å rådføre seg med veterinær før bruk og før bruksperioden forlenges.» |
+| 30 | Støtte i stressituasjoner, som vil føre til reduksjon av tilknyttet atferd | 1-3 g trypsinhydrolysert kasein fra kumelk per kg fullfôr med et vanninnhold på 12 %2 | Hunder | Trypsinhydrolysert kasein fra kumelk | Innledningsvis opptil to måneder | 1. Fôret skal bringes i omsetning som fullfôr.<br>2. Følgende skal angis på merkingen:<br>– «Det anbefales å rådføre seg med veterinær før bruk og før bruksperioden forlenges.» |
+| 50 | Støtte ved forberedelse av østrus og avl | – Høyt innhold av selen og et minimumsinnhold av vitamin E per kg fullfôr med et vanninnhold på 12 % på 50 mg for griser, 35 mg for kaniner og 88 mg for hunder, katter og mink, samt et minimumsinnhold av vitamin E per dyr per dag på 100 mg for sauer, 300 mg for storfe og 1 100 mg for hester.<br>eller<br>– Høyt innhold av vitamin A og/eller vitamin D og/eller et minimumsinnhold av betakaroten på 300 mg per dyr per dag. | Pattedyr | Navn på og totalmengde av hvert tilsatt sporstoff og vitamin. | – Kyr: to uker før avsluttet drektighet til neste drektighet er bekreftet.<br>– Purker: fra sju dager før til tre dager etter fødsel, og fra sju dager før til tre dager etter paring.<br>– Andre hunnpattedyr: fra siste del av drektigheten til neste drektighet er bekreftet. | 1. Tilførsel i form av bolus er tillatt. En bolus kan inneholde opptil 20 % jern i inert, ikke-biotilgjengelig form for å øke bolusens tetthet.<br>2. Bruksanvisningen for fôret skal sikre at det respektive høyeste tillatte innholdet i fullfôr overholdes.<br>3. Merkingen skal inneholde veiledning om i hvilke situasjoner det er hensiktsmessig å bruke fôret. |
+|  |  | Tilskuddsfôret kan inneholde selen og vitamin A og D i en konsentrasjon på over 100 ganger det relevante fastsatte høyeste tillatte innholdet i fullfôr. |  |  | – Hanndyr: i forplantningsperioder. |  |
+| – Høyt innhold av vitamin A og/eller vitamin D<br>eller<br>– Høyt innhold av selen og/eller sink og/eller et minimumsinnhold av vitamin E på 44 mg per kg fullfôr med et vanninnhold på 12 %.<br>Tilskuddsfôret kan inneholde selen, sink og vitamin A og D i en konsentrasjon på over 100 ganger det relevante fastsatte høyeste tillatte innholdet i fullfôr. | Fugler | Navn på og totalmengde av hvert tilsatt sporstoff og vitamin. | – For hunndyr: i østrus<br>– For hanndyr: i forplantningsperioder |  |  |  |
+| 51 | Støtte til gjenoppbygging av hover, klover og hud | Høyt sinkinnhold.<br>Tilskuddsfôret kan inneholde sink i en konsentrasjon på over 100 ganger det relevante fastsatte høyeste tillatte innholdet i fullfôr. | Hester, drøvtyggere og griser | – Sink (totalt)<br>– Metionin (totalt)<br>– Biotin (dersom tilsatt) | Opptil åtte uker | 1. Bruksanvisningen for fôret skal sikre at den høyeste tillatte innholdet av sink i fullfôr overholdes.<br>2. Tilførsel i form av bolus er tillatt for drøvtyggere. En bolus kan inneholde opptil 20 % jern i inert, ikke-biotilgjengelig form for å øke bolusens tetthet. |
+| 52 | Støtte ved ernæringsmessig ubalanse ved fôromlegging | Minimumstilførsel via diettfôret av<br>– Selen: 0,1 mg/kg fullfôr med et vanninnhold på 12 %<br>og/eller<br>– Sink: 15 mg/kg fullfôr med et vanninnhold på 12 %<br>og/eller<br>– Kobber: 2 mg/kg fullfôr med et vanninnhold på 12 % for sauer og 5 mg/kg fullfôr med et vanninnhold på 12 % for andre arter<br>og/eller<br>– Vitamin A: 2 000 IU/kg fullfôr med et vanninnhold på 12 %<br>og/eller<br>– Vitamin D: 400 IU/kg fullfôr med et vanninnhold på 12 %<br>og/eller<br>– Vitamin E: 35 mg/kg fullfôr med et vanninnhold på 12 % for fjørfe, 10 mg/kg fullfôr med et vanninnhold på 12 % for drøvtyggere, 40 mg/kg fullfôr med et vanninnhold på 12 % for kaniner og 20 mg/kg fullfôr med et vanninnhold på 12 % for griser<br>Tilskuddsfôret kan inneholde selen, sink, kobber og vitamin A og D i en konsentrasjon på over 100 ganger det relevante fastsatte høyeste tillatte innholdet i fullfôr. | Drøvtyggere<br>Griser<br>Kaniner<br>Fjørfe | Navn på og samlet mengde av ernæringsmessige tilsetningsstoffer dersom dette er relevant | To til femten dager | 1. Tilførsel i form av bolus er tillatt for drøvtyggere og griser. En bolus kan inneholde opptil 20 % jern i inert, ikke-biotilgjengelig form for å øke bolusens tetthet.<br>2. Bruksanvisningen for fôret skal sikre at det respektive høyeste tillatte innholdet i fullfôr overholdes.<br>3. Merkingen skal inneholde veiledning om i hvilke situasjoner det er hensiktsmessig å bruke fôret. |
+| 53 | Støtte ved avvenning | Minimumstilførsel via diettfôret av<br>– Selen: 0,1 mg/kg fullfôr med et vanninnhold på 12 %<br>og/eller<br>– Sink: 15 mg/kg fullfôr med et vanninnhold på 12 %<br>og/eller<br>– Kobber: 2 mg/kg fullfôr med et vanninnhold på 12 % for sauer og 5 mg/kg fullfôr med et vanninnhold på 12 % for andre arter<br>og/eller<br>– Jod: 0,2 mg/kg fullfôr med et vanninnhold på 12 %<br>og/eller<br>– Mangan: 20 mg/kg fullfôr med et vanninnhold på 12 %<br>og/eller<br>– Vitamin A: 1 500 IU/kg fullfôr med et vanninnhold på 12 %<br>og/eller<br>– Vitamin D: 400 IU/kg fullfôr med et vanninnhold på 12 %<br>og/eller<br>– Vitamin E: 100 mg/kg fullfôr med et vanninnhold på 12 % for sauer og 50 mg/kg fullfôr med et vanninnhold på 12 % for lam, kje og smågriser.<br>Tilskuddsfôret kan inneholde selen, sink, kobber, jod, mangan og vitamin A og D i en konsentrasjon på over 100 ganger det relevante fastsatte høyeste tillatte innholdet i fullfôr. | Pattedyr | Navn på og samlet mengde av ernæringsmessige tilsetningsstoffer dersom dette er relevant | Opptil fire uker rundt avvenningen | 1. Bruksanvisningen for fôret skal sikre at det respektive høyeste tillatte innholdet i fullfôr overholdes.<br>2. Merkingen skal inneholde veiledning om i hvilke situasjoner det er hensiktsmessig å bruke fôret. |
+| 54 | Støtte til gjenoppbygging av hud og tilhørende vev | – Minimumstilførsel av sinkforbindelser via diettfôr tilsvarende 20 mg/kg fullfôr med et vanninnhold på 12 %<br>og<br>– Høyt innhold av kobber og/eller jod og/eller selen<br>og/eller<br>vitamin B6 og/eller vitamin E og/eller vitamin A<br>og/eller<br>metionin og/eller cystin og/eller<br>minimumstilførsel på 0,4 mg biotin/kg fullfôr med et vanninnhold på 12 %.<br>Tilskuddsfôret kan inneholde sink, kobber, jod, selen og vitamin A og D i en konsentrasjon på over 100 ganger det relevante fastsatte høyeste tillatte innholdet i fullfôr. | Pattedyr og fjørfe | Navn på og samlet mengde av ernæringsmessige tilsetningsstoffer dersom dette er relevant | – Opptil åtte uker<br>– Tilskuddsfôr med innhold av biotin til drøvtyggere: Opptil seks måneder | 1. Bruksanvisningen for fôret skal sikre at det respektive høyeste tillatte innholdet i fullfôr overholdes.<br>2. Merkingen skal inneholde veiledning om i hvilke situasjoner det er hensiktsmessig å bruke fôret. |
+| 55 | Stabilisering av balansen mellom vann og elektrolytter for å støtte den fysiologiske fordøyelsen | – Hovedsakelig elektrolytter: natrium, kalium og klorider<br>– Bufringskapasitet19 ved flytende fôr: minst 60 mmol per liter ferdigblandet drikk til fôring<br>– Lett fordøyelige karbohydrater | Kalver, griser, lam, kje og føll | – Natrium<br>– Kalium<br>– Klorider<br>– Karbohydratkilde(r)<br>– Bikarbonater og/eller sitrater (dersom tilsatt) | En til sju dager | 1. Anbefalt mengde elektrolytter per liter ferdigblandet drikk til fôring:<br>Natrium: 1.7 g–3.5 g<br>Kalium: 0.4 g–2 g<br>Klorider: 1 g–2,8 g<br>2. Når det gjelder fast fôr, bør den anbefalte elektrolyttmengden beregnes på grunnlag av et normalt daglig frivillig inntak av vann.<br>3. Følgende skal angis på merkingen:<br>– «Ved risiko for, i perioder med eller ved rekonvalesens etter fordøyelsesforstyrrelser (diaré).»<br>– «Det anbefales å rådføre seg med veterinær før bruk og før bruksperioden forlenges.»<br>4. Følgende skal angis i bruksanvisningen:<br>– Anbefalt inntak av den ferdigblandede drikken og eventuelt av melk.<br>– Dersom innholdet av bikarbonater og/eller sitrater er over 40 mmol per liter ferdigblandet drikk til fôring av drøvtyggere: «Samtidig fôring med melk bør unngås hos dyr med løypemage.» |
+| 56 | Reduksjon av risiko for tetani (hypomagnesemi) | Høyt innhold av magnesium, lett tilgjengelige karbohydrater, moderat innhold av proteiner og lavt innhold av kalium | Drøvtyggere | – Stivelse<br>– Sukker (totalt)<br>– Magnesium<br>– Natrium<br>– Kalium | Tre til ti uker i perioder med rask gressvekst | 1. Tilførsel i form av bolus er tillatt. En bolus kan inneholde opptil 20 % jern i inert, ikke-biotilgjengelig form for å øke bolusens tetthet.<br>2. Bruksanvisningen skal gi veiledning om balansen i dagsrasjonen når det gjelder tilsetning av fiberkilder og kilder til lett tilgjengelig energi.<br>3. Når det gjelder fôr til sauer, skal følgende angis på merkingen: «Særlig beregnet på søyer i laktasjon.» |
+| 57 | Reduksjon av risiko for acidose | Lavt innhold av lett gjærbare karbohydrater, og høy bufferkapasitet | Drøvtyggere | – Stivelse<br>– Sukker (totalt) | Opptil to måneder15 | 1. Tilførsel i form av bolus er tillatt. En bolus kan inneholde opptil 20 % jern i inert, ikke-biotilgjengelig form for å øke bolusens tetthet.<br>2. Bruksanvisningen skal gi veiledning om balansen i dagsrasjonen når det gjelder tilsetning av fiberkilder og kilder til lett gjærbare karbohydrater.<br>3. Når det gjelder fôr til melkekyr, skal følgende angis på merkingen: «Særlig beregnet på kyr med høy yteevne.»<br>4. Når det gjelder fôr til drøvtyggere beregnet på slakt, skal følgende angis på merkingen: «Særlig beregnet på intensivt fôrede ...16.» |
+| 58 | Reduksjon av risiko for urinveissteiner | Lavt innhold av fosfor og magnesium, og urinforsurende egenskaper | Drøvtyggere | – Kalsium<br>– Fosfor<br>– Natrium<br>– Magnesium<br>– Kalium<br>– Klorider<br>– Svovel<br>– Urinforsurende stoffer | Opptil seks uker | 1. Følgende skal angis på merkingen: «Særlig beregnet på intensivt fôrede ungdyr.»<br>2. Følgende skal angis i bruksanvisningen: «Vann bør være tilgjengelig til enhver tid.» |
+| 59 | Langtidstilførsel av sporstoffer og/eller vitaminer til beitedyr | Høyt innhold av<br>– Sporstoffer<br>og/eller<br>– vitaminer, provitaminer og kjemisk veldefinerte stoffer med tilsvarende virkninger.<br>Tilskuddsfôret kan inneholde tilsetningsstoffer i en konsentrasjon på over 100 ganger det relevante fastsatte høyeste tillatte innholdet i fullfôr. | Drøvtyggere med fungerende vom | – Navn på og samlede mengder av hvert tilsatt sporstoff, vitamin, provitamin og kjemisk veldefinert stoff med tilsvarende virkning.<br>– Mengde som frigis daglig av hvert sporstoff og/eller vitamin, dersom det brukes en bolus.<br>– Maksimal periode med kontinuerlig frigivelse av sporstoffet eller vitaminet dersom det brukes en bolus. | Opptil tolv måneder | 1. Tilførsel i form av bolus er tillatt. En bolus kan inneholde opptil 20 % jern i inert, ikke-biotilgjengelig form for å øke bolusens tetthet.<br>2. Følgende skal angis på merkingen av fôret:<br>– «Samtidig tilførsel av eventuelle tilsetningsstoffer som har et høyeste tillatte innhold og kommer fra andre kilder enn dem som inngår i en bolus, skal unngås.<br>– Før bruk anbefales det å rådføre seg med veterinær eller ernæringsfysiolog om<br>a) balansen av sporstoffer i dagsrasjonen,<br>b) status for sporstoffer i besetningen.» |
+| ►**M1** |  |  |  |  |  |  |
+| 60 | Reduksjon av risiko for melkefeber og subklinisk hypokalsemi | Lavt kation/anion-forhold<br>For hele rasjonen:<br>– Minimum forsuring via fôr med særlige ernæringsformål: 100 mEq/kg tørrstoff<br>– Mål: Innenfor et intervall fra negative verdier for DCAD17 til < 100 (mEq/kg tørrstoff)<br>eller | Melkekyr | – Kalsium<br>– Fosfor<br>– Magnesium<br>– Natrium<br>– Kalium<br>– Klorider<br>– Svovel | Fra tre uker før kalving, til kalving | Følgende skal angis i bruksanvisningen:<br>«Avslutt bruken etter kalving.» |
+|  |  | Zeolitt (natriumaluminiumsilikat) 250-500 g/dag |  | Natriumaluminiumsilikat | Fra tre uker før kalving, til kalving | Følgende skal angis i bruksanvisningen:<br>– «Mengden fôr skal begrenses for å sikre at dagsrasjonen på 500 g natriumaluminiumsilikat per dyr ikke overstiges.»<br>– Bruksperioden skal begrenses til to uker.<br>– «Avslutt bruken etter kalving.» |
+| eller<br>Tilførsel av fôrmidler beskyttet mot nedbryting i vommen som er rike på fytinsyre (> 6 %) og har et kalsiuminnhold < 0,2 %, for å oppnå et minimum på 28 g og høyst 32 g tilgjengelig kalsium per ku per dag.<br>eller |  | – Kalsium | Fra fire uker før kalving, til kalving | Følgende skal angis i bruksanvisningen:<br>«Avslutt bruken etter kalving.» |  |  |
+| Høyt kalsiuminnhold i form av lett tilgjengelige kalsiumkilder: kalsiumklorid og/eller dikalsiumfosfat og/eller kalsiumkarbonat og/eller kalsiumpropionat og/eller kalsiumformiat og/eller «enhver annen kalsiumkilde med lignende virkning»<br>Kalsium fra en eller flere av disse kildene, med et minimum på 50 g per ku per dag<br>eller |  | – Kalsium<br>– Kalsiumkilder | Fra første tegn på fødsel til to dager etter fødsel | 1. Tilførsel i form av bolus er tillatt. En bolus kan inneholde opptil 20 % jern i inert, ikke-biotilgjengelig form for å øke bolusens tetthet.<br>2. I bruksanvisningen skal det angis antall ganger fôret skal tilføres, og på hvilket tidspunkt før og etter kalving.<br>3. Følgende skal angis på merkingen: «Det anbefales å rådføre seg med ernærings­ekspert før bruk.» |  |  |
+| Kalsiumpidolat i et minimum på 5,5 g per ku per dag<br>eller |  | – Kalsium<br>– Kalsiumpidolat | Fra første tegn på fødsel til to dager etter fødsel | 1. Tilførsel i form av bolus er tillatt. En bolus kan inneholde opptil 20 % jern i inert, ikke-biotilgjengelig form for å øke bolusens tetthet. |  |  |
+|  |  | Mel av *Solanum glaucophyllum* som muliggjør frigivelse av 38-46 μg 1,25 dihydroksykolekasiferol-glykosid per dag<br>eller |  | – Mel av *Solanum glaucophyllum*<br>– Innhold av 1,25 dihydroksykolekasiferol-glykosid<br>– Råtrevler<br>– Magnesium<br>– Råfett<br>– Stivelse<br>– Vitamin D3 (totalt) som kolekalsiferol | Fra to dager før kalving, eller fra første tegn på fødsel, til ti dager etter fødsel | 1. Tilførsel i form av bolus er tillatt. En bolus kan inneholde opptil 20 % jern i inert, ikke-biotilgjengelig form for å øke bolusens tetthet.<br>2. Følgende skal angis på merkingen: «Det anbefales å rådføre seg med ernæringsekspert før bruk.» |
+|  |  | Glykosylert 1,25-dihydroksykolekalsiferol<br>fra ekstrakt av Solanum glaucophyllum<br>som muliggjør daglig frigivelse av 15-80<br>μg glykosylert 1,25 –<br>dihydroksykolekalsiferol per dag | Melkekyr | – Glykosylert 1,25-dihydroksykolekalsi-ferol fra ekstrakt av Solanum glaucophyllum<br>– Vitamin D3 (totalt) som kolekalsiferol | Én oral tilførsel av bolus som inneholder glykosylert 1,25-dihydroksykolekalsiferol fra ekstrakt av Solanum glau-cophyllum i perioden før fødsel (fra 9 dager før kalving til umiddelbart før kalving) | 1. Glykosylert 1,25-dihydroksykolekalsiferol fra ekstrakt av Solanum glaucophyllum skal gis oralt en gang i form av en bolus med daglig tilførsel av:<br>– minst 60 g kalsium per ku i løpet av en uke før kalving og 84 g per ku fram til slutten av den tredje laktasjonsperioden,<br>– minst 18 g magnesium per ku i løpet av en uke før kalving og 26 g per ku fram til slutten av den tredje laktasjonsperioden.<br><br>2. Følgende skal angis på merkingen av fôret:<br>«Bolusen skal gis bare én gang i perioden før fødselen, fra 9 dager før kalving til umiddelbart før kalving.»<br>Kalsium og magnesium skal gis daglig i følgende mengder:<br>– minst 60 g kalsium per ku i løpet av en uke før kalving og 84 g per ku fram til slutten av den tredje laktasjonsperioden,<br>– minst 18 g magnesium per ku i løpet av en uke før kalving og 26 g per ku fram til slutten av den tredje laktasjonsperioden.<br>«Det anbefales å rådføre seg med veterinær eller ernæringsfysiolog før bruk.» |
+| ◄**M1** |  |  |  |  |  |  |
+| 61 | Reduksjon av risikoen for ketose18 | – Minimumstilførsel av propan-1,2-diol eller propylenglykol:<br>250 g/dag for melkekyr<br>50 g/dag for søyer eller geiter<br>eller<br>– Minimumstilførsel av propionater (kalsium- eller natriumsalter):<br>110 g/dag for melkekyr<br>22 g/dag for søyer eller geiter<br>eller<br>– Minimum samlet tilførsel av propan-1,2-diol og propionater (natrium- eller kalsiumsalter), så lenge<br>– kombinasjonen av propan-1,2-diol og propionater for melkekyr er slik at propionater +0,44 x propan-1,2-diol > 110 g/dag<br>– kombinasjonen av propan-1,2-diol og propionater for søyer eller geiter er slik at propionater +0,44 x propan-1,2-diol > 22 g/dag | Melkekyr, søyer og geiter | – Propan-1,2-diol, dersom tilsatt<br>– Propionater i form av natrium- eller kalsiumsalter, dersom tilsatt | Mellom tre uker før og seks uker etter kalving for melkekyr<br>Mellom seks uker før og tre uker etter fødsel for søyer og geiter | 1. Tilførsel i form av bolus er tillatt. En bolus kan inneholde opptil 20 % jern i inert, ikke-biotilgjengelig form for å øke bolusens tetthet.<br>2. Følgende skal angis på merkingen: «Når kalsium- eller natriumpropionater tilføres på slutten av drektigheten, må det foretas en evaluering av mineralbalansen med tanke på risikoen for hypokalsemi etter fødsel.» |
+| 62 | Reduksjon av stressreaksjoner | – Høyt innhold av magnesium<br>og/eller<br>– Lett fordøyelige bestanddeler | Griser | – Magnesium<br>– Lett fordøyelige bestanddeler, herunder eventuelt behandlingen av dem<br>– Innhold av n-3-fettsyrer (dersom tilsatt) | En til sju dager | Det skal gis veiledning om i hvilken situasjon det er hensiktsmessig å bruke dette fôret. |
+| 63 | Reduksjon av risiko for forstoppelse | Bestanddeler som stimulerer tarmpassasjen | Purker | Bestanddeler som stimulerer tarmpassasjen | Ti til fjorten dager før og ti til fjorten dager etter grising |  |
+| 64 | Kompensasjon for utilstrekkelig tilgang på jern etter fødsel | Høyt innhold av jernforbindelser som er tillatt i funksjonsgruppen «forbindelser av sporstoffer» i kategorien «ernæringsmessige tilsetningsstoffer» som nevnt i vedlegg I til forordning [(EF) nr. 1831/2003](eu/32003r1831).<br>Tilskuddsfôret kan inneholde jern i en konsentrasjon på over 100 ganger det relevante høyeste tillatte innholdet i fullfôr. | Spedgriser og kalver | Jern (totalt) | Opptil tre uker etter fødsel | Bruksanvisningen for fôret skal sikre at det høyeste tillatte innholdet av sink i fullfôr overholdes. |
+| 65 | Kompensasjon for malabsorpsjon | Lavt innhold av mettede fettsyrer og høyt innhold av fettløselige vitaminer | Fjørfe, unntatt gjess og duer | – Prosentandel av mettede fettsyrer i forhold til det totale innholdet av fettsyrer<br>– Vitamin A (totalt)<br>– Vitamin D (totalt)<br>– Vitamin E (totalt)<br>– Vitamin K (totalt) | I de første to ukene etter klekking |  |
+| 66 | Reduksjon av risiko for fettleversyndrom | Lavt energiinnhold og høy andel av omsettelig energi fra lipider med et høyt innhold av flerumettede fettsyrer | Verpehøner | – Energiinnhold (beregnet etter EF-metode)<br>– Prosentandel omsettelig energi fra lipider<br>– Innhold av flerumettede fettsyrer | Opptil tolv uker |  |
+| 67 | Støtte ved forberedelser til og restitusjon etter trening og konkurranse | Høyt innhold av selen og et laveste tillatte innhold på 50 mg vitamin E per kg fullfôr med et vanninnhold på 12 %.<br>Tilskuddsfôret kan inneholde selenforbindelser i en konsentrasjon på over 100 ganger det høyeste tillatte innholdet i fullfôr. | Dyr av hestefamilien | – Vitamin E (totalt)<br>– Selen (totalt) | Opptil åtte uker før trening og konkurranse – opptil fire uker etter trening og konkurranse | Bruksanvisningen for fôret skal sikre at det høyeste tillatte innholdet av sink i fullfôr overholdes. |
+| 68 | Kompensasjon for tap av elektrolytter ved kraftig svetting | Må inneholde natriumklorid og bør inneholde kaliumklorid.<br>Lavt innhold av magnesium, kalsium og fosfor<br>Tilsetning av andre elektrolyttsalter er valgfritt. | Dyr av hestefamilien | – Natrium<br>– Klorider<br>– Kalium<br>– Kalsium<br>– Magnesium<br>– Fosfor | En til tre dager etter kraftig svetting. | 1. Det skal gis veiledning om i hvilke situasjoner det er hensiktsmessig å bruke fôret.<br>2. Bruksanvisningen skal inneholde retningslinjer for tilførsel basert på varigheten og intensiteten av aktiviteten som utføres, og sett i forhold til fôrets sammensetning og presentasjon.<br>3. Følgende skal angis på merkingen:<br>– «Vann bør være tilgjengelig til enhver tid.»<br>– Når elektrolytter tilføres på annen måte enn ved at de blandes i vann (f.eks. via fôret eller med sprøyte): «Vann må være tilgjengelig i minst 20 minutter og helst i 1 time etter tilførsel.»<br>4. Dessuten skal det anbefales å overvåke vanninntaket etter dette. Dersom det observeres for lavt vanninntak, bør det søkes råd fra veterinær.<br>5. Valgfritt kan det også gis veiledning om vannmengden (i liter) som skal gis sammen med elektrolytter som tilføres via fôret eller med sprøyte. |
+| 69 | Støtte av energistoff­skiftet og muskel­funksjonen ved rabdomyolyse | Stivelse og sukker: ikke mer enn 20 % av tilgjengelig energi.<br>Råfett: mer enn 20 % av tilgjengelig energi<br>Minst 2 000 IU/kg fullfôr med et vanninnhold på 12 % | Dyr av hestefamilien | – Stivelse<br>– Sukker<br>– Råfett<br>– Vitamin E (totalt) | Innledningsvis i minst tre måneder | 1. Det skal gis veiledning om i hvilke situasjoner det er hensiktsmessig å bruke dette fôret.<br>2. Bruksanvisningen skal inneholde veiledning om balansert sammensetning av dagsrasjonen og anbefalt daglig inntak.<br>3. Følgende skal angis på merkingen: «Det anbefales å rådføre seg med veterinær før bruk.» |
+| 70 | Kompen­sasjon for kroniske fordøyelses­forstyrrelser i tykktarmen | – Stivelsesinnhold < 1 g per kg kroppsvekt per rasjon (< 0,5 g per kg kroppsvekt per rasjon ved diaré)<br>– Korn som har gjennomgått hydrotermisk behandling, f.eks. ekstrudering, mikronisering, ekspandering eller flakframstilling, for å forbedre fordøyelsen av stivelse i tynntarmen<br>– Ytterligere tilførsel av vannløselige vitaminer og egnede mengder mineraler/elektrolytter<br>– Ytterligere tilførsel av olje dersom det ikke forekommer diaré | Dyr av hestefamilien | – Stivelse<br>– Råfett | I lang tid eller til problemet er løst | 1. Det skal gis veiledning om<br>– i nøyaktig hvilke situasjoner det er hensiktsmessig å bruke fôret, særlig hvorvidt produktet er beregnet på å brukes til dyr med samtidig diaré,<br>– rasjonsstørrelse og fôrinntak.<br>2. I bruksanvisningen skal det, avhengig av oljeinnholdet, vises til potensiell gradvis bruk og anbefales overvåking for diaré.<br>3. Merkingen skal inneholde opplysninger om behandlingen av kornet. |
+| 71 | Kompen­sasjon for kronisk nedsatt tynntarms­funksjon | – Lett fordøyelige fibre<br>– Kilder til protein av høy kvalitet og lysin > 4,3 % av råprotein<br>– Totalt innhold av sukker og stivelse for å gi maksimalt 0,5 g per kg kroppsvekt per rasjon<br>– Korn som har gjennomgått hydrotermisk behandling, f.eks. ekstrudering, mikronisering, ekspandering eller flakframstilling, for å forbedre fordøyelsen før blindtarmen | Dyr av hestefamilien | – Lett fordøyelige fôrmidler, herunder eventuelt behandlingen av dem<br>– Sukker og stivelse totalt<br>– Proteinkilder | I lang tid eller til problemet er løst | 1. Det skal gis veiledning om<br>– i nøyaktig hvilke situasjoner det er hensiktsmessig å bruke fôret,<br>– rasjonsstørrelse og fôrinntak.<br>2. I bruksanvisningen skal det, avhengig av oljeinnholdet, vises til potensiell gradvis bruk og anbefales overvåking for diaré. |
+| 72 | Stabilisering av den fysiologiske fordøyelsen | Fôrtilsetningsstoffer i funksjonsgruppen «tarmflorastabilisatorer» som nevnt i vedlegg I til forordning [(EF) nr. 1831/2003](eu/32003r1831) eller, i påvente av fornyet godkjenning som nevnt i artikkel 10 i forordning [(EF) nr. 1831/2003](eu/32003r1831), fôrtilsetningsstoffer i gruppen «mikroorganismer». | Dyrearter som tarmflorastabilisatoren eller mikroorganismen er godkjent for | Navn på og tilsatt mengde av tarmflorastabilisatoren eller mikroorganismen | Opptil fire uker | 1. Følgende skal angis på merkingen:<br>«Ved risiko for, i perioder med eller ved rekonvalesens etter fordøyelsesforstyrrelser.»<br>2. Bruksanvisningen for fôret skal sikre at det høyeste tillatte innholdet av tarmflorastabilisatoren eller mikroorganismen i fullfôr overholdes. |
+
+GP1 Ved kontroll av de kvantitative angivelsene gjelder toleransene fastsatt i vedlegg IV til forordning [(EF) nr. 767/2009](eu/32009r0767).
+
+GP2 Disse merkingsopplysningene gjelder i tillegg til de generelle merkingskravene fastsatt i forordning [(EF) nr. 767/2009](eu/32009r0767).
+
+1 Produsenten kan eventuelt anbefale bruk også ved midlertidig nyresvikt.
+
+2 Basert på en diett med en energitetthet i tørrstoffet på 4 000 kcal omsettelig energi per kg, beregnet ved bruk av formelen beskrevet i ernæringsretningslinjene fra FEDIAF (http://www.fediaf.org/self-regulation/nutrition.html). Verdiene skal tilpasses dersom energitettheten avviker fra 4 000 kcal omsettelig energi per kg.
+
+3 Dersom fôret er anbefalt ved midlertidig nyresvikt, skal den anbefalte bruksperioden være to til fire uker.
+
+4 For fôr beregnet på en særlig intoleranse kan en henvisning til intoleransen erstatte ordene «bestanddeler og næringsstoffer».
+
+5 For katter kan det tilføyes en henvisning til «leverlipidose hos katt».
+
+6 For katter kan «sykdom i nedre urinveier hos katt (FLUTD» eller «urinveissyndrom hos katt (FUS)» tilføyes.
+
+7 Undermettende egenskaper: urin forbundet med egenskaper som løser opp krystaller og steiner, og/eller egenskaper som forebygger utfelling og vekst av krystaller.
+
+8 Urin-pH ≤ 6,5.
+
+9 Metastabiliserende egenskaper: urin forbundet med egenskaper som forebygger utfelling av krystaller.
+
+10 «Eksokrin pankreassvikt» kan tilføyes.
+
+11 Anbefalt minimum av alle essensielle fettsyrer i henhold til ernæringsretningslinjene fra FEDIAF (http://www.fediaf.org/self-regulation/nutrition.html) skal overholdes i dagsrasjonen.
+
+12 Basert på en diett med en energitetthet i tørrstoffet på 3 500 kcal omsettelig energi per kg, beregnet ved bruk av formelen beskrevet i ernæringsretningslinjene fra FEDIAF (http://www.fediaf.org/self-regulation/nutrition.html). Verdiene skal tilpasses dersom energitettheten avviker fra 3 500 kcal omsettelig energi per kg.
+
+13 Omsettelig energi per kg, beregnet ved bruk av formelen beskrevet i FEDIAFs ernæringsretningslinjer for fullfôr og tilskuddsfôr til katter og hunder (2019).
+
+14 FEDIAFs ernæringsretningslinjer for fullfôr og tilskuddsfôr til katter og hunder (2019).
+
+15 Når det gjelder fôr til melkekyr: «Høyst to måneder fra begynnelsen av laktasjonen».
+
+16 Angi hvilken kategori av drøvtyggere det gjelder.
+
+17 DCAD (mEq/kg tørrstoff) = (Na + K) – (Cl + S).
+
+18 Betegnelsen «ketose» kan erstattes med «acetonemi», og personen med ansvar for merkingen kan også anbefale bruk ved rekonvalesens etter ketose.
+
+19 Beregnet med metoden Strong Ion Difference (SID-verdi): SID er forskjellen mellom summen av konsentrasjonene av sterke kationer og summen av konsentrasjonene av sterke anioner; [SID] = [mmol Na+/l] + [mmol K+/l] + [mmol Ca++/l] + [mmol Mg++/l] – [mmol Cl-/l] – [mmol andre sterke anioner/l].
