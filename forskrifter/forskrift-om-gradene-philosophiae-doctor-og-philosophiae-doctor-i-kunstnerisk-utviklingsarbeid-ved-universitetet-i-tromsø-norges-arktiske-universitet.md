@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: null
 last_updated: "2023-02-24"
-xml_hash: "b68891936e00b9d35a5c201db9f1257ccc20cac87c424fa98e7edf155f0424a7"
+xml_hash: "adebeab6d6a52e1d563ded7bf979673e109210be2e92b191e9e7307b7aa36008"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -176,6 +176,8 @@ Opptakskrav til enkeltemner på doktorgradsnivå fastsettes i emnebeskrivelsen t
 
 (2) Fakultetene har, i samråd med veilederne, ansvar for å legge til rette for at kandidatene tar regelmessig del i et aktivt miljø for forsking eller kunstnerisk utviklingsarbeid. For kandidater som har hovedtilknytning ved en annen institusjon skal avtalen mellom universitetet og den samarbeidende institusjon regulere arbeidsvilkårene og sikre at kandidaten tar del i et aktivt miljø for forsking eller kunstnerisk utviklingsarbeid.
 
+1 Etiske retningslinjer for veiledning ved UiT.
+
 ### § 15-1. Oppnevning av veiledere
 
 (1) Kandidaten skal ha minst to veiledere, og en av dem skal oppnevnes som hovedveileder. Hovedveileder skal som hovedregel være tilsett ved UiT og være oppnevnt senest ved avtaleperiodens start.
@@ -203,6 +205,8 @@ Opptakskrav til enkeltemner på doktorgradsnivå fastsettes i emnebeskrivelsen t
 (4) Veilederne skal gi råd om formulering og avgrensing av tema og problemstillinger, drøfte og vurdere hypoteser, spørsmål og metoder, drøfte resultater og tolkningen av disse, drøfte opplegg og gjennomføring av framstillingen, under dette disposisjon, språklig form, dokumentasjon mv., og gi hjelp til orientering i faglitteratur og forskningsdata etc. Videre skal veilederne veilede kandidaten i forskningsetiske spørsmål tilknyttet doktorgradsarbeidet.
 
 (5) Veilederne skal veilede kandidaten i UiTs gjeldende prinsipper og retningslinjer for forvaltning av forskningsdata.1
+
+1 Prinsipper og retningslinjer for forvaltning av forskningsdata ved UiT.
 
 ### § 16. Fremdriftsrapportering
 
@@ -246,6 +250,8 @@ Opptakskrav til enkeltemner på doktorgradsnivå fastsettes i emnebeskrivelsen t
 
 (5) Kandidaten velger selv medium og form for refleksjonsdelen og for eventuell annen dokumentasjon
 
+(6) Fakultetet bestemmer hvilke språk som kan benyttes for refleksjon og dokumentasjon.
+
 (7) Det skal leveres en kortfattet skriftlig beskrivelse av det kunstneriske doktorgradsarbeidet på engelsk og på norsk. Beskrivelsen skal offentliggjøres.
 
 ### § 18-3. Fellesarbeid
@@ -282,7 +288,7 @@ Opptakskrav til enkeltemner på doktorgradsnivå fastsettes i emnebeskrivelsen t
 
 (6) Publiserte deler av doktorgradsarbeidet eller dokumentasjon av kunstnerisk utviklingsarbeid skal som hovedregel være åpent tilgjengelig enten i tidsskrift med åpen tilgang eller i UiTs vitenarkiv. Upubliserte deler av doktorgradsarbeidet skal gjøres åpent tilgjengelig senest to år etter disputas og upubliserte monografier senest fire år etter disputas. Alle deler av en avhandling skal være åpent tilgjengelige senest innen fem år etter disputas.
 
-(7) Data, metodeoppsett, programkode og anna materiale som danner grunnlag for avhandlingen, skal gjøres åpent tilgjengelig etter [Prinsipper og retningslinjer for forvaltning av forskningsdata ved UiT.](https://uit.no/regelverk/sentraleregler)
+(7) Data, metodeoppsett, programkode og anna materiale som danner grunnlag for avhandlingen, skal gjøres åpent tilgjengelig etter [Prinsipper og retningslinjer for forvaltning av forskningsdata ved UiT](https://uit.no/regelverk/sentraleregler).
 
 ### § 20. Meldeplikt for resultater som har potensial for næringsmessig utnyttelse
 
@@ -291,6 +297,8 @@ Opptakskrav til enkeltemner på doktorgradsnivå fastsettes i emnebeskrivelsen t
 (2) For doktorgradskandidater med ekstern arbeidsgiver skal det gå fram av avtalen mellom universitetet, kandidaten og arbeidsgiveren om kandidaten har meldeplikt.
 
 (3) For kandidater uten arbeidsgiver, skal tilsvarende meldeplikt nedfelles i doktorgradsavtalen mellom fakultetet og kandidaten.
+
+1 Reglement om sikring og forvaltning av arbeidsresultater ved UiT.
 
 ### § 21. Frivillig avslutning
 
