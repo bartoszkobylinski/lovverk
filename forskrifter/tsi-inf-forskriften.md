@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-10-05"
 last_change_in_force: "2025-03-15"
 last_updated: "2023-01-11"
-xml_hash: "7e0cf88a471f70f16ca6f50c162f466e44a4c74668b73410abf454d76d43deb7"
+xml_hash: "4144a33f4e527ddce1b8a32f958c33a456eb42e0612b029b4beeebc5470fef1b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,11 +44,19 @@ Forskriften trer i kraft straks. Fra samme dato oppheves følgende andre forskri
 
 Denne teksten er kun for informasjonsformål og er ikke del av forskriften.
 
-En uoffisiell, dansk, konsolidert versjon av forordning [(EU) nr. 1299/2014](eu/32014r1299) og de endringsforordninger som er gjennomført i denne forskriften kan leses her: [[TSI INF](https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02014R1299-20230928&qid=1741178932425)]
+En uoffisiell, dansk, konsolidert versjon av forordning [(EU) nr. 1299/2014](eu/32014r1299) og de endringsforordninger som er gjennomført i denne forskriften kan leses her: [ [TSI INF](https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02014R1299-20230928&qid=1741178932425)]
 
 Forordningene må leses med EØS-tilpasninger som fremgår av [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 37o. Tilpasningene lyder som følger:
 
 Forordningens bestemmelser skal for denne avtales formål gjelde med følgende tilpasning:
+
+Etter nr. 7.7.19.11 i vedlegget tilføyes følgende:
+
+7.7.20. Særlige egenskaper ved det norske nettverket
+
+7.7.20.1. Avstand mellom spormidt og plattformkant (4.2.9.3)
+
+P-tilfeller
 
 Som fastsatt i punkt 4.2.9.3 nr. 1 skal avstanden mellom spormidten og plattformkanten parallelt med kjøreflaten (bq), som definert i avsnitt 13 i EN 15273-3:2013, beregnes med følgende verdier for tillatt ekstra overheng (Skin):på innsiden av kurven: Skin = 40,5/R,på utsiden av kurven: Skin = 31,5/R.
 
