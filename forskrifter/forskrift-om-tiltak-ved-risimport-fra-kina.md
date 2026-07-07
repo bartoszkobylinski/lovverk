@@ -13,11 +13,11 @@ ministry:
 date_in_force: "2012-01-12"
 last_change_in_force: "2026-05-15"
 last_updated: "2022-01-06"
-xml_hash: "30f07f437d60ed3eb9b4cc94a7794fb08c832bf483a95c6facd42a1049d0dd9b"
+xml_hash: "51d485e6aacd936a3fd37868c0f98de2adbaa8d2ff6f3b12e40745fc52ff3dad"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-16T06:19:44.356932+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -120,9 +120,9 @@ Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i 
 
 ## § 14. Overgangsbestemmelse
 
-1. Frem til 5. august 2013 tillater Mattilsynet import av forsendelser med produkter omfattet av [§ 2](forskrift/2012-01-12-35/§2), jf. vedlegg I, som har fysisk ankommet Norge før 4. juli 2013, selv om innførselsdokumentet ikke er oversendt til Mattilsynet en arbeidsdag før ankomsten av forsendelsen jf. [§ 5](forskrift/2012-01-12-35/§5) annet ledd, forutsatt at resten av [§ 5](forskrift/2012-01-12-35/§5) er oppfylt. Overgangsordningen gjelder ikke for produkter i vedlegg I som er omfattet av tollposisjonene ex 1905.90 og ex 21.03.9099.
+1\. Frem til 5. august 2013 tillater Mattilsynet import av forsendelser med produkter omfattet av [§ 2](forskrift/2012-01-12-35/§2), jf. vedlegg I, som har fysisk ankommet Norge før 4. juli 2013, selv om innførselsdokumentet ikke er oversendt til Mattilsynet en arbeidsdag før ankomsten av forsendelsen jf. [§ 5](forskrift/2012-01-12-35/§5) annet ledd, forutsatt at resten av [§ 5](forskrift/2012-01-12-35/§5) er oppfylt. Overgangsordningen gjelder ikke for produkter i vedlegg I som er omfattet av tollposisjonene ex 1905.90 og ex 21.03.9099.
 
-2. Frem til 5. oktober 2013 tillater Mattilsynet import av forsendelser med produkter omfattet av vedlegg I som er omfattet av tollposisjonene ex 1905.90 og ex 21.03.9099, selv om de ikke oppfyller kravene i [§ 5](forskrift/2012-01-12-35/§5) og [§ 6](forskrift/2012-01-12-35/§6), forutsatt at prøvetaking og analyse er gjennomført i tråd med [§ 7](forskrift/2012-01-12-35/§7) tredje ledd.
+2\. Frem til 5. oktober 2013 tillater Mattilsynet import av forsendelser med produkter omfattet av vedlegg I som er omfattet av tollposisjonene ex 1905.90 og ex 21.03.9099, selv om de ikke oppfyller kravene i [§ 5](forskrift/2012-01-12-35/§5) og [§ 6](forskrift/2012-01-12-35/§6), forutsatt at prøvetaking og analyse er gjennomført i tråd med [§ 7](forskrift/2012-01-12-35/§7) tredje ledd.
 
 > Endret ved [forskrift 27 juni 2013 nr. 795](forskrift/2013-06-27-795) (i kraft 4 juli 2013).
 
@@ -132,30 +132,33 @@ Denne forskriften trer i kraft straks. Samtidig oppheves [forskrift 18. april 20
 
 ## Vedlegg 1
 
-Liste over varegrupper som er omfattet av forskriften:*Varebeskrivelse:**KN-kode:**Varenummer:*Uavskallet ris («paddy» eller «rough»)1006 1010.06.1010;
-10.06.1090Avskallet («brown») ris1006 2010.06.2010;
-10.06.2090Halv- eller helslipt, også polert eller glassert1006 3010.06.3020;
-10.06.3080Bruddris1006 40 0010.06.4020;
-10.06.4080Rismel1102 90 50ex 11.02.9001;
-ex 11.02.9002Gryn og grovt mel av ris1103 19 5011.03.1910;
-11.03.1920Pelleter av ris1103 20 50ex 11.03.2000Korn, valset eller bearbeidd til flak (unntatt korn av havre, hvete, rug, mais og bygg) samt flak av ris1104 19 91;
-1104 19 99ex 11.04.1900Risstivelse1108 19 10ex 11.08.1920;
-ex 11.08.1980;
-ex 11.08.1990Næringsmidler bestemt for barn, i pakninger for detaljsalg1901 10 0019.01.1010;
-19.01.1090Pasta1902 11 00;
-1902 19;
-1902 20;
-1902 3019.02.1100;
-19.02.1900;
-19.02.2010;
-19.02.2091;
-19.02.2099;
-19.02.3001;
-19.02.3009Næringsmidler tilberedt ved oppusting eller steking av korn eller kornprodukter, av ris1904 10 30ex 19.04.1092;
-ex 19.04.1098«Müsli»-preparater på basis av ustekte flak av korn1904 20 1019.04.2010Næringsmidler fremstilt av ustekte flak av korn eller av blandinger av ustekte flak av korn og stekte flak av korn eller oppustet korn, av ris (unntatt «müsli»-preparater på basis av ustekte flak av korn)1904 20 95ex 19.04.2090Forkokt ris uten tilsetning av andre ingredienser1904 90 1019.04.9010;
-19.04.9020Rispapirex 1905 90 20ex 19.05.9098Kjeks1905 90 45ex 19.05.9034Ekstruderte eller ekspanderte produkter, krydret eller saltet1905 90 55ex 19.05.9093Ekstruderte eller ekspanderte produkter (eks. fruktterter, julekaker, panettoner, marengs, croissanter og andre bakervarer)1905 90 60ex 19.05.9093;
-ex 19.05.9098Ekstruderte eller ekspanderte produkter, ikke tilsatt sukker eller andre søtningsmidler ikke krydret eller saltet (eks. pizza, quiche og andre usøtede bakervarer)1905 90 90ex 19.05.9093;
-ex 19.05.9098Sauser og preparater for tillaging av sauser; tilberedte smaksstoffer2103 90 90ex 21.03.9099Kli, spissmel og andre reststoffer, også i form av pelleter, fra sikting, maling eller annen behandling av ris med et stivelsesinnhold som ikke overstiger 35 vektprosent2302 40 02ex 23.02.4010Kli, spissmel og andre reststoffer, også i form av pelleter, fra sikting, maling eller annen behandling av ris med et stivelsesinnhold som overstiger 35 vektprosent2302 40 08ex 23.02.4090
+Liste over varegrupper som er omfattet av forskriften:
+
+| *Varebeskrivelse:* | *KN-kode:* | *Varenummer:* |
+| --- | --- | --- |
+| Uavskallet ris («paddy» eller «rough») | 1006 10 | 10.06.1010;<br>10.06.1090 |
+| Avskallet («brown») ris | 1006 20 | 10.06.2010;<br>10.06.2090 |
+| Halv- eller helslipt, også polert eller glassert | 1006 30 | 10.06.3020;<br>10.06.3080 |
+| Bruddris | 1006 40 00 | 10.06.4020;<br>10.06.4080 |
+| Rismel | 1102 90 50 | ex 11.02.9001;<br>ex 11.02.9002 |
+| Gryn og grovt mel av ris | 1103 19 50 | 11.03.1910;<br>11.03.1920 |
+| Pelleter av ris | 1103 20 50 | ex 11.03.2000 |
+| Korn, valset eller bearbeidd til flak (unntatt korn av havre, hvete, rug, mais og bygg) samt flak av ris | 1104 19 91;<br>1104 19 99 | ex 11.04.1900 |
+| Risstivelse | 1108 19 10 | ex 11.08.1920;<br>ex 11.08.1980;<br>ex 11.08.1990 |
+| Næringsmidler bestemt for barn, i pakninger for detaljsalg | 1901 10 00 | 19.01.1010;<br>19.01.1090 |
+| Pasta | 1902 11 00;<br>1902 19;<br>1902 20;<br>1902 30 | 19.02.1100;<br>19.02.1900;<br>19.02.2010;<br>19.02.2091;<br>19.02.2099;<br>19.02.3001;<br>19.02.3009 |
+| Næringsmidler tilberedt ved oppusting eller steking av korn eller kornprodukter, av ris | 1904 10 30 | ex 19.04.1092;<br>ex 19.04.1098 |
+| «Müsli»-preparater på basis av ustekte flak av korn | 1904 20 10 | 19.04.2010 |
+| Næringsmidler fremstilt av ustekte flak av korn eller av blandinger av ustekte flak av korn og stekte flak av korn eller oppustet korn, av ris (unntatt «müsli»-preparater på basis av ustekte flak av korn) | 1904 20 95 | ex 19.04.2090 |
+| Forkokt ris uten tilsetning av andre ingredienser | 1904 90 10 | 19.04.9010;<br>19.04.9020 |
+| Rispapir | ex 1905 90 20 | ex 19.05.9098 |
+| Kjeks | 1905 90 45 | ex 19.05.9034 |
+| Ekstruderte eller ekspanderte produkter, krydret eller saltet | 1905 90 55 | ex 19.05.9093 |
+| Ekstruderte eller ekspanderte produkter (eks. fruktterter, julekaker, panettoner, marengs, croissanter og andre bakervarer) | 1905 90 60 | ex 19.05.9093;<br>ex 19.05.9098 |
+| Ekstruderte eller ekspanderte produkter, ikke tilsatt sukker eller andre søtningsmidler ikke krydret eller saltet (eks. pizza, quiche og andre usøtede bakervarer) | 1905 90 90 | ex 19.05.9093;<br>ex 19.05.9098 |
+| Sauser og preparater for tillaging av sauser; tilberedte smaksstoffer | 2103 90 90 | ex 21.03.9099 |
+| Kli, spissmel og andre reststoffer, også i form av pelleter, fra sikting, maling eller annen behandling av ris med et stivelsesinnhold som ikke overstiger 35 vektprosent | 2302 40 02 | ex 23.02.4010 |
+| Kli, spissmel og andre reststoffer, også i form av pelleter, fra sikting, maling eller annen behandling av ris med et stivelsesinnhold som overstiger 35 vektprosent | 2302 40 08 | ex 23.02.4090 |
 
 Når bare visse produkter under en kode skal undersøkes, og det ikke finnes noen særskilt underinndeling av koden i varenomenklaturen, er koden angitt med «ex» (for eksempel ex 19.05.9093: gjelder bare produkter som inneholder ris).
 
@@ -163,15 +166,35 @@ Når bare visse produkter under en kode skal undersøkes, og det ikke finnes noe
 
 ## Vedlegg II
 
+*Methods of sampling and analysis for official control regarding unauthorised genetically modified organism in rice products originating from China*
+
+*1. General provisions*
+
 Samples intended for the official control for the absence of GM rice in rice products shall be taken according to the methods described in this Annex. The bulk samples thus obtained shall be considered as representative of the lots from which they are taken.
+
+*2. Sampling*
+
+*2.1. Sampling lots of bulk commodities and preparation of the analytical samples*
 
 The number of incremental samples which make up the bulk sample and the preparation of the analytical samples shall be made in accordance with Recommendation [2004/787/EC](eu/32004d0787) and Regulation [(EC) No 152/2009](eu/32009r0152) for feed. The size of the laboratory sample shall be 2,5 kg but may be reduced to 500 grams for processed food or feed. For the purpose of Article 11(5) of Regulation [(EC) No 882/2004](eu/32004r0882*), a second laboratory sample shall be constituted from the bulk sample.
 
+*2.2. Sampling of prepacked food and feed*
+
 The number of incremental samples for the constitution of the bulk sample and the preparation of the analytical samples shall be made in accordance with CEN/TS 15568:2007 or equivalent. The size of the laboratory sample shall be 2,5 kg but may be reduced to 500 grams for processed food or feed. For the purpose of Article 11(5) of Regulation [(EC) No 882/2004](eu/32004r0882*), a second laboratory sample shall be constituted from the bulk sample.
+
+*3. Analysis of the laboratory sample*
+
+(a) The laboratory analysis at the point of origin shall be carried out in a designated AQSIQ laboratory, and prior to release for free circulation in the Union in a Member State designated official control laboratory. Screening tests shall be performed by real-time PCR according to the method published by the EU-RL GMFF ( [http://gmo-crl.jrc.ec.europa.eu](https://gmo-crl.jrc.ec.europa.eu)), for at least the following genetic elements: the CAMV (Cauliflower Mosaic Virus) 35S promoter, the NOS (nopaline synthase) terminator from Agrobacterium tumefaciens and the engineered CryIAb, CryIAc and/or CryIAb/CryIAc from Bacillus thuringiensis.
+
+(b) In the case of grain samples, the designated control laboratory shall take from the homogenised laboratory sample four analytical samples of 240 grams (equivalent 10,000 rice grains). The four analytical samples shall be ground and further analysed separately. Two extractions shall be made from each analytical sample. One PCR test for each GM genetic element shall be made for each extraction in accordance with the screening methods detailed under point 4 below.
 
 For processed products such as flour, pasta or starch one analytical sample of 125 g shall be prepared from the homogenised laboratory sample. This analytical sample shall be ground, and from this sample two extractions shall be made with one PCR test for each GM genetic element for each extraction in accordance with the screening methods detailed under point 4.
 
 The consignment shall be considered as non-compliant if at least one GM genetic element is detected in at least one analytical sample of the consignment according to the guidelines provided in the European Union Reference Laboratory for GMOs (EU RL for GMOs) report.
+
+*4. The following analytical methods shall be used:*
+
+(a) For screening for the CAMV (Cauliflower Mosaic Virus) 35S promoter and the NOS (nopaline synthase) terminator from Agrobacterium tumefaciens.
 
 ISO 21570: 2005 Methods of analysis for the detection of genetically modified organisms and derived products-quantitative nucleic acid based methods. Annex B1.
 
@@ -181,12 +204,20 @@ E. Barbau-Piednoir et al., (2010) ′SYBR®Green qPCR screening methods for the 
 
 Reiting R, Broll H, Waiblinger HU, Grohmann L (2007) Collaborative study of a T-nos real-time PCR method for screening of genetically modified organisms in food products. J Verbr Lebensm 2:116–121.
 
+(b) For screening for the engineered CryIAb, CryIAc and/or CryIAb/CryIAc from Bacillus thuringiensis.
+
 E. Barbau-Piednoir et al., (in press) ′Four new SYBR®Green qPCR screening methods for the detection of Roundup Ready®, LibertyLink® and CryIAb traits in genetically modified products′ Eur. Food Res. and Technol DOI 10.1007/s00217-011-1605-7.
 
 Following verification of the specificity of the methods by the EU-RL GMFF on a wide variety of Chinese rice samples such method shall be considered as appropriate for these screening purposes.
+
+5\. The application of the above screening methods shall take into consideration the guidance document published by the EURL for GMOs.
 
 > Endret ved [forskrift 27 juni 2013 nr. 795](forskrift/2013-06-27-795) (i kraft 4 juli 2013).
 
 ## Vedlegg III
 
+For å lese vedlegg III se her: [(pdf)](static/SF/sf-20120112-0035-01-01.pdf)
+
 ## Vedlegg IV
+
+For å lese vedlegg IV se her: [(pdf)](static/SF/sf-20120112-0035-02-01.pdf)
