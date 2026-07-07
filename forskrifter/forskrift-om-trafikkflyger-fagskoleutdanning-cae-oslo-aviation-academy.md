@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2019-11-13"
 last_change_in_force: null
 last_updated: null
-xml_hash: "419c3bfdeaa5ff5e4053514f62fdf3d4224c9662e23e78b80cc260e9a650909f"
+xml_hash: "8f40dc68a335c7a2784863de965387d4256037acb3dc4c4e6634167d57960b97"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -51,6 +51,8 @@ Studentene plikter å gjøre seg kjent med og overholde forskrifter, instruksjon
 
 ## Kapittel 2. Søknad og opptakskrav
 
+CAE-OAA har to hovedopptak hvert år, i vår- og høstsemester. Skolen kan utvide antall opptak dersom mengden av kvalifiserte søkere og/eller behov hos samarbeidende flyselskap tilsier at flere opptak må fordeles over kalenderåret.
+
 ### § 2-1. Søknad
 
 1. Tilgang til nødvendig informasjon og veiledning om skolens utdanningstilbud, opptakskrav, skolepenger og søknadsprosedyre finnes på CAE-OAAs hjemmeside: [www.cae.com/civil-aviation/become-a-pilot](https://www.cae.com/civil-aviation/become-a-pilot).
@@ -64,7 +66,7 @@ Studentene plikter å gjøre seg kjent med og overholde forskrifter, instruksjon
 3. Søkeren skal inneha gyldig medisinsk sertifikat for flygere klasse 1, eller tilsvarende for utenlandske sertifikater før studiestart.
 4. Dersom en student kan vise til tidligere gjennomført likeverdig utdanning, kan det gis fritak for deler av utdanningsløpet. Dette står beskrevet under fritak i [§ 2-3](forskrift/2019-11-13-2285/§2-3).
 5. Dersom en student kan vise til tidligere delvis gjennomført utdanning ved en annen fagskole kan det søkes om innpass i studiet ved CAE-OAA. Dette står beskrevet under innpass i [§ 2-4](forskrift/2019-11-13-2285/§2-4).
-6. Alle kandidater til opptak må gjennomføre skolens eksterne og bransjegodkjente (EFPA/APA/ITC) opptaksprøve: Adapt-test.Adapt testbatteri er utviklet av Symbiotics Ltd ([www.symbioticsltd.co.uk](https://www.symbioticsltd.co.uk)) for seleksjon av pilotkandidater. Kandidaten blir testet på områder som simultankapasitet, situasjonsoppfatning, matematikk, fysikk, engelsk språk og teknisk forståelse. Obligatoriske intervju med kandidatene er også en del av opptaket.Introduksjon til Adapt-test prosedyrer oversendes per e-post til kandidater ved påmelding.
+6. Alle kandidater til opptak må gjennomføre skolens eksterne og bransjegodkjente (EFPA/APA/ITC) opptaksprøve: Adapt-test.Adapt testbatteri er utviklet av Symbiotics Ltd ( [www.symbioticsltd.co.uk](https://www.symbioticsltd.co.uk)) for seleksjon av pilotkandidater. Kandidaten blir testet på områder som simultankapasitet, situasjonsoppfatning, matematikk, fysikk, engelsk språk og teknisk forståelse. Obligatoriske intervju med kandidatene er også en del av opptaket.Introduksjon til Adapt-test prosedyrer oversendes per e-post til kandidater ved påmelding.
 7. Opptak av søkere med utenlandsk utdanning. Språkkrav:Utfyllende informasjon følger av Fagskoleforskriften Kapittel 2, § 9.Bestått Adapt-test og oppfyllelse av ovenstående kriterier (a–g) kvalifiserer kandidaten til opptak ved første ledige klasse ved CAE-OAA. Studentopptak skjer kontinuerlig gjennom året.
 
 Forvaltningslovens regler om klageadgang kommer til anvendelse for avgjørelser om opptak. Regler om klagefrist på enkeltvedtak følger av [forvaltningsloven § 29](lov/1967-02-10/§29). Nærmere beskrivelser om klagebehandling er beskrevet i kapittel 5 i denne forskriften.
@@ -125,6 +127,8 @@ Eksamener til modulær og integrert flybesetningsutdanning må være i samsvar m
 3. Når hele den praktiske delen av utdanningen er fullført vil studenten få utstedt trafikkflygersertifikat (CPL) fra luftfartsmyndigheten (CAA-N).
 4. Studenter som avbryter utdanningen underveis, kan ved anmodning få utstedt en karakterutskrift for de deler av utdanningen som er bestått. De oppnår også studiepoeng for den delen som er bestått.
 5. For utstedelse av vitnemål eller annen dokumentasjon for fullført utdanning, må minst 30 av fagskolepoengene som skal inngå i beregningsgrunnlaget, være avlagt ved fagskolen. Det er normalt den siste fagskolen som har en student før fullført utdanningsløp, som har ansvaret for å utstede vitnemålet. Ved innpass mellom fagskoler kan det avtales særskilte ordninger for utstedelse av vitnemål mellom de berørte fagskolene.
+
+1 MCC-kurs gjelder ikke helikopterstudenter.
 
 ## Kapittel 4. Disiplinære sanksjoner
 
