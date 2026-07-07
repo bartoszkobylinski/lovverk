@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2021-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2022-03-10"
-xml_hash: "34676267aef5fc0f80dd92ca4d763effb68039b9971e8d3584d10e47ed22c18b"
+xml_hash: "ee18fa7229c9952774ea22e407350e491222e18b0ae01c82ccceafde3739d8f9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -407,7 +407,7 @@ Departementet kan gi forskrift om prøver i norsk og samfunnskunnskap og om reak
 ## Kapittel 6A Midlertidige regler for personer som har fått oppholdstillatelse etter [utlendingsloven § 34](lov/2008-05-15-35/§34) mv.
 
 > Kapittelet tilføyd ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), opphevet ved lov [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), tilføyd ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), opphevet ved lov [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026), tilføyd ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Oppheves** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
-Se forskrifter [10 juni 2022 nr. 995](forskrift/2022-06-10-995) (i kraft 16 juni 2022), [25 juni 2024 nr. 1217](forskrift/2024-06-25-1217) (i kraft 1 juli 2024) og [12 juni 2026 nr. 1077](forskrift/2026-06-12-1077) (i kraft 1 juli 2026) for overgangsregler om integreringsloven kapittel 6A.
+Se forskrifter [10 juni 2022 nr. 995](forskrift/2022-06-10-995) (i kraft 16 juni 2022) og [12 juni 2026 nr. 1077](forskrift/2026-06-12-1077) (i kraft 1 juli 2026) for overgangsregler om integreringsloven kapittel 6A.
 
 ### § 37 a. Unntak fra plikt til å delta i opplæring i mottak
 
@@ -588,6 +588,8 @@ Med tjenesteytere menes kommunale, fylkeskommunale og statlige tjenesteytere, pr
 Loven trer i kraft fra den tid1 Kongen bestemmer. Fra samme tidspunkt oppheves [lov 4. juli 2003 nr. 80](lov/2003-07-04-80) om introduksjonsordning og norskopplæring for nyankomne innvandrere.
 
 > Endret ved lov [11 juni 2021 nr. 78](lov/2021-06-11-78) (i kraft 1 aug 2022 iflg. [res. 20 mai 2022 nr. 871](forskrift/2022-05-20-871), tidligere § 50).
+
+1 Fra 1 jan 2021 iflg. [res. 6 nov 2020 nr. 2247](forskrift/2020-11-06-2247).
 
 ### § 52. Overgangsregler
 
