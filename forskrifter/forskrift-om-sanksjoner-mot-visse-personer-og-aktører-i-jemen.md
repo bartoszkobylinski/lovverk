@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-06-19"
 last_change_in_force: "2025-01-01"
 last_updated: "2026-01-09"
-xml_hash: "d1bbdff6bc719b8f79de2894f16d8e24a93e55c30e35de72cc43003398509ec3"
+xml_hash: "c1f3c67bdb5971ce4144700618ae193575068c2e340fdd785a8ca155700ec899"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -49,6 +49,8 @@ Sanksjonskomiteens liste1 omfatter fysiske eller juridiske personer, enheter og 
 Sanksjonskomiteens liste inneholder begrunnelsen for at de berørte fysiske eller juridiske personene, enhetene eller organene er listeført. Sanksjonskomiteens liste inneholder også, der det er tilgjengelig, opplysninger gitt av Sikkerhetsrådet eller av Sanksjonskomiteen som er nødvendige for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse. Listen inneholder også datoen da personene, enhetene og organene ble listeført av Sikkerhetsrådet eller av Sanksjonskomiteen.
 
 > Endret ved forskrifter [2 juni 2017 nr. 689](forskrift/2017-06-02-689), [2 mars 2021 nr. 637](forskrift/2021-03-02-637).
+
+1 Lister med personer og enheter omtalt i denne paragrafen finnes på [FNs hjemmeside](https://www.un.org/securitycouncil/sanctions/2140/materials/summaries).
 
 ## § 3a. Humanitære unntak
 
