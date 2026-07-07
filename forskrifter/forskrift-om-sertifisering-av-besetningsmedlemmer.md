@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2016-01-01"
-last_change_in_force: "2025-10-24"
+last_change_in_force: "2026-07-01"
 last_updated: "2019-03-06"
-xml_hash: "523e92783d63fcb6d3561da85d961965eef1b6d47d9ace3fb1c1e4b6ade8b0fe"
+xml_hash: "7a3dab795574b38d3e75e782b0862754b59eed78b5b56141de5574c8c13faad0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,9 +24,9 @@ eu_basis: []
 
 ## § 1. Gjennomføring av bestemmelser i henhold til EØS-avtalen
 
-[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66ne (forordning [(EU) nr. 1178/2011](eu/32011r1178)) om fastsettelse av tekniske krav og administrative framgangsmåter for flygebesetning i sivil luftfart i samsvar med europaparlamentets- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216), som endret ved:forordning [(EU) nr. 290/2012](eu/32012r0290)forordning [(EU) nr. 70/2014](eu/32014r0070)forordning [(EU) nr. 245/2014](eu/32014r0245)forordning [(EU) 2015/445](eu/32015r0445)forordning [(EU) 2016/539](eu/32016r0539)forordning [(EU) 2018/1065](eu/32018r1065)forordning [(EU) 2018/1119](eu/32018r1119)forordning [(EU) 2020/2193](eu/32020r2193)forordning [(EU) 2019/27](eu/32019r0027)forordning [(EU) 2018/1974](eu/32018r1974)forordning [(EU)2019/1747](eu/32019r1747)forordning [(EU) 2019/430](eu/32019r0430)forordning [(EU) 2020/359](eu/32020r0359)forordning [(EU) 2020/723](eu/32020r0723)forordning [(EU) 2021/2227](eu/32021r2227)forordning [(EU) 2024/2076](eu/32024r2076)forordning [(EU) 2024/1111](eu/32024r1111)forordning [(EU) 2025/134](eu/32025r0134)forordning [(EU) 2023/203](eu/32023r0203)gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66ne (forordning [(EU) nr. 1178/2011](eu/32011r1178)) om fastsettelse av tekniske krav og administrative framgangsmåter for flygebesetning i sivil luftfart i samsvar med europaparlamentets- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216), som endret ved:forordning [(EU) nr. 290/2012](eu/32012r0290)forordning [(EU) nr. 70/2014](eu/32014r0070)forordning [(EU) nr. 245/2014](eu/32014r0245)forordning [(EU) 2015/445](eu/32015r0445)forordning [(EU) 2016/539](eu/32016r0539)forordning [(EU) 2018/1065](eu/32018r1065)forordning [(EU) 2018/1119](eu/32018r1119)forordning [(EU) 2020/2193](eu/32020r2193)forordning [(EU) 2019/27](eu/32019r0027)forordning [(EU) 2018/1974](eu/32018r1974)forordning [(EU)2019/1747](eu/32019r1747)forordning [(EU) 2019/430](eu/32019r0430)forordning [(EU) 2020/359](eu/32020r0359)forordning [(EU) 2020/723](eu/32020r0723)forordning [(EU) 2021/2227](eu/32021r2227)forordning [(EU) 2024/2076](eu/32024r2076)forordning [(EU) 2024/1111](eu/32024r1111)forordning [(EU) 2025/134](eu/32025r0134)forordning [(EU) 2023/203](eu/32023r0203)forordning [(EU) 2025/2293](eu/32025r2293)gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
-> Endret ved forskrifter [9 juni 2016 nr. 607](forskrift/2016-06-09-607), [30 okt 2018 nr. 1636](forskrift/2018-10-30-1636), [18 des 2019 nr. 1910](forskrift/2019-12-18-1910), [26 april 2021 nr. 1296](forskrift/2021-04-26-1296), [17 sep 2024 nr. 2164](forskrift/2024-09-17-2164), [10 feb 2025 nr. 174](forskrift/2025-02-10-174), [17 juni 2025 nr. 1067](forskrift/2025-06-17-1067), [10 juli 2025 nr. 1513](forskrift/2025-07-10-1513), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093).
+> Endret ved forskrifter [9 juni 2016 nr. 607](forskrift/2016-06-09-607), [30 okt 2018 nr. 1636](forskrift/2018-10-30-1636), [18 des 2019 nr. 1910](forskrift/2019-12-18-1910), [26 april 2021 nr. 1296](forskrift/2021-04-26-1296), [17 sep 2024 nr. 2164](forskrift/2024-09-17-2164), [10 feb 2025 nr. 174](forskrift/2025-02-10-174), [17 juni 2025 nr. 1067](forskrift/2025-06-17-1067), [10 juli 2025 nr. 1513](forskrift/2025-07-10-1513), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [1 juli 2026 nr. 1483](forskrift/2026-07-01-1483).
 
 ## § 1a. (Opphevet)
 
