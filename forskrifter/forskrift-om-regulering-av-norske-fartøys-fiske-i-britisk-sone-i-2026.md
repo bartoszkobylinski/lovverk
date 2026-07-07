@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-05-11"
+last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "f02fbefe8b97e0f0cf28b56e0064fe77a627e7adc49f0324694779a119d02d2c"
+xml_hash: "6c1865b49bc4214a6015e024c9e168d1666bea898e3c1fd90606083d023b5bcf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-14T06:44:22.849555+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,7 +44,9 @@ Norske fartøy kan fiske torsk, hyse, sei og rødspette i britisk sone i Nordsj�
 
 ## § 4. Kvoter i britisk sone i ICES' statistikkområder 6.a., 5.b. og 2.a.
 
-Uten hensyn til forbudet i [§ 1](forskrift/2025-12-19-2742/§1) kan norske fartøy med adgang til å delta fiske følgende kvanta innenfor nærmere angitte områder og vilkår:Område 6.a. og 5.b.*Art**Tonn**Vilkår*Lange250 tonnFiske med lineBrosme250 tonnFiske med lineTorsk5 tonnKun bifangstBlålange50 tonnKun bifangstSkjellbrosme60 tonnKun bifangstLyr2 tonnKun bifangstAndre arter40 tonnKun bifangst Område 2.a.*Art**Tonn**Vilkår*Blåkveite400 tonnAndre arter70 tonnKun bifangst
+Uten hensyn til forbudet i [§ 1](forskrift/2025-12-19-2742/§1) kan norske fartøy med adgang til å delta fiske følgende kvanta innenfor nærmere angitte områder og vilkår:Område 6.a. og 5.b.*Art**Tonn**Vilkår*Lange250 tonnFiske med lineBrosme250 tonnFiske med lineTorsk5 tonnKun bifangstBlålange50 tonnKun bifangstSkjellbrosme60 tonnKun bifangstLyr2 tonnKun bifangstAndre arter40 tonnKun bifangstOmråde 2.a.*Art**Tonn**Vilkår*Blåkveite400 tonnAndre arter70 tonnKun bifangstFisket etter blåkveite i område 2.a. stoppes onsdag 1. juli 2026 klokken 18:00 UTC.
+
+> Endret ved forskrift [1 juli 2026 nr. 1500](forskrift/2026-07-01-1500).
 
 ## § 5. Bemyndigelse
 
