@@ -10,12 +10,12 @@ ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2026-07-01"
 last_change_in_force: "2026-06-19"
-last_updated: "2025-08-12"
-xml_hash: "500eec66c5073bd7364d0a74dfa36cbcc82484e0518e0bfadc0f71c48ea236d1"
+last_updated: "2026-07-03"
+xml_hash: "f60e0babf73452a9b374dbbd53918892db05bf8bd4799f241c314c4d3fa5056f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -490,6 +490,15 @@ Forskrifter gitt i medhold av [viltloven](lov/1981-05-29-38) gjelder også etter
 
 Departementet kan gi overgangsbestemmelser.
 
+1 Fra 1. juli 2026 iflg. [res. 20 juni 2025 nr. 1105](forskrift/2025-06-20-1105).
+
 ### § 62. Endringer i andre lover
 
 Fra det tidspunktet loven her begynner å gjelde, gjøres følgende endringer i andre lover: – – –
+
+## Vedlegg. Samisk oversettelse
+
+Se her for å lese loven på nordsamisk: [pdf-lenke](static/NL/nl-20250620-102-01-01.pdf).
+
+> Oversettelsen er levert av Landbruks- og matdepartementet. Oversettelsen er à jour per 1. juli 2026.
+Dette er en uoffisiell oversettelse av den norske versjonen av loven. Hvis det er forskjeller mellom samisk og norsk versjon, så gjelder den norske versjonen slik den er kunngjort i Norsk Lovtidend.
