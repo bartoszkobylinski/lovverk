@@ -11,16 +11,18 @@ ministry:
 date_in_force: "1993-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2023-12-05"
-xml_hash: "1b78f34ab504a6c68cebb436dd635e17d171dcb6b6edd82b0121f0e0dbe607b9"
+xml_hash: "9e54c29623a569343f6541461dce95f3530f522c056c7f4f14f27afe24ff1e2b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Lov om tvangsfullbyrdelse (tvangsfullbyrdelsesloven)
+
+**Lovdatas anmerkning:** Loven ble endret ved [innkrevingsloven](lov/2025-04-25-12) 1. januar 2026, men merk at lovendringene om utlegg kommer til gradvis anvendelse i saker om utlegg iflg. [res. 10. juni 2025 nr. 967](forskrift/2025-06-10-967) og [delegeringsvedtak 10 juni 2025 nr. 968](forskrift/2025-06-10-968). Se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene.
 
 ## Første del. Innledning
 
@@ -224,7 +226,7 @@ Om rettsmidler mot rettens avgjørelser gjelder [tvisteloven sjette del og kapit
 
 ### § 2-14. Kommunens namskompetanse
 
-En kommune har namsmyndighet etter bestemmelsene i avsnittet her for krav den har påeiendomsskatt etter [eigedomsskattelova](lov/1975-06-06-29)vann- og avløpsgebyr etter [vass- og avløpsanleggslova](lov/2012-03-16-12)gebyrer og avgifter etter [brann- og eksplosjonsvernloven](lov/2002-06-14-20)avfallsgebyr etter [forurensningsloven](lov/1981-03-13-6)gebyrer etter [vegtrafikkloven](lov/1965-06-18-4).besøksbidrag og tvangsmulkt etter besøksbidragsloven.
+En kommune har namsmyndighet etter bestemmelsene i avsnittet her for krav den har påeiendomsskatt etter [eigedomsskattelova](lov/1975-06-06-29)vann- og avløpsgebyr etter [vass- og avløpsanleggslova](lov/2012-03-16-12)gebyrer og avgifter etter [brann- og eksplosjonsvernloven](lov/2002-06-14-20)avfallsgebyr etter [forurensningsloven](lov/1981-03-13-6)gebyrer etter [vegtrafikkloven](lov/1965-06-18-4).besøksbidrag og tvangsmulkt etter [besøksbidragsloven](lov/2025-06-20-104).
 
 > Tilføyd ved [lov 11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)), endret ved lover [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/1992-06-26-86-20250620) for loven slik den lød før endringene), [20 juni 2025 nr. 104](lov/2025-06-20-104) (i kraft 1 juli 2026 iflg. [res. 20 mars 2026 nr. 445](forskrift/2026-03-20-445)).
 
@@ -329,6 +331,8 @@ Et alminnelig eller særlig tvangsgrunnlag for krav på forsinkelsesrente etter 
 Særlige tvangsgrunnlag er tvangsgrunnlagene nevnt i [§§ 7-2](lov/1992-06-26-86/§7-2), [8-2](lov/1992-06-26-86/§8-2), [9-2](lov/1992-06-26-86/§9-2), [10-2](lov/1992-06-26-86/§10-2), [11-2](lov/1992-06-26-86/§11-2), [12-2](lov/1992-06-26-86/§12-2) og [13-2](lov/1992-06-26-86/§13-2).
 
 > Endret ved lover [27 nov 1992 nr. 110](lov/1992-11-27-110) (ikr. 1 jan 1994), [14 mai 2004 nr. 25](lov/2004-05-14-25) (ikr. 1 jan 2005 iflg. [res. 14 mai 2004 nr. 751](forskrift/2004-05-14-751)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127), [15 juni 2018 nr. 37](lov/2018-06-15-37) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 887](forskrift/2018-06-15-887)).
+
+1 Jf. [EØS-avtalen art. 110](lov/1992-11-27-109/eøsl/a110).
 
 ### II. Innvendinger mot tvangsgrunnlaget m m
 
@@ -436,6 +440,8 @@ Et utenlandsk tvangsgrunnlag som nevnt i [§ 4-1](lov/1992-06-26-86/§4-1) annet
 
 > Endret ved [lov 27 nov 1992 nr. 110](lov/1992-11-27-110) (ikr. 1 jan 1994).
 
+1 Jf. [EØS-avtalen art. 110](lov/1992-11-27-109/eøsl/a110).
+
 ### § 4-18. Særlige tvangsgrunnlag
 
 Et særlig tvangsgrunnlag kan begjæres tvangsfullbyrdet når to uker er gått etter at saksøkeren har sendt skriftlig varsel til saksøkte. I varselet, som tidligst kan sendes på forfallsdagen, skal det gjøres oppmerksom på at fullbyrdelse vil bli begjært dersom kravet ikke blir oppfylt.
@@ -483,6 +489,8 @@ Begjæring kan fremsettes så vel muntlig som skriftlig. En skriftlig begjæring
 Kongen fastsetter i forskrift i hvilken utstrekning krav til innhold og vedlegg i begjæringer kan oppfylles ved at det i begjæringen vises til dokumenter som allerede er elektronisk tilgjengelige for namsfogden. Andre enn privatpersoner kan i forskrift pålegges i slike tilfeller å vise til dokumentet i stedet for å legge det ved. Som tilgjengelige for namsfogden regnes også dokumenter som er tilgjengelige for namsfogden som sekretariat for forliksrådet og dokumenter som er tilgjengelige for andre namsfogder.
 
 > Endret ved lover [27 nov 1992 nr. 110](lov/1992-11-27-110) (ikr. 1 jan 1994), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
+
+1 Jf. [EØS-avtalen art. 110](lov/1992-11-27-109/eøsl/a110).
 
 ### § 5-3. Namsfogdens og partenes ansvar for opplysning av saken
 
@@ -2291,6 +2299,8 @@ Har saksøkte forårsaket en forandring som strider mot saksøkerens rett, kan d
 Loven trer i kraft fra den tid Kongen1 bestemmer.
 
 > Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), tidligere § 16-1.
+
+1 Fra 1 jan 1993 iflg. [res. 23 okt 1992 nr. 765](forskrift/1992-10-23-765).
 
 ### § 14-2. Overgangsbestemmelser
 
