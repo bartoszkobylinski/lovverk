@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-01-01"
 last_change_in_force: null
 last_updated: "2025-01-23"
-xml_hash: "7e9e03f7413342c65339e6c808e578896646d9d85edc0f518dc2bad1c20ef8d7"
+xml_hash: "70b03fa972f69d17b7b909272a7a55dcbbe29ff47031a81410a237501002e2a5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -26,7 +26,7 @@ eu_basis: []
 
 ### § 1. Formål
 
-Formålet med denne kompensasjonsordningen er å motvirke karbonlekkasje fra Europa, grunnet økning i elektrisitetspriser som følge av EUs klimakvotesystem. Kompensasjonsordningen er regelstyrt og tett knyttet opp til metoden for beregning av støtte som angitt i ESAs retningslinjer for statsstøtte i forbindelse med i kvotehandelssystemet etter 2020 ([2020/C 317/04](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A52020XC0925(01)&from=EN)).
+Formålet med denne kompensasjonsordningen er å motvirke karbonlekkasje fra Europa, grunnet økning i elektrisitetspriser som følge av EUs klimakvotesystem. Kompensasjonsordningen er regelstyrt og tett knyttet opp til metoden for beregning av støtte som angitt i ESAs retningslinjer for statsstøtte i forbindelse med i kvotehandelssystemet etter 2020 ( [2020/C 317/04](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A52020XC0925%2801%29&from=EN)).
 
 ### § 2. Kompensasjonsordningens varighet
 
@@ -43,6 +43,25 @@ Kompensasjon etter forskriften her gjelder produksjon nevnt i [§ 4](forskrift/2
 En virksomhet har rett til kompensasjon dersom den har produksjon som faller inn under én eller flere av de næringskoder (NACE-koder) som er oppført i tabellen under.
 
 I tillegg må virksomheter som har et årlig energiforbruk som overstiger 5 GWh minst ett av de siste fire årene oppfylle kravene til energikartlegging i [vedlegg II](forskrift/2024-12-19-3395/vedleggII) og enten:implementere anbefalinger fra kartleggingsrapporten, forutsatt at tilbakebetalingstiden på investeringene ikke overstiger tre år og at kostnadene av investeringene er proporsjonale, ellersørge for at minst 30 prosent av deres kraftforbruk stammer fra fornybare energikilder, ellerbruke minst 50 prosent av kompensasjonen til å investere i prosjekter som vil lede til betydelige utslippsreduksjoner hos installasjonen og godt under utslippsstandarden («benchmarken») for tildeling av vederlagsfrie kvoter i det europeiske kvotesystemet.
+
+*Tabell 1. NACE-koder oppgitt i retningslinjene*
+
+|  | *NACE-kode (SN 2007)* | *Beskrivelse* |
+| --- | --- | --- |
+| 1. | 14.11 | Produksjon av klær av lær |
+| 2. | 24.42 | Produksjon av aluminium |
+| 3. | 20.13 | Produksjon av andre uorganiske kjemikalier |
+| 4. | 24.43 | Produksjon av bly, sink og tinn |
+| 5. | 17.11 | Produksjon av papirmasse |
+| 6. | 17.12 | Produksjon av papir og papp |
+| 7. | 24.10 | Produksjon av jern og stål, samt ferrolegeringer |
+| 8. | 19.20 | Produksjon av raffinerte petroleumsprodukter |
+| 9. | 24.44 | Produksjon av kobber |
+| 10. | 24.45 | Produksjon av ikke-jernholdige metaller ellers |
+| 11. | 20.16.40.15 | Følgende underkategori innenfor produksjon av basisplast (20.16):<br>Polyeteralkoholer, i ubearbeidde former |
+| 12. |  | Alle produktkategorier innenfor støping av jern (24.51) |
+| 13. | 23.14.12.20<br>23.14.12.40 | Følgende undersektorer innenfor produksjon av glassfibrer (23.14):<br>Matter, 'nonwovens', av glassfibre (ikke glassull)<br>Tynn duk (vlies) av glassfibre (ikke glassull) |
+| 14. | 20.11.11.50<br>20.11.12.90 | Følgende undersektorer innenfor produksjon av industrigasser (20.11):<br>Hydrogen<br>Uorganiske oksygenforbindelser av ikke-metaller, unntatt karbon-, silisium-, svovel-, diarsen og nitrogenoksider |
 
 ### § 5. Søknad om kompensasjon
 
@@ -170,7 +189,7 @@ Forskriften trer i kraft 1. januar 2025. Fra samme dato oppheves [forskrift 11. 
 
 ### Energieffektivitetsstandarder for støtteberettigede produkter angitt i [§ 4](forskrift/2024-12-19-3395/§4) som har mulighet for veksling mellom brensel og elektrisitet
 
-Forordning [(EU) 2019/331](eu/32019r0331) om tildeling av vederlagsfrie kvoter for perioden 2021–2030 som er tatt inn i [forskrift 23. desember 2004 nr. 1851 om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteforskriften) § 4-1](forskrift/2004-12-23-1851/§4-1) definerer produkter med mulighet for veksling mellom brensel og elektrisitet. For disse produktene skal energieffektivitetsstandarden beregnes ved bruk av følgende formel: $$\small\text{Energieffektivitetsstandard} = \text{US } (\text{tonn CO}_{2}/\text{tonn produkt}) \cdot \left(\frac{\text{utslipp fra elektrisitet}}{\text{direkte utslipp + utslipp fra elektrisitet}}\right) \div 0,376\:(\text{tonn CO}_{2}/MWh)$$
+Forordning [(EU) 2019/331](eu/32019r0331) om tildeling av vederlagsfrie kvoter for perioden 2021–2030 som er tatt inn i [forskrift 23. desember 2004 nr. 1851 om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteforskriften) § 4-1](forskrift/2004-12-23-1851/§4-1) definerer produkter med mulighet for veksling mellom brensel og elektrisitet. For disse produktene skal energieffektivitetsstandarden beregnes ved bruk av følgende formel: $$\\small\\text{Energieffektivitetsstandard} = \\text{US } (\\text{tonn CO}_{2}/\\text{tonn produkt}) \\cdot \\left(\\frac{\\text{utslipp fra elektrisitet}}{\\text{direkte utslipp + utslipp fra elektrisitet}}\\right) \\div 0,376\\:(\\text{tonn CO}_{2}/MWh)$$
 
 US: Utslippsstandard for relevant produkt angitt i [vedlegg I](forskrift/2024-12-19-3395/vedleggI) del 2 i forordning [(EU) 2021/447](eu/32021r0447) om reviderte utslippsstandarder for perioden 2021–2025 som er tatt inn i [klimakvoteforskriften § 4-1 fjerde ledd](forskrift/2004-12-23-1851/§4-1/ledd/4).
 
@@ -180,7 +199,48 @@ Direkte utslipp: Utslipp (angitt i tonn CO2) fra støtteberettiget produksjon i 
 
 ### Energieffektivitetsstandarder for utvalgte støtteberettigede produkter og alternativstandard
 
-Tabell 1 viser standardverdier og årlig reduksjonsrate som skal benyttes ved beregning av energieffektivitetsstandard for det aktuelle støtteåret for et definerte produkter. For støtteberettigede produkter angitt i [§ 4](forskrift/2024-12-19-3395/§4) der det ikke er angitt en standardverdi i tabell 1 skal det benyttes en alternativstandard på 0,8 for 2021 med årlig reduksjonsrate på 1,09. Energieffektivitetsstandardene og alternativstandarden skal reduseres med en årlig reduksjonsrate etter følgende formel: $$\text{Energieffektivitetsstandard}/\text{alternativstandard for år x} = \text{standard i 2021} \cdot (1 + \text{årlig reduksjonsrate})^{(år\:x\: -\: 2021)}$$
+Tabell 1 viser standardverdier og årlig reduksjonsrate som skal benyttes ved beregning av energieffektivitetsstandard for det aktuelle støtteåret for et definerte produkter. For støtteberettigede produkter angitt i [§ 4](forskrift/2024-12-19-3395/§4) der det ikke er angitt en standardverdi i tabell 1 skal det benyttes en alternativstandard på 0,8 for 2021 med årlig reduksjonsrate på 1,09. Energieffektivitetsstandardene og alternativstandarden skal reduseres med en årlig reduksjonsrate etter følgende formel: $$\\text{Energieffektivitetsstandard}/\\text{alternativstandard for år x} = \\text{standard i 2021} \\cdot (1 + \\text{årlig reduksjonsrate})^{(år\\:x\\: -\\: 2021)}$$
+
+*Tabell 1. Energieffektivitetsstandarder for utvalgte støtteberettigede produkter*
+
+| *NAC E4* | *Produkt* | *Standard i 2021* | *Enhet* | *Produk- sjons- enhet* | *Årlig reduksjons- rate i prosent* | *Definisjon av produkt* | *Prosesser dekket av produkt-*<br>*standarden* | *Relevant PRODC OM-*<br>*kode* | *Beskrivelse* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 17.11 | Kjemisk tremasse | 0,904 | MWh/tonn 90 % sdt | Tonn kjemisk tremasse | 1,09 | Kjemisk tremasse av typen dissolving- masse | Alle prosesser direkte eller indirekte knyttet til kjemisk masse-<br>produksjon, inkludert tørking, vasking og «screening», og bleking. | 17.11.11.00 | Kjemisk tremasse av typen dissolving-<br>masse |
+| 17.11 | Kjemisk tremasse | 0,329 | MWh/tonn 90 % sdt | Tonn kjemisk tremasse | 1,09 | Kjemisk soda- eller sulfat- tremasse, unntatt dissolving- masse |  | 17.11.12 .00 | Kjemisk soda- eller sulfat-<br>tremasse, unntatt dissolving-<br>masse |
+| 17.11 | Kjemisk tremasse | 0,443 | MWh/tonn 90 % sdt | Tonn kjemisk tremasse | 1,09 | Kjemisk sulfittremasse, unntatt dissolving- masse |  | 17.11.13<br>.00 | Kjemisk sulfittmasse, unntatt dissolving-<br>masse |
+| 17.11 | Halv-<br>kjemisk tremasse | 0,443 | MWh/tonn 90 % sdt | Tonn halvkjemisk tremasse | 1,09 | Halvkjemisk tremasse |  | 17.11.14<br>.00 | Mekanisk tremasse, halvkjemisk tremasse og papirmasse av cellulose- holdige fibermaterialer unntatt av tre |
+| 17.11 | Mekanisk masse | Alternativstandard | 1,09 | Mekanisk masse | Alle prosesser direkte eller indirekte knyttet til mekanisk masse-<br>produksjon, inkludert trebehandling, raffinering, vasking, bleking og varmegjenvinning |  |  |  |  |
+| 17.11 | Returfiber-<br>masse | 0,260 | MWh/tonn 90 % sdt | Tonn returfiber-<br>masse | 1,09 | Returfiber- masse | Alle prosesser direkte eller indirekte knyttet til gjenvunnet papir, inkludert<br>fortykning, dispergering og bleking | 17.11.14<br>.00 | Mekanisk tremasse, halvkjemisk tremasse og papirmasse av<br>cellulose- holdige fibermaterialer unntatt av tre |
+| 17.11 | Avsvertet returfiber-<br>masse | 0,390 | MWh/tonn 90 % sdt | Tonn avsvertet returfiber-<br>masse | 1,09 | Avsvertet returfiber- masse |  |  |  |
+| 17.12 | Avispapir | 0,801 | MWh/tonn produkt | Tonn avispapir | 1,09 | Avispapir | Alle prosesser direkte eller indirekte knyttet til produksjon av papir, inkludert raffinering, pressing og termisk tørking | 17.12.11<br>.00 | Avispapir |
+| 17.12 | Ubestrøket finpapir | 0,645 | MWh/tonn produkt | Tonn ubestrøket finpapir | 1,09 | Ubestrøket finpapir |  | 17.12.12<br>.00<br>17.12.13<br>.00<br>17.12.14<br>.10<br>17.12.14<br>.35<br>17.12.14<br>.39<br>17.12.14<br>.50<br>17.12.14<br>.70 | Ubestrøket finpapir |
+| 17.12 | Bestrøket finpapir | 0,538 | MWh/tonn produkt | Tonn bestrøket finpapir | 1,09 | Bestrøket finpapir |  | 17.12.73<br>.35<br>17.12.73<br>.37<br>17.12.73<br>.60<br>17.12.73<br>.75<br>17.12.73<br>.79<br>17.12.76<br>.00 |  |
+| 17.12 | Tissue | 0,925 | MWh/tonn produkt | Tonn tissue | 1,09 | Tissue |  | 17.12.20<br>.30<br>17.12.20<br>.55<br>17.12.20<br>.57<br>17.12.20<br>.90 | Tissue |
+| 17.12 | Testliner og fluting | 0,260 | MWh/tonn produkt | Tonn papir | 1,09 | Testliner og fluting |  | 17.12.33<br>.00<br>17.12.34<br>.00<br>17.12.35<br>.20<br>17.12.35<br>.40 | Testliner og fluting |
+| 17.12 | Ubestrøket flerlags- papir<br>og<br>-papp | 0,268 | MWh/tonn produkt | Tonn flerlagspapir og<br>-papp | 1,09 | Ubestrøket flerlagspapir og<br>-papp |  | 17.12.31<br>.00<br>17.12.32<br>.00<br>17.12.42<br>.60<br>17.12.42<br>.80<br>17.12.51<br>.10<br>17.12.59<br>.10 | Ubestrøket flerlagspapir og -papp |
+| 17.12 | Bestrøket flerlagt papir og papp | 0,403 | MWh/tonn produkt | Tonn flerlagt papir og papp | 1,09 | Bestrøket flerlagt papir og papp |  | 17.12.75<br>.00<br>17.12.77<br>.55<br>17.12.77<br>.59<br>17.12.78<br>.20<br>17.12.78<br>.50<br>17.12.79<br>.53<br>17.12.79<br>.55 | Bestrøket flerlagt papir og papp |
+| 20.13 | Svovelsyre | 0,056 | MWh/tonn produkt | Tonn svovelsyre | 1,09 | Svovelsyre;<br>oleum | Alle prosesser direkte eller indirekte knyttet til produksjon av svovelsyre | 20.13.24<br>.34 | svovelsyre; oleum |
+| 20.13 | Klor | 1,846 | MWh/tonn produkt | Tonn klor | 1,09 | Klor | Alle prosesser direkte eller indirekte knyttet til elektrolyse-<br>enheten, inkludert hjelpeprosesser | 20.13.21<br>.11 | Klor |
+| 20.13 | Silisium | 11,87 | MWh/tonn produkt | Tonn silisium | 1,09 | Silisium, unntatt silisium hvis vekt inneholder<br>≥ 99,99 %<br>silisium | Alle prosesser direkte eller indirekte knyttet til produksjon av silisium | 20.13.21<br>.70 | Silisium, unntatt silisium hvis vekt inneholder ≥ 99,99<br>v% silisium |
+| 20.13 | Silisium | 60 | MWh/tonn produkt | Tonn silisium | 1,09 | Silisium hvis vekt inneholder<br>≥ 99,99 %<br>silisium | Alle prosesser direkte eller indirekte knyttet ovnen, inkludert hjelpeprosesser | 20.13.21<br>.60 | Silisium hvis vekt inneholder ≥ 99,99 %<br>silisium |
+| 20.13 | Silisium-<br>karbid | 6,2 | MWh/tonn produkt | Tonn silisiumkarbid | 1,09 | Silisium. Karbider av silisium, også om de ikke er kjemisk definerte | Alle prosesser direkte eller indirekte knyttet til produksjon av silisiumkarbid | 20.13.64<br>.10 | Silisium. Karbider av silisium, også om de ikke er kjemisk definerte |
+| 24.10 | Basis oksygen-<br>blåst stål | 0,03385 | MWh/tonn produkt | Oksygenblåst stål | 0,60 | Ulegert stål produsert på andre måter enn i elektrisk ovner. | Sekundær- metallurgi, forvarming av ildfaste materialer, hjelpeprosesser og utstøping av valseemner. | 24.10.T1<br>.22 | Ulegert stål produsert på annen måte enn i elektrisk ovner. |
+| 24.10 |  |  |  |  |  | Legert stål, utenom rustfritt stål, produsert på andre måter enn i elektriske ovner. |  | 24.10.T1<br>.32 | Legert stål, bortsett fra rustfritt stål, produsert på annen måte enn i elektriske ovner. |
+| 24.10 |  |  |  |  |  | Rustfritt og varmresistent stål, produsert på andre måter enn i elektriske ovner. |  | 24.10.T1<br>.42 | Rustfritt og varmresistent stål, produsert på annen måte enn i elektriske ovner. |
+| 24.10 | Ferro- mangan | 2,2 | MWh/tonn produkt | Ferro- mangan som innehold er > 2 vekt-% karbon | 2,03 | Ferromangan som inneholder<br>> 2 vekt-% karbon, med granolometri ≤ 5 mm og et manganinnhold på > 65 vekt-% |  | 24.10.12<br>.10 | Ferromangan som inneholder > 2 vekt- % karbon, med granolometri ≤ 5 mm og et manganinnhold på<br>> 65 vekt- % |
+| 24.10 |  |  |  | Ferromangan som inneholder > 2 vekt-% karbon |  | Ferromangan som inneholder<br>> 2 vekt-% karbon, unntatt ferromangan medgranolometri ≤ 5 mm og et manganinnhold på > 65 vekt-% |  | 24.10.12<br>.20 | Ferromangan som inneholder > 2 vekt- % karbon, unntatt ferromangan med granolometri ≤ 5 mm og et manganinnhold på<br>> 65 vekt- % |
+| 24.10 | Ferro-<br>mangan | 1,4 | MWh/tonn produkt |  | 1,09 |  |  | 24.10.12<br>.25 | Ferro-<br>mangan som inneholder ≤ 2 vekt- % karbon |
+| 24.10 | Ferro-<br>silisium | 8,54 | MWh/tonn produkt |  | 1,09 |  |  | 24.10.12<br>.35 | Ferro- silisium som inneholder > 55<br>vekt-% silisium |
+| 24.10 | Ferro- silisium | Alternativstandard | 1,09 |  |  | 24.10.12.3<br>6 | Ferrosilisium som inneholder<br>≤ 55 vekt- % silisium og ≥ 4 vekt- %, men ≤ 10 vekt-%, magnesium |  |  |
+| 24.10 | Ferronikkel | 9,28 | MWh/tonn produkt | Ferronikkel | 1,09 | Ferronikkel |  | 24.10.12<br>.40 | Ferronikkel |
+| 24.10 | Ferrosilico-<br><br>mangan | 3,419 | MWh/tonn produkt | Ferrosilico-<br>mangan | 1,12 | Ferrosilico- mangan |  | 24.10.12<br>.45 | Ferrosilico-<br>mangan |
+| 24.42 | Primær-<br>aluminium | 13,90 | MWh/tonn produkt | Ubearbeidd aluminium | 0,25 | Ubearbeidd aluminium fra elektrolyse |  | 24.42.11<br>.30 | Ubearbeidd, ulegert aluminium (unntatt aluminium pulver og flak) |
+|  |  |  |  |  |  |  |  | 24.42.11<br>.53 | Ubearbeidet legert aluminium i primær form (unntatt aluminium pulver og flak) |
+|  |  |  |  |  |  |  |  | 24.42.11<br>.54 | Ubearbeidet legert aluminium (unntatt aluminium pulver og flak) |
+| 24.42 | Aluminium-<br>oksid (raffinering) | 0,20 | MWh/tonn produkt | aluminium-<br>oksid | 1,11 |  | Alle prosesser direkte eller indirekte knyttet til produksjon av aluminiumoksid | 24.42.12<br>.00 | aluminium-<br>oksid, unntatt kunstig korund |
+| 24.43 | Sinkelektro- lyse | 3,994 | MWh/tonn produkt | Sink | 0,01 | Primær sink | Alle prosesser direkte eller indirekte knyttet til enheter for sinkelektrolyse, inkludert hjelpeprosesser | 24.43.12<br>.30 | Ubearbeidd sink, ulegert (unntatt sinkstøv, pulver og flak) |
+|  |  |  |  |  |  |  |  | 24.43.12<br>.50 | Ubearbeidd sink, legeringer (unntatt sinkstøv, pulver og flak) |
+| 24.44 | Ubearbeidd raffinert kobber | 0,31 | MWh/tonn produkt | Kobber katoder | 1,09 | Kobber katoder | Alle prosesser direkte eller indirekte knyttet til elektrolytiske raffinerings-<br>prosesser, inkludert anodestøping «on-site» der det er relevant | 24.44.13<br>.30 | Raffinert kobber, ubearbeidd, ulegert (unntatt rullede, ekstruderte eller<br>«forged sintered» produkter) |
 
 ## Vedlegg II. Krav til energikartlegging
 
