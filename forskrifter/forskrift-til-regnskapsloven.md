@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2007-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: null
-xml_hash: "e0227c1357bb071b6f93a042e184a8fe490da6a53445fb70992c0fa135db7311"
+xml_hash: "c48618e5ed039f7103be4494337e50c7a897d46635578cf47015ab77f8ed0ea2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -110,7 +110,7 @@ Regnskapspliktige som utleverer årsregnskap mv. i form av papirkopier eller ele
 
 ### § 8-2-1. Innsending til Regnskapsregisteret – krav til dokumentene og oversendelsen
 
-Dokumenter som etter [regnskapsloven § 8-2](lov/1998-07-17-56/§8-2) første ledd skal sendes til Regnskapsregisteret, skal sendes inn elektronisk via Altinn ([http://www.altinn.no](https://www.altinn.no)). Dokumenter som nevnt i første punktum skal sendes inn samlet og være tydelig lesbare. Plikten etter første punktum gjelder ikke for regnskapspliktige som er indre selskaper, eller regnskapspliktige som er setter opp sine årsregnskap i samsvar med internasjonale regnskapsstandarder etter [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9), hvor resultatregnskap og balanse avviker fra oppstillingsplanene etter [regnskapsloven kapittel 6](lov/1998-07-17-56/kap6). Regnskapspliktige som nevnt i tredje punktum skal sende inn dokumenter som nevnt i første punktum i et ikke direkte redigerbart pdf-format per e-post til Regnskapsregisteret.
+Dokumenter som etter [regnskapsloven § 8-2](lov/1998-07-17-56/§8-2) første ledd skal sendes til Regnskapsregisteret, skal sendes inn elektronisk via Altinn ( [http://www.altinn.no](https://www.altinn.no)). Dokumenter som nevnt i første punktum skal sendes inn samlet og være tydelig lesbare. Plikten etter første punktum gjelder ikke for regnskapspliktige som er indre selskaper, eller regnskapspliktige som er setter opp sine årsregnskap i samsvar med internasjonale regnskapsstandarder etter [regnskapsloven § 3-9](lov/1998-07-17-56/§3-9), hvor resultatregnskap og balanse avviker fra oppstillingsplanene etter [regnskapsloven kapittel 6](lov/1998-07-17-56/kap6). Regnskapspliktige som nevnt i tredje punktum skal sende inn dokumenter som nevnt i første punktum i et ikke direkte redigerbart pdf-format per e-post til Regnskapsregisteret.
 
 Dokumentene skal vedlegges et oversendelsesbrev på blankett fastsatt av Regnskapsregisteret som angir den regnskapspliktiges organisasjonsnummer, foretaksnavn, forretningsadresse, regnskapsåret og dato for fastsettelse av årsregnskapet. Det skal opplyses om den regnskapspliktige er morselskap i konsern. For aksjeselskaper skal det i oversendelsesbrevet dessuten opplyses om:selskapet har truffet beslutning om at selskapets årsregnskap ikke skal revideres,årsregnskapet er utarbeidet av ekstern autorisert regnskapsfører,ekstern autorisert regnskapsfører i løpet av regnskapsåret har bistått ved den løpende regnskapsføringen eller utført andre tjenester for selskapet enn å utarbeide årsregnskapet.
 
@@ -148,7 +148,7 @@ Regnskapsregisterets vedtak i sak om ettergivelse av forsinkelsesgebyr, jf. [reg
 
 ### § 8-3-4. Utsatt frist for påløpt forsinkelsesgebyr ved bruk av Altinn
 
-Fristen etter [regnskapsloven § 8-3](lov/1998-07-17-56/§8-3) første ledd første punktum utsettes med én måned dersom innsending foretas elektronisk via Altinn ([http://www.altinn.no](https://www.altinn.no)) og dokumentene ikke har mangler som gjør at de ikke kan godkjennes som årsregnskap mv. Fristen etter [regnskapsloven § 8-3](lov/1998-07-17-56/§8-3) første ledd annet punktum er tilsvarende 1. mars.
+Fristen etter [regnskapsloven § 8-3](lov/1998-07-17-56/§8-3) første ledd første punktum utsettes med én måned dersom innsending foretas elektronisk via Altinn ( [http://www.altinn.no](https://www.altinn.no)) og dokumentene ikke har mangler som gjør at de ikke kan godkjennes som årsregnskap mv. Fristen etter [regnskapsloven § 8-3](lov/1998-07-17-56/§8-3) første ledd annet punktum er tilsvarende 1. mars.
 
 Fristene i første ledd gjelder for regnskapsår avsluttet på en dato fra 1. juli 2004 til 30. juni 2015.
 
