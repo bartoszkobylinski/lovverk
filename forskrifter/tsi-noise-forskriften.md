@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-11-12"
 last_change_in_force: "2025-03-15"
 last_updated: "2023-01-11"
-xml_hash: "7d8556b5b3ca1edb303c1749789970994e04b7cf1875bbaf3ca0d1b29b9bd709"
+xml_hash: "8bc0db1d37e5db28b803ae9a6737d1506ba7427b9e8ecd7384ad89c63e7f382e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,9 +44,11 @@ Forskriften trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 5. dese
 
 Denne teksten er kun for informasjonsformål og er ikke del av forskriften.
 
-En uoffisiell, dansk, konsolidert versjon av forordning [(EU) nr. 1304/2014](eu/32014r1304) og de endringsforordninger som er gjennomført i denne forskriften kan leses her: [[TSI NOISE](https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02014R1304-20230928&qid=1741189672980)]
+En uoffisiell, dansk, konsolidert versjon av forordning [(EU) nr. 1304/2014](eu/32014r1304) og de endringsforordninger som er gjennomført i denne forskriften kan leses her: [ [TSI NOISE](https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02014R1304-20230928&qid=1741189672980)]
 
 Forordningene må leses med EØS-tilpasninger som fremgår av [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 37ai. Tilpasningene lyder som følger:
+
+Forordningens bestemmelser skal for denne avtales formål gjelde med følgende tilpasning:
 
 1. I vedleggets avsnitt 7.3.2.3 bokstav a) tilføyes ordene 'Norge og' før ordet 'Sverige',
 2. I vedleggets avsnitt 7.3.2.4 bokstav b) tilføyes ordene 'Norge og' før ordet 'Sverige'.
