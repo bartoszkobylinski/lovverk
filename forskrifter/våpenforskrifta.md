@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Justis- og beredskapsdepartementet"
 date_in_force: "2021-06-01"
-last_change_in_force: "2026-05-27"
+last_change_in_force: "2026-07-02"
 last_updated: null
-xml_hash: "088513b0b72c843e0b0e1e8f6940dc8603db6904f1e2778ce529c46d3655e343"
+xml_hash: "e4537669614214aa5cf9ad694400a8711cca4eb0cc98579b088f65a722da368a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-30T06:43:29.855289+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -94,11 +94,11 @@ Ved erverv etter tredje ledd skal den næringsdrivande sende melding til politie
 
 ### § 2-5. Krav til løyve for erverv av våpenmagasin med stor patronkapasitet
 
-Den som vil erverve eller ha lause våpenmagasin til løyvepliktige skytevåpen med større patronkapasitet enn fem for haglevåpen, 10 for rifler eller 20 for pistolar, må ha løyve etter [§ 4-4](forskrift/2021-05-07-1452/§4-4) andre og tredje ledd, [§ 4-12](forskrift/2021-05-07-1452/§4-12) andre ledd, [§ 5-6](forskrift/2021-05-07-1452/§5-6), [§ 5-8](forskrift/2021-05-07-1452/§5-8) eller [§ 5-9](forskrift/2021-05-07-1452/§5-9) i denne forskrifta eller [våpenlova § 10](lov/2018-04-20-7/§10).
+Den som vil erverve eller ha lause våpenmagasin til løyvepliktige skytevåpen med større patronkapasitet enn fem for haglevåpen, 10 for rifler eller 20 for pistolar, må ha løyve etter [§ 4-4 andre](forskrift/2021-05-07-1452/§4-4/ledd/2), [tredje](forskrift/2021-05-07-1452/§4-4/ledd/3) og [fjerde ledd](forskrift/2021-05-07-1452/§4-4/ledd/4), [§ 4-12 andre ledd](forskrift/2021-05-07-1452/§4-12/ledd/2), [§ 5-6](forskrift/2021-05-07-1452/§5-6), [§ 5-8](forskrift/2021-05-07-1452/§5-8) eller [§ 5-9](forskrift/2021-05-07-1452/§5-9) i denne forskrifta eller [våpenlova § 10](lov/2018-04-20-7/§10).
 
 Kravet til løyve etter første ledd gjeld ikkje for personar som driv næringsverksemd etter [våpenlova § 23](lov/2018-04-20-7/§23).
 
-> Endra ved [forskrift 27 mai 2026 nr. 911](forskrift/2026-05-27-911).
+> Endra ved forskrifter [27 mai 2026 nr. 911](forskrift/2026-05-27-911), [2 juli 2026 nr. 1501](forskrift/2026-07-02-1501).
 
 ### § 2-6. Ammunisjon som er friteke frå løyveplikt
 
