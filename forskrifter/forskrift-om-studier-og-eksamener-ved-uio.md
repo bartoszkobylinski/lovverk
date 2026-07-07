@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Kunnskapsdepartementet"
 date_in_force: "2006-01-01"
-last_change_in_force: "2026-04-24"
+last_change_in_force: "2026-06-29"
 last_updated: "2007-05-08"
-xml_hash: "67a0504503629e95fb40ebe17137efea171d30741ff50adec29706c114d54a1d"
+xml_hash: "28671cc08c871fca67d4b623ac3f8877878453a93e15177523989b5561ee700f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-30T06:25:40.160175+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -220,7 +220,9 @@ Fastsatt med hjemmel i [§ 3-4](lov/2024-03-08-9/§3-4), [§§ 9-1](lov/2024-03-
 
 (6) Fakultetet selv kan i nærmere regler til [§ 3-5](forskrift/2005-12-20-1798/§3-5) fastsette bestemmelser om godskriving, fritak og godkjenning for bestemte grader, studieprogram, emnegrupper eller emner ved fakultetet.
 
-> Endret ved [forskrifter 30 juni 2006 nr. 974](forskrift/2006-06-30-974) (med virkning fra 1 jan 2006), [1 april 2009 nr. 393](forskrift/2009-04-01-393), [18 juni 2024 nr. 1520](forskrift/2024-06-18-1520) (i kraft 1 aug 2024).
+(7) Interne og eksterne emner som kan godkjennes i henhold til [uh-lovens §§ 9-1](lov/2024-03-08-9/§9-1) og [9-3](lov/2024-03-08-9/§9-3) og er bestått de siste ti år, kan inngå i mastergraden i rettsvitenskap. Etter søknad kan fakultetet godkjenne at også emner som er eldre enn ti år inngår i graden. Juridiske emner som kan inngå i studieprogrammet, og som er avlagt de siste ti årene, kan medføre godkjenning av eldre juridiske emner.
+
+> Endret ved [forskrifter 30 juni 2006 nr. 974](forskrift/2006-06-30-974) (med virkning fra 1 jan 2006), [1 april 2009 nr. 393](forskrift/2009-04-01-393), [18 juni 2024 nr. 1520](forskrift/2024-06-18-1520) (i kraft 1 aug 2024), [29 juni 2026 nr. 1498](forskrift/2026-06-29-1498).
 
 ### § 3-6. Examen philosophicum og examen facultatum
 
@@ -400,11 +402,38 @@ Fastsatt med hjemmel i [§ 11-7](lov/2024-03-08-9/§11-7), [§ 11-10](lov/2024-0
 
 ### § 6-1. Karaktersystem
 
-(1) Ved Universitetet i Oslo er det for UH-lovens graderte karakterskala fastsatt følgende generelle, kvalitative beskrivelser på bokmål:*Symbol**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.DBrukbarEn akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+(1) Ved Universitetet i Oslo er det for UH-lovens graderte karakterskala fastsatt følgende generelle, kvalitative beskrivelser på bokmål:
 
-(2) Ved Universitetet i Oslo er det for UH-lovens graderte karakterskala fastsatt følgende generelle, kvalitative beskrivelser på nynorsk:*Symbol**Nemning**Generell, ikkje fagspesifikk omtale av vurderingskriterium*AFramifråFramifrå prestasjon som skil seg klart ut. Kandidaten syner særs god vurderingsevne og stor grad av sjølvstende.BMykje godMykje god prestasjon. Kandidaten syner mykje god vurderingsevne og sjølvstende.CGodJamt god prestasjon som er tilfredsstillande på dei fleste områda. Kandidaten syner god vurderingsevne og sjølvstende på dei viktigaste områda.DNokså godAkseptabel prestasjon med nokre vesentlege manglar. Kandidaten syner ein viss grad av vurderingsevne og sjølvstende.ETilstrekkelegPrestasjonen tilfredsstiller minimumskrava, men heller ikkje meir. Kandidaten syner lita vurderingsevne og lite sjølvstende.FIkkje greiddPrestasjon som ikkje tilfredsstiller dei faglege minimumskrava. Kandidaten syner både manglande vurderingsevne og sjølvstende.
+| *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Brukbar | En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet. |
 
-(3) Ved Universitetet i Oslo er det for UH-lovens graderte karakterskala fastsatt følgende generelle, kvalitative beskrivelser på engelsk:*Symbol**Description**General, qualitative description of valuation criteria*AExcellentAn excellent performance, clearly outstanding. The candidate demonstrates excellent judgement and a high degree of independent thinking.BVery goodA very good performance. The candidate demonstrates sound judgement and a very good degree of independent thinking.CGoodA good performance in most areas. The candidate demonstrates a reasonable degree of judgement and independent thinking in the most important areas.DSatisfactoryA satisfactory performance, but with significant shortcomings. The candidate demonstrates a limited degree of judgement and independent thinking.ESufficientA performance that meets the minimum criteria, but no more. The candidate demonstrates a very limited degree of judgement and independent thinking.FFailA performance that does not meet the minimum academic criteria. The candidate demonstrates an absence of both judgement and independent thinking.
+(2) Ved Universitetet i Oslo er det for UH-lovens graderte karakterskala fastsatt følgende generelle, kvalitative beskrivelser på nynorsk:
+
+| *Symbol* | *Nemning* | *Generell, ikkje fagspesifikk omtale av vurderingskriterium* |
+| --- | --- | --- |
+| A | Framifrå | Framifrå prestasjon som skil seg klart ut. Kandidaten syner særs god vurderingsevne og stor grad av sjølvstende. |
+| B | Mykje god | Mykje god prestasjon. Kandidaten syner mykje god vurderingsevne og sjølvstende. |
+| C | God | Jamt god prestasjon som er tilfredsstillande på dei fleste områda. Kandidaten syner god vurderingsevne og sjølvstende på dei viktigaste områda. |
+| D | Nokså god | Akseptabel prestasjon med nokre vesentlege manglar. Kandidaten syner ein viss grad av vurderingsevne og sjølvstende. |
+| E | Tilstrekkeleg | Prestasjonen tilfredsstiller minimumskrava, men heller ikkje meir. Kandidaten syner lita vurderingsevne og lite sjølvstende. |
+| F | Ikkje greidd | Prestasjon som ikkje tilfredsstiller dei faglege minimumskrava. Kandidaten syner både manglande vurderingsevne og sjølvstende. |
+
+(3) Ved Universitetet i Oslo er det for UH-lovens graderte karakterskala fastsatt følgende generelle, kvalitative beskrivelser på engelsk:
+
+| *Symbol* | *Description* | *General, qualitative description of valuation criteria* |
+| --- | --- | --- |
+| A | Excellent | An excellent performance, clearly outstanding. The candidate demonstrates excellent judgement and a high degree of independent thinking. |
+| B | Very good | A very good performance. The candidate demonstrates sound judgement and a very good degree of independent thinking. |
+| C | Good | A good performance in most areas. The candidate demonstrates a reasonable degree of judgement and independent thinking in the most important areas. |
+| D | Satisfactory | A satisfactory performance, but with significant shortcomings. The candidate demonstrates a limited degree of judgement and independent thinking. |
+| E | Sufficient | A performance that meets the minimum criteria, but no more. The candidate demonstrates a very limited degree of judgement and independent thinking. |
+| F | Fail | A performance that does not meet the minimum academic criteria. The candidate demonstrates an absence of both judgement and independent thinking. |
 
 (4) Når UH-lovens karakterskala bestått/ikke bestått benyttes ved Universitetet i Oslo, skal dette være et selvstendig vurderingsuttrykk uten sammenheng med den graderte karakterskalaen.
 
@@ -490,11 +519,11 @@ Fastsatt med hjemmel i [§ 8-1](lov/2024-03-08-9/§8-1), [§ 8-2](lov/2024-03-08
 
 (6) En programstudent i et studieprogram som er organisert i kull, kan på fastsatt måte og innen fastsatt frist søke om overføring til lavere kull ved forsinkelse i studiegjennomføringen. Overføring til lavere kull forutsetter at det er ledig plass i kullet.
 
-(7) En programstudent som har hatt lengre fravær fra studieprogrammene i farmasi, klinisk ernæring, medisin, odontologi eller psykologi (cand.psychol.), kan av fakultetet pålegges å gjennomføre fastsatte prøver som må være godkjent før programstudenten får adgang til å gå videre i studiet.
+(7) En programstudent som har hatt lengre fravær fra studieprogrammene i farmasi, klinisk ernæring, medisin, odontologi, psykologi (cand.psychol.) eller fra spesialistutdanningen i odontologi, kan av fakultetet pålegges å gjennomføre fastsatte prøver som må være godkjent før programstudenten får adgang til å gå videre i studiet.
 
 (8) Universitetsdirektøren kan i nærmere regler til [§ 7-2](forskrift/2005-12-20-1798/§7-2) fastsette utfyllende bestemmelser om permisjon. Fakultetet selv kan i nærmere regler til [§ 7-2](forskrift/2005-12-20-1798/§7-2) fastsette egne bestemmelser om søknadsgrunner og dokumentasjon for øvrige saker i tilknytning til paragrafen her.
 
-> Endret ved [forskrifter 19 nov 2011 nr. 1124](forskrift/2011-11-19-1124), [13 juni 2012 nr. 529](forskrift/2012-06-13-529), [19 juni 2018 nr. 1014](forskrift/2018-06-19-1014), [30 juni 2020 nr. 1942](forskrift/2020-06-30-1942) (i kraft 1 okt 2020).
+> Endret ved [forskrifter 19 nov 2011 nr. 1124](forskrift/2011-11-19-1124), [13 juni 2012 nr. 529](forskrift/2012-06-13-529), [19 juni 2018 nr. 1014](forskrift/2018-06-19-1014), [30 juni 2020 nr. 1942](forskrift/2020-06-30-1942) (i kraft 1 okt 2020), [29 juni 2026 nr. 1498](forskrift/2026-06-29-1498).
 
 ### § 7-3. Krav til en programstudent mht. tap av studierett og ny studierett
 
@@ -624,6 +653,8 @@ Universitetsdirektøren kan i nærmere regler til [§ 8-4](forskrift/2005-12-20-
 
 ## § 9. Adferd og reaksjoner
 
+Fastsatt med hjemmel i [§§ 12-1](lov/2024-03-08-9/§12-1) til [12-8](lov/2024-03-08-9/§12-8) og [§ 14-1](lov/2024-03-08-9/§14-1) i [uh-loven av 8. mars 2024](lov/2024-03-08-9).
+
 (1) I saker hvor [uh-loven av 8. mars 2024](lov/2024-03-08-9) lar det være opp til styret eller institusjonens nemnd for studentsaker å fatte vedtak, skal saken ordinært avgjøres av Universitetet i Oslos nemnd for studentsaker (heretter nemnda for studentsaker).
 
 (2) Universitetsdirektøren eller fakultetet selv kan fremme sak for nemnda for studentsaker om falske dokumenter, jf. [uh-loven av 8. mars 2024 § 12-1](lov/2024-03-08-9/§12-1).
@@ -664,7 +695,11 @@ Universitetsdirektøren kan i nærmere regler til [§ 8-4](forskrift/2005-12-20-
 
 ### § 10-2. Eksamensgebyr for privatister
 
-(1) Ved Universitetet i Oslo skal privatister betale eksamensgebyr etter følgende satser:*Emner på mindre enn 30 studiepoeng**Emner på 30-40 studiepoeng**Emner på mer enn 40 studiepoeng*1 800 kr3 950 kr6 250 kr
+(1) Ved Universitetet i Oslo skal privatister betale eksamensgebyr etter følgende satser:
+
+| *Emner på mindre enn 30 studiepoeng* | *Emner på 30-40 studiepoeng* | *Emner på mer enn 40 studiepoeng* |
+| --- | --- | --- |
+| 1 800 kr | 3 950 kr | 6 250 kr |
 
 (2) Det enkelte fakultetet fastsetter hvilke emner som skal være omfattet av ordningen med eksamensgebyr for privatister. Examen philosophicum skal ikke være omfattet av ordningen.
 
@@ -688,7 +723,11 @@ Universitetsdirektøren kan i nærmere regler til [§ 8-4](forskrift/2005-12-20-
 
 (5) Forkurs i matematikk ved opptak til grunnskolelærer- og lektorutdanningen kan ha en kortere klagefrist i tråd med § 5-3 i lov 1. april 2005 nr. 15 om universiteter og høyskoler. Fakultetet selv fastsetter klagefristen.
 
-> Endret ved [forskrifter 30 juni 2006 nr. 974](forskrift/2006-06-30-974) (med virkning fra 1 jan 2006), [22 juni 2011 nr. 701](forskrift/2011-06-22-701), [19 nov 2011 nr. 1124](forskrift/2011-11-19-1124), [27 aug 2012 nr. 840](forskrift/2012-08-27-840) (i kraft 1 aug 2012), [19 juni 2018 nr. 1014](forskrift/2018-06-19-1014), [12 des 2019 nr. 1758](forskrift/2019-12-12-1758).
+(6) Bachelorprogrammet i tannteknikk overføres fra OsloMet til Universitetet i Oslo fra og med høstsemesteret 2026. Studenter med gyldig studierett på overføringstidspunktet kan fortsette på studiet ved Universitetet i Oslo. Studenter som overføres har med seg antall eksamensforsøk og omfang av forsinkelse som er påløpt ved OsloMet. Fra og med høstsemesteret 2026 utsteder Universitetet i Oslo vitnemål til alle ferdige kandidater. Fordi studieprogrammet og fagmiljøet overføres i sin helhet, skal tilknytningskravet til Universitetet i Oslo anses som oppfylt selv om kandidatene ikke har avlagt minst 60 studiepoeng ved Universitetet i Oslo.
+
+> Endret ved [forskrifter 30 juni 2006 nr. 974](forskrift/2006-06-30-974) (med virkning fra 1 jan 2006), [22 juni 2011 nr. 701](forskrift/2011-06-22-701), [19 nov 2011 nr. 1124](forskrift/2011-11-19-1124), [27 aug 2012 nr. 840](forskrift/2012-08-27-840) (i kraft 1 aug 2012), [19 juni 2018 nr. 1014](forskrift/2018-06-19-1014), [12 des 2019 nr. 1758](forskrift/2019-12-12-1758), [29 juni 2026 nr. 1498](forskrift/2026-06-29-1498).
+
+1 Ikke kunngjort i Norsk Lovtidend.
 
 ### § 10-4. Nærmere regler
 
