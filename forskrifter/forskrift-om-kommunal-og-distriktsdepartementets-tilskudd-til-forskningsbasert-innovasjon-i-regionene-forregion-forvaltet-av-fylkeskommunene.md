@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-02-15"
 last_change_in_force: "2024-05-22"
 last_updated: null
-xml_hash: "2e8a47736d47f40bc0e67a3b6ece0d81545c8e5055c6e17f6ca3570b34d7c616"
+xml_hash: "45b4bb3e9a0c8eaa6632351bf62e6f0516cbb95db70e63d3190f8d586f8533f3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -66,12 +66,18 @@ Fylkeskommunen vil i forkant av en eventuell tildeling vurdere om kumulasjonsreg
 
 Søknaden skal sendes inn gjennom Forskningsrådets søknadsportal. Følgende opplysninger må oppgis eller beskrives i alle søknader. Fylkeskommunene kan kreve ytterligere dokumentasjon.
 
+Opplysning om søker
+
 1. navn på prosjektansvarlig/søker (juridisk enhet) og organisasjonsnummer,
 2. hvem som er kontaktperson, administrativt ansvarlig, prosjektleder, forsker og ev. kompetansemegler.
+
+Økonomi
 
 1. hvilket tilskuddsbeløp det søkes om,
 2. budsjett med kostnads- og finansieringsplan,
 3. om søker på søknadstidspunktet har mottatt eller søkt om annen offentlig støtte det det inneværende år.
+
+Beskrivelse av prosjektet og forventede resultater
 
 1. prosjektet det søkes om tilskudd til, herunder mål og målgruppe,
 2. fremdriftsplan,
@@ -141,7 +147,7 @@ Fylkeskommunene kan bruke inntil 7 prosent av tildelte midler til å dekke egne 
 
 Norges forskningsråd skal bistå fylkeskommunene i forvaltningen av FORREGION.
 
-Norges forskningsråd skal levere støttetjenester til fylkeskommunenes forvaltning av FORREGION-midlene gjennom å:gi tilgang til relevante IT-systemer for utlysning av midler, søknadsbehandling og rapportering fra tilskuddsmottaker,teknisk drift av hjemmeside, ([www.regionaleforskningsfond.no](https://www.regionaleforskningsfond.no)) for offentliggjøring av utlysning,bistå med opplæring og kompetanse på FoU-administrasjon og Forskningsrådets IT-systemer som FORREGION anvender.
+Norges forskningsråd skal levere støttetjenester til fylkeskommunenes forvaltning av FORREGION-midlene gjennom å:gi tilgang til relevante IT-systemer for utlysning av midler, søknadsbehandling og rapportering fra tilskuddsmottaker,teknisk drift av hjemmeside, ( [www.regionaleforskningsfond.no](https://www.regionaleforskningsfond.no)) for offentliggjøring av utlysning,bistå med opplæring og kompetanse på FoU-administrasjon og Forskningsrådets IT-systemer som FORREGION anvender.
 
 Norges forskningsråd har ansvar for en kunnskaps- og dialogarena, i dialog med fylkeskommunene. Formålet er å utvikle og dele kunnskap om forskningsbasert innovasjon, igangsette kompetansehevende tiltak knyttet til mobiliseringsaktivteter og sikre erfaringsutveksling mellom fylkeskommunene og mellom regionalt og nasjonalt nivå.
 
