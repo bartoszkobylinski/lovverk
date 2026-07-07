@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2015-06-19"
 last_change_in_force: "2025-03-15"
 last_updated: "2023-01-11"
-xml_hash: "74bfb345567aa4683c98b31e6b80832cd71742d730397bc8788f09f9a77acd53"
+xml_hash: "04a6041ae1da35210a20800bc2c6b0fb41291528b28effe57f0b59f7d32e14a6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,9 +46,21 @@ Fra samme tidspunkt oppheves [forskrift 19. juli 2012 nr. 759](forskrift/2012-07
 
 Denne teksten er kun for informasjonsformål og er ikke del av forskriften.
 
-En uoffisiell, dansk, konsolidert versjon av forordning [(EU) nr. 1301/2014](eu/32014r1301) og de endringsforordninger som er gjennomført i denne forskriften kan leses her: [[TSI ENE](https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02014R1301-20230928&qid=1741187955970)].
+En uoffisiell, dansk, konsolidert versjon av forordning [(EU) nr. 1301/2014](eu/32014r1301) og de endringsforordninger som er gjennomført i denne forskriften kan leses her: [ [TSI ENE](https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02014R1301-20230928&qid=1741187955970)].
 
 Forordningene må leses med EØS-tilpasninger som fremgår av [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 37dn. Tilpasningene lyder som følger:
+
+Forordningens bestemmelser skal for denne avtales formål gjelde med følgende tilpasning:
+
+Etter vedleggets nr. 7.4.2.11.1 tilføyes følgende:
+
+7.4.2.12 Særtrekk ved det norske nettet
+
+7.4.2.12.1 Vurdering av gjennomsnittlig nyttespenning (6.2.4.1)
+
+P-tilfeller
+
+Som alternativ til vurdering av gjennomsnittlig nyttespenning i samsvar med punkt 15.4 i EN 50388:2012 kan strømforsyningens ytelse også vurderes ved:
 
 - En sammenlikning med en referanse der strømforsyningsløsningen har vært benyttet til liknende eller mer krevende togtrafikk. Referansen skal ha en liknende eller større:
 - avstand til den spenningsregulerte samleskinnen (stasjon med frekvensomformer)
