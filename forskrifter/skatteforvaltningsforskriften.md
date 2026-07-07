@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Finansdepartementet"
 date_in_force: "2017-01-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-02"
 last_updated: "2021-01-01"
-xml_hash: "cd92272ee6ce937431bcb49c8b190d5da902605c8b091e1062fa097257d55145"
+xml_hash: "c110423248d9b72d3fe6378de8a45a503195e4836d79a99b175b24f1d91cd2d3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1548,9 +1548,9 @@ Opplysningene skal gis elektronisk innen 31. januar året etter skattleggingsper
 
 ### § 7-11-7. Overgangsordning
 
-Den som er opplysningspliktig om formidling av utleie av fast eiendom etter [skatteforvaltningsloven § 7-5 åttende ledd](lov/2016-05-27-14/§7-5/ledd/8), kan for skattleggingsperioden 2026 enten gi opplysninger etter denne bestemmelsen eller velge å gi opplysninger etter [skatteforvaltningsloven § 7-11](lov/2016-05-27-14/§7-11). Opplysningspliktige som velger å rapportere etter de nye reglene for inntektsåret 2026, har ikke plikt til å foreta selgergjennomgang etter [§ 7-11-4](forskrift/2016-11-23-1360/§7-11-4) for eksisterende kunder dette året.
+Den som er opplysningspliktig om formidling av utleie av fast eiendom etter [skatteforvaltningsloven § 7-5 åttende ledd](lov/2016-05-27-14/§7-5/ledd/8) slik den lød før 1. januar 2026, kan for skattleggingsperioden 2026 enten gi opplysninger etter denne bestemmelsen eller velge å gi opplysninger etter [skatteforvaltningsloven § 7-11](lov/2016-05-27-14/§7-11). Opplysningspliktige som velger å rapportere etter de nye reglene for inntektsåret 2026, har ikke plikt til å foreta selgergjennomgang etter [§ 7-11-4](forskrift/2016-11-23-1360/§7-11-4) for eksisterende kunder dette året.
 
-> Tilføyd ved forskrift [25 juni 2025 nr. 1310](forskrift/2025-06-25-1310) (i kraft 1 jan 2026).
+> Tilføyd ved forskrift [25 juni 2025 nr. 1310](forskrift/2025-06-25-1310) (i kraft 1 jan 2026), endret ved forskrift [2 juli 2026 nr. 1489](forskrift/2026-07-02-1489).
 
 ### § 7-12. Kryptoeiendeler
 
