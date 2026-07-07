@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "743f6e9a3c25830970fe511a3c647f51f98c42ebdf09408618d3b057727a7e33"
+xml_hash: "20827fc31ebc75f50dfe3d1f0865813cbde2f6bb643b7486e3eedd943a5b0e81"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-02T07:28:16.500138+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,7 @@ Anskaffelse av kjøretøy som ikke kan oppfylle miljøkrav i [§ 3](forskrift/20
 
 Virksomheter som fraviker miljøkrav for personbil, varebil, og buss etter [§ 4](forskrift/2022-12-20-2384/§4), skal rapportere til Direktoratet for forvaltning og økonomistyring. Dette gjøres uten ugrunnet opphold etter at anskaffelsen er foretatt.
 
-Rapporteringen skal inneholde begrunnelse for unntak som nevnt i [§ 4](forskrift/2022-12-20-2384/§4) bokstav a–e. Rapporteringen gjøres elektronisk på fastsatt skjema ([www.anskaffelser.no/nullutslippsforskrift](https://www.anskaffelser.no/nullutslippsforskrift)).
+Rapporteringen skal inneholde begrunnelse for unntak som nevnt i [§ 4](forskrift/2022-12-20-2384/§4) bokstav a–e. Rapporteringen gjøres elektronisk på fastsatt skjema ( [www.anskaffelser.no/nullutslippsforskrift](https://www.anskaffelser.no/nullutslippsforskrift)).
 
 > Endret ved forskrift [19 des 2023 nr. 2159](forskrift/2023-12-19-2159).
 
