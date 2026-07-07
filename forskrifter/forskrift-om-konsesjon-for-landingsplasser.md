@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2007-01-11"
 last_change_in_force: null
 last_updated: null
-xml_hash: "36c4489f1aae40bd9c491ff2c25d62962a2293767f9478701afd7af4dbb52bd0"
+xml_hash: "691e7687d3bed4f6d39b0802bdf4218627f4c0a847b7d5543d8ef59ac71f52f8"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -206,7 +206,7 @@ Hensikten med avgrensningen i andre punktum er å hindre «hopping» mellom ulik
 
 *Annet ledd:* Gebyret må være innbetalt når søknaden sendes inn til Luftfartstilsynet. Luftfartstilsynet vil ikke påbegynne behandlingen av søknaden før korrekt gebyr er mottatt.
 
-Opplysning om korrekt gebyr finnes i det til enhver tid gjeldende gebyrregulativ (BSL A 1-2). Informasjon om gebyr finnes også på Luftfartstilsynets hjemmeside ([www.luftfartstilsynet.no](https://www.luftfartstilsynet.no)).
+Opplysning om korrekt gebyr finnes i det til enhver tid gjeldende gebyrregulativ (BSL A 1-2). Informasjon om gebyr finnes også på Luftfartstilsynets hjemmeside ( [www.luftfartstilsynet.no](https://www.luftfartstilsynet.no)).
 
 Gebyret betales inn til Luftfartstilsynets kontonr. 7694 05 07681. Det bør opplyses om hva gebyret gjelder, dvs. konsesjon for landingsplass og landingsplassens navn.
 
