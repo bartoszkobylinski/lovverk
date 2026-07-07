@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-03-08"
 last_change_in_force: null
 last_updated: "2022-04-22"
-xml_hash: "a79581cdcdc9126c93e7be30262708b5e05578d2cdf8458e864cb3bdcf4f692a"
+xml_hash: "0ae7106e966d22d2c8cc732ebc2e0d4687847afdb7fdac6510682419f231184a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -59,11 +59,21 @@ on the protection of geographical indications and designations of origin for agr
 EC No: IT-PDO-0117-01149 – 19.8.2013
 PGI ( ) PDO ( X )
 
+1.*Name*
+
 'Prosciutto di San Daniele'.
+
+2.*Member State or Third Country*
 
 Italy.
 
+3.*Description of the agricultural product or foodstuff*
+
+3.1.*Type of product*
+
 Class 1.2: Meat products (cooked, salted, smoked, etc.).
+
+3.2.*Description of product to which the name in (1) applies*
 
 'Prosciutto di San Daniele' is a ham that is characteristically shaped like a guitar and includes the distal part of the leg (foot). The weight of a whole 'Prosciutto di San Daniele', including the bone, is normally between 8 and 10 kg, and in any case never less than 7,5 kg. The meat is firm, tender and supple, while the fat is pure white and is in the right proportion to the lean part, which is red and pink with some streaks of fat. It has a mildly sweet taste and a more pronounced after-taste. It has a fragrant, distinctive aroma that varies according to the maturing time.
 
@@ -73,9 +83,15 @@ The above chemical parameters refer to the percentage composition of a fraction 
 
 'Prosciutto di San Daniele' may be released for consumption boned, cut up into portions of varying size and weights, or sliced. The logo is present on all types of product.
 
+3.3.*Raw materials (for processed products only)*
+
+*Live animals*
+
 The production of 'Prosciutto di San Daniele' is subject to the rules set out below:
 
 The animals used must be pure-bred pigs of the traditional Large White and Landrace breeds or animals derived from those breeds, as improved by the Italian Herd Book.Also allowed are pigs of the Duroc breed, as improved by the Italian Herd Book.Pigs of other breeds, cross-bred or hybrid, are also allowed, provided that they are bred under selection or cross-breeding schemes for the production of heavy pigs the aims of which are compatible with those of the Italian Herd Book.In keeping with the tradition, animals carrying antithetic traits are excluded, in particular those sensitive to stress (PSS).Also excluded are pure-bred Belgian Landrace, Hampshire, Pietrain, Duroc and Spotted Poland animals.Boars and brood sows may not be used.The genetic types used must ensure the achievement of high weights and satisfactory efficiency and, in any case, a live weight per animal of 160 kg ± 10%.
+
+*Fresh legs*
 
 The legs of pigs used for the preparation of 'Prosciutto di San Daniele' from heavy pig carcasses falling within Class 'U', 'R' or 'O' according to the Union grid for the classification of pig carcasses must weigh not less than 11 kg.
 
@@ -85,11 +101,19 @@ Legs from pigs with evident PSE or DFD myopathies or with obvious sequelae of pr
 
 Legs from pigs slaughtered less than 24 hours or more than 120 hours previously or which are frozen may not be used.
 
+3.4.*Feed (for products of animal origin only)*
+
 There are detailed rules to be observed regarding the use and composition of the feed ration. Feed is to be administered preferably in liquid form (gruel or wet mash), traditionally with added whey.
+
+3.5.*Specific steps in production that must take place in the identified geographical area*
 
 All stages in the production of 'Prosciutto di San Daniele', from the trimming of the fresh legs until the end of the maturing period, must take place within the municipality of San Daniele del Friuli, in the province of Udine (Italy).
 
+3.6.*Specific rules concerning slicing, grating, packaging, etc.*
+
 The packaging of the sliced product is carried out solely in the geographical area of production of 'Prosciutto di San Daniele'.
+
+3.7.*Specific rules concerning labelling*
 
 'Prosciutto di San Daniele' is subject to specific rules on product identification which apply when the raw material is produced, and when the end product is prepared and marketed.
 
@@ -103,9 +127,15 @@ The packaging of sliced 'Prosciutto di San Daniele' must bear the graphic reprod
 
 This is the same logo as that which is affixed on the hide of the matured ham and looks as follows:
 
+4.*Concise definition of the geographical area*
+
 The production of 'Prosciutto di San Daniele' must take place within the municipality of San Daniele del Friuli, in the province of Udine (Italy).
 
 The geographical area for the breeding and slaughtering of pigs intended for the production of 'Prosciutto di San Daniele' covers the territory of the following regions: Friuli-Venezia Giulia, Veneto, Lombardy, Piedmont, Emilia Romagna, Umbria, Tuscany, Marche, Abruzzo and Lazio.
+
+5.*Link with the geographical area*
+
+5.1.*Specificity of the geographical area*
 
 The area of production of 'Prosciutto di San Daniele' is geographically located in the municipality of San Daniele del Friuli in central Friuli, along the river Tagliamento, beyond which rise the first foothills of the Carnic Alps.
 
@@ -113,7 +143,11 @@ The soil of the area is of morainic origin and typically contains a high proport
 
 In addition to this draining effect of the soil, warm winds rising from the Adriatic Sea gradually cool down as they move along the course of the river Tagliamento and meet head-on with colder winds descending from the Alps in a straight flow through the Canale del Ferro del Tarvisano upstream from the Tagliamento. This creates a permanent microclimate that continuously produces gentle air circulation in the area, which, combined with the well-drained soil, ensures a low-humidity environment that is ideally suited to the maturing of ham. Because of this microclimate, it was no coincidence that, over time, the production of 'Prosciutto di San Daniele' came to be exclusively centred on the municipality after which the ham was named, while the processing of legs historically sourced from typical pig farming areas developed into a specialist skill. One of the key operations carried out by the specialist workers is the trimming of the legs. This procedure consists in removing the excess fat and muscle from the fresh leg, which gives it a specific form so that it can be pressed into the characteristic guitar shape. In addition, the pressing of the legs after trimming and salting promotes the osmotic process, which optimises the maturation of the meat.
 
+5.2.*Specificity of the product*
+
 A typical feature of 'Prosciutto di San Daniele' is the foot, i.e. the distal part of the leg, which, in contrast to most hams on the market, is not removed. The foot is left on the leg throughout the production process, which makes whole pieces of 'Prosciutto di San Daniele' immediately recognisable to consumers. In addition, the characteristic guitar shape, delicate flavour and fragrant aroma of 'Prosciutto di San Daniele' stem from the specific way in which it is prepared, namely the trimming and pressing of the legs, the addition of no other ingredients but sea salt at the start of the production process, and the long maturing time of the meat.
+
+5.3.*Causal link between the geographical area and the quality or characteristics of the product (for PDO) or a specific quality, the reputation or other characteristic of the product (for PGI)*
 
 'Prosciutto di San Daniele' comes from the geographical area of San Daniele del Friuli and essentially owes its qualities to the geographical area of production and its environmental and human characteristics.
 
@@ -121,4 +155,12 @@ The particular microclimate caused by the characteristics of the terrain and the
 
 Of key importance is the experience of the maturers who use maturing rooms with many windows in which they arrange the hams transversely to the incoming air flow to enable the 'Prosciutto di San Daniele' to mature slowly and develop its characteristic aroma.
 
+*Reference to publication of the specification*
+
+(Article 5(7) of Regulation [(EC) No 510/2006)](eu/32006r0510)
+
 The text of the product specification is available on the following web site: http://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/3339
+
+or alternatively:
+
+by going directly to the home page of the Ministry of Agricultural, Food and Forestry Policy ( [www.politicheagricole.it](https://www.politicheagricole.it)) and clicking on 'Qualità e sicurezza' (at the top right of the screen), and then on 'Disciplinari di Produzione prodotti DOP, IGP e STG'.
