@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-02-13"
 last_change_in_force: "2025-08-25"
 last_updated: null
-xml_hash: "abf574efa302d3163b23fdb4a2cf798ef7f70e3d46a88c00221d02c8699faab4"
+xml_hash: "65d53a0269527fb0a6061609ae7b955858db1a91ebe59add04187aa455953d92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -84,7 +84,7 @@ Fakultetet skal kvalitetssikre ph.d.-utdanningen i tråd med [Kvalitetssystem fo
 
 ### § 5-1. Vilkår for opptak
 
-For opptak til ph.d.-utdanning som leder frem til ph.d.-grad i kunstnerisk utviklingsarbeid ved Universitetet i Bergen må søkeren normalt ha minimum en treårig bachelorgrad og en toårig mastergrad i utøvende eller skapende kunst, i samsvar med beskrivelsene av nivå 7 i [nasjonalt kvalifikasjonsrammeverk.](https://www.nokut.no/norsk-utdanning/nasjonalt-kvalifikasjonsrammeverk-for-livslang-laring/)
+For opptak til ph.d.-utdanning som leder frem til ph.d.-grad i kunstnerisk utviklingsarbeid ved Universitetet i Bergen må søkeren normalt ha minimum en treårig bachelorgrad og en toårig mastergrad i utøvende eller skapende kunst, i samsvar med beskrivelsene av nivå 7 i [nasjonalt kvalifikasjonsrammeverk](https://www.nokut.no/norsk-utdanning/nasjonalt-kvalifikasjonsrammeverk-for-livslang-laring/).
 
 Fakultetet selv kan etter særskilt vurdering godkjenne annen likeverdig utdanning som grunnlag for opptak. Der det foreligger utdanning tilsvarende minimum treårig bachelorgrad med påbygging, kan fakultetet etter særskilt vurdering godkjenne tilsvarende kunstnerisk kompetanse, forutsatt at denne har gitt samme læringsutbytte som formalkompetansen ville gitt.
 
@@ -254,7 +254,7 @@ Med ph.d.-resultatet skal det følge et skriftlig sammendrag, et på engelsk og 
 
 Fakultetet bestemmer selv hvilke språk som kan benyttes for refleksjon og dokumentasjon.
 
-Nærmere krav til ph.d.-resultatet fastsettes i fakultetets [programbeskrivelse.](https://www.uib.no/kmd/168381/phd-programmet-ved-fakultet-kunst-musikk-og-design)
+Nærmere krav til ph.d.-resultatet fastsettes i fakultetets [programbeskrivelse](https://www.uib.no/kmd/168381/phd-programmet-ved-fakultet-kunst-musikk-og-design).
 
 > Endret ved forskrift [16 juni 2025 nr. 1035](forskrift/2025-06-16-1035).
 
