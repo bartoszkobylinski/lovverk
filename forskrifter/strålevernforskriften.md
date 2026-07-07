@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-01-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2023-08-10"
-xml_hash: "a80a5b142f50156ef1ddfc965ca96fd5606892339dd3411bee3f6cbf4e1e0398"
+xml_hash: "2aa1654e7a6c78619791ad58ceb366bb2196d3f7f6530f01337b2919a883e6e4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-02T07:28:16.500138+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -256,7 +256,13 @@ Virksomheten skal regelmessig forsikre seg om at sikkerhetsutstyr og -funksjoner
 
 ### § 27. Arbeid med åpne radioaktive strålekilder og klassifisering av isotoplaboratorium
 
-Arbeid med åpne radioaktive strålekilder skal foregå i isotoplaboratorium av type A, B eller C, avhengig av aktiviteten. Aktivitetsgrensene for de ulike typer isotoplaboratorier er som følger:*Laboratorietype**Total aktivitet som kan brukes per gang i laboratoriet*Type CInntil 10 ganger unntaksgrensen for aktivitet gitt i forskriftens vedleggType BInntil 104 ganger unntaksgrensen for aktivitet gitt i forskriftens vedleggType AOver 104 ganger unntaksgrensen for aktivitet gitt i forskriftens vedlegg
+Arbeid med åpne radioaktive strålekilder skal foregå i isotoplaboratorium av type A, B eller C, avhengig av aktiviteten. Aktivitetsgrensene for de ulike typer isotoplaboratorier er som følger:
+
+| *Laboratorietype* | *Total aktivitet som kan brukes per gang i laboratoriet* |
+| --- | --- |
+| Type C | Inntil 10 ganger unntaksgrensen for aktivitet gitt i forskriftens vedlegg |
+| Type B | Inntil 104 ganger unntaksgrensen for aktivitet gitt i forskriftens vedlegg |
+| Type A | Over 104 ganger unntaksgrensen for aktivitet gitt i forskriftens vedlegg |
 
 Aktivitetsgrensene gjelder for normalt kjemisk arbeid. For enkle arbeidsprosesser, for eksempel uttak av stamløsninger og fortynninger, kan de angitte grensene økes med inntil en faktor 10. Ved spesielt risikofylt arbeid, herunder arbeid med tørre stoffer, skal aktivitetsgrensene reduseres med en faktor 10.
 
@@ -598,7 +604,843 @@ Direktoratet for strålevern og atomsikkerhet kan gi pålegg om at virksomhet so
 
 ## Vedlegg om unntaksgrenser, jf. § 2 sjette og syvende ledd
 
-Radionuklider merket med a i tabellen over, er mornuklider i likevekt med tilhørende datterprodukter i tabellen nedenfor. Arbeid med en mornuklide i tabellen nedenfor innebærer i praksis at en også arbeider med dens datterprodukter. Strålebidraget fra disse datterproduktene er tatt hensyn til ved fastsettelsen av unntaksgrensene for de aktuelle mornuklidene. Dette medfører at aktiviteten til en mornuklide bestemmer hvilke forskriftskrav som skal gjelde, jf. [§ 2](forskrift/2016-12-16-1659/§2) sjette og syvende ledd.*Mornuklide**Datterprodukter*Ge-68Ga-68Rb-83Kr-83mSr-82Rb-82Sr-90Y-90Y-87Sr-87mZr-93Nb-93mZr-97Nb-97Ru-106Rh-106Ag-108mAg-108Sn-121mSn-121 (0,776)Sn-126Sb-126mXe-122I-122Cs-137Ba-137mBa-140La-140Ce-144Pr-144Gd-146Eu-146Hf-172Lu-172W-178Ta-178W-188Re-188Re-189Os-189m (0,241)Os-194Ir-194, Pt-194Ir-189Os-189mPt-188Ir-188Hg-194Au-194Hg-195mHg-195 (0,542)Pb-210Bi-210, Po-210Pb-212Bi-212, Tl-208 (0,36), Po-212 (0,64)Bi-210mTl-206Bi-212Tl-208 (0,36), Po-212 (0,64)Rn-220Po-216Rn-222Po-218, Pb-214, Bi-214, Po-214Ra-223Rn-219, Po-215, Pb-211, Bi-211, Tl-207Ra-224Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0,36), Po-212 (0,64)Ra-226Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-210, Po-210Ra-228Ac-228Ac-225Fr-221, At-217, Bi-213, Po-213 (0,978), Tl-209 (0,0216), Pb-209 (0,978)Ac-227Fr-223 (0,0138)Th-226Ra-222, Rn-218, Po-214Th-228Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0,36), Po-212 (0,64)Th-229Ra-225, Ac-225, Fr-221, At-217, Bi-213, Po-213, Pb-209Th-234Pa-234mU-230Th-226, Ra-222, Rn-218, Po-214U-232Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0,36), Po-212 (0,64)U-235Th-231U-238Th-234, Pa-234mU-240Np-240mNp-237Pa-233Am-242mAm-242Am-243Np-239
+| *Radionuklide* | *Aktivitet (Bq)* | *Aktivitetskonsentrasjon (Bq/g)* |
+| --- | --- | --- |
+| H-3 | 1 × 109 | 1 × 106 |
+| Be-7 | 1 × 107 | 1 × 103 |
+| Be-10 | 1 × 106 | 1 × 104 |
+| C-11 | 1 × 106 | 1 × 101 |
+| C-14 | 1 × 107 | 1 × 104 |
+| N-13 | 1 × 109 | 1 × 102 |
+| Ne-19 | 1 × 109 | 1 × 102 |
+| O-15 | 1 × 109 | 1 × 102 |
+| F-18 | 1 × 106 | 1 × 101 |
+| Na-22 | 1 × 106 | 1 × 101 |
+| Na-24 | 1 × 105 | 1 × 101 |
+| Mg-28 | 1 × 105 | 1 × 101 |
+| Al-26 | 1 × 105 | 1 × 101 |
+| Si-31 | 1 × 106 | 1 × 103 |
+| Si-32 | 1 × 106 | 1 × 103 |
+| P-32 | 1 × 105 | 1 × 103 |
+| P-33 | 1 × 108 | 1 × 105 |
+| S-35 | 1 × 108 | 1 × 105 |
+| Cl-36 | 1 × 106 | 1 × 104 |
+| Cl-38 | 1 × 105 | 1 × 101 |
+| Cl-39 | 1 × 105 | 1 × 101 |
+| Ar-37 | 1 × 108 | 1 × 106 |
+| Ar-39 | 1 × 104 | 1 × 107 |
+| Ar-41 | 1 × 109 | 1 × 102 |
+| K-40 | 1 × 106 | 1 × 102 |
+| K-42 | 1 × 106 | 1 × 102 |
+| K-43 | 1 × 106 | 1 × 101 |
+| K-44 | 1 × 105 | 1 × 101 |
+| K-45 | 1 × 105 | 1 × 101 |
+| Ca-41 | 1 × 107 | 1 × 105 |
+| Ca-45 | 1 × 107 | 1 × 104 |
+| Ca-47 | 1 × 106 | 1 × 101 |
+| Sc-43 | 1 × 106 | 1 × 101 |
+| Sc-44 | 1 × 105 | 1 × 101 |
+| Sc-45 | 1 × 107 | 1 × 102 |
+| Sc-46 | 1 × 106 | 1 × 101 |
+| Sc-47 | 1 × 106 | 1 × 102 |
+| Sc-48 | 1 × 105 | 1 × 101 |
+| Sc-49 | 1 × 105 | 1 × 103 |
+| Ti-44 | 1 × 105 | 1 × 101 |
+| Ti-45 | 1 × 106 | 1 × 101 |
+| V-47 | 1 × 105 | 1 × 101 |
+| V-48 | 1 × 105 | 1 × 101 |
+| V-49 | 1 × 107 | 1 × 104 |
+| Cr-48 | 1 × 106 | 1 × 102 |
+| Cr-49 | 1 × 106 | 1 × 101 |
+| Cr-51 | 1 × 107 | 1 × 103 |
+| Mn-51 | 1 × 105 | 1 × 101 |
+| Mn-52 | 1 × 105 | 1 × 101 |
+| Mn-52m | 1 × 105 | 1 × 101 |
+| Mn-53 | 1 × 109 | 1 × 104 |
+| Mn-54 | 1 × 106 | 1 × 101 |
+| Mn-56 | 1 × 105 | 1 × 101 |
+| Fe-52 | 1 × 106 | 1 × 101 |
+| Fe-55 | 1 × 106 | 1 × 104 |
+| Fe-59 | 1 × 106 | 1 × 101 |
+| Fe-60 | 1 × 105 | 1 × 102 |
+| Co-55 | 1 × 106 | 1 × 101 |
+| Co-56 | 1 × 105 | 1 × 101 |
+| Co-57 | 1 × 106 | 1 × 102 |
+| Co-58 | 1 × 106 | 1 × 101 |
+| Co-58m | 1 × 107 | 1 × 104 |
+| Co-60 | 1 × 105 | 1 × 101 |
+| Co-60m | 1 × 106 | 1 × 103 |
+| Co-61 | 1 × 106 | 1 × 102 |
+| Co-62m | 1 × 105 | 1 × 101 |
+| Ni-56 | 1 × 106 | 1 × 101 |
+| Ni-57 | 1 × 106 | 1 × 101 |
+| Ni-59 | 1 × 108 | 1 × 104 |
+| Ni-63 | 1 × 108 | 1 × 105 |
+| Ni-65 | 1 × 106 | 1 × 101 |
+| Ni-66 | 1 × 107 | 1 × 104 |
+| Cu-60 | 1 × 105 | 1 × 101 |
+| Cu-61 | 1 × 106 | 1 × 101 |
+| Cu-64 | 1 × 106 | 1 × 102 |
+| Cu-67 | 1 × 106 | 1 × 102 |
+| Zn-62 | 1 × 106 | 1 × 102 |
+| Zn-63 | 1 × 105 | 1 × 101 |
+| Zn-65 | 1 × 106 | 1 × 101 |
+| Zn-69 | 1 × 106 | 1 × 104 |
+| Zn-69m | 1 × 106 | 1 × 102 |
+| Zn-71m | 1 × 106 | 1 × 101 |
+| Zn-72 | 1 × 106 | 1 × 102 |
+| Ga-65 | 1 × 105 | 1 × 101 |
+| Ga-66 | 1 × 105 | 1 × 101 |
+| Ga-67 | 1 × 106 | 1 × 102 |
+| Ga-68 | 1 × 105 | 1 × 101 |
+| Ga-70 | 1 × 106 | 1 × 102 |
+| Ga-72 | 1 × 105 | 1 × 101 |
+| Ga-73 | 1 × 106 | 1 × 102 |
+| Ge-66 | 1 × 106 | 1 × 101 |
+| Ge-67 | 1 × 105 | 1 × 101 |
+| Ge-68a | 1 × 105 | 1 × 101 |
+| Ge-69 | 1 × 106 | 1 × 101 |
+| Ge-71 | 1 × 108 | 1 × 104 |
+| Ge-75 | 1 × 106 | 1 × 103 |
+| Ge-77 | 1 × 105 | 1 × 101 |
+| Ge-78 | 1 × 106 | 1 × 102 |
+| As-69 | 1 × 105 | 1 × 101 |
+| As-70 | 1 × 105 | 1 × 101 |
+| As-71 | 1 × 106 | 1 × 101 |
+| As-72 | 1 × 105 | 1 × 101 |
+| As-73 | 1 × 107 | 1 × 103 |
+| As-74 | 1 × 106 | 1 × 101 |
+| As-76 | 1 × 105 | 1 × 102 |
+| As-77 | 1 × 106 | 1 × 103 |
+| As-78 | 1 × 105 | 1 × 101 |
+| Se-70 | 1 × 106 | 1 × 101 |
+| Se-73 | 1 × 106 | 1 × 101 |
+| Se-73m | 1 × 106 | 1 × 102 |
+| Se-75 | 1 × 106 | 1 × 102 |
+| Se-79 | 1 × 107 | 1 × 104 |
+| Se-81 | 1 × 106 | 1 × 103 |
+| Se-81m | 1 × 107 | 1 × 103 |
+| Se-83 | 1 × 105 | 1 × 101 |
+| Br-74 | 1 × 105 | 1 × 101 |
+| Br-74m | 1 × 105 | 1 × 101 |
+| Br-75 | 1 × 106 | 1 × 101 |
+| Br-76 | 1 × 105 | 1 × 101 |
+| Br-77 | 1 × 106 | 1 × 102 |
+| Br-80 | 1 × 105 | 1 × 102 |
+| Br-80m | 1 × 107 | 1 × 103 |
+| Br-82 | 1 × 106 | 1 × 101 |
+| Br-83 | 1 × 106 | 1 × 103 |
+| Br-84 | 1 × 105 | 1 × 101 |
+| Kr-74 | 1 × 109 | 1 × 102 |
+| Kr-76 | 1 × 109 | 1 × 102 |
+| Kr-77 | 1 × 109 | 1 × 102 |
+| Kr-79 | 1 × 105 | 1 × 103 |
+| Kr-81 | 1 × 107 | 1 × 104 |
+| Kr-81m | 1 × 1010 | 1 × 103 |
+| Kr-83m | 1 × 1012 | 1 × 105 |
+| Kr-85 | 1 × 104 | 1 × 105 |
+| Kr-85m | 1 × 1010 | 1 × 103 |
+| Kr-87 | 1 × 109 | 1 × 102 |
+| Kr-88 | 1 × 109 | 1 × 102 |
+| Rb-nat | 1 × 107 | 1 × 104 |
+| Rb-79 | 1 × 105 | 1 × 101 |
+| Rb-81 | 1 × 106 | 1 × 101 |
+| Rb-81m | 1 × 107 | 1 × 103 |
+| Rb-82m | 1 × 106 | 1 × 101 |
+| Rb-83a | 1 × 106 | 1 × 102 |
+| Rb-84 | 1 × 106 | 1 × 101 |
+| Rb-86 | 1 × 105 | 1 × 102 |
+| Rb-87 | 1 × 107 | 1 × 103 |
+| Rb-88 | 1 × 105 | 1 × 102 |
+| Rb-89 | 1 × 105 | 1 × 102 |
+| Sr-80 | 1 × 107 | 1 × 103 |
+| Sr-81 | 1 × 105 | 1 × 101 |
+| Sr-82a | 1 × 105 | 1 × 101 |
+| Sr-83 | 1 × 106 | 1 × 101 |
+| Sr-85 | 1 × 106 | 1 × 102 |
+| Sr-85m | 1 × 107 | 1 × 102 |
+| Sr-87m | 1 × 106 | 1 × 102 |
+| Sr-89 | 1 × 106 | 1 × 103 |
+| Sr-90a | 1 × 104 | 1 × 102 |
+| Sr-91 | 1 × 105 | 1 × 101 |
+| Sr-92 | 1 × 106 | 1 × 101 |
+| Y-86 | 1 × 105 | 1 × 101 |
+| Y-86m | 1 × 107 | 1 × 102 |
+| Y-87a | 1 × 106 | 1 × 101 |
+| Y-88 | 1 × 106 | 1 × 101 |
+| Y-90 | 1 × 105 | 1 × 103 |
+| Y-90m | 1 × 106 | 1 × 101 |
+| Y-91 | 1 × 106 | 1 × 103 |
+| Y-91m | 1 × 106 | 1 × 102 |
+| Y-92 | 1 × 105 | 1 × 102 |
+| Y-93 | 1 × 105 | 1 × 102 |
+| Y-94 | 1 × 105 | 1 × 101 |
+| Y-95 | 1 × 105 | 1 × 101 |
+| Zr-86 | 1 × 107 | 1 × 102 |
+| Zr-88 | 1 × 106 | 1 × 102 |
+| Zr-89 | 1 × 106 | 1 × 101 |
+| Zr-93a | 1 × 107 | 1 × 103 |
+| Zr-95 | 1 × 106 | 1 × 101 |
+| Zr-97a | 1 × 105 | 1 × 101 |
+| Nb-88 | 1 × 105 | 1 × 101 |
+| Nb-89 | 1 × 105 | 1 × 101 |
+| Nb-89m | 1 × 105 | 1 × 101 |
+| Nb-90 | 1 × 105 | 1 × 101 |
+| Nb-93m | 1 × 107 | 1 × 104 |
+| Nb-94 | 1 × 106 | 1 × 101 |
+| Nb-95 | 1 × 106 | 1 × 101 |
+| Nb-95m | 1 × 107 | 1 × 102 |
+| Nb-96 | 1 × 105 | 1 × 101 |
+| Nb-97 | 1 × 106 | 1 × 101 |
+| Nb-98 | 1 × 105 | 1 × 101 |
+| Mo-90 | 1 × 106 | 1 × 101 |
+| Mo-93 | 1 × 108 | 1 × 103 |
+| Mo-93m | 1 × 106 | 1 × 101 |
+| Mo-99 | 1 × 106 | 1 × 102 |
+| Mo-101 | 1 × 106 | 1 × 101 |
+| Tc-93 | 1 × 106 | 1 × 101 |
+| Tc-93m | 1 × 106 | 1 × 101 |
+| Tc-94 | 1 × 106 | 1 × 101 |
+| Tc-94m | 1 × 105 | 1 × 101 |
+| Tc-95 | 1 × 106 | 1 × 101 |
+| Tc-95m | 1 × 106 | 1 × 101 |
+| Tc-96 | 1 × 106 | 1 × 101 |
+| Tc-96m | 1 × 107 | 1 × 103 |
+| Tc-97 | 1 × 108 | 1 × 103 |
+| Tc-97m | 1 × 107 | 1 × 103 |
+| Tc-98 | 1 × 106 | 1 × 101 |
+| Tc-99 | 1 × 107 | 1 × 104 |
+| Tc-99m | 1 × 107 | 1 × 102 |
+| Tc-101 | 1 × 106 | 1 × 102 |
+| Tc-104 | 1 × 105 | 1 × 101 |
+| Ru-94 | 1 × 106 | 1 × 102 |
+| Ru-97 | 1 × 107 | 1 × 102 |
+| Ru-103 | 1 × 106 | 1 × 102 |
+| Ru-105 | 1 × 106 | 1 × 101 |
+| Ru-106a | 1 × 105 | 1 × 102 |
+| Rh-99 | 1 × 106 | 1 × 101 |
+| Rh-99m | 1 × 106 | 1 × 101 |
+| Rh-100 | 1 × 106 | 1 × 101 |
+| Rh-101 | 1 × 107 | 1 × 102 |
+| Rh-101m | 1 × 107 | 1 × 102 |
+| Rh-102 | 1 × 106 | 1 × 101 |
+| Rh-102m | 1 × 106 | 1 × 102 |
+| Rh-103m | 1 × 108 | 1 × 104 |
+| Rh-105 | 1 × 107 | 1 × 102 |
+| Rh-106m | 1 × 105 | 1 × 101 |
+| Rh-107 | 1 × 106 | 1 × 102 |
+| Pd-100 | 1 × 107 | 1 × 102 |
+| Pd-101 | 1 × 106 | 1 × 102 |
+| Pd-103 | 1 × 108 | 1 × 103 |
+| Pd-107 | 1 × 108 | 1 × 105 |
+| Pd-109 | 1 × 106 | 1 × 103 |
+| Ag-102 | 1 × 105 | 1 × 101 |
+| Ag-103 | 1 × 106 | 1 × 101 |
+| Ag-104 | 1 × 106 | 1 × 101 |
+| Ag-104m | 1 × 106 | 1 × 101 |
+| Ag-105 | 1 × 106 | 1 × 102 |
+| Ag-106 | 1 × 106 | 1 × 101 |
+| Ag-106m | 1 × 106 | 1 × 101 |
+| Ag-108ma | 1 × 106 | 1 × 101 |
+| Ag-110m | 1 × 106 | 1 × 101 |
+| Ag-111 | 1 × 106 | 1 × 103 |
+| Ag-112 | 1 × 105 | 1 × 101 |
+| Ag-115 | 1 × 105 | 1 × 101 |
+| Cd-104 | 1 × 107 | 1 × 102 |
+| Cd-107 | 1 × 107 | 1 × 103 |
+| Cd-109 | 1 × 106 | 1 × 104 |
+| Cd-113 | 1 × 106 | 1 × 103 |
+| Cd-113m | 1 × 106 | 1 × 103 |
+| Cd-115 | 1 × 106 | 1 × 102 |
+| Cd-115m | 1 × 106 | 1 × 103 |
+| Cd-117 | 1 × 106 | 1 × 101 |
+| Cd-117m | 1 × 106 | 1 × 101 |
+| In-109 | 1 × 106 | 1 × 101 |
+| In-110 | 1 × 106 | 1 × 101 |
+| In-110m | 1 × 105 | 1 × 101 |
+| In-111 | 1 × 106 | 1 × 102 |
+| In-112 | 1 × 106 | 1 × 102 |
+| In-113m | 1 × 106 | 1 × 102 |
+| In-114 | 1 × 105 | 1 × 103 |
+| In-114m | 1 × 106 | 1 × 102 |
+| In-115 | 1 × 105 | 1 × 103 |
+| In-115m | 1 × 106 | 1 × 102 |
+| In-116m | 1 × 105 | 1 × 101 |
+| In-117 | 1 × 106 | 1 × 101 |
+| In-117m | 1 × 106 | 1 × 102 |
+| In-119m | 1 × 105 | 1 × 102 |
+| Sn-110 | 1 × 107 | 1 × 102 |
+| Sn-111 | 1 × 106 | 1 × 102 |
+| Sn-113 | 1 × 107 | 1 × 103 |
+| Sn-117m | 1 × 106 | 1 × 102 |
+| Sn-119m | 1 × 107 | 1 × 103 |
+| Sn-121 | 1 × 107 | 1 × 105 |
+| Sn-121ma | 1 × 107 | 1 × 103 |
+| Sn-123 | 1 × 106 | 1 × 103 |
+| Sn-123m | 1 × 106 | 1 × 102 |
+| Sn-125 | 1 × 105 | 1 × 102 |
+| Sn-126a | 1 × 105 | 1 × 101 |
+| Sn-127 | 1 × 106 | 1 × 101 |
+| Sn-128 | 1 × 106 | 1 × 101 |
+| Sb-115 | 1 × 106 | 1 × 101 |
+| Sb-116 | 1 × 106 | 1 × 101 |
+| Sb-116m | 1 × 105 | 1 × 101 |
+| Sb-117 | 1 × 107 | 1 × 102 |
+| Sb-118m | 1 × 106 | 1 × 101 |
+| Sb-119 | 1 × 107 | 1 × 103 |
+| Sb-120 | 1 × 106 | 1 × 102 |
+| Sb-120m | 1 × 106 | 1 × 101 |
+| Sb-122 | 1 × 104 | 1 × 102 |
+| Sb-124 | 1 × 106 | 1 × 101 |
+| Sb-124m | 1 × 106 | 1 × 102 |
+| Sb-125 | 1 × 106 | 1 × 102 |
+| Sb-126 | 1 × 105 | 1 × 101 |
+| Sb-126m | 1 × 105 | 1 × 101 |
+| Sb-127 | 1 × 106 | 1 × 101 |
+| Sb-128 | 1 × 105 | 1 × 101 |
+| Sb-128m | 1 × 105 | 1 × 101 |
+| Sb-129 | 1 × 106 | 1 × 101 |
+| Sb-130 | 1 × 105 | 1 × 101 |
+| Sb-131 | 1 × 106 | 1 × 101 |
+| Te-116 | 1 × 107 | 1 × 102 |
+| Te-121 | 1 × 106 | 1 × 101 |
+| Te-121m | 1 × 106 | 1 × 102 |
+| Te-123 | 1 × 106 | 1 × 103 |
+| Te-123m | 1 × 107 | 1 × 102 |
+| Te-125m | 1 × 107 | 1 × 103 |
+| Te-127 | 1 × 106 | 1 × 103 |
+| Te-127m | 1 × 107 | 1 × 103 |
+| Te-129 | 1 × 106 | 1 × 102 |
+| Te-129m | 1 × 106 | 1 × 103 |
+| Te-131 | 1 × 105 | 1 × 102 |
+| Te-131m | 1 × 106 | 1 × 101 |
+| Te-132 | 1 × 107 | 1 × 102 |
+| Te-133 | 1 × 105 | 1 × 101 |
+| Te-133m | 1 × 105 | 1 × 101 |
+| Te-134 | 1 × 106 | 1 × 101 |
+| I-120 | 1 × 105 | 1 × 101 |
+| I-120m | 1 × 105 | 1 × 101 |
+| I-121 | 1 × 106 | 1 × 102 |
+| I-123 | 1 × 107 | 1 × 102 |
+| I-124 | 1 × 106 | 1 × 101 |
+| I-125 | 1 × 106 | 1 × 103 |
+| I-126 | 1 × 106 | 1 × 102 |
+| I-128 | 1 × 105 | 1 × 102 |
+| I-129 | 1 × 105 | 1 × 102 |
+| I-130 | 1 × 106 | 1 × 101 |
+| I-131 | 1 × 106 | 1 × 102 |
+| I-132 | 1 × 105 | 1 × 101 |
+| I-132m | 1 × 106 | 1 × 102 |
+| I-133 | 1 × 106 | 1 × 101 |
+| I-134 | 1 × 105 | 1 × 101 |
+| I-135 | 1 × 106 | 1 × 101 |
+| Xe-120 | 1 × 109 | 1 × 102 |
+| Xe-121 | 1 × 109 | 1 × 102 |
+| Xe-122a | 1 × 109 | 1 × 102 |
+| Xe-123 | 1 × 109 | 1 × 102 |
+| Xe-125 | 1 × 109 | 1 × 103 |
+| Xe-127 | 1 × 105 | 1 × 103 |
+| Xe-129m | 1 × 104 | 1 × 103 |
+| Xe-131m | 1 × 104 | 1 × 104 |
+| Xe-133m | 1 × 104 | 1 × 103 |
+| Xe-133 | 1 × 104 | 1 × 103 |
+| Xe-135 | 1 × 1010 | 1 × 103 |
+| Xe-135m | 1 × 109 | 1 × 102 |
+| Xe-138 | 1 × 109 | 1 × 102 |
+| Cs-125 | 1 × 104 | 1 × 101 |
+| Cs-127 | 1 × 105 | 1 × 102 |
+| Cs-129 | 1 × 105 | 1 × 102 |
+| Cs-130 | 1 × 106 | 1 × 102 |
+| Cs-131 | 1 × 106 | 1 × 103 |
+| Cs-132 | 1 × 105 | 1 × 101 |
+| Cs-134m | 1 × 105 | 1 × 103 |
+| Cs-134 | 1 × 104 | 1 × 101 |
+| Cs-135 | 1 × 107 | 1 × 104 |
+| Cs-135m | 1 × 106 | 1 × 101 |
+| Cs-136 | 1 × 105 | 1 × 101 |
+| Cs-137a | 1 × 104 | 1 × 101 |
+| Cs-138 | 1 × 104 | 1 × 101 |
+| Ba-126 | 1 × 107 | 1 × 102 |
+| Ba-128 | 1 × 107 | 1 × 102 |
+| Ba-131 | 1 × 106 | 1 × 102 |
+| Ba-131m | 1 × 107 | 1 × 102 |
+| Ba-133 | 1 × 106 | 1 × 102 |
+| Ba-133m | 1 × 106 | 1 × 102 |
+| Ba-135m | 1 × 106 | 1 × 102 |
+| Ba-137m | 1 × 106 | 1 × 101 |
+| Ba-139 | 1 × 105 | 1 × 102 |
+| Ba-140a | 1 × 105 | 1 × 101 |
+| Ba-141 | 1 × 105 | 1 × 102 |
+| Ba-142 | 1 × 106 | 1 × 102 |
+| La-131 | 1 × 106 | 1 × 101 |
+| La-132 | 1 × 106 | 1 × 101 |
+| La-135 | 1 × 107 | 1 × 103 |
+| La-137 | 1 × 107 | 1 × 103 |
+| La-138 | 1 × 106 | 1 × 101 |
+| La-140 | 1 × 105 | 1 × 101 |
+| La-141 | 1 × 105 | 1 × 102 |
+| La-142 | 1 × 105 | 1 × 101 |
+| La-143 | 1 × 105 | 1 × 102 |
+| Ce-134 | 1 × 107 | 1 × 103 |
+| Ce-135 | 1 × 106 | 1 × 101 |
+| Ce-137 | 1 × 107 | 1 × 103 |
+| Ce-137m | 1 × 106 | 1 × 103 |
+| Ce-139 | 1 × 106 | 1 × 102 |
+| Ce-141 | 1 × 107 | 1 × 102 |
+| Ce-143 | 1 × 106 | 1 × 102 |
+| Ce-144a | 1 × 105 | 1 × 102 |
+| Pr-136 | 1 × 105 | 1 × 101 |
+| Pr-137 | 1 × 106 | 1 × 102 |
+| Pr-138m | 1 × 106 | 1 × 101 |
+| Pr-139 | 1 × 107 | 1 × 102 |
+| Pr-142 | 1 × 105 | 1 × 102 |
+| Pr-142m | 1 × 109 | 1 × 107 |
+| Pr-143 | 1 × 106 | 1 × 104 |
+| Pr-144 | 1 × 105 | 1 × 102 |
+| Pr-145 | 1 × 105 | 1 × 103 |
+| Pr-147 | 1 × 105 | 1 × 101 |
+| Nd-136 | 1 × 106 | 1 × 102 |
+| Nd-138 | 1 × 107 | 1 × 103 |
+| Nd-139 | 1 × 106 | 1 × 102 |
+| Nd-139m | 1 × 106 | 1 × 101 |
+| Nd-141 | 1 × 107 | 1 × 102 |
+| Nd-147 | 1 × 106 | 1 × 102 |
+| Nd-149 | 1 × 106 | 1 × 102 |
+| Nd-151 | 1 × 105 | 1 × 101 |
+| Pm-141 | 1 × 105 | 1 × 101 |
+| Pm-143 | 1 × 106 | 1 × 102 |
+| Pm-144 | 1 × 106 | 1 × 101 |
+| Pm-145 | 1 × 107 | 1 × 103 |
+| Pm-146 | 1 × 106 | 1 × 101 |
+| Pm-147 | 1 × 107 | 1 × 104 |
+| Pm-148 | 1 × 105 | 1 × 101 |
+| Pm-148m | 1 × 106 | 1 × 101 |
+| Pm-149 | 1 × 106 | 1 × 103 |
+| Pm-150 | 1 × 105 | 1 × 101 |
+| Pm-151 | 1 × 106 | 1 × 102 |
+| Sm-141 | 1 × 105 | 1 × 101 |
+| Sm-141m | 1 × 106 | 1 × 101 |
+| Sm-142 | 1 × 107 | 1 × 102 |
+| Sm-145 | 1 × 107 | 1 × 102 |
+| Sm-146 | 1 × 105 | 1 × 101 |
+| Sm-147 | 1 × 104 | 1 × 101 |
+| Sm-151 | 1 × 108 | 1 × 104 |
+| Sm-153 | 1 × 106 | 1 × 102 |
+| Sm-155 | 1 × 106 | 1 × 102 |
+| Sm-156 | 1 × 106 | 1 × 102 |
+| Eu-145 | 1 × 106 | 1 × 101 |
+| Eu-146 | 1 × 106 | 1 × 101 |
+| Eu-147 | 1 × 106 | 1 × 102 |
+| Eu-148 | 1 × 106 | 1 × 101 |
+| Eu-149 | 1 × 107 | 1 × 102 |
+| Eu-150 | 1 × 106 | 1 × 101 |
+| Eu-150m | 1 × 106 | 1 × 103 |
+| Eu-152 | 1 × 106 | 1 × 101 |
+| Eu-152m | 1 × 106 | 1 × 102 |
+| Eu-154 | 1 × 106 | 1 × 101 |
+| Eu-155 | 1 × 107 | 1 × 102 |
+| Eu-156 | 1 × 106 | 1 × 101 |
+| Eu-157 | 1 × 106 | 1 × 102 |
+| Eu-158 | 1 × 105 | 1 × 101 |
+| Gd-145 | 1 × 105 | 1 × 101 |
+| Gd-146a | 1 × 106 | 1 × 101 |
+| Gd-147 | 1 × 106 | 1 × 101 |
+| Gd-148 | 1 × 104 | 1 × 101 |
+| Gd-149 | 1 × 106 | 1 × 102 |
+| Gd-151 | 1 × 107 | 1 × 102 |
+| Gd-152 | 1 × 104 | 1 × 101 |
+| Gd-153 | 1 × 107 | 1 × 102 |
+| Gd-159 | 1 × 106 | 1 × 103 |
+| Tb-147 | 1 × 106 | 1 × 101 |
+| Tb-149 | 1 × 106 | 1 × 101 |
+| Tb-150 | 1 × 106 | 1 × 101 |
+| Tb-151 | 1 × 106 | 1 × 101 |
+| Tb-153 | 1 × 107 | 1 × 102 |
+| Tb-154 | 1 × 106 | 1 × 101 |
+| Tb-155 | 1 × 107 | 1 × 102 |
+| Tb-156 | 1 × 106 | 1 × 101 |
+| Tb-156m (24.4 h) | 1 × 107 | 1 × 103 |
+| Tb-156m' (5 h) | 1 × 107 | 1 × 104 |
+| Tb-157 | 1 × 107 | 1 × 104 |
+| Tb-158 | 1 × 106 | 1 × 101 |
+| Tb-160 | 1 × 106 | 1 × 101 |
+| Tb-161 | 1 × 106 | 1 × 103 |
+| Dy-155 | 1 × 106 | 1 × 101 |
+| Dy-157 | 1 × 106 | 1 × 102 |
+| Dy-159 | 1 × 107 | 1 × 103 |
+| Dy-165 | 1 × 106 | 1 × 103 |
+| Dy-166 | 1 × 106 | 1 × 103 |
+| Ho-155 | 1 × 106 | 1 × 102 |
+| Ho-157 | 1 × 106 | 1 × 102 |
+| Ho-159 | 1 × 106 | 1 × 102 |
+| Ho-161 | 1 × 107 | 1 × 102 |
+| Ho-162 | 1 × 107 | 1 × 102 |
+| Ho-162m | 1 × 106 | 1 × 101 |
+| Ho-164 | 1 × 106 | 1 × 103 |
+| Ho-164m | 1 × 107 | 1 × 103 |
+| Ho-166 | 1 × 105 | 1 × 103 |
+| Ho-166m | 1 × 106 | 1 × 101 |
+| Ho-167 | 1 × 106 | 1 × 102 |
+| Er-161 | 1 × 106 | 1 × 101 |
+| Er-165 | 1 × 107 | 1 × 103 |
+| Er-169 | 1 × 107 | 1 × 104 |
+| Er-171 | 1 × 106 | 1 × 102 |
+| Er-172 | 1 × 106 | 1 × 102 |
+| Tm-162 | 1 × 106 | 1 × 101 |
+| Tm-166 | 1 × 106 | 1 × 101 |
+| Tm-167 | 1 × 106 | 1 × 102 |
+| Tm-170 | 1 × 106 | 1 × 103 |
+| Tm-171 | 1 × 108 | 1 × 104 |
+| Tm-172 | 1 × 106 | 1 × 102 |
+| Tm-173 | 1 × 106 | 1 × 102 |
+| Tm-175 | 1 × 106 | 1 × 101 |
+| Yb-162 | 1 × 107 | 1 × 102 |
+| Yb-166 | 1 × 107 | 1 × 102 |
+| Yb-167 | 1 × 106 | 1 × 102 |
+| Yb-169 | 1 × 107 | 1 × 102 |
+| Yb-175 | 1 × 107 | 1 × 103 |
+| Yb-177 | 1 × 106 | 1 × 102 |
+| Yb-178 | 1 × 106 | 1 × 103 |
+| Lu-169 | 1 × 106 | 1 × 101 |
+| Lu-170 | 1 × 106 | 1 × 101 |
+| Lu-171 | 1 × 106 | 1 × 101 |
+| Lu-172 | 1 × 106 | 1 × 101 |
+| Lu-173 | 1 × 107 | 1 × 102 |
+| Lu-174 | 1 × 107 | 1 × 102 |
+| Lu-174m | 1 × 107 | 1 × 102 |
+| Lu-176 | 1 × 106 | 1 × 102 |
+| Lu-176m | 1 × 106 | 1 × 103 |
+| Lu-177 | 1 × 107 | 1 × 103 |
+| Lu-177m | 1 × 106 | 1 × 101 |
+| Lu-178 | 1 × 105 | 1 × 102 |
+| Lu-178m | 1 × 105 | 1 × 101 |
+| Lu-179 | 1 × 106 | 1 × 103 |
+| Hf-170 | 1 × 106 | 1 × 102 |
+| Hf-172a | 1 × 106 | 1 × 101 |
+| Hf-173 | 1 × 106 | 1 × 102 |
+| Hf-175 | 1 × 106 | 1 × 102 |
+| Hf-177m | 1 × 105 | 1 × 101 |
+| Hf-178m | 1 × 106 | 1 × 101 |
+| Hf-179m | 1 × 106 | 1 × 101 |
+| Hf-180m | 1 × 106 | 1 × 101 |
+| Hf-181 | 1 × 106 | 1 × 101 |
+| Hf-182 | 1 × 106 | 1 × 102 |
+| Hf-182m | 1 × 106 | 1 × 101 |
+| Hf-183 | 1 × 106 | 1 × 101 |
+| Hf-184 | 1 × 106 | 1 × 102 |
+| Ta-172 | 1 × 106 | 1 × 101 |
+| Ta-173 | 1 × 106 | 1 × 101 |
+| Ta-174 | 1 × 106 | 1 × 101 |
+| Ta-175 | 1 × 106 | 1 × 101 |
+| Ta-176 | 1 × 106 | 1 × 101 |
+| Ta-177 | 1 × 107 | 1 × 102 |
+| Ta-178 | 1 × 106 | 1 × 101 |
+| Ta-179 | 1 × 107 | 1 × 103 |
+| Ta-180 | 1 × 106 | 1 × 101 |
+| Ta-180m | 1 × 107 | 1 × 103 |
+| Ta-182 | 1 × 104 | 1 × 101 |
+| Ta-182m | 1 × 106 | 1 × 102 |
+| Ta-183 | 1 × 106 | 1 × 102 |
+| Ta-184 | 1 × 106 | 1 × 101 |
+| Ta-185 | 1 × 105 | 1 × 102 |
+| Ta-186 | 1 × 105 | 1 × 101 |
+| W-176 | 1 × 106 | 1 × 102 |
+| W-177 | 1 × 106 | 1 × 101 |
+| W-178a | 1 × 106 | 1 × 101 |
+| W-179 | 1 × 107 | 1 × 102 |
+| W-181 | 1 × 107 | 1 × 103 |
+| W-185 | 1 × 107 | 1 × 104 |
+| W-187 | 1 × 106 | 1 × 102 |
+| W-188a | 1 × 105 | 1 × 102 |
+| Re-nat | 1 × 109 | 1 × 106 |
+| Re-177 | 1 × 106 | 1 × 101 |
+| Re-178 | 1 × 106 | 1 × 101 |
+| Re-181 | 1 × 106 | 1 × 101 |
+| Re-182 | 1 × 106 | 1 × 101 |
+| Re-182m | 1 × 106 | 1 × 101 |
+| Re-184 | 1 × 106 | 1 × 101 |
+| Re-184m | 1 × 106 | 1 × 102 |
+| Re-186 | 1 × 106 | 1 × 103 |
+| Re-186m | 1 × 107 | 1 × 103 |
+| Re-187 | 1 × 109 | 1 × 106 |
+| Re-188 | 1 × 105 | 1 × 102 |
+| Re-188m | 1 × 107 | 1 × 102 |
+| Re-189a | 1 × 106 | 1 × 102 |
+| Os-180 | 1 × 107 | 1 × 102 |
+| Os-181 | 1 × 106 | 1 × 101 |
+| Os-182 | 1 × 106 | 1 × 102 |
+| Os-185 | 1 × 106 | 1 × 101 |
+| Os-189m | 1 × 107 | 1 × 104 |
+| Os-191 | 1 × 107 | 1 × 102 |
+| Os-191m | 1 × 107 | 1 × 103 |
+| Os-193 | 1 × 106 | 1 × 102 |
+| Os-194a | 1 × 105 | 1 × 102 |
+| Ir-182 | 1 × 105 | 1 × 101 |
+| Ir-184 | 1 × 106 | 1 × 101 |
+| Ir-185 | 1 × 106 | 1 × 101 |
+| Ir-186 | 1 × 106 | 1 × 101 |
+| Ir-186m | 1 × 106 | 1 × 101 |
+| Ir-187 | 1 × 106 | 1 × 102 |
+| Ir-188 | 1 × 106 | 1 × 101 |
+| Ir-189a | 1 × 107 | 1 × 102 |
+| Ir-190 | 1 × 106 | 1 × 101 |
+| Ir-190m (3.1 h) | 1 × 106 | 1 × 101 |
+| Ir-190m' (1.2 h) | 1 × 107 | 1 × 104 |
+| Ir-192 | 1 × 104 | 1 × 101 |
+| Ir-192m | 1 × 107 | 1 × 102 |
+| Ir-193m | 1 × 107 | 1 × 104 |
+| Ir-194 | 1 × 105 | 1 × 102 |
+| Ir-194m | 1 × 106 | 1 × 101 |
+| Ir-195 | 1 × 106 | 1 × 102 |
+| Ir-195m | 1 × 106 | 1 × 102 |
+| Pt-186 | 1 × 106 | 1 × 101 |
+| Pt-188a | 1 × 106 | 1 × 101 |
+| Pt-189 | 1 × 106 | 1 × 102 |
+| Pt-191 | 1 × 106 | 1 × 102 |
+| Pt-193 | 1 × 107 | 1 × 104 |
+| Pt-193m | 1 × 107 | 1 × 103 |
+| Pt-195m | 1 × 106 | 1 × 102 |
+| Pt-197 | 1 × 106 | 1 × 103 |
+| Pt-197m | 1 × 106 | 1 × 102 |
+| Pt-199 | 1 × 106 | 1 × 102 |
+| Pt-200 | 1 × 106 | 1 × 102 |
+| Au-193 | 1 × 107 | 1 × 102 |
+| Au-194 | 1 × 106 | 1 × 101 |
+| Au-195 | 1 × 107 | 1 × 102 |
+| Au-198 | 1 × 106 | 1 × 102 |
+| Au-198m | 1 × 106 | 1 × 101 |
+| Au-199 | 1 × 106 | 1 × 102 |
+| Au-200 | 1 × 105 | 1 × 102 |
+| Au-200m | 1 × 106 | 1 × 101 |
+| Au-201 | 1 × 106 | 1 × 102 |
+| Hg-193 | 1 × 106 | 1 × 102 |
+| Hg-193m | 1 × 106 | 1 × 101 |
+| Hg-194a | 1 × 106 | 1 × 101 |
+| Hg-195 | 1 × 106 | 1 × 102 |
+| Hg-195ma | 1 × 106 | 1 × 102 |
+| Hg-197 | 1 × 107 | 1 × 102 |
+| Hg-197m | 1 × 106 | 1 × 102 |
+| Hg-199m | 1 × 106 | 1 × 102 |
+| Hg-203 | 1 × 105 | 1 × 102 |
+| Tl-194 | 1 × 106 | 1 × 101 |
+| Tl-194m | 1 × 106 | 1 × 101 |
+| Tl-195 | 1 × 106 | 1 × 101 |
+| Tl-197 | 1 × 106 | 1 × 102 |
+| Tl-198 | 1 × 106 | 1 × 101 |
+| Tl-198m | 1 × 106 | 1 × 101 |
+| Tl-199 | 1 × 106 | 1 × 102 |
+| Tl-200 | 1 × 106 | 1 × 101 |
+| Tl-201 | 1 × 106 | 1 × 102 |
+| Tl-202 | 1 × 106 | 1 × 102 |
+| Tl-204 | 1 × 104 | 1 × 104 |
+| Pb-195m | 1 × 106 | 1 × 101 |
+| Pb-198 | 1 × 106 | 1 × 102 |
+| Pb-199 | 1 × 106 | 1 × 101 |
+| Pb-200 | 1 × 106 | 1 × 102 |
+| Pb-201 | 1 × 106 | 1 × 101 |
+| Pb-202 | 1 × 106 | 1 × 103 |
+| Pb-202m | 1 × 106 | 1 × 101 |
+| Pb-203 | 1 × 106 | 1 × 102 |
+| Pb-205 | 1 × 107 | 1 × 104 |
+| Pb-209 | 1 × 106 | 1 × 105 |
+| Pb-210a | 1 × 104 | 1 × 101 |
+| Pb-211 | 1 × 106 | 1 × 102 |
+| Pb-212a | 1 × 105 | 1 × 101 |
+| Pb-214 | 1 × 106 | 1 × 102 |
+| Bi-200 | 1 × 106 | 1 × 101 |
+| Bi-201 | 1 × 106 | 1 × 101 |
+| Bi-202 | 1 × 106 | 1 × 101 |
+| Bi-203 | 1 × 106 | 1 × 101 |
+| Bi-205 | 1 × 106 | 1 × 101 |
+| Bi-206 | 1 × 105 | 1 × 101 |
+| Bi-207 | 1 × 106 | 1 × 101 |
+| Bi-210 | 1 × 106 | 1 × 103 |
+| Bi-210ma | 1 × 105 | 1 × 101 |
+| Bi-212a | 1 × 105 | 1 × 101 |
+| Bi-213 | 1 × 106 | 1 × 102 |
+| Bi-214 | 1 × 105 | 1 × 101 |
+| Po-203 | 1 × 106 | 1 × 101 |
+| Po-205 | 1 × 106 | 1 × 101 |
+| Po-206 | 1 × 106 | 1 × 101 |
+| Po-207 | 1 × 106 | 1 × 101 |
+| Po-208 | 1 × 104 | 1 × 101 |
+| Po-209 | 1 × 104 | 1 × 101 |
+| Po-210 | 1 × 104 | 1 × 101 |
+| At-207 | 1 × 106 | 1 × 101 |
+| At-211 | 1 × 107 | 1 × 103 |
+| Fr-222 | 1 × 105 | 1 × 103 |
+| Fr-223 | 1 × 106 | 1 × 102 |
+| Rn-220a | 1 × 107 | 1 × 104 |
+| Rn-222a | 1 × 108 | 1 × 101 |
+| Ra-223a | 1 × 105 | 1 × 102 |
+| Ra-224a | 1 × 105 | 1 × 101 |
+| Ra-225 | 1 × 105 | 1 × 102 |
+| Ra-226a | 1 × 104 | 1 × 101 |
+| Ra-227 | 1 × 106 | 1 × 102 |
+| Ra-228a | 1 × 105 | 1 × 101 |
+| Ac-224 | 1 × 106 | 1 × 102 |
+| Ac-225a | 1 × 104 | 1 × 101 |
+| Ac-226 | 1 × 105 | 1 × 102 |
+| Ac-227a | 1 × 103 | 1 × 10-1 |
+| Ac-228 | 1 × 106 | 1 × 101 |
+| Th-nat | 1 × 103 | 1 × 100 |
+| Th-226a | 1 × 107 | 1 × 103 |
+| Th-227 | 1 × 104 | 1 × 101 |
+| Th-228a | 1 × 104 | 1 × 100 |
+| Th-229a | 1 × 103 | 1 × 100 |
+| Th-230 | 1 × 104 | 1 × 100 |
+| Th-231 | 1 × 107 | 1 × 103 |
+| Th-232 | 1 × 104 | 1 × 101 |
+| Th-234a | 1 × 105 | 1 × 103 |
+| Pa-227 | 1 × 106 | 1 × 101 |
+| Pa-228 | 1 × 106 | 1 × 101 |
+| Pa-230 | 1 × 106 | 1 × 101 |
+| Pa-231 | 1 × 103 | 1 × 100 |
+| Pa-232 | 1 × 106 | 1 × 101 |
+| Pa-233 | 1 × 107 | 1 × 102 |
+| Pa-234 | 1 × 106 | 1 × 101 |
+| U-nat | 1 × 103 | 1 × 100 |
+| U-230a | 1 × 105 | 1 × 101 |
+| U-231 | 1 × 107 | 1 × 102 |
+| U-232a | 1 × 103 | 1 × 100 |
+| U-233 | 1 × 104 | 1 × 101 |
+| U-234 | 1 × 104 | 1 × 101 |
+| U-235a | 1 × 104 | 1 × 101 |
+| U-236 | 1 × 104 | 1 × 101 |
+| U-237 | 1 × 106 | 1 × 102 |
+| U-238a | 1 × 104 | 1 × 101 |
+| U-239 | 1 × 106 | 1 × 102 |
+| U-240 | 1 × 107 | 1 × 103 |
+| U-240a | 1 × 106 | 1 × 101 |
+| Np-232 | 1 × 106 | 1 × 101 |
+| Np-233 | 1 × 107 | 1 × 102 |
+| Np-234 | 1 × 106 | 1 × 101 |
+| Np-235 | 1 × 107 | 1 × 103 |
+| Np-236 | 1 × 105 | 1 × 102 |
+| Np-236m | 1 × 107 | 1 × 103 |
+| Np-237a | 1 × 103 | 1 × 100 |
+| Np-238 | 1 × 106 | 1 × 102 |
+| Np-239 | 1 × 107 | 1 × 102 |
+| Np-240 | 1 × 106 | 1 × 101 |
+| Pu-234 | 1 × 107 | 1 × 102 |
+| Pu-235 | 1 × 107 | 1 × 102 |
+| Pu-236 | 1 × 104 | 1 × 101 |
+| Pu-237 | 1 × 107 | 1 × 103 |
+| Pu-238 | 1 × 104 | 1 × 100 |
+| Pu-239 | 1 × 104 | 1 × 100 |
+| Pu-240 | 1 × 103 | 1 × 100 |
+| Pu-241 | 1 × 105 | 1 × 102 |
+| Pu-242 | 1 × 104 | 1 × 100 |
+| Pu-243 | 1 × 107 | 1 × 103 |
+| Pu-244 | 1 × 104 | 1 × 100 |
+| Pu-245 | 1 × 106 | 1 × 102 |
+| Pu-246 | 1 × 106 | 1 × 102 |
+| Am-237 | 1 × 106 | 1 × 102 |
+| Am-238 | 1 × 106 | 1 × 101 |
+| Am-239 | 1 × 106 | 1 × 102 |
+| Am-240 | 1 × 106 | 1 × 101 |
+| Am-241 | 1 × 104 | 1 × 100 |
+| Am-242 | 1 × 106 | 1 × 103 |
+| Am-242ma | 1 × 104 | 1 × 100 |
+| Am-243a | 1 × 103 | 1 × 100 |
+| Am-244 | 1 × 106 | 1 × 101 |
+| Am-244m | 1 × 107 | 1 × 104 |
+| Am-245 | 1 × 106 | 1 × 103 |
+| Am-246 | 1 × 105 | 1 × 101 |
+| Am-246m | 1 × 106 | 1 × 101 |
+| Cm-238 | 1 × 107 | 1 × 102 |
+| Cm-240 | 1 × 105 | 1 × 102 |
+| Cm-241 | 1 × 106 | 1 × 102 |
+| Cm-242 | 1 × 105 | 1 × 102 |
+| Cm-243 | 1 × 104 | 1 × 100 |
+| Cm-244 | 1 × 104 | 1 × 101 |
+| Cm-245 | 1 × 103 | 1 × 100 |
+| Cm-246 | 1 × 103 | 1 × 100 |
+| Cm-247 | 1 × 104 | 1 × 100 |
+| Cm-248 | 1 × 103 | 1 × 100 |
+| Cm-249 | 1 × 106 | 1 × 103 |
+| Cm-250 | 1 × 103 | 1 × 10-1 |
+| Bk-245 | 1 × 106 | 1 × 102 |
+| Bk-246 | 1 × 106 | 1 × 101 |
+| Bk-247 | 1 × 104 | 1 × 100 |
+| Bk-249 | 1 × 106 | 1 × 103 |
+| Bk-250 | 1 × 106 | 1 × 101 |
+| Cf-244 | 1 × 107 | 1 × 104 |
+| Cf-246 | 1 × 106 | 1 × 103 |
+| Cf-248 | 1 × 104 | 1 × 101 |
+| Cf-249 | 1 × 103 | 1 × 100 |
+| Cf-250 | 1 × 104 | 1 × 101 |
+| Cf-251 | 1 × 103 | 1 × 100 |
+| Cf-252 | 1 × 104 | 1 × 101 |
+| Cf-253 | 1 × 105 | 1 × 102 |
+| Cf-254 | 1 × 103 | 1 × 100 |
+| Es-250 | 1 × 106 | 1 × 102 |
+| Es-251 | 1 × 107 | 1 × 102 |
+| Es-253 | 1 × 105 | 1 × 102 |
+| Es-254 | 1 × 104 | 1 × 101 |
+| Es-254m | 1 × 106 | 1 × 102 |
+| Fm-252 | 1 × 106 | 1 × 103 |
+| Fm-253 | 1 × 106 | 1 × 102 |
+| Fm-254 | 1 × 107 | 1 × 104 |
+| Fm-255 | 1 × 106 | 1 × 103 |
+| Fm-257 | 1 × 105 | 1 × 101 |
+| Md-257 | 1 × 107 | 1 × 102 |
+| Md-258 | 1 × 105 | 1 × 102 |
+
+Radionuklider merket med a i tabellen over, er mornuklider i likevekt med tilhørende datterprodukter i tabellen nedenfor. Arbeid med en mornuklide i tabellen nedenfor innebærer i praksis at en også arbeider med dens datterprodukter. Strålebidraget fra disse datterproduktene er tatt hensyn til ved fastsettelsen av unntaksgrensene for de aktuelle mornuklidene. Dette medfører at aktiviteten til en mornuklide bestemmer hvilke forskriftskrav som skal gjelde, jf. [§ 2](forskrift/2016-12-16-1659/§2) sjette og syvende ledd.
+
+|  |  |
+| --- | --- |
+| *Mornuklide* | *Datterprodukter* |
+| Ge-68 | Ga-68 |
+| Rb-83 | Kr-83m |
+| Sr-82 | Rb-82 |
+| Sr-90 | Y-90 |
+| Y-87 | Sr-87m |
+| Zr-93 | Nb-93m |
+| Zr-97 | Nb-97 |
+| Ru-106 | Rh-106 |
+| Ag-108m | Ag-108 |
+| Sn-121m | Sn-121 (0,776) |
+| Sn-126 | Sb-126m |
+| Xe-122 | I-122 |
+| Cs-137 | Ba-137m |
+| Ba-140 | La-140 |
+| Ce-144 | Pr-144 |
+| Gd-146 | Eu-146 |
+| Hf-172 | Lu-172 |
+| W-178 | Ta-178 |
+| W-188 | Re-188 |
+| Re-189 | Os-189m (0,241) |
+| Os-194 | Ir-194, Pt-194 |
+| Ir-189 | Os-189m |
+| Pt-188 | Ir-188 |
+| Hg-194 | Au-194 |
+| Hg-195m | Hg-195 (0,542) |
+| Pb-210 | Bi-210, Po-210 |
+| Pb-212 | Bi-212, Tl-208 (0,36), Po-212 (0,64) |
+| Bi-210m | Tl-206 |
+| Bi-212 | Tl-208 (0,36), Po-212 (0,64) |
+| Rn-220 | Po-216 |
+| Rn-222 | Po-218, Pb-214, Bi-214, Po-214 |
+| Ra-223 | Rn-219, Po-215, Pb-211, Bi-211, Tl-207 |
+| Ra-224 | Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0,36), Po-212 (0,64) |
+| Ra-226 | Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-210, Po-210 |
+| Ra-228 | Ac-228 |
+| Ac-225 | Fr-221, At-217, Bi-213, Po-213 (0,978), Tl-209 (0,0216), Pb-209 (0,978) |
+| Ac-227 | Fr-223 (0,0138) |
+| Th-226 | Ra-222, Rn-218, Po-214 |
+| Th-228 | Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0,36), Po-212 (0,64) |
+| Th-229 | Ra-225, Ac-225, Fr-221, At-217, Bi-213, Po-213, Pb-209 |
+| Th-234 | Pa-234m |
+| U-230 | Th-226, Ra-222, Rn-218, Po-214 |
+| U-232 | Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0,36), Po-212 (0,64) |
+| U-235 | Th-231 |
+| U-238 | Th-234, Pa-234m |
+| U-240 | Np-240m |
+| Np-237 | Pa-233 |
+| Am-242m | Am-242 |
+| Am-243 | Np-239 |
 
 Radionuklider i metastabile tilstander er merket med m og m', der m' er en metastabil tilstand med høyere energi enn m.
 
@@ -618,18 +1460,36 @@ Formålet knytter seg både til vern av menneskers helse og vern av miljø. Begr
 
 ### Til § 2 Saklig virkeområde
 
+*Til andre ledd:*
+
 Andre eksempler på forhøyet naturlig ioniserende stråling på grunn av menneskelig aktivitet som reguleres av forskriften, er kosmisk stråling til flypersonale og håndtering av scale (lavradioaktive avleiringer fra olje- og gassektoren).
 
+*Til tredje ledd:*
+
 Med radiologisk utstyr menes utstyr som anvender ikke-ioniserende eller ioniserende stråling, primært for diagnostikk eller behandling av mennesker. Utstyret kan også brukes til avbildning av mennesker der hensikten ikke er medisinsk avbildning. Eksempler på slik bruk er gitt i merknadene til [§ 9](forskrift/2016-12-16-1659/§9), bokstav o).
+
+*Til fjerde ledd:*
 
 1. Radonnivå i nybygg er regulert i § 13-5 i [forskrift 26. mars 2010 nr. 489](forskrift/2010-03-26-489) om tekniske krav til byggverk, som er hjemlet i under [lov 27. juni 2008 nr. 71](lov/2008-06-27-71) om planlegging og byggesaksbehandling (plan- og bygningsloven).
 2. Arbeidsgivers plikter er regulert av [lov 17. juni 2005 nr. 62](lov/2005-06-17-62) om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) med forskrifter.
 3. Transport av strålekilder utenfor lukket område er regulert av i [forskrift 1. april 2009 nr. 384](forskrift/2009-04-01-384) om landtransport av farlig gods, [forskrift 1. juli 2014 nr. 944](forskrift/2014-07-01-944) om farlig last på skip og [forskrift 11. januar 2003 nr. 41](forskrift/2003-01-11-41) om transport av gods i luftfartøy (BSL D 1-7). Transport av nukleært materiale er regulert av [forskrift 12. mai 2000 nr. 433](forskrift/2000-05-12-433) om besittelse, omsetning og transport av nukleært materiale og flerbruksvarer. Kravet til forsvarlighet i lov om strålevern og bruk av stråling (strålevernloven) [§ 5](lov/2000-05-12-36/§5) anses ivaretatt når transportregelverket følges.
 4. Røntgenproduserende elektriske apparater og komponenter som unntas kan typisk være katodestrålerør for billedframvisning og elektriske komponenter i høyvoltanlegg.
 
+*Til femte ledd:*
+
 1. Andre tillatte forbrukerartikler er produkter som ikke er røykvarslere, og som ikke er forbudt etter strålevernregelverket eller annet regelverk. Eksempel på annet regelverk er forskrift 18. november 2011 om sikkerhet ved leketøy (leketøyforskriften). I dette ligger at importør eller forhandler må foreta en berettigelsesvurdering av produktet før det tilbys på markedet i Norge, jf. [strålevernforskriften § 5](forskrift/2016-12-16-1659/§5). Importør/forhandler skal blant annet vurdere produktet i lys av substitusjonsplikten, jf. [strålevernforskriften § 23](forskrift/2016-12-16-1659/§23).
 
+*Til syvende ledd:*
+
+Illustrert, som eksempel: $$\\sum\\limits_K \\frac{A_K}{A_{E,K}} \\le 1, \\qquad \\text{eventuelt} \\qquad \\sum\\limits_K \\frac{C_K}{C_{E,K}} \\le 1$$ der
+Ak = aktivitet for radionuklide k
+AE,k = unntaksgrense for aktivitet til radionuklide k
+Ck = spesifikk aktivitet for radionuklide k
+CE,k = unntaksgrense for spesifikk aktivitet til radionuklide k.
+
 ### Til § 4 Definisjoner
+
+*Til bokstav d)*
 
 Diagnostisk referanseverdi er en nasjonal doseverdi for en gitt undersøkelse av pasienter der standard undersøkelsesprotokoll er benyttet. Referanseverdiene fastsettes og revideres av Strålevernet og baseres på representative pasientdoser fra virksomhetene.
 
@@ -637,15 +1497,27 @@ Diagnostisk referansenivå i nukleærmedisin uttrykkes ved aktivitet til en radi
 
 Diagnostiske referansenivåer/verdier anvendes ikke innen stråleterapi.
 
+*Til bokstav g)*
+
 Med kilder som ikke er under myndighetskontroll menes kilder som ikke er registrert eller ikke er registrert riktig i Strålevernet sitt kilderegister.
+
+*Til bokstav n)*
 
 Kliniske revisjoner er en kontinuerlig, kvalitetsforbedrende prosess som søker å bedre kvaliteten og resultatene av pasientdiagnostikk og behandling gjennom strukturert samarbeid, der fagfeller gjennomgår og sammenholder klinisk praksis og resultater mot omforente standarder, og foreslår endring av praksis eller standarder dersom dette er indisert.
 
+*Til bokstav o)*
+
 Laserpeker omfatter ikke laser der laser er del av et sikte, del av et leketøy som omfattes av forskrift 18. november 2011 om sikkerhet ved leketøy (leketøyforskriften), eller del av et verktøy der formålet er oppmåling.
+
+*Til bokstav u)*
 
 Screeningprogram må følge nasjonale retningslinjer for screening fastsatt av helsemyndighetene (se [NOU 1997:20 pkt. 7.2](forarbeid/nou-1997-20/kap7.2)). Usystematiske helsekontroller av friske personer defineres ikke som screeningprogram.
 
+*Til bokstav w)*
+
 Sterke ikke-ioniserende strålekilder kan for eksempel være basestasjoner eller apparater som anvender elektromagnetiske felt eller optisk stråling ved kosmetisk, odontologisk eller medisinsk behandling eller industrielle maskiner. Retningslinjene fra den internasjonale kommisjonen finnes på deres nettside, [www.icnirp.org](https://www.icnirp.org).
+
+*Til bokstav y)*
 
 Arbeidsgiver som i sitt arbeid eksponeres for stråling kommer også inn under definisjonen yrkeseksponering. For arbeidstakere som ikke er yrkeseksponerte, gjelder dosegrensene for allmennheten. For redningsarbeid i nødsituasjoner, med risiko for eksponering for stråling, gjelder [§ 7](forskrift/2016-12-16-1659/§7) om dosegrenser for redningsarbeid.
 
@@ -653,7 +1525,11 @@ Arbeidsgiver som i sitt arbeid eksponeres for stråling kommer også inn under d
 
 ### Til § 5 Berettigelse og optimalisering
 
+*Til andre ledd:*
+
 Selv om eksponering er under grenseverdier skal eksponering reduseres dersom det kan gjøres uten vesentlige ulemper. For berettigelse og optimalisering innen medisinsk strålebruk se også [§ 39](forskrift/2016-12-16-1659/§39) og [§ 40](forskrift/2016-12-16-1659/§40).
+
+*Til tredje ledd:*
 
 Ved bruk av ikke-ioniserende strålekilder skal nytteverdien ved strålebruken avveies mot risikoen for kjente helseskader. Strålevern ved bruk av ikke-ioniserende strålekilder ivaretas ved å overholde relevante grenseverdier. Det er ikke kjent at eksponering for stråling lavere enn relevante grenseverdier representerer noen helserisiko, men eksponeringen skal likevel reduseres dersom god praksis innen det aktuelle området tilsier dette.
 
@@ -667,7 +1543,11 @@ For elektriske anlegg og elektrisk utstyr vises det til [lov 24. mai 1929 nr. 4]
 
 ### Til § 6 Eksponering av mennesker: Dosegrenser, grenseverdier og tiltaksgrenser
 
+*Til tredje og fjerde ledd:*
+
 Grenseverdien for eksponering av allmennheten på 1 mSv per år gjelder for all planlagt bruk eller aktivitet som medfører ioniserende tråling. Kravet om at hver enkelt virksomhet skal begrense eksponering av allmennhet og ikke-yrkeseksponerte til 0,25 mSv per år, er basert på at sannsynligheten for eksponering av enkeltindivider fra flere enn 4 ulike strålekilder per år er svært liten.
+
+*Til femte ledd:*
 
 Nasjonale retningslinjer er gitt i [forskrift 6. desember 2011 nr. 1358](forskrift/2011-12-06-1358) om tiltaks- og grenseverdier [§ 4-3](forskrift/2011-12-06-1358/§4-3).
 
@@ -675,11 +1555,15 @@ Referanser og standarder er blant annet:ICNIRP (International Commission on Non-
 
 I enkelte situasjoner vil grenseverdiene i retningslinjene fra den internasjonale kommisjonen for beskyttelse mot ikke-ioniserende stråling (ICNIRP) overskrides. For allmennheten er dette kun akseptabelt for kortvarig eksponering, for eksempel ved passering under kraftledninger.
 
+*Til sjette ledd:*
+
 Radonkravene gjelder for alle barnehager, grunnskoler og videregående skoler, både offentlige og private. Kravet skal alltid være overholdt når folk er tilstede i bygget. Bestemmelsen gjelder også for boliger hvor eier selv ikke bor, dvs. utleieboliger. Dette omfatter både offentlig eide og privateide utleieboliger, inkludert større leiegårder og privates utleie av hybel eller leilighet i tilknytning til egen bolig.
 
 Tiltaksgrensen er 100 Bq/m3 . Dette betyr at dersom radonnivået er høyere enn 100 Bq/m3 , enten det er 150, 400 eller 2000 Bq/m3 , må det gjøres tiltak for å redusere nivået. Kravet om at eksponering for ioniserende stråling skal være optimalisert i [§ 5](forskrift/2016-12-16-1659/§5) innebærer at eksponering for radon skal være så lav som praktisk mulig. Det vil i praksis si at radonnivåene skal reduseres selv om nivåene er under tiltaksgrensen, men bare dersom dette kan gjøres uten vesentlige ulemper (se merknaden til [§ 5](forskrift/2016-12-16-1659/§5)). Overstiger radonnivået 200 Bq/m3 er det krav om tiltak inntil nivået er redusert til så lavt som praktisk mulig, og uansett alltid under 200 Bq/m3 . Grenseverdiene gjelder for oppholdsrom.
 
 Radonnivået skal måles etter Strålevernets gjeldende måleprosedyre for radon. Se også [§ 4](forskrift/2016-12-16-1659/§4) bokstav r, hvor både tiltaksgrensen på 100 Bq/m3 og grenseverdien på 200 Bq/m3 refererer til radonkonsentrasjonen i luft som årsmiddelverdien.
+
+*Om forholdet til forskrift om miljørettet helsevern i barnehager, skoler mv.:*
 
 [Forskrift 1. desember 1995 nr. 928](forskrift/1995-12-01-928) om miljørettet helsevern i barnehager, skoler mv. [§ 19](forskrift/1995-12-01-928/§19) fjerde ledd krever at ioniserende stråling ikke skal overskride et allment akseptert nivå. Denne bestemmelsen skal tolkes i tråd med [strålevernforskriften § 6](forskrift/2016-12-16-1659/§6) femte ledd når det gjelder radon.
 
@@ -695,21 +1579,37 @@ For godkjenning må virksomheten blant annet dokumentere at den har en organisas
 
 Søknad om godkjenning omfatter i de fleste tilfeller anskaffelse og bruk av strålekilden. Dette åpner for at godkjenning kan gis i ulike faser og stille spesielle vilkår til virksomheten før neste fase av godkjenningen kan starte. Eksempel på dette er samtykke til utbygning (lokalisasjon) eller godkjenning av de lokaler som skal brukes. Dette betyr at planer og beskrivelser må sendes til Strålevernet allerede på planleggingsstadiet. Dette er spesielt aktuelt for aktivitetene beskrevet i bokstav a), b), e), f), i), k) og n) og omfang og type dokumentasjon er nærmere beskrevet i søknadsskjemaene.
 
+*Til bokstav a)*
+
 Med industriell radiografi menes bruk av ioniserende strålekilder til ikke-destruktiv materialkontroll (NDT) og tilsvarende bruk av strålekilder i andre sammenhenger, f.eks. i tollsammenheng og sikkerhetskontroll av gjenstander og ved risikoutsatt veterinærmedisinsk bruk av røntgen. Begrepet omfatter ikke bruk av strålekilder for teknisk analyse, generell produktkontroll eller kartlegging av materialsammensetning
+
+*Til bokstav b)*
 
 Se også [forskrift 20. mars 2001 nr. 504](forskrift/2001-03-20-504) om behandling av næringsmidler med ioniserende stråling [§ 7](forskrift/2001-03-20-504/§7). Krav om godkjenning gjelder ikke for lukkede røntgenanlegg som tilfredsstiller kravene i [§ 24](forskrift/2016-12-16-1659/§24) tredje ledd, slik som for eksempel lukkede røntgenbaserte blodbestrålingsanlegg.
 
+*Til bokstav d)*
+
 Omfattende ikke-medisinsk forskningsmessig strålebruk vil særlig være aktuelt ved forskningsinstitusjoner, universiteter, høgskoler og andre virksomheter der det brukes stråling i flere laboratorier og for flere formål. Krav om godkjenning gjelder ikke bruk av ioniserende stråling i undervisning og rutinemessig analyse. Forskningsmessig medisinsk strålebruk omtales i [§ 39](forskrift/2016-12-16-1659/§39).
+
+*Til bokstav e)*
 
 Kravet om godkjenning omfatter all diagnostikk og behandling av mennesker og dyr innen nukleærmedisin
 
+*Til bokstav f)*
+
 Kravet om godkjenning omfatter all strålebehandling av mennesker.
 
+*Til bokstav g)*
+
 Kravet om godkjenning omfatter i praksis all røntgendiagnostikk, røntgenveiledede prosedyrer (som intervensjon, skopier, operasjon, etc.) og avansert odontologisk virksomhet med snittavbildning (f.eks. CBCT) både ved spesialist- og primærhelsetjenesten. Kravet til godkjenning omfatter ikke enkel bruk av enkelt røntgenapparatur som gir lave doser. Eksempler på dette er enkel bruddiagnostikk av ekstremiteter (f.eks. hos kommuneleger), beintetthetsmåling for diagnostisering av osteoporose (f.eks. med DXA), intraoral odontologisk virksomhet og enkel ekstraoral virksomhet som ortopantomograf (OPG) og cephalostat. Kravet til godkjenning omfatter også bruk av strålekilder i forskningsmessig strålebruk på mennesker. Godkjenningen omfatter imidlertid ikke selve forskningsprosjektet, da dette ivaretas av regional etisk komité (REK), se også [§ 39](forskrift/2016-12-16-1659/§39).
+
+*Til bokstav o)*
 
 Bruk av ioniserende strålekilder til kontroll av personer kan oppstå i forbindelse med ansettelsessaker, innvandring, forskning, fysisk utvikling på barn og unge i forbindelse med idrett, aldersvurdering, søk etter skjulte gjenstander på eller i menneskers kropp, juridiske eller sikkerhetsmessige formål.
 
 Strålevernet kan stille vilkår etter [kapittel VI](forskrift/2016-12-16-1659/kapvi) ved bruk av strålekilder for ikke-medisinske formål på mennesker.
+
+*Til bokstav q)*
 
 Eksempler på radioaktive stoffer som kan utvinnes i forbindelse med bergverksdrift er thorium og uran. Bergverksdrift for øvrig er regulert av bergverkslovgivningen.
 
@@ -721,25 +1621,39 @@ Strålevernet kan gi spesielle vilkår i godkjenningen. Innhold og omfang vurder
 
 Ved avgjørelser etter [§ 12](forskrift/2016-12-16-1659/§12) skal det tas hensyn til kostnadene en endring eller omgjøring vil påføre virksomheten, og de fordeler og ulemper endring eller omgjøring for øvrig vil medføre.
 
+*Til bokstav a)*
+
 Bestemmelsen får anvendelse både når ulempen skyldes at en har fått ny kunnskap etter at godkjenningen ble gitt, og når forholdene har endret seg slik at virkningene av strålingen har blitt verre enn antatt.
+
+*Til bokstav d)*
 
 Bestemmelsen omfatter også brudd på vilkår som er gitt i godkjenning, og vesentlig mislighold av plikter knyttet til godkjenningen.
 
 ### Til § 13 Meldeplikt
 
+*Til første ledd:*
+
 I tilfeller der strålekilder skal leies ut og brukes av en annen virksomhet enn eier, skal strålekilden først registreres på eier i Strålevernets elektroniske meldesystem for strålekilder (EMS), for deretter å benytte utleiefunksjonaliteten i EMS for å registrere bruk hos leietaker. Dette er for å unngå dobbeltregistrering av strålekilder.
 
 Eksempler på medisinsk røntgendiagnostikk som bare er underlagt krav til melding er intraoral tannrøntgen, enkel ekstraoral tannrøntgen (ortopantomograf (OPG), cephalostat), fotografering av ekstremiteter (enkel bruddiagnostikk) og osteoporoseundersøkelser, se også merknader til [§ 9](forskrift/2016-12-16-1659/§9) bokstav g.
 
+*Til andre ledd:*
+
 Virksomheter som selger, anskaffer, leier ut eller bruker solarier for kosmetisk formål kan i sin melding kun velge blant de solariemodellene som finnes på Strålevernets solarieoversikt (jf. [§ 36](forskrift/2016-12-16-1659/§36) første ledd) og trenger ikke legge ved dokumentasjon. Solariemodellene på Strålevernets solarieoversikt er innbakt i Strålevernets elektroniske meldesystem for strålekilder (EMS). Solarier er også regulert av [forskrift 6. mai 1998 nr. 581](forskrift/1998-05-06-581) om hygienekrav for frisør-, hudpleie-, tatoverings- og hulltakingsvirksomhet mv. Virksomhetene skal etter denne forskriften gi melding til kommunestyret.
+
+*Til fjerde ledd:*
 
 For at Strålevernet skal kunne vurdere om aktiviteten omfattes av meldingsplikten, må meldingen inneholde opplysninger som spesifiserer hvilken type strålekilde den omfatter (f.eks. røntgenapparat, radioaktiv kilde, laser eller solarievirksomhet), samt opplysninger som spesifiserer den aktuelle strålekilden nærmere. Aktuell informasjon blir etterspurt når strålekilder meldes via Strålevernets elektroniske meldesystem for strålekilder (EMS).
 
 ### Til § 14 Avhending av strålekilder
 
+*Til første ledd:*
+
 Med opprinnelseslandet menes det landet den kapslede radioaktive strålekilden sendes til Norge fra, enten som en kildekapsel som er ferdig montert i utstyr eller innretning ved innførsel eller som en kildekapsel som skal monteres i utstyr eller innretning i Norge.
 
 Med eksisterende returordning, menes en returordning som er akseptert av myndigheten i det gjeldende landet.
+
+*Til tredje ledd:*
 
 Radioaktiv forurensning og radioaktivt avfall er primært regulert av [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensninger og om avfall (forurensningsloven) med forskrifter, se [forskrift 1. november 2010 nr. 1394](forskrift/2010-11-01-1394) om forurensningslovens anvendelse på radioaktiv forurensning og radioaktivt avfall. Strålevernet er tilsynsmyndighet også etter dette regelverket.
 
@@ -749,7 +1663,11 @@ Bestemmelsen supplerer [forurensningsloven § 20](lov/1981-03-13-6/§20) slik at
 
 ### Til § 16 Internkontroll, kompetanse, instrukser og prosedyrer
 
+*Til andre ledd:*
+
 I godkjenningen kan det stilles krav til at kompetansen innen strålevern er dokumentert, jf. [§ 11](forskrift/2016-12-16-1659/§11). Se også forskrift 6. desember 2011 nr. 1357 om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav [kap. 16](forskrift/2011-12-06-1357/kap16) og [kap. 16 A](forskrift/2011-12-06-1357/kap16A).
+
+*Til tredje ledd:*
 
 [Forskrift 6. desember 1996 nr. 1127](forskrift/1996-12-06-1127) om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter (Internkontrollforskriften) krever også skriftlige instrukser og prosedyrer som sikrer strålevern av pasient.
 
@@ -781,6 +1699,8 @@ Beredskapsplanen skal være basert på risikovurderinger og bør inneholde varsl
 
 ### Til § 20 Varslingsplikt ved ulykker og unormale hendelser
 
+*Til første ledd:*
+
 For alvorlige eller uavklarte hendelser skal varsel skje telefonisk til Strålevernets vakttelefon (tlf. 67 16 26 00). Andre hendelser kan varsles via epost, telefon eller evt. til en saksbehandler. Varselet bør inneholde informasjon om tid og sted for hendelsen, kontaktinformasjon, hendelsesforløpet (inkludert opplysning om type strålekilde, mulige stråledoser til individer eller mulige utslipp til miljø), etc.
 
 ### Til § 21 Oversikt over og kontroll med strålekilder
@@ -793,13 +1713,19 @@ For skjermingsbeholdere som inneholder uran, vises det til [forskrift 12. mai 20
 
 Det vises også til [§ 53](forskrift/2016-12-16-1659/§53) med krav til kvalitetskontroll av medisinsk stråleapparatur.
 
+*Til første ledd:*
+
 Kravet retter seg mot produsent, forhandler, eier og bruker som alle plikter å forsikre seg om at strålekilder er hensiktsmessig konstruert med tanke på strålesikkerhet. Eier og bruker plikter før bruk å forsikre seg om at strålekilden er i god tilstand.
+
+*Til andre ledd:*
 
 Kravet til dokumentasjon omfatter blant annet teknisk dokumentasjon på strålekildenes ytelse, bruksanvisninger, beskrivelser av vedlikehold og av strålevern og sikkerhet.
 
 Hyppigheten av periodiske kontroller må tilpasses de påkjenningene utstyret utsettes for. Mobilt utstyr som brukes under varierte eller røffe forhold bør kontrolleres minst årlig, mens fastmontert utstyr som brukes under stabile forhold ikke trenger å kontrolleres like hyppig. Det bør uansett ikke gå lengre enn tre år mellom hver periodiske kontroll.
 
 Behovet for periodiske kontroller av utstyr bør inngå som en del av risikovurderingen som skal gjennomføres i samsvar med [§ 18](forskrift/2016-12-16-1659/§18). Disse periodiske kontrollene kommer i tillegg til de mer hyppige eller daglige kontrollene og kravet i denne paragrafens første ledd om at eier og bruker plikter å forsikre seg om at strålekilden er i god stand før bruk.
+
+*Til fjerde ledd:*
 
 Ved anvendelse av unntaksbestemmelsen for Forsvarets militære laserutstyr må kravet til strålekilder i første ledd leses i sammenheng med unntakshjemmelen i [§ 35](forskrift/2016-12-16-1659/§35) femte ledd. Hensynet til Forsvarets operative evne kan begrunne unntak fra kravene for ferdig utviklet militært materiell.
 
@@ -813,15 +1739,21 @@ Kravene gjelder utstyr for avbildning og analyse innen industriell og forsknings
 
 Kravene gjelder alt utstyr for avbildning og analyse innen industriell og forskningsmessig strålebruk, samt for kapslede radioaktive kilder innen medisinsk strålebruk. Kravene omfatter ikke medisinsk røntgenutstyr. Apparatur for medisinsk diagnostikk reguleres i [kapittel VI](forskrift/2016-12-16-1659/kapvi).
 
+*Til andre ledd:*
+
 Med kontrollkilde menes en innretning for måling eller prosesstyring som aktiveres av stråling fra en eller flere kapslede radioaktive strålekilder. Kontrollkilden inkluderer normalt en kildebeholder og en detektor. ISO klasse xx2323xxxx betyr at kildebeholderen skal være konstruert slik at strålenivået ikke overstiger 500 μSv/t i en avstand av 5 cm fra overflaten og 7,5 μSv/t i 1 m avstand fra kildebeholderen. De øvrige tall- og bokstavangivelsene i ISO-klassifiseringen angir andre tekniske og fysiske egenskaper ved kildebeholderen, og kan ha forskjellige verdier.
 
 ### Til § 25 Oppbevaring av radioaktive strålekilder
 
 Virksomhetens rom for mellomlagring av brukte radioaktive strålekilder som skal gå til utslipp eller avfallsbehandling ansees ikke som et avfallsanlegg, for definisjon av avfall se [lov 13. mars 1981 nr. 6](lov/1981-03-13-6) om vern mot forurensning og om avfall (forurensningsloven) [§ 27](lov/1981-03-13-6/§27).
 
+*Til bokstav f)*
+
 Krav om at strålekilder ikke skal oppbevares sammen, vil si at de skal oppbevares adskilt (for eksempel i hvert sitt brannsikre skap), men kan være i samme rom.
 
 ### Til § 26 Skjerming og sikkerhetsutstyr
+
+*Til første ledd:*
 
 Bygningsmessig skjerming må planlegges slik at de dimensjonerende dosegrensene på 0,25 mSv/år for allmennheten og 1 mSv/år for yrkeseksponert gitt i [§ 6](forskrift/2016-12-16-1659/§6) og [§ 30](forskrift/2016-12-16-1659/§30) ikke overstiges. Forutsetninger som ligger til grunn for skjermingsvurderinger og gjennomført bygningsmessig skjerming må være dokumentert. Virksomheten må verifisere med målinger at bygningsmessig skjerming er tilstrekkelig dimensjonert, der Strålevernet etterspør dette.
 
@@ -830,6 +1762,8 @@ Ved endringer i bruksfrekvens, bruksområde eller andre forhold som har betydnin
 Annet sikkerhetsutstyr kan for eksempel omfatte personlig verneutstyr, tekniske sikkerhetssystemer, nødstoppbrytere, varselskilt, strålevernsmonitorer, spesialverktøy og skjermende beholdere.
 
 Strålevern av pasient reguleres i [kapittel VI](forskrift/2016-12-16-1659/kapvi).
+
+*Til andre ledd:*
 
 Hyppigheten av kontroller av sikkerhetsutstyr bør tilpasses de påkjenningene utstyret utsettes for. Sikkerhetsutstyr som brukes under varierte eller røffe forhold bør kontrolleres minst årlig, mens utstyr som brukes under stabile forhold ikke trenger å kontrolleres like hyppig. Det bør uansett ikke gå lengre enn tre år mellom hver kontroll.
 
@@ -843,9 +1777,13 @@ Det skal verifiseres at isotoplaboratorier, inkludert avtrekkskap eller sikkerhe
 
 Arbeidsplass med strålekilder skal være merket med standard varselskilt mot ioniserende stråling i tråd med forskrift [6. desember 2011 nr. 1356](forskrift/2011-12-06-1356) om utforming og innretning av arbeidsplasser og arbeidslokaler (arbeidsplassforskriften) [kapittel 5](forskrift/2011-12-06-1356/kap5).
 
+*Til første og andre ledd:*
+
 Klassifisering av forskjellige områder på arbeidsplassen skal gjøres på grunnlag av en vurdering av forventede årlige stråledoser og sannsynligheten for og størrelsen av potensielle bestrålinger. Det skal skjelnes mellom kontrollerte områder og overvåkede områder. Tilgangen til kontrollerte områder skal være avgrenset, og adgang skal begrenses til personer som har mottatt passende instrukser og kontrolleres på grunnlag av virksomhetens skriftlige prosedyrer. I overvåkede områder skal arbeidsplassen overvåkes og publikumsadgangen bør være begrenset. Virksomheten skal overvåke arbeidsforholdene i både kontrollerte og overvåkede områder.
 
 Klassifisering av et område er primært basert på hvilke doser som kan overstiges, og ikke hvilke doser arbeidstakerne i gjennomsnitt utsettes for. Innenfor kontrollert og overvåket område, vil det kunne være arbeidsoppgaver som er av en slik art at stråleeksponeringen er under 1 mSv per år, og forutsigbar i den forstand at risiko for uhell er neglisjerbar. Slike arbeidsoppgaver kan også utføres av gravide yrkeseksponerte, jf. [§ 32](forskrift/2016-12-16-1659/§32) der dosegrensen for gravide er angitt.
+
+*Til tredje ledd:*
 
 Virksomheten må innrette strålebruk og skjerming mv. slik at yrkeseksponerte arbeidstakere ikke utsettes for mer enn 1 mSv per år utenfor kontrollert eller overvåket område. For arbeidstakere som ikke er yrkeseksponerte, skal virksomheten innrette strålebruk og skjerming mv. slik at disse arbeidstakerne ikke utsettes for mer enn 0,25 mSv pr. år, jf. [§ 6](forskrift/2016-12-16-1659/§6) fjerde ledd.
 
@@ -855,11 +1793,17 @@ Virksomheten må ha rutiner for jevnlig å verifisere at arbeidstakere er plasse
 
 ### Til § 32 Dosegrenser m.m.
 
+*Til første ledd:*
+
 Dosegrensene refererer seg til dosebidraget utover bakgrunnsnivået fra naturlig stråling.
 
 Ved inntak av radioaktive stoffer gjelder de samme grenseverdier, dvs. summen av dosen fra inntak av radionuklider (interndosen) og dosen fra eksterne kilder skal ikke overstige de angitte grenser. Avledete verdier i form av årlige inntaksgrenser (Bq/år) for ulike radioaktive stoffer kan fås ved henvendelse til Strålevernet.
 
+*Til tredje ledd:*
+
 Enkle arbeidsprosesser, for eksempel uttak av stamløsninger og fortynninger, med aktivitetsmengder tillatt brukt i type C isotoplaboratorium vil som oftest ikke medføre vesentlig risiko for inntak eller kontaminering
+
+*Til fjerde ledd:*
 
 For å sikre seg mot overskridelse av dosegrensene bør virksomheten etablere tiltaksgrenser når en viss brøkdel av dosegrensene er overskredet (se veiledere).
 
@@ -871,9 +1815,15 @@ Se for øvrig [forskrift 6. desember 2011 nr. 1357](forskrift/2011-12-06-1357) o
 
 ### Til § 33 Persondosimetri
 
+*Til første ledd:*
+
 Ved doseberegninger må virksomheten kunne dokumentere sannsynlig stråleeksponering, oppholdstid i kontrollert eller overvåket område etc.
 
+*Til andre ledd:*
+
 Fastlegging av stråleeksponering av yrkeseksponerte i kategori B kan gjøres ved individuelle målinger som utføres av en persondosimetritjeneste, eller baseres på individuelle doseberegninger. Individuelle målinger eller beregninger er ikke påkrevet der årsdoser over 1 mSv kan utelukkes.
+
+*Til tredje ledd:*
 
 Arbeidsgivers plikt til å informere arbeidstagerne kan oppfylles ved at arbeidsgiver minst årlig informerer hver enkelt arbeidstager skriftlig om avleste stråledoser. Data om den enkeltes stråleeksponering er en personopplysning, men anses ikke som en sensitiv personopplysning som definert i [personopplysningsloven § 2](lov/2018-06-15-38/§2) nr. 8. I tråd med personopplysningsloven skal personopplysninger håndteres i overenstemmelse med de plikter som fremkommer i [personopplysningsloven § 11](lov/2018-06-15-38/§11).
 
@@ -883,25 +1833,39 @@ Arbeidsgivers øvrige plikter er regulert av [forskrift 6. desember 2011 nr. 135
 
 Rapportering på individnivå innebærer at stråledosen til hver enkelt arbeidstager skal fremgå av en persondoserapport. Opprettelse av et Nasjonalt yrkesdoseregister er planlagt. Inntil etablering av et slikt register skal doseopplysningene rapporteres uten å være personidentifiserbare.
 
+*Til fjerde ledd:*
+
 Kravet om oppbevaring av persondoserapporter gjelder også for virksomheter som benytter seg av Strålevernets persondosimetritjeneste.
 
 ### Til kapittel V. Bestemmelser om ikke-ioniserende stråling
 
 ### Til § 35 Bruk av IPL, lasere og sterke ikke-ioniserende strålekilder
 
+*Første ledd:*
+
 Standarden inneholder kriterier for klassifisering av laser og krav til brukere og leverandører og sikkerhetsforanstaltninger ved bruk.
+
+*Til andre ledd:*
 
 Tilsiktet eksponering av mennesker inkluderer også kosmetisk bruk, biostimulering og lignende. Kosmetisk bruk omfatter behandling som har formål som hudforbedring, rynkefjerning, fjerning av tatoveringer og lignende.
 
+*Til tredje ledd bokstav a):*
+
 Beskyttelsesbriller skal være tilpasset bølgelengde og avgitt effekt for den enkelte laser og IPL.
+
+*Til tredje ledd bokstav c):*
 
 Virksomheten må kunne dokumentere at det er gjennomført en gjennomgang av rutiner og vurdering av grenseverdier dersom beskyttelsesbriller ikke skal benyttes av arbeidstaker.
 
 ### Til § 36 Tekniske krav til solarier
 
+*Til andre ledd:*
+
 Virksomheten skal kunne dokumentere at målinger som ligger til grunn for klassifisering er utført i samsvar med gjeldende europeisk standard for solarier og rør.
 
 ### Til § 37 Alderskontroll ved bruk av solarier
+
+*Til første ledd:*
 
 Det er forbudt å tilby solarium til kosmetisk formål for personer under 18 år. Forbudet er rettet mot virksomhetene, men i praksis gir bestemmelsen også hjemmel for tilsynsmyndigheten til å bortvise kunder under 18 år.
 
@@ -909,15 +1873,21 @@ Veiledning om system for alderskontroll er publisert i StrålevernInfo 3:2016 Ny
 
 ### Til § 38 Andre krav til virksomhet som tilbyr soling i solarier
 
+*Til andre ledd:*
+
 Virksomheten må informere den enkelte kunde om relevante risikofaktorer ved solariebruk. Strålevernet har utarbeidet informasjonsmateriell i samarbeid med Kreftforeningen, Forbrukerrådet og Norsk Solarieforening, som skal formidles til den enkelte kunde før første gangs bruk. Deretter skal informasjonsmateriellet formidles jevnlig og minst en gang i året. Formidlingsmåten av informasjonsmateriellet er opp til den enkelte virksomhet, men det må kunne dokumenteres at den enkelte kunde har mottatt og lest informasjonen, ved signering eller annen bekreftelse.
 
 ### Til kapittel VI. Bestemmelser om medisinsk strålebruk
 
 ### Til § 39 Berettigelse
 
+*Til første ledd:*
+
 Medisinsk strålebruk skal gjøre mer nytte enn skade for individet. Bestråling av både pasient og symptomfrie personer skal berettigelsesvurderes. Vurdering av alternative metoder er spesielt viktig for barn og unge som er mer strålefølsomme, og kronisk syke pasienter som gjennomgår repeterende undersøkelser og kontroller. Virksomheten må utarbeide prosedyrer der ansvar og oppgaver innen vurdering av berettigelse er tydelig definert.
 
-Vurdering av nye metoder eller anvendelser må minimum omfatte fordeler og ulemper med valgt apparatur og metode, men kan også omfatte helsemessige, etiske, organisatoriske, økonomiske og andre samfunnsmessige forhold. Metodevurderinger som er gjennomført i henhold til retningslinjene gitt i Nye Metoder ([www.nyemetoder.no](https://www.nyemetoder.no)) ansees som tilstrekkelig dokumentasjon dersom vurderingene adresserer strålevern (doser og risiko) på en tilfredsstillende måte. Nasjonale handlingsprogrammer anses også som tilstrekkelig dokumentasjon. Om dette ikke finnes, må virksomheten dokumentere generell berettigelse på annen måte.
+*Til andre ledd:*
+
+Vurdering av nye metoder eller anvendelser må minimum omfatte fordeler og ulemper med valgt apparatur og metode, men kan også omfatte helsemessige, etiske, organisatoriske, økonomiske og andre samfunnsmessige forhold. Metodevurderinger som er gjennomført i henhold til retningslinjene gitt i Nye Metoder ( [www.nyemetoder.no](https://www.nyemetoder.no)) ansees som tilstrekkelig dokumentasjon dersom vurderingene adresserer strålevern (doser og risiko) på en tilfredsstillende måte. Nasjonale handlingsprogrammer anses også som tilstrekkelig dokumentasjon. Om dette ikke finnes, må virksomheten dokumentere generell berettigelse på annen måte.
 
 Individuell berettigelsesvurdering skal ta utgangspunkt i pasientens kliniske opplysninger og symptomer etc., men for asymptomatiske personer skal berettigelsen vurderes ut fra personens familiehistorikk, identifiserte risikofaktorer o.l. Vurderingen av individuell berettigelse skal dokumenteres og foreligge før pasienten eksponeres for strålingen.
 
@@ -925,11 +1895,17 @@ Undersøkelser eller behandlinger som ikke har påvirkning for videre diagnostis
 
 Individer kan kun bestråles i forbindelse med forskningsmessig strålebruk, dersom forskningsprogrammet er vurdert og funnet berettiget av en regional etisk komité. Forskningsprotokollen bør inneholde informasjon om type strålebruk, omfang og forventet stråledose og totalrisiko dersom protokollen omfatter mer enn en eksponering.
 
+*Til tredje ledd:*
+
 Dersom undersøkelsen eller behandlingen resulterer i betydelig dose til arbeidstaker, omsorgsyter eller befolkning skal dette inkluderes i berettigelsesvurderingen både på generelt og individuelt nivå. Dosereduserende tiltak for personell, omsorgsyter og befolkning skal vurderes før undersøkelsen eller behandlingen gjennomføres.
 
 ### Til § 40 Optimalisering
 
+*Til første ledd:*
+
 Optimalisert medisinsk strålebruk innebærer at undersøkelser og behandlinger gjøres med tilpasset dedikert apparatur, hensiktsmessig prosedyre og at dosen er tilpasset undersøkelsens eller behandlingens formål. Optimalisering omfatter derfor en vurdering der en ut fra tekniske, praktiske, økonomiske og samfunnsmessige forhold velger apparatur, prosedyre og arbeidsteknikk slik at:Diagnostiske undersøkelser, bildeveiledete intervensjoner og operasjoner og bildeveiledet stråleterapi (IGRT), etc. utføres med lavest mulig stråledose, samtidig som en sikrer tilstrekkelig bildekvalitet. Stråledosen til strålefølsomme organer som øyelinser, bryster, skjoldbruskkjertel og gonader skal holdes så lav som mulig.Strålebehandling sikrer adekvat stråledose til målvolum, samtidig med at stråledosen til risikoorganer og omkringliggende vev holdes så lav som mulig. Med målvolum menes et avgrenset volum i pasienten hvor det tilstrebes å gi en planlagt dose ut fra den kliniske målsetningen med bestrålingen.Undersøkelser og behandlinger av gravide eller ammende kvinner med ioniserende stråling medfører lavest mulig stråledose til foster eller barn som blir ammet.
+
+*Til andre ledd:*
 
 Med tverrfaglig menes at optimaliseringsteamet minimum bør bestå av aktuell legespesialist (som radiolog, legespesialist innen nukleærmedisin, onkolog), teknisk personell (som radiograf, bioingeniør eller stråleterapeut) og medisinsk fysiker med kompetanse innen aktuelt fagområde. Optimalisering skal være integrert i virksomhetens arbeid.
 
@@ -949,6 +1925,8 @@ Virksomheten må sikre at faglige retningslinjer, standardiserte utredningsløp 
 
 ### Til § 43 Informasjons- og veiledningsplikt
 
+*Til første ledd:*
+
 Plikten gjelder alle individer som utsettes for stråling. Informasjonsplikten omfatter også personer som eksponeres i forbindelse med forskningsprosjekter. Informasjonen skal være korrekt og balansert med hensyn til fordeler og risikoer forbundet med undersøkelsen eller behandlingen. Informasjonen kan gis skriftlig om det er hensiktsmessig. Markedsføring og informasjon om medisinsk strålebruk skal være i overensstemmelse med etiske regler for leger og gi tilstrekkelig og balansert informasjon om fordeler og ulemper forbundet med strålebruken.
 
 ### Til § 44 Klinisk revisjon
@@ -959,7 +1937,11 @@ Kliniske revisjoner skal dokumenteres i rapporter og foreslå endring av praksis
 
 ### Til § 45 Representative doser og administrert aktivitet
 
+*Til første ledd*
+
 Med representativ verdi for dose eller aktivitet menes virksomhetens egen gjennomsnittsverdi for en gitt undersøkelse på et gitt laboratorium basert på et utvalg pasienter (minimum 20 pasienter med vekt innenfor 55–90 kg). Etablering av representative doser skal være knyttet til klinisk indikasjon i tillegg til anatomisk område. Disse verdiene er et viktig verktøy for optimalisering av undersøkelsene, og skal også brukes for sammenlikninger internt i virksomheten for å identifisere undersøkelser som gir både for lave og for høye doser. I røntgendiagnostikk finnes flere metoder for å måle eller beregne stråledose, i nukleærmedisin brukes tilført aktivitet som mål for stråledose. Etablering av representativ dose eller aktivitet er ikke begrenset til undersøkelser der det eksisterer nasjonale referanseverdier, men skal omfatte alle typer undersøkelser (med unntak av rene ekstremitetsundersøkelser) av et visst volum, for eksempel der det gjennomføres mer enn 20 undersøkelser per år. De representative dosene eller aktivitetene rapporteres til Strålevernet på forespørsel, jf. [§ 52](forskrift/2016-12-16-1659/§52).
+
+*Til andre ledd*
 
 Doseverdiene bør minimum revideres hvert tredje år eller oftere når nytt utstyr, metoder eller protokoller tas i bruk.
 
@@ -981,7 +1963,11 @@ Sikker betjening av apparatur for medisinsk strålebruk krever ulik kompetanse, 
 
 Delegering av oppgaver i forbindelse av betjening av apparatur er regulert i [lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsepersonell m.v. (helsepersonelloven) [§ 5](lov/1999-07-02-64/§5).
 
+*Til bokstav d)*
+
 Med hybridapparatur menes f.eks. SPECT/CT, PET/CT eller PET/MR. For hybridapparatur må kravene til CT- og MR-kompetanse vurderes etter hvor komplisert CT- og MR-bruken er.
+
+*Til bokstav f) og g)*
 
 Med autorisert helsepersonell menes personell med autorisasjon etter helsepersonellovens bestemmelser.
 
@@ -1011,9 +1997,13 @@ Helsedirektoratet er ansvarlig for nasjonale retningslinjer og kriterier for scr
 
 ### Til § 52 Plikt til å gi opplysninger
 
+*Til første ledd:*
+
 Strålevernet bestemmer hvilket format opplysningene skal rapporteres på. Rapportering av aktivitets- og dosedata skal normalt rapporteres til Norsk Pasientregister som nøkkelregister i henhold til gjeldende NPR-melding der dette foreligger. Strålevernet kan ved behov be om rapportering av nødvendige data direkte til Strålevernet, f.eks. i forbindelse med tilsyn og oppfølgning av uhell og uønskede hendelser.
 
 ### Til § 53 Utstyr, kvalitetssikring og kvalitetskontroll
+
+*Til første ledd:*
 
 Der det ikke finnes nasjonale akseptkriterier kan Europeiske- eller internasjonale akseptkriterier være veiledende.
 
@@ -1021,35 +2011,61 @@ Ansvar og oppgaver forbundet med kvalitetssikring, kvalitetskontroll og vedlikeh
 
 ### Til § 54 Dosimetri og kalibrering ved ioniserende strålebehandling, røntgendiagnostikk og nukleærmedisin
 
+*Til første ledd:*
+
 Med dosimetri menes teorien og anvendelsen av prinsipper og teknikker til måling og beregning av dose fra ioniserende stråling. Med kalibrering menes etableringen av sammenhengen mellom en relativ størrelse fra et måleinstrument og en kjent måleenhet i SI-systemet. For referanseinstrumenter til dosimetri (ionisasjonskamre) vil en ha kalibreringskoeffisient for dose i gray per ladning i coulomb (Gy/C). Protokollen «Absorbed dose determination in external beam radiotherapy TRS 398» fra Det internasjonale atomenergibyrået (IAEA), er norsk protokoll for kalibrering av strålekilder for ekstern behandling, «IAEA TECDOC-1274» for brachyterapi og IAEA Technical reports series no. 457 «Dosimetry in Diagnostic Radiology: An International Code of Practice» for røntgendiagnostikk.
+
+*Til andre ledd:*
 
 Hvert annet år ansees som jevnlig kalibreringsfrekvens innen røntgendiagnostikk og nukleærmedisin. Referanseinstrumenter som brukes ved slik kalibrering må være sporbare til relevante nasjonale normaler.
 
 ### Til § 56 Røntgenapparatur og dosemonitorering
 
+*Til bokstav a)*
+
 Utstyr som gir et mål på pasientdosen vil variere fra modalitet til modalitet. Ved vanlig røntgenfotografering og gjennomlysning vil stråledosen typisk være gitt som inngangsdose ved hudoverflaten eller som dose-areal produkt. Ved dataassistert snittavbildning (CT), er dosen gitt som volum CT doseindex (CTDIvol) og dose-lengde produkt (DLP). For mammografi er dosen gitt ved midlere brystkjerteldose (MGD).
+
+*Til bokstav b)*
 
 Doseinformasjonen skal aktivt monitoreres under intervensjonsprosedyren for å kunne optimalisere prosedyren med tanke på valg av projeksjon etc. for å redusere stråledosen til pasientens hud. Pasienter som mottar høye huddoser skal identifiseres og følges opp med tanke på hudreaksjoner. Pasienten skal orienteres om høy huddose og mulige hudreaksjoner. Høye huddoser skal meldes til Strålevernet, jf. [§ 20](forskrift/2016-12-16-1659/§20).
 
+*Til bokstav c)*
+
 Med automatisk doseoverføring menes at relevant doseinformasjon er strukturert og elektronisk tilgjengelig for datauttrekk på modaliteten.
 
+*Til bokstav d)*
+
 Individuelle doseregisteringer skal jevnlig gjennomgås med tanke på identifisering av eventuelle lave eller høye pasientdoser og optimalisering av undersøkelsene. Registrerte doseparametre representerer ikke faktisk absorbert dose til pasient og må brukes med forsiktighet. Estimering av individuelle doser og risiko skal ta utgangspunkt i aktuelle eksponeringsparametre og alders- og kjønnsmessige risikofaktorer. Medisinsk fysiker skal være involvert i estimering av individuelle doser og risiko. Individuelle doseverdier må kunne framskaffes for rapportering til Strålevernet på forespørsel, jf. [§ 52](forskrift/2016-12-16-1659/§52).
+
+*Til bokstav e)*
 
 Pasientdoser som registreres i pasientjournalen skal ikke summeres til akkumulert effektiv dose.
 
 ### Til § 57 Ekstern strålebehandling og brachyterapi
 
+*Til bokstav a)*
+
 Behandlingsplan for ekstern stråleterapi, skal minimum inneholde informasjon om doser til målvolum og risikoorganer, strålefeltgeometri, bord- og pasientposisjon. Behandlingsplan for brachyterapi skal inneholde aktivitet, doseberegninger, kildeposisjoner og liggetider.
+
+*Til bokstav b)*
 
 Dersom pasientansvarlig lege har annen legespesialitet enn onkolog, må virksomheten søke individuell dispensasjon fra krav gitt i [§ 47](forskrift/2016-12-16-1659/§47) c).
 
+*Til bokstav c)*
+
 Strålebehandlingen skal gis med planlagt og korrekt dose til planlagt og korrekt område i pasienten.
 
+*Til bokstav d)*
+
 Ved behov skal det være mulig å rekonstruere behandlingsopplegg, behandlingsforløp og gitte doser til hver enkelt pasient.
+
+*Til bokstav e)*
 
 Med faglig ansvarlig menes funksjon som innehas av person med beskrevet kompetanse, og som innen sitt område har faglig ansvar for berettigelse, optimalisering og arbeidsmetoder, og som samarbeider med faglig ansvarlige for andre områder eller spesialiteter i vurderingen av klinisk resultat.
 
 ### Til § 58 Nukleærmedisinsk diagnostikk og behandling
+
+*Til andre ledd:*
 
 Med individuell doseplanlegging i nukleærmedisin menes at det skal tas hensyn til pasientens alder, kjønn, vekt, sykdomstilstand mv. for på forhånd å kunne estimere dose til det behandlede vev.
 
@@ -1062,6 +2078,8 @@ Metodene skal være basert på vitenskapelige rapporter, konsensusrapporter elle
 ### Til § 60 Tilsyn
 
 Bestemmelsen utdyper [strålevernloven § 18](lov/2000-05-12-36/§18) om tilsyn og vedtak. Strålevernet er gitt myndighet til å treffe nødvendige enkeltvedtak som følger av [strålevernloven § 19](lov/2000-05-12-36/§19) til [§ 23](lov/2000-05-12-36/§23). Krav som stilles i [lov 10. februar 1967](lov/1967-02-10) om behandlingsmåten i forvaltningssaker (forvaltningsloven), vil gjelde for de enkeltvedtak som treffes.
+
+*Til fjerde ledd:*
 
 Bestemmelsen innebærer at kommunene, i tillegg til Strålevernet, fører tilsyn med solarier etter strålevernloven og strålevernforskriften. Kommunene har adgang til å anvende [strålevernloven kapittel V](lov/2000-05-12-36/kapv) om vedtak, virkemiddel- og sanksjonsbestemmelser.
 
