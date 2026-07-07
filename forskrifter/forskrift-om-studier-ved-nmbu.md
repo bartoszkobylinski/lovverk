@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2023-03-15"
 last_change_in_force: "2025-07-01"
 last_updated: "2024-08-23"
-xml_hash: "d6ffa859c3abfffc05896575b4ba492cb68e8ac3542ff47d2c570c00364bf147"
+xml_hash: "ca91662f05ba002ca43491e44dbec0ac5cef6cd799304536488e593a68086ad0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -84,7 +84,7 @@ Rektor kan fastsette utfyllende bestemmelser for realkompetansevurdering innen d
 
 (3) For erfaringsbaserte masterstudier av 90 eller 120 studiepoengs omfang kreves i tillegg minst to års yrkespraksis som er relevant for studieprogrammet.
 
-> Endret ved forskrift [2 feb 2024 nr. 254](forskrift/2024-02-02-254) (i kraft 1 mars 2024).
+> Endret ved forskrift [2 feb 2024 nr. 254](forskrift/2024-02-02-254) (i kraft 1 mars 2024). **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
 
 ### § 6-2. Krav om språkkunnskap
 
@@ -228,7 +228,7 @@ Rektor kan fastsette utfyllende bestemmelser om privatister.
 
 (4) Rektor kan fastsette utfyllende bestemmelser om plikter knyttet til studieretten.
 
-> Endret ved forskrift [2 feb 2024 nr. 254](forskrift/2024-02-02-254) (i kraft 1 mars 2024).
+> Endret ved forskrift [2 feb 2024 nr. 254](forskrift/2024-02-02-254) (i kraft 1 mars 2024). **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
 
 ### § 17-3. Oppmelding og avmelding til vurdering
 
@@ -253,6 +253,8 @@ Rektor kan fastsette utfyllende bestemmelser om privatister.
 (1) Studenter som er tatt opp til et studieprogram ved NMBU har studierett til programmet inntil retten inndras i tråd med bestemmelsene i [§ 17-6](forskrift/2023-03-09-322/§17-6). Studenter som er tatt opp til veterinærstudiet gis en studierett på inntil åtte år. Studenter som er tatt opp til dyrepleierstudiet gis en studierett på inntil fire år. Permisjoner etter [kapittel 25](forskrift/2023-03-09-322/kap25) og tilrettelegging av studiesituasjonen etter [kapittel 34](forskrift/2023-03-09-322/kap34), blir ikke regnet som del av registrert studietid.
 
 (2) Den som har fått studieretten inndratt, kan søke om nytt opptak. Nytt opptak gir ikke fornyet adgang til å fremstille seg til vurdering i et emne som ikke er bestått jf. bestemmelsene om antall forsøk i [kapittel 38](forskrift/2023-03-09-322/kap38).
+
+> **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
 
 ### § 17-6. Inndragning av studieretten
 
@@ -329,6 +331,8 @@ Forventet studiearbeidsmengde er i snitt 60 studiepoeng pr. år. Omregnet til st
 (8) Alle emner skal normalt være på minimum 5 studiepoeng.
 
 (9) Undervisningen i et emne kan avlyses, dersom færre studenter er oppmeldt i emnet enn det som er oppgitt som krav i emnebeskrivelsen.
+
+> **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
 
 ### § 20-2. Faglig overlapp
 
@@ -516,6 +520,8 @@ Rektor kan fastsette utfyllende bestemmelser om mappe, oppgaver og praksis.
 
 (3) Rektor kan fastsette utfyllende bestemmelser for tilrettelegging i samsvar med de til enhver tid gjeldende bestemmelser i uhl.
 
+> **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
+
 ### Kapittel 35. Fravær i forbindelse med fremstilling til vurdering
 
 ### § 35-1. Fravær grunnet sykdom
@@ -578,7 +584,7 @@ Rektor kan fastsette utfyllende bestemmelser til oppmelding og gjennomføring av
 
 (6) Rektor kan i utfyllende bestemmelser fastsette nærmere regler for adgang til å fremstille seg til vurdering i et emne flere ganger.
 
-> Endret ved forskrifter [2 feb 2024 nr. 254](forskrift/2024-02-02-254) (i kraft 1 mars 2024), [19 sep 2024 nr. 2298](forskrift/2024-09-19-2298) (i kraft 1 okt 2024).
+> Endret ved forskrifter [2 feb 2024 nr. 254](forskrift/2024-02-02-254) (i kraft 1 mars 2024), [19 sep 2024 nr. 2298](forskrift/2024-09-19-2298) (i kraft 1 okt 2024). **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
 
 ### Kapittel 39. Fusk
 
@@ -650,6 +656,8 @@ Rektor kan i utfyllende bestemmelser fastsette nærmere regler for sensorer og s
 
 (3) Spesialpensum som er tilknyttet en masteroppgave bedømmes med bokstavkarakter. Spesialpensum som er tilknyttet et doktorgradsstudium (ph.d.) bedømmes med bestått/ikke bestått. Øvrige spesialpensum bedømmes med bokstavkarakter eller bestått/ikke bestått.
 
+> **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
+
 ### § 41-2. Bokstavkarakter
 
 (1) Bokstavkarakterene går fra A–F, der A er beste og E dårligste ståkarakter, mens F gis ved ikke bestått/stryk. Oversikt over karakterbetegnelser og vurderingskriterier finnes på NMBUs nettsider.
@@ -682,7 +690,7 @@ Enhver vurdering skal resultere i et vurderingsuttrykk (en karakter). Sensur ska
 
 (3) Rektor kan i utfyllende bestemmelser fastsette nærmere bestemmelser om uenighet ved karakterfastsetting.
 
-> Endret ved forskrift [19 sep 2024 nr. 2298](forskrift/2024-09-19-2298) (i kraft 1 okt 2024).
+> Endret ved forskrift [19 sep 2024 nr. 2298](forskrift/2024-09-19-2298) (i kraft 1 okt 2024). **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
 
 ### § 42-3. Særskilt ved muntlig eksamen og muntlig presentasjon av gradsoppgave
 
@@ -786,6 +794,8 @@ Oppmeldingsfrist for gradsoppgaver følger NMBUs akademiske kalender. Det er ing
 
 I særlige tilfeller kan offentliggjøring av en gradsoppgave båndlegges (utsettes) for en periode på inntil fem år. Eventuell båndlegging utover fem år må avgjøres av rektor etter begrunnet søknad. Gradsoppgaver som helt eller delvis inneholder opplysninger som er dekket av lovbestemt taushetsplikt klausuleres (skjermes for innsyn) i samsvar med bestemmelsene i [forvaltningsloven](lov/1967-02-10).
 
+> **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
+
 ### § 44-6. Forsinket innlevering
 
 (1) Ved særlige behov kan fakultetet etter søknad på fastsatt skjema, innvilge lengre frist enn normalfristen, for innlevering av gradsoppgaven. Behovet må vurderes konkret i hvert tilfelle. Særlig behov kan være: sykdom, omsorgsarbeid, undervisningsoppgaver ved NMBU, tyngre studenttillitsverv eller uforskyldte problemer med oppgaven.
@@ -794,7 +804,7 @@ I særlige tilfeller kan offentliggjøring av en gradsoppgave båndlegges (utset
 
 (3) Hvis studenten innvilges utsatt innleveringsfrist utover tre måneder, må studenten semesterregistrere seg i samsvar med bestemmelsene i [§ 17-2](forskrift/2023-03-09-322/§17-2/ledd/2) andre ledd. Gradsoppgaven må i tillegg vurderingsmeldes for innleveringssemesteret.
 
-> Endret ved forskrift [19 sep 2024 nr. 2298](forskrift/2024-09-19-2298) (i kraft 1 okt 2024).
+> Endret ved forskrift [19 sep 2024 nr. 2298](forskrift/2024-09-19-2298) (i kraft 1 okt 2024). **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
 
 ### § 44-7. Gradsoppgave som ikke er levert innen fristen
 
@@ -812,7 +822,7 @@ Masteroppgaven skal ha en offentlig presentasjon og en muntlig diskusjon. Presen
 
 (2) Studenter som ikke møter til muntlig presentasjon av gradsoppgaven, og som ikke har utsettelse eller dokumenterer akseptert forfallsgrunn, skal få registrert ikke møtt på gradsoppgaven. I slike tilfeller mister studenten studieretten. Adgang til å fremstille seg til vurdering av gradsoppgave reguleres av [§ 38-1 andre ledd](forskrift/2023-03-09-322/§38-1/ledd/2).
 
-> Endret ved forskrift [19 sep 2024 nr. 2298](forskrift/2024-09-19-2298) (i kraft 1 okt 2024).
+> Endret ved forskrift [19 sep 2024 nr. 2298](forskrift/2024-09-19-2298) (i kraft 1 okt 2024). **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
 
 ### § 44-10. Evalueringskriterier
 
@@ -832,7 +842,7 @@ Masteroppgaven skal ha en offentlig presentasjon og en muntlig diskusjon. Presen
 
 (4) Rektor kan i utfyllende bestemmelser fastsette krav til omarbeiding av en gradsoppgave bedømt med karakteren F (stryk).
 
-> Endret ved forskrift [19 sep 2024 nr. 2298](forskrift/2024-09-19-2298) (i kraft 1 okt 2024).
+> Endret ved forskrift [19 sep 2024 nr. 2298](forskrift/2024-09-19-2298) (i kraft 1 okt 2024). **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
 
 ## Del VI. Grader og vitnemål
 
@@ -862,6 +872,8 @@ Masteroppgaven skal ha en offentlig presentasjon og en muntlig diskusjon. Presen
 
 (2) Rektor kan fastsette utfyllende bestemmelser for krav til innhold i mastergrad.
 
+> **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
+
 ### § 45-4. Krav til tilknytning til NMBU
 
 Krav til tilknytning for å få tildelt grad fra NMBU:For å få tildelt grad ved NMBU må studenten ha fått godkjent vurdering i emner tilsvarende minst 60 studiepoeng avlagt ved NMBU.Emner av inntil 30 studiepoengs omfang, avlagt ved et utenlandsk universitet eller høgskole som en del av en utvekslingsavtale med NMBU, kan inngå i ovennevnte 60 studiepoengs krav. Tilsvarende vil også kunne være gjeldende innenfor aktuelle fagfelt der NMBU har inngått en gjensidig samarbeidsavtale med et annet universitet eller høgskole i Norge.Det kan gjelde unntak fra kravet om antall studiepoeng avlagt ved NMBU, der studenten i samsvar med en internasjonal samarbeidsavtale, inngått av NMBU, tar en dobbelt- eller fellesgrad.
@@ -874,6 +886,8 @@ Krav til tilknytning for å få tildelt grad fra NMBU:For å få tildelt grad ve
 
 (2) De nye emnene må sammen med tidligere emner, eller i tillegg til disse, innebære at ny grad får et annet faglig tyngdepunkt enn den tidligere graden. Det vil si, med en fordypning av minst 80 studiepoengs omfang innen et annet fagområde enn den tidligere gradens faglige tyngdepunkt.
 
+> **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
+
 ### § 45-6. Studiepoeng som inngår i grunnlag for mastergrad
 
 (1) Minst 60 av studiepoengene som skal inngå i grunnlaget for mastergraden ved NMBU skal ikke være en del av tidligere oppnådd grad eller yrkesutdanning. I de 60 studiepoengene skal det alltid inngå en masteroppgave tilknyttet et studieprogram.
@@ -882,7 +896,7 @@ Krav til tilknytning for å få tildelt grad fra NMBU:For å få tildelt grad ve
 
 (3) Rektor kan i utfyllende bestemmelser fastsette at det, for enkelte studieprogram, skal være krav om at minst 90 studiepoeng, som skal inngå i grunnlaget for mastergraden ved NMBU, ikke er en del av tidligere oppnådd grad eller yrkesutdanning jf. [forskrift 21. desember 2018 nr. 2221 om godkjenning av norsk og utenlandsk høyere utdanning og av realkompetanse (godkjenningsforskriften) § 4 første ledd](forskrift/2018-12-21-2221/§4/ledd/1).
 
-> Endret ved forskrifter [19 sep 2024 nr. 2298](forskrift/2024-09-19-2298) (i kraft 1 okt 2024), [12 juni 2025 nr. 1411](forskrift/2025-06-12-1411) (i kraft 1 juli 2025).
+> Endret ved forskrifter [19 sep 2024 nr. 2298](forskrift/2024-09-19-2298) (i kraft 1 okt 2024), [12 juni 2025 nr. 1411](forskrift/2025-06-12-1411) (i kraft 1 juli 2025). **Endres** ved forskrift [10 juni 2026 nr. 1495](forskrift/2026-06-10-1495) (i kraft 1 aug 2026).
 
 ### Kapittel 46. Vitnemål og karakterutskrift
 
