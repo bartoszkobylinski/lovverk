@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-06-01"
 last_change_in_force: "2025-03-15"
 last_updated: null
-xml_hash: "b6c8aa7284c1550d23be93f9ec78b649642b6e69e6c08f817e3bfe1c154d362c"
+xml_hash: "e8880a0dfca02abdc4bcd4b2394fb2cded95492ade9b218c9502c4edadc80cf3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,10 +34,12 @@ Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar fo
 
 Fra samme tidspunkt oppheves [forskrift 5. mai 2015 nr. 458 om gjennomføring av beslutning 2014/880/EU om de felles spesifikasjonene for registeret over jernbaneinfrastruktur (infrastrukturregisterforskriften)](forskrift/2015-05-05-458).
 
+1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 767](forskrift/2022-05-06-767).
+
 ## Informasjon om gjennomføring i norsk rett av forordning [(EU) 2019/777](eu/32019r0777)
 
 Denne teksten er kun for informasjonsformål og er ikke del av forskriften.
 
-En uoffisiell, dansk, konsolidert versjon av forordning [(EU) 2019/777](eu/32019r0777) og de endringsforordninger som er gjennomført i denne forskriften kan leses her: [[RINF](https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02019R0777-20230928&qid=1741191595450)].
+En uoffisiell, dansk, konsolidert versjon av forordning [(EU) 2019/777](eu/32019r0777) og de endringsforordninger som er gjennomført i denne forskriften kan leses her: [ [RINF](https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX:02019R0777-20230928&qid=1741191595450)].
 
 > Endret ved forskrift [14 mars 2025 nr. 465](forskrift/2025-03-14-465) (i kraft 15 mars 2025).
