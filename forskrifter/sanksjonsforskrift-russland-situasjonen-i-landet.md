@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2025-03-14"
 last_change_in_force: "2025-03-31"
 last_updated: null
-xml_hash: "dba02036d587fc04f64a2b5539089f726acf2733dfe1e715cc4e04ab88efafd3"
+xml_hash: "1230f5ef1ec15c77c33fccb82ed2521ac45d6ba39893a716d5db6b1063c3d76b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,19 +24,19 @@ eu_basis: []
 
 ## § 1. Innarbeiding av rådsforordning (EU) 2024/1485
 
-1. Rådsforordning [(EU) 2024/1485](eu/32024r1485) om restriktive tiltak i lys av situasjonen i Russland gjelder som forskrift i sin vedlagte form, med de tilpasninger som følger av denne bestemmelsen.
+1\. Rådsforordning [(EU) 2024/1485](eu/32024r1485) om restriktive tiltak i lys av situasjonen i Russland gjelder som forskrift i sin vedlagte form, med de tilpasninger som følger av denne bestemmelsen.
 
-2. Henvisningene til medlemsstater, EU og Den europeiske union skal forstås som «Norge».
+2\. Henvisningene til medlemsstater, EU og Den europeiske union skal forstås som «Norge».
 
-3. Henvisningene til medlemsstatenes kompetente myndigheter skal forstås som «Direktoratet for eksportkontroll og sanksjoner»
+3\. Henvisningene til medlemsstatenes kompetente myndigheter skal forstås som «Direktoratet for eksportkontroll og sanksjoner»
 
-4. Ingen av forordningens bestemmelser om informasjonsutveksling mellom medlemsstater og Kommisjonen kommer til anvendelse. Det gjør heller ikke bestemmelser om at fysiske og juridiske personer, enheter og organer skal gi opplysninger til Kommisjonen. Videre er også artiklene 16, 17, 19 til 21 og 23 EU-interne og kommer ikke til anvendelse. Tilsvarende gjelder forordningens vedlegg III.
+4\. Ingen av forordningens bestemmelser om informasjonsutveksling mellom medlemsstater og Kommisjonen kommer til anvendelse. Det gjør heller ikke bestemmelser om at fysiske og juridiske personer, enheter og organer skal gi opplysninger til Kommisjonen. Videre er også artiklene 16, 17, 19 til 21 og 23 EU-interne og kommer ikke til anvendelse. Tilsvarende gjelder forordningens vedlegg III.
 
-5. Henvisningen til 28. august 2024 i artikkel 7 nr. 1 bokstav h skal forstås som 16. juni 2025.
+5\. Henvisningen til 28. august 2024 i artikkel 7 nr. 1 bokstav h skal forstås som 16. juni 2025.
 
-6. Henvisningen til artikkel 2a i rådsforordning [(EU) nr. 833/2014](eu/32014r0833) i artikkel 3 nr. 7 skal forstås som [§ 16a](forskrift/2014-08-15-1076/§16a) i [forskrift 15. august 2014 nr. 1076 om restriktive tiltak vedrørende handlinger som undergraver eller truer Ukrainas territorielle integritet, suverenitet, uavhengighet og stabilitet](forskrift/2014-08-15-1076).
+6\. Henvisningen til artikkel 2a i rådsforordning [(EU) nr. 833/2014](eu/32014r0833) i artikkel 3 nr. 7 skal forstås som [§ 16a](forskrift/2014-08-15-1076/§16a) i [forskrift 15. august 2014 nr. 1076 om restriktive tiltak vedrørende handlinger som undergraver eller truer Ukrainas territorielle integritet, suverenitet, uavhengighet og stabilitet](forskrift/2014-08-15-1076).
 
-7. Listen i vedlegg IV til vedlagte forordning [(EU) 2024/1485](eu/32024r1485) er i denne forskriften erstattet med en lenke til EUs konsoliderte liste over fysiske og juridiske personer, enheter og organer som er underlagt restriktive tiltak.
+7\. Listen i vedlegg IV til vedlagte forordning [(EU) 2024/1485](eu/32024r1485) er i denne forskriften erstattet med en lenke til EUs konsoliderte liste over fysiske og juridiske personer, enheter og organer som er underlagt restriktive tiltak.
 
 ## § 2. Straff
 
@@ -67,171 +67,171 @@ I denne forordningen menes med«formidlingstjenester»:forhandling eller organis
 
 ### Artikkel 2
 
-1. Det er forbudtdirekte eller indirekte å selge, levere, overføre eller eksportere utstyr oppført i vedlegg I som kan brukes til intern undertrykking, enten det har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Russland,direkte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til utstyret omtalt i bokstav a til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Russland,direkte eller indirekte å yte finansiering eller finansiell bistand, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, knyttet til utstyret omtalt i bokstav a til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Russland.
+1\. Det er forbudtdirekte eller indirekte å selge, levere, overføre eller eksportere utstyr oppført i vedlegg I som kan brukes til intern undertrykking, enten det har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Russland,direkte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til utstyret omtalt i bokstav a til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Russland,direkte eller indirekte å yte finansiering eller finansiell bistand, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, knyttet til utstyret omtalt i bokstav a til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Russland.
 
-2. Nr. 1 gjelder ikke verneutstyr som er midlertidig eksportert til Russland av FN-personell, personell fra Den europeiske union eller dens medlemsstater, representanter for mediene, humanitære hjelpearbeidere, bistandsarbeidere og tilknyttet personell, og som utelukkende er til deres personlige bruk.
+2\. Nr. 1 gjelder ikke verneutstyr som er midlertidig eksportert til Russland av FN-personell, personell fra Den europeiske union eller dens medlemsstater, representanter for mediene, humanitære hjelpearbeidere, bistandsarbeidere og tilknyttet personell, og som utelukkende er til deres personlige bruk.
 
-3. Som unntak fra bestemmelsene i nr. 1 kan de kompetente myndighetene gi tillatelse, på de vilkår de finner hensiktsmessige, til salg, levering, overføring eller eksport av utstyr som kan brukes til intern undertrykking, som nevnt i vedlegg I, og tilknyttet finansiering samt finansiell og faglig bistand, som utelukkende er bestemt til humanitære formål eller beskyttelsesformål eller til bruk for FNs eller EUs programmer for institusjonsbygging eller for FNs og EUs eller regionale og sub-regionale organisasjoners krisehåndteringsoperasjoner.
+3\. Som unntak fra bestemmelsene i nr. 1 kan de kompetente myndighetene gi tillatelse, på de vilkår de finner hensiktsmessige, til salg, levering, overføring eller eksport av utstyr som kan brukes til intern undertrykking, som nevnt i vedlegg I, og tilknyttet finansiering samt finansiell og faglig bistand, som utelukkende er bestemt til humanitære formål eller beskyttelsesformål eller til bruk for FNs eller EUs programmer for institusjonsbygging eller for FNs og EUs eller regionale og sub-regionale organisasjoners krisehåndteringsoperasjoner.
 
-4. Tillatelsene som er nevnt i nr. 3, kan bare gis før virksomheten det gjelder, finner sted. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkelen, senest fire uker etter at tillatelsen er gitt.
+4\. Tillatelsene som er nevnt i nr. 3, kan bare gis før virksomheten det gjelder, finner sted. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkelen, senest fire uker etter at tillatelsen er gitt.
 
-5. Som unntak fra bestemmelsene i nr. 1 kan de kompetente myndighetene tillate salg, levering, overføring eller eksport av bistanden eller tjenestene som er nevnt i dette nummeret etter å ha slått fast at dette er nødvendig fordrift av EUs og medlemsstatenes eller partnerlandenes diplomatiske og konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten,levering av elektroniske kommunikasjonstjenester fra teleoperatører i EU, for levering av tilhørende infrastruktur og tjenester som er nødvendige for slike elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, i Russland, i Ukraina, i EU, mellom Russland og EU og mellom Ukraina og EU, og for datasentertjenester i EU.
+5\. Som unntak fra bestemmelsene i nr. 1 kan de kompetente myndighetene tillate salg, levering, overføring eller eksport av bistanden eller tjenestene som er nevnt i dette nummeret etter å ha slått fast at dette er nødvendig fordrift av EUs og medlemsstatenes eller partnerlandenes diplomatiske og konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten,levering av elektroniske kommunikasjonstjenester fra teleoperatører i EU, for levering av tilhørende infrastruktur og tjenester som er nødvendige for slike elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, i Russland, i Ukraina, i EU, mellom Russland og EU og mellom Ukraina og EU, og for datasentertjenester i EU.
 
 ### Artikkel 3
 
-1. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere utstyr, teknologi eller programvare som er oppført i vedlegg II, enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Russland, med mindre den relevante medlemsstatens kompetente myndighet har gitt forhåndstillatelse.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere utstyr, teknologi eller programvare som er oppført i vedlegg II, enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Russland, med mindre den relevante medlemsstatens kompetente myndighet har gitt forhåndstillatelse.
 
-2. De kompetente myndighetene skal ikke gi tillatelse i henhold til nr. 1 dersom de har rimelig grunn til å anta at utstyret, teknologien eller programvaren vil bli brukt av Russlands regjering, offentlige organer, foretak eller etater eller av personer eller enheter som handler på deres vegne eller på deres instruks, til intern undertrykking.
+2\. De kompetente myndighetene skal ikke gi tillatelse i henhold til nr. 1 dersom de har rimelig grunn til å anta at utstyret, teknologien eller programvaren vil bli brukt av Russlands regjering, offentlige organer, foretak eller etater eller av personer eller enheter som handler på deres vegne eller på deres instruks, til intern undertrykking.
 
-3. Vedlegg II skal omfatte utstyr, teknologi eller programvare for informasjonssikkerhet og telekommunikasjon som kan misbrukes til intern undertrykking.
+3\. Vedlegg II skal omfatte utstyr, teknologi eller programvare for informasjonssikkerhet og telekommunikasjon som kan misbrukes til intern undertrykking.
 
-4. Som unntak fra bestemmelsene i nr. 1 og 2 kan de kompetente myndighetene tillate salg, levering, overføring, eksport eller levering av de tjenestene som er nevnt i disse numrene, på de vilkårene de finner hensiktsmessige, etter å ha slått fast at dette er nødvendig fordrift av EUs og medlemsstatenes eller partnerlandenes diplomatiske og konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten,levering av elektroniske kommunikasjonstjenester fra teleoperatører i EU som er nødvendige for elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, herunder cybersikkerhet, i Russland, i Ukraina, i EU, mellom Russland og EU og mellom Ukraina og EU, og for datasentertjenester i EU.
+4\. Som unntak fra bestemmelsene i nr. 1 og 2 kan de kompetente myndighetene tillate salg, levering, overføring, eksport eller levering av de tjenestene som er nevnt i disse numrene, på de vilkårene de finner hensiktsmessige, etter å ha slått fast at dette er nødvendig fordrift av EUs og medlemsstatenes eller partnerlandenes diplomatiske og konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten,levering av elektroniske kommunikasjonstjenester fra teleoperatører i EU som er nødvendige for elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, herunder cybersikkerhet, i Russland, i Ukraina, i EU, mellom Russland og EU og mellom Ukraina og EU, og for datasentertjenester i EU.
 
-5. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkelen, senest fire uker etter at tillatelsen er gitt.
+5\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkelen, senest fire uker etter at tillatelsen er gitt.
 
-6. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som får avslag i henhold til denne artikkelen, senest fire uker etter at avslaget er gitt.
+6\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som får avslag i henhold til denne artikkelen, senest fire uker etter at avslaget er gitt.
 
-7. Denne artikkelen berører ikke artikkel 2a i rådsforordning [(EU) nr. 833/2014](eu/32014r0833).
+7\. Denne artikkelen berører ikke artikkel 2a i rådsforordning [(EU) nr. 833/2014](eu/32014r0833).
 
 ### Artikkel 4
 
-1. Med mindre den relevante medlemsstatens kompetente myndighet har gitt forhåndstillatelse i henhold til artikkel 3 nr. 1, er det forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til utstyr, teknologi og programvare oppført i vedlegg II, til installering, levering, produksjon, vedlikehold, reparasjon og bruk av utstyr og teknologi oppført i vedlegg II eller knyttet til levering, installering, drift eller oppdatering av programvare oppført i vedlegg II til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Russland,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til utstyr, teknologi og programvare oppført i vedlegg II til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Russland,å yte enhver tjeneste som gjelder overvåking eller avlytting av telekommunikasjon eller Internett-forbindelser, til eller til direkte eller indirekte fordel for Russlands regjering, offentlige organer, foretak eller etater eller til personer eller enheter som handler på deres vegne eller på deres instruks.
+1\. Med mindre den relevante medlemsstatens kompetente myndighet har gitt forhåndstillatelse i henhold til artikkel 3 nr. 1, er det forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til utstyr, teknologi og programvare oppført i vedlegg II, til installering, levering, produksjon, vedlikehold, reparasjon og bruk av utstyr og teknologi oppført i vedlegg II eller knyttet til levering, installering, drift eller oppdatering av programvare oppført i vedlegg II til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Russland,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til utstyr, teknologi og programvare oppført i vedlegg II til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Russland,å yte enhver tjeneste som gjelder overvåking eller avlytting av telekommunikasjon eller Internett-forbindelser, til eller til direkte eller indirekte fordel for Russlands regjering, offentlige organer, foretak eller etater eller til personer eller enheter som handler på deres vegne eller på deres instruks.
 
-2. Med hensyn til nr. 1 bokstav a omfatter forbudet mot vedlikehold og reparasjon av det relevante utstyret et forbud mot vedlikehold, oppdatering og reparasjon av all innebygd programvare som inngår i utstyret.
+2\. Med hensyn til nr. 1 bokstav a omfatter forbudet mot vedlikehold og reparasjon av det relevante utstyret et forbud mot vedlikehold, oppdatering og reparasjon av all innebygd programvare som inngår i utstyret.
 
-3. Med «overvåking eller avlytting av telekommunikasjon eller Internett-forbindelser» i nr. 1 bokstav c menes tjenester som, særlig ved hjelp av utstyr, teknologi eller programvare oppført i vedlegg II, gir tilgang til og utlevering av innholdet i en persons innkommende og utgående telekommunikasjon og trafikkdata med sikte på uttrekk, avkoding, opptak, behandling, analyse, lagring eller annen tilhørende aktivitet.
+3\. Med «overvåking eller avlytting av telekommunikasjon eller Internett-forbindelser» i nr. 1 bokstav c menes tjenester som, særlig ved hjelp av utstyr, teknologi eller programvare oppført i vedlegg II, gir tilgang til og utlevering av innholdet i en persons innkommende og utgående telekommunikasjon og trafikkdata med sikte på uttrekk, avkoding, opptak, behandling, analyse, lagring eller annen tilhørende aktivitet.
 
 ### Artikkel 5
 
-1. Forbudene i artikkel 2 nr. 1 og artikkel 3 nr. 1 får anvendelse når utstyr, teknologi eller programvare som ikke er oppført i vedlegg I og II, helt eller delvis er beregnet til bruk i forbindelse med intern undertrykking i Russland. Dersom operatøren får kjennskap til dette, skal vedkommende omgående underrette kompetente myndigheter.
+1\. Forbudene i artikkel 2 nr. 1 og artikkel 3 nr. 1 får anvendelse når utstyr, teknologi eller programvare som ikke er oppført i vedlegg I og II, helt eller delvis er beregnet til bruk i forbindelse med intern undertrykking i Russland. Dersom operatøren får kjennskap til dette, skal vedkommende omgående underrette kompetente myndigheter.
 
-2. Forbudene i artikkel 2 nr. 1 og artikkel 3 nr. 1 får ikke anvendelse dersom operatøren ikke hadde grunn til å mistenke at utstyr, teknologi eller programvare som ikke er oppført i vedlegg I og II, helt eller delvis var beregnet til bruk i forbindelse med intern undertrykking i Russland.
+2\. Forbudene i artikkel 2 nr. 1 og artikkel 3 nr. 1 får ikke anvendelse dersom operatøren ikke hadde grunn til å mistenke at utstyr, teknologi eller programvare som ikke er oppført i vedlegg I og II, helt eller delvis var beregnet til bruk i forbindelse med intern undertrykking i Russland.
 
 ### Artikkel 6
 
-1. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV, skal fryses.
+1\. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV, skal fryses.
 
-2. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV.
+2\. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV.
 
-3. Vedlegg IV omfatter fysiske eller juridiske personer, enheter eller organer somer ansvarlige for alvorlige menneskerettighetsbrudd eller -overgrep eller undertrykkelse av det sivile samfunnet og den demokratiske opposisjonen, eller hvis virksomhet på annen måte i alvorlig grad undergraver demokratiet eller rettsstaten i Russland,gir økonomisk, faglig eller materiell støtte til eller på annen måte er involvert i handlinger nevnt i bokstav a, herunder ved å planlegge, lede, beordre, bistå, forberede, legge til rette for eller tilskynde til nevnte handlinger,er tilknyttet de fysiske eller juridiske personene, enhetene eller organene omtalt i bokstav a og b.
+3\. Vedlegg IV omfatter fysiske eller juridiske personer, enheter eller organer somer ansvarlige for alvorlige menneskerettighetsbrudd eller -overgrep eller undertrykkelse av det sivile samfunnet og den demokratiske opposisjonen, eller hvis virksomhet på annen måte i alvorlig grad undergraver demokratiet eller rettsstaten i Russland,gir økonomisk, faglig eller materiell støtte til eller på annen måte er involvert i handlinger nevnt i bokstav a, herunder ved å planlegge, lede, beordre, bistå, forberede, legge til rette for eller tilskynde til nevnte handlinger,er tilknyttet de fysiske eller juridiske personene, enhetene eller organene omtalt i bokstav a og b.
 
 ### Artikkel 7
 
-1. De kompetente myndighetene kan gjøre unntak fra bestemmelsene i artikkel 6 nr. 1 og 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter eller administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,er nødvendige for å dekke ekstraordinære utgifter, forutsatt at vedkommende kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener at det bør gis særskilt tillatelse,skal betales til eller fra kontoen til en diplomatisk eller konsulær representasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen,er nødvendige for drift av EUs og medlemsstatenes eller partnerlandenes diplomatiske og konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten,er nødvendige for levering av elektroniske kommunikasjonstjenester fra teleoperatører i EU, for levering av tilhørende infrastruktur og tjenester som er nødvendige for slike elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, i Russland, i Ukraina, i EU, mellom Russland og EU og mellom Ukraina og EU, og for datasentertjenester i EU, ellerer nødvendige for at eiendomsrettigheter over en juridisk person, enhet eller et organ som er etablert i EU, skal kunne selges eller overdras innen 28. august 2024 eller innen seks måneder fra datoen for oppføring i vedlegg IV, alt etter hvilken dato som er den seneste, dersom disse eiendomsrettighetene direkte eller indirekte innehas av en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg IV, og etter å ha fastslått at inntektene fra nevnte salg eller overdragelse forblir fryst.
+1\. De kompetente myndighetene kan gjøre unntak fra bestemmelsene i artikkel 6 nr. 1 og 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter eller administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,er nødvendige for å dekke ekstraordinære utgifter, forutsatt at vedkommende kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener at det bør gis særskilt tillatelse,skal betales til eller fra kontoen til en diplomatisk eller konsulær representasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen,er nødvendige for drift av EUs og medlemsstatenes eller partnerlandenes diplomatiske og konsulære representasjoner i Russland, herunder delegasjoner, ambassader og utenriksstasjoner, eller av internasjonale organisasjoner i Russland som har immunitet i henhold til folkeretten,er nødvendige for levering av elektroniske kommunikasjonstjenester fra teleoperatører i EU, for levering av tilhørende infrastruktur og tjenester som er nødvendige for slike elektroniske kommunikasjonstjenesters drift, vedlikehold og sikkerhet, i Russland, i Ukraina, i EU, mellom Russland og EU og mellom Ukraina og EU, og for datasentertjenester i EU, ellerer nødvendige for at eiendomsrettigheter over en juridisk person, enhet eller et organ som er etablert i EU, skal kunne selges eller overdras innen 28. august 2024 eller innen seks måneder fra datoen for oppføring i vedlegg IV, alt etter hvilken dato som er den seneste, dersom disse eiendomsrettighetene direkte eller indirekte innehas av en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg IV, og etter å ha fastslått at inntektene fra nevnte salg eller overdragelse forblir fryst.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest to uker etter at tillatelsen er gitt.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest to uker etter at tillatelsen er gitt.
 
 ### Artikkel 8
 
-1. De kompetente myndighetene i en medlemsstat kan gjøre unntak fra bestemmelsene i artikkel 6 nr. 1 og 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid.
+1\. De kompetente myndighetene i en medlemsstat kan gjøre unntak fra bestemmelsene i artikkel 6 nr. 1 og 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid.
 
-2. Dersom den relevante kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 1, skal tillatelsen anses som gitt.
+2\. Dersom den relevante kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 1, skal tillatelsen anses som gitt.
 
-3. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkelen, senest fire uker etter at tillatelsen er gitt.
+3\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkelen, senest fire uker etter at tillatelsen er gitt.
 
 ### Artikkel 9
 
-1. De kompetente myndighetene kan gjøre unntak fra bestemmelsen i artikkel 6 nr. 1 og gi tillatelse til å frigi visse frosne penger eller formuesgoder under forutsetning av at følgende vilkår er oppfylt:Pengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før datoen da den fysiske eller juridiske personen, enheten eller organet nevnt i artikkel 6 ble oppført i vedlegg IV, eller for en rettslig eller administrativ beslutning fastsatt i EU eller en rettslig beslutning som er rettskraftig i den vedkommende medlemsstaten, før eller etter denne datoen.Pengene eller formuesgodene skal utelukkende brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter.Beslutningen er ikke til fordel for fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg IV.Anerkjennelse av beslutningen strider ikke mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
+1\. De kompetente myndighetene kan gjøre unntak fra bestemmelsen i artikkel 6 nr. 1 og gi tillatelse til å frigi visse frosne penger eller formuesgoder under forutsetning av at følgende vilkår er oppfylt:Pengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før datoen da den fysiske eller juridiske personen, enheten eller organet nevnt i artikkel 6 ble oppført i vedlegg IV, eller for en rettslig eller administrativ beslutning fastsatt i EU eller en rettslig beslutning som er rettskraftig i den vedkommende medlemsstaten, før eller etter denne datoen.Pengene eller formuesgodene skal utelukkende brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter.Beslutningen er ikke til fordel for fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg IV.Anerkjennelse av beslutningen strider ikke mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest to uker etter at tillatelsen er gitt.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest to uker etter at tillatelsen er gitt.
 
 ### Artikkel 10
 
-1. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i vedlegg IV, kan de kompetente myndighetene gjøre unntak fra bestemmelsen i artikkel 6 nr. 1 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom den berørte kompetente myndigheten har fastslått atpengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg IV, ogbetalingen ikke er i strid med artikkel 6 nr. 2.
+1\. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i vedlegg IV, kan de kompetente myndighetene gjøre unntak fra bestemmelsen i artikkel 6 nr. 1 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom den berørte kompetente myndigheten har fastslått atpengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg IV, ogbetalingen ikke er i strid med artikkel 6 nr. 2.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest to uker etter at tillatelsen er gitt.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest to uker etter at tillatelsen er gitt.
 
 ### Artikkel 11
 
-1. Artikkel 6 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført fra tredjeparter til kontoen tilhørende en listeført fysisk eller juridisk person, enhet eller organ, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette vedkommende kompetente myndighet om slike transaksjoner.
+1\. Artikkel 6 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført fra tredjeparter til kontoen tilhørende en listeført fysisk eller juridisk person, enhet eller organ, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette vedkommende kompetente myndighet om slike transaksjoner.
 
-2. Artikkel 6 nr. 2 gjelder ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 6 ble oppført i vedlegg IV, ellerbeløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige beslutninger som er truffet i en medlemsstat, eller som er rettskraftige i vedkommende medlemsstat, forutsatt at alle renter, avkastninger eller betalinger fryses i samsvar med artikkel 6 nr. 1.
+2\. Artikkel 6 nr. 2 gjelder ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 6 ble oppført i vedlegg IV, ellerbeløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige beslutninger som er truffet i en medlemsstat, eller som er rettskraftige i vedkommende medlemsstat, forutsatt at alle renter, avkastninger eller betalinger fryses i samsvar med artikkel 6 nr. 1.
 
 ### Artikkel 12
 
-1. Fysiske og juridiske personer, enheter og organer skalumiddelbart gi opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om kontoer og beløp som er frosset i samsvar med artikkel 6 nr. 1, eller opplysninger om penger og formuesgoder på Unionens territorium som tilhører, eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg IV, og som ikke er blitt behandlet som frosset av de fysiske eller juridiske personene, enhetene eller organene som er forpliktet til å gjøre det, til den kompetente myndigheten i medlemsstaten der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av opplysningene nevnt i bokstav a.
+1\. Fysiske og juridiske personer, enheter og organer skalumiddelbart gi opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om kontoer og beløp som er frosset i samsvar med artikkel 6 nr. 1, eller opplysninger om penger og formuesgoder på Unionens territorium som tilhører, eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg IV, og som ikke er blitt behandlet som frosset av de fysiske eller juridiske personene, enhetene eller organene som er forpliktet til å gjøre det, til den kompetente myndigheten i medlemsstaten der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av opplysningene nevnt i bokstav a.
 
-2. Nr. 1 skal gjelde med forbehold for nasjonale eller andre gjeldende regler om fortrolighet for opplysninger som innehas av rettsmyndigheter, og i samsvar med respekten for fortroligheten av kommunikasjon mellom advokater og deres klienter som er garantert ved [artikkel 7](eu/12016p/a7) i [Den europeiske unions charter om grunnleggende rettigheter](eu/12016p). For dette formålet omfatter dette kommunikasjon knyttet til juridisk rådgivning fra andre sertifiserte fagfolk som er autorisert i henhold til nasjonal rett til å representere sine klienter under rettergang, i den grad slik juridisk rådgivning gis i forbindelse med pågående eller framtidig rettergang.
+2\. Nr. 1 skal gjelde med forbehold for nasjonale eller andre gjeldende regler om fortrolighet for opplysninger som innehas av rettsmyndigheter, og i samsvar med respekten for fortroligheten av kommunikasjon mellom advokater og deres klienter som er garantert ved [artikkel 7](eu/12016p/a7) i [Den europeiske unions charter om grunnleggende rettigheter](eu/12016p). For dette formålet omfatter dette kommunikasjon knyttet til juridisk rådgivning fra andre sertifiserte fagfolk som er autorisert i henhold til nasjonal rett til å representere sine klienter under rettergang, i den grad slik juridisk rådgivning gis i forbindelse med pågående eller framtidig rettergang.
 
-3. Alle tilleggsopplysninger som Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
+3\. Alle tilleggsopplysninger som Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
 
-4. Alle opplysninger som gis eller mottas i samsvar med denne artikkelen, skal benyttes utelukkende til de formålene de gis eller mottas for.
+4\. Alle opplysninger som gis eller mottas i samsvar med denne artikkelen, skal benyttes utelukkende til de formålene de gis eller mottas for.
 
-5. Kompetente myndigheter, herunder håndhevingsmyndigheter, tollmyndigheter som definert i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952), kompetente myndigheter som definert i europaparlaments- og rådsforordning [(EU) nr. 575/2013](eu/32013r0575), europaparlaments- og rådsdirektiv [(EU) 2015/849](eu/32015l0849) og europaparlaments- og rådsdirektiv [2014/65/EU](eu/32014l0065), samt forvaltere av offisielle registre der fysiske personer, juridiske personer, enheter og organer samt fast eiendom eller løsøre er registrert, skal behandle og uten opphold utveksle opplysninger, herunder personopplysninger og om nødvendig opplysningene nevnt i nr. 1, med andre kompetente myndigheter i sin medlemsstat og i andre medlemsstater og med Kommisjonen, dersom slik behandling og utveksling er nødvendig for å utføre oppgavene til behandlingsmyndigheten eller mottakermyndigheten i henhold til denne forordningen, særlig når de oppdager tilfeller av overtredelse eller omgåelse eller forsøk på overtredelse eller omgåelse av forbudene fastsatt i denne forordningen.
+5\. Kompetente myndigheter, herunder håndhevingsmyndigheter, tollmyndigheter som definert i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952), kompetente myndigheter som definert i europaparlaments- og rådsforordning [(EU) nr. 575/2013](eu/32013r0575), europaparlaments- og rådsdirektiv [(EU) 2015/849](eu/32015l0849) og europaparlaments- og rådsdirektiv [2014/65/EU](eu/32014l0065), samt forvaltere av offisielle registre der fysiske personer, juridiske personer, enheter og organer samt fast eiendom eller løsøre er registrert, skal behandle og uten opphold utveksle opplysninger, herunder personopplysninger og om nødvendig opplysningene nevnt i nr. 1, med andre kompetente myndigheter i sin medlemsstat og i andre medlemsstater og med Kommisjonen, dersom slik behandling og utveksling er nødvendig for å utføre oppgavene til behandlingsmyndigheten eller mottakermyndigheten i henhold til denne forordningen, særlig når de oppdager tilfeller av overtredelse eller omgåelse eller forsøk på overtredelse eller omgåelse av forbudene fastsatt i denne forordningen.
 
 ### Artikkel 13
 
-1. Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkning å omgå tiltakene omtalt i denne forordningen.
+1\. Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkning å omgå tiltakene omtalt i denne forordningen.
 
-2. Fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV skalsenest seks uker fra datoen for oppføring i vedlegg IV innberette penger eller formuesgoder innenfor en medlemsstats jurisdiksjon som tilhører, eies, innehas eller kontrolleres av dem, til de kompetente myndighetene i medlemsstaten der disse pengene eller formuesgodene befinner seg, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av disse opplysningene.
+2\. Fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV skalsenest seks uker fra datoen for oppføring i vedlegg IV innberette penger eller formuesgoder innenfor en medlemsstats jurisdiksjon som tilhører, eies, innehas eller kontrolleres av dem, til de kompetente myndighetene i medlemsstaten der disse pengene eller formuesgodene befinner seg, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av disse opplysningene.
 
-3. Manglende overholdelse av nr. 2 skal betraktes som deltakelse, som nevnt i nr. 1, i virksomhet som har som formål eller virkning å omgå tiltakene omtalt i artikkel 6.
+3\. Manglende overholdelse av nr. 2 skal betraktes som deltakelse, som nevnt i nr. 1, i virksomhet som har som formål eller virkning å omgå tiltakene omtalt i artikkel 6.
 
-4. Den berørte medlemsstaten skal innen to uker underrette Kommisjonen om opplysningene den har mottatt i henhold til nr. 2 bokstav a.
+4\. Den berørte medlemsstaten skal innen to uker underrette Kommisjonen om opplysningene den har mottatt i henhold til nr. 2 bokstav a.
 
-5. Alle opplysninger som gis eller mottas i samsvar med denne artikkelen, skal benyttes utelukkende til de formålene de gis eller mottas for.
+5\. Alle opplysninger som gis eller mottas i samsvar med denne artikkelen, skal benyttes utelukkende til de formålene de gis eller mottas for.
 
-6. All behandling av personopplysninger skal utføres i samsvar med denne forordningen og med forordning [(EU) 2016/679](eu/32016r0679) og [(EU) 2018/1725](eu/32018r1725), og bare i den grad det er nødvendig for anvendelsen av denne forordningen.
+6\. All behandling av personopplysninger skal utføres i samsvar med denne forordningen og med forordning [(EU) 2016/679](eu/32016r0679) og [(EU) 2018/1725](eu/32018r1725), og bare i den grad det er nødvendig for anvendelsen av denne forordningen.
 
 ### Artikkel 14
 
-1. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro på det grunnlag at slike tiltak er i samsvar med denne forordningen, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
+1\. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro på det grunnlag at slike tiltak er i samsvar med denne forordningen, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
 
-2. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handlinger ville være i strid med tiltakene fastsatt i denne forordningen.
+2\. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handlinger ville være i strid med tiltakene fastsatt i denne forordningen.
 
 ### Artikkel 15
 
-1. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordningen, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene framsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg IV,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en fysisk eller juridisk person, en enhet eller et organ omtalt i bokstav a.
+1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordningen, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene framsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg IV,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en fysisk eller juridisk person, en enhet eller et organ omtalt i bokstav a.
 
-2. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsene i nr. 1.
+2\. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsene i nr. 1.
 
-3. Denne artikkelen berører ikke den rett de fysiske eller juridiske personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordningen.
+3\. Denne artikkelen berører ikke den rett de fysiske eller juridiske personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordningen.
 
 ### Artikkel 16
 
-1. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig ompenger som er frosset i henhold til artikkel 6, og tillatelser som er gitt i henhold til unntakene fastsatt i denne forordningen,overtredelser, håndhevingsproblemer og rettsavgjørelser truffet av nasjonale domstoler.
+1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig ompenger som er frosset i henhold til artikkel 6, og tillatelser som er gitt i henhold til unntakene fastsatt i denne forordningen,overtredelser, håndhevingsproblemer og rettsavgjørelser truffet av nasjonale domstoler.
 
-2. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordningen.
+2\. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordningen.
 
 ### Artikkel 17
 
-1. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene omtalt i artikkel 2, skal vedlegg IV endres tilsvarende.
+1\. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene omtalt i artikkel 2, skal vedlegg IV endres tilsvarende.
 
-2. Rådet skal meddele en beslutning i henhold til nr. 1, herunder begrunnelsen for listeføring, til vedkommende fysiske eller juridiske person, enhet eller organ enten direkte, dersom adressen er kjent og en slik meddelelse kan gjennomføres, eller ved offentliggjøring av en kunngjøring, som gir den fysiske eller juridiske personen, enheten eller organet anledning til å framlegge merknader.
+2\. Rådet skal meddele en beslutning i henhold til nr. 1, herunder begrunnelsen for listeføring, til vedkommende fysiske eller juridiske person, enhet eller organ enten direkte, dersom adressen er kjent og en slik meddelelse kan gjennomføres, eller ved offentliggjøring av en kunngjøring, som gir den fysiske eller juridiske personen, enheten eller organet anledning til å framlegge merknader.
 
-3. Dersom det framsettes merknader eller framlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
+3\. Dersom det framsettes merknader eller framlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
 
-4. Listen i vedlegg IV skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
+4\. Listen i vedlegg IV skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
 
-5. Kommisjonen har fullmakt til å endre vedlegg III på grunnlag av informasjon fra medlemsstatene.
+5\. Kommisjonen har fullmakt til å endre vedlegg III på grunnlag av informasjon fra medlemsstatene.
 
 ### Artikkel 18
 
-1. Vedlegg IV inneholder begrunnelsen for at de berørte fysiske eller juridiske personene, enhetene eller organene er listeført.
+1\. Vedlegg IV inneholder begrunnelsen for at de berørte fysiske eller juridiske personene, enhetene eller organene er listeført.
 
-2. Vedlegg IV inneholder også tilgjengelige opplysninger som er nødvendige for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn og dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse.
+2\. Vedlegg IV inneholder også tilgjengelige opplysninger som er nødvendige for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn og dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse.
 
 ### Artikkel 19
 
-1. Medlemsstatene skal fastsette regler for sanksjoner ved brudd på bestemmelsene i denne forordningen og skal treffe alle nødvendige tiltak for å sikre at de blir gjennomført. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende. Medlemsstatene skal også fastsette passende tiltak for å beslaglegge utbyttet av slike brudd.
+1\. Medlemsstatene skal fastsette regler for sanksjoner ved brudd på bestemmelsene i denne forordningen og skal treffe alle nødvendige tiltak for å sikre at de blir gjennomført. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende. Medlemsstatene skal også fastsette passende tiltak for å beslaglegge utbyttet av slike brudd.
 
-2. Medlemsstatene skal underrette Kommisjonen om reglene omtalt i nr. 1 umiddelbart etter at denne forordningen er trådt i kraft, og om alle senere endringer.
+2\. Medlemsstatene skal underrette Kommisjonen om reglene omtalt i nr. 1 umiddelbart etter at denne forordningen er trådt i kraft, og om alle senere endringer.
 
 ### Artikkel 20
 
-1. Rådet, Kommisjonen og EUs høyrepresentant for utenrikssaker og sikkerhetspolitikk (heretter kalt «høyrepresentanten») kan behandle personopplysninger for å kunne utføre oppgavene som er pålagt dem i henhold til denne forordningen. Disse oppgavene består blant annet ifor Rådets del å utarbeide og foreta endringer av vedlegg IV,for høyrepresentantens del å utarbeide endringer av vedlegg IV,for Kommisjonens delå føre innholdet i vedlegg IV inn i EUs elektroniske konsoliderte liste over fysiske og juridiske personer, grupper og enheter underlagt EUs økonomiske sanksjoner og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
+1\. Rådet, Kommisjonen og EUs høyrepresentant for utenrikssaker og sikkerhetspolitikk (heretter kalt «høyrepresentanten») kan behandle personopplysninger for å kunne utføre oppgavene som er pålagt dem i henhold til denne forordningen. Disse oppgavene består blant annet ifor Rådets del å utarbeide og foreta endringer av vedlegg IV,for høyrepresentantens del å utarbeide endringer av vedlegg IV,for Kommisjonens delå føre innholdet i vedlegg IV inn i EUs elektroniske konsoliderte liste over fysiske og juridiske personer, grupper og enheter underlagt EUs økonomiske sanksjoner og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
 
-2. Der det er aktuelt, skal Rådet, Kommisjonen og høyrepresentanten behandle relevante data om straffbare handlinger begått av listeførte fysiske personer og om straffedom eller sikkerhetstiltak mot slike personer, bare i den grad en slik behandling er nødvendig for å utarbeide vedlegg IV.
+2\. Der det er aktuelt, skal Rådet, Kommisjonen og høyrepresentanten behandle relevante data om straffbare handlinger begått av listeførte fysiske personer og om straffedom eller sikkerhetstiltak mot slike personer, bare i den grad en slik behandling er nødvendig for å utarbeide vedlegg IV.
 
-3. For formålet med denne forordningen skal Rådet, Kommisjonen og høyrepresentanten utpekes som «behandlingsansvarlig» i henhold til artikkel 3 nr. 8 i forordning [(EU) 2018/1725](eu/32018r1725) for å sikre at de berørte fysiske personene kan utøve sine rettigheter i henhold til den nevnte forordningen.
+3\. For formålet med denne forordningen skal Rådet, Kommisjonen og høyrepresentanten utpekes som «behandlingsansvarlig» i henhold til artikkel 3 nr. 8 i forordning [(EU) 2018/1725](eu/32018r1725) for å sikre at de berørte fysiske personene kan utøve sine rettigheter i henhold til den nevnte forordningen.
 
 ### Artikkel 21
 
-1. Medlemsstatene skal utnevne de kompetente myndighetene omtalt i denne forordningen og identifisere dem på nettsidene oppført i vedlegg III. Medlemsstatene skal underrette Kommisjonen om enhver adresseendring på deres nettsider oppført i vedlegg III.
+1\. Medlemsstatene skal utnevne de kompetente myndighetene omtalt i denne forordningen og identifisere dem på nettsidene oppført i vedlegg III. Medlemsstatene skal underrette Kommisjonen om enhver adresseendring på deres nettsider oppført i vedlegg III.
 
-2. Medlemsstatene skal underrette Kommisjonen om de kompetente myndighetene som er utpekt, og om hvordan disse myndighetene kan kontaktes, umiddelbart etter at denne forordningen er trådt i kraft, og om alle senere endringer.
+2\. Medlemsstatene skal underrette Kommisjonen om de kompetente myndighetene som er utpekt, og om hvordan disse myndighetene kan kontaktes, umiddelbart etter at denne forordningen er trådt i kraft, og om alle senere endringer.
 
-3. Der denne forordningen inneholder et pålegg om å underrette, informere eller på annet vis kommunisere med Kommisjonen, skal adressen og andre kontaktopplysninger angitt i vedlegg III benyttes.
+3\. Der denne forordningen inneholder et pålegg om å underrette, informere eller på annet vis kommunisere med Kommisjonen, skal adressen og andre kontaktopplysninger angitt i vedlegg III benyttes.
 
 ### Artikkel 22
 
@@ -250,34 +250,64 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 ### Vedlegg I
 Liste over varer som kan bli brukt til intern undertrykkelse som omtalt i artikkel 2
 
+1\.
+
 Firearms, ammunition and related accessories therefor, as follows:
+
+1.1.
 
 Firearms not controlled by ML 1 and ML 2 of the Common Military List of the European Union (ft) ('Common Military List');
 
+1.2.
+
 Ammunition specially designed for the firearms listed in item 1.1 and specially designed components therefor.
+
+2\.
 
 Simulators, other than those controlled by ML 14 of the Common Military List, for training in the use of firearms, and specially designed software therefor.
 
+3\.
+
 Bombs and grenades not controlled by the Common Military List.
+
+4\.
 
 Other explosives not controlled by the Common Military List and related substances as follows:amatol;nitroglycol;picryl cloride.
 
+5\.
+
 Razor barbed wire.
 
+6\.
+
 Military knives, combat knives and bayonets with blade lengths in excess of 10 cm.
+
+7\.
 
 Production equipment specially designed for the items listed in this Annex.
 
 ### Vedlegg II
 Liste over utstyr, teknologi og programvare omtalt i artikkel 3
 
+*General Note*
+
 Notwithstanding the contents of this Annex, it shall not apply:to equipment, technology or software which are specified in Annex I to [Regulation (EU) 2021/821](eu/32021r0821) of the European Parliament and of the Council1 or the Common Military List;software which is designed for installation by the user without further substantial support by the supplier and which is generally available to the public by being sold from stock at retail selling points, without restriction, by means of:software which is in the public domain; orwhere Article 2a of [Regulation (EU) No 833/2014](eu/32014r0833) applies.
+
+The sections A, B, C, D and E refer to the sections referred to in [Regulation (EU) 2021/821](eu/32021r0821).
 
 1. List of equipmentDeep Packet Inspection equipmentNetwork Interception equipment including Interception Management Equipment (IMS) and Data Retention Link Intelligence equipmentRadio Frequency monitoring equipmentNetwork and Satellite jamming equipmentRemote Infection equipmentSpeaker recognition/processing equipmentIMSI (4), MSISDN (5), IMEI (6), TMSI (7) interception and monitoring equipmentTactical SMS (8) / GSM (9) / GPS (10) / GPRS (11) / UMTS (12) / CDMA (13)/PST (14) interception and monitoring equipmentDHCP (15) / SMTP (16), GTP (17) information interception and monitoring equipmentPattern Recognition and Pattern Profiling equipmentRemote Forensics equipmentSemantic Processing Engine equipmentWEP and WPA code breaking equipmentInterception equipment for VoIP proprietary and standard protocol
 2. Not used
 3. Not used
 4. 'Software' for the 'development', 'production' or 'use' of the equipment specified in A above.
 5. 'Technology' for the 'development', 'production' or 'use' of the equipment specified in A above.
+
+Equipment, technology and software under these sections fall within the scope of this Annex only to the extent that they fall within the general description 'internet, telephone and satellite communications interception and monitoring systems'.
+
+For the purpose of this Annex 'monitoring' means acquisition, extraction, decoding, recording, processing, analysis and archiving call content or network data.
+
+1 [Regulation (EU) 2021/821](eu/32021r0821) of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the control of exports, brokering, technical assistance, transit and transfer of dual-use items (recast) ( [OJ L 206, 11.6.2021, p. 1](https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2021:206:TOC)).
+
+*Footnotes:*
 
 1. IMSI stands for International Mobile Subscriber Identity. It is a unique identification code for each mobile telephony device, integrated in the SIM card and which allows identification of such SIM via GSM and UMTS networks.
 2. MSISDN stands for Mobile Subscriber Integrated Services Digital Network Number. It is a number uniquely identifying a subscription in a GSM or a UMTS mobile network. Simply put, it is the telephone number to the SIM card in a mobile phone and therefore it identifies a mobile subscriber as well as IMSI, but to route calls through him.
