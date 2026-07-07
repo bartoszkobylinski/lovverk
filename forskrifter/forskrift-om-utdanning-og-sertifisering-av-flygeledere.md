@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2016-08-01"
-last_change_in_force: "2026-03-25"
+last_change_in_force: "2026-07-01"
 last_updated: "2021-04-29"
-xml_hash: "333c05cd02ec7d47a756d97eeaeeee699a1ae6e3c2ef9c8218339d3a6f5f2485"
+xml_hash: "163bf4370cc4f1bc297d34e4fe573a10b558c32176495c1d651dd5b3c21d5a37"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-07T08:02:32.100170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,9 +24,9 @@ eu_basis: []
 
 ## § 1. Gjennomføring av kommisjonsforordning (EU) 2015/340
 
-Forordning [(EU) 2015/340](eu/32015r0340) om fastsettelse av tekniske krav og administrative framgangsmåter for sertifikater og attester for flygeledere, som inntatt i [EØS-avtalen vedlegg XIII kap. VI](avtale/avt-1992-05-02-1-v13/kapVI) nr. 66nj, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger avforordning [(EU) 2023/893](eu/32023r0893)forordning [(EU) 2023/203](eu/32023r0203)forordning [(EU) 2025/2143](eu/32025r2143).
+Forordning [(EU) 2015/340](eu/32015r0340) om fastsettelse av tekniske krav og administrative framgangsmåter for sertifikater og attester for flygeledere, som inntatt i [EØS-avtalen vedlegg XIII kap. VI](avtale/avt-1992-05-02-1-v13/kapVI) nr. 66nj, gjelder som forskrift. Forordningen gjelder med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger avforordning [(EU) 2023/893](eu/32023r0893)forordning [(EU) 2023/203](eu/32023r0203)forordning [(EU) 2025/2143](eu/32025r2143)forordning [(EU) 2025/2293](eu/32025r2293).
 
-> Endret ved forskrifter [10 sep 2024 nr. 2113](forskrift/2024-09-10-2113), [4 feb 2025 nr. 159](forskrift/2025-02-04-159), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [25 mars 2026 nr. 475](forskrift/2026-03-25-475).
+> Endret ved forskrifter [10 sep 2024 nr. 2113](forskrift/2024-09-10-2113), [4 feb 2025 nr. 159](forskrift/2025-02-04-159), [24 okt 2025 nr. 2093](forskrift/2025-10-24-2093), [25 mars 2026 nr. 475](forskrift/2026-03-25-475), [1 juli 2026 nr. 1487](forskrift/2026-07-01-1487).
 
 ## § 2. Geografisk og saklig virkeområde
 
@@ -86,3 +86,5 @@ Vedlegg I–IV til kommisjonsforordning [(EU) 2015/340](eu/32015r0340) skal tre 
 2. Fra den tid forskriften trer i kraft, gjøres følgende endringer i [forskrift 22. desember 2014 nr. 1903](forskrift/2014-12-22-1903) om lufttrafikkregler og operative prosedyrer: ---
 
 ## Forordninger
+
+Se her for å lese uoffisiell norsk oversettelse av forordning [(EU) 2015/340](eu/32015r0340): [(pdf)](static/SF/32015r0340u.pdf)
