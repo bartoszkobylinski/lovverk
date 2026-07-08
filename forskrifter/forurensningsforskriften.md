@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2004-07-01"
-last_change_in_force: "2026-02-03"
+last_change_in_force: "2026-07-02"
 last_updated: "2022-02-08"
-xml_hash: "752578ebf3bc326db0e6515aca2a00cc2960529e6539c3cfb2890bd69b7ba8c2"
+xml_hash: "f9bda3551457dc1f17fbe8fbab96f5b7b10be785b70446df86fa30825befab40"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-20T07:47:39.444689+00:00"
+retrieved_at: "2026-07-08T06:25:33.153142+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -23,6 +23,8 @@ eu_basis: []
 # Forskrift om begrensning av forurensning (forurensningsforskriften)
 
 ## Del 1. Forurenset grunn og sedimenter
+
+Bestemmelser om
 
 - tiltak for å motvirke fare for forurensning fra nedgravde oljetanker står i kapittel 1,
 - opprydding i forurenset grunn ved bygge- og gravearbeider står i [kapittel 2](forskrift/2004-06-01-931/kap2),
@@ -243,6 +245,81 @@ Tillatelser til og pålegg om oppgraving, behandling og annen håndtering av for
 
 ### Vedlegg 1. Normverdier
 
+| *Stoff* | *Normverdier (mg/kg)* |
+| --- | --- |
+| *Metaller:* |  |
+| Arsen | 8 |
+| Bly (uorganisk) | 60 |
+| Kadmium | 1,5 |
+| Kvikksølv | 1 |
+| Kobber | 100 |
+| Sink | 200 |
+| Krom (III) | 50 (tot) |
+| Krom (VI) | 2 |
+| Nikkel | 60 |
+| Cyanid fri | 1 |
+| *PCB:* |  |
+| ∑7PCB | 0,01 |
+| *Klorerte pesticider:* |  |
+| Lindan | 0,001 |
+| DDT | 0,04 |
+| *Klorerte benzener:* |  |
+| Monoklorbenzen | 0,03 |
+| 1,2-diklorbenzen | 0,1 |
+| 1,4-diklorbenzen | 0,07 |
+| 1,2,4-triklorbenzen | 0,05 |
+| 1,2,3-triklorbenzen | 0,01 |
+| 1,3,5-triklorbenzen | 0,01 |
+| 1,2,4,5-tetraklorbenzen | 0,05 |
+| Pentaklorbenzen | 0,1 |
+| Heksaklorbenzen | 0,01 |
+| *Flyktige halogenerte hydrokarboner:* |  |
+| Diklormetan | 0,06 |
+| Triklormetan | 0,02 |
+| Trikloreten | 0,1 |
+| Tetraklormetan | 0,02 |
+| Tetrakloreten | 0,01 |
+| 1,2-dikloretan | 0,01 |
+| 1,2-dibrometan | 0,004 |
+| 1,1,1-trikloretan | 0,1 |
+| 1,1,2-trikloretan | 0,01 |
+| *Fenoler og klorfenoler:* |  |
+| Fenol | 0,1 |
+| Sum mono,di,tri,tetra klorfenol | 0,06 |
+| Pentaklorfenol | 0,006 |
+| *PAH-forbindelser :* |  |
+| ∑16 PAH | 2 |
+| Naftalen | 0,8 |
+| Fluoren | 0,8 |
+| Fluoranten | 1 |
+| Pyren | 1 |
+| Benso(a)pyren | 0,1 |
+| *BTEX:* |  |
+| Benzen | 0,01 |
+| Toluen | 0,3 |
+| Etylbenzen | 0,2 |
+| Xylen | 0,2 |
+| *Alifatiske hydrokarboner:* |  |
+| Alifater C5-C6 | 7 |
+| Alifater >C6-C8 | 7 |
+| Alifater >C8-C10 | 10 |
+| Alifater >C10-C12 | 50 |
+| Alifater >C12-C35 | 100 |
+| *Tilsetningsstoffer til bensin og oljeprodukter:* |  |
+| MTBE | 0,2 |
+| Tetraetylbly | 0,001 |
+| *Bromerte flammehemmere:* |  |
+| PBDE-99 | 0,08 |
+| PBDE-209 | 0,002 |
+| *PFOS-forbindelser:* |  |
+| PFOS | 0,1 |
+| *Ftalater:* |  |
+| Di(2-etylheksyl)ftalat | 2,8 |
+| Dioksiner/furaner | 0,00001 |
+| *Organiske tinnforbindelser* |  |
+| TBT | 0,015 |
+| TPHT | 0,015 |
+
 > Endret ved forskrifter [22 juni 2009 nr. 827](forskrift/2009-06-22-827) (i kraft 1 juli 2009), [26 feb 2013 nr. 1055](forskrift/2013-02-26-1055) (i kraft 1 juni 2013).
 
 ### Kapittel 3. [Forurensningslovens](lov/1981-03-13-6) anvendelse for havner
@@ -310,6 +387,8 @@ Etter nærmere bestemmelser fra statsforvalteren plikter kommunen å gi opplysni
 Kommunen kan gjøre unntak fra bestemmelsene i dette kapitlet.
 
 ## Del 2. Støy
+
+Bestemmelser om
 
 - støy – kartlegging, handlingsplaner og tiltaksgrenser for eksisterende virksomhet står i [kapittel 5](forskrift/2004-06-01-931/kap5),
 - forbud mot bruk av fritidsfartøy uten effektiv lyddemping i eksossystemet står i [kapittel 6](forskrift/2004-06-01-931/kap6).
@@ -533,6 +612,10 @@ I tilfeller hvor bestemmelsene i forskrifter nevnt i 1. ledd ikke har blitt over
 
 Direktiv [2002/49/EF](eu/32002l0049) omfatter «større lufthavner», dvs. ifølge definisjonen i artikkel 3 p):
 
+«En sivil lufthavn, utpekt av medlemsstaten, med mer enn 50000 operasjoner i året (en operasjon er en start eller landing), dog ikke medregnet treningsoperasjoner med små fly.»
+
+Denne definisjonen er implementert i kapitlet i [§ 5-3](forskrift/2004-06-01-931/§5-3).
+
 Rene militære lufthavner er ikke omfattet av avsnitt III men går inn under bestemmelsene i avsnitt II. Militære lufthavner med sivil trafikk omfattes av hele kapitlet. Definisjonen medfører at militær trafikk og skoleflyging skal holdes utenfor trafikkgrunnlaget når man skal avgjøre om flyplassen er kartleggingspliktig eller ikke etter [kapittel 3](forskrift/2004-06-01-931/kap3).
 
 Dersom det er over 50000 sivile flybevegelser skal likevel militær trafikk samt skoleflyving inkluderes i støyberegningen, slik at denne støyen synliggjøres i kartlegging og handlingsplaner.
@@ -545,13 +628,21 @@ Vurderingsmetoder for skadelige virkninger
 
 > Vedlegg 5 tilføyd ved forskrift [17 des 2021 nr. 3768](forskrift/2021-12-17-3768) (i kraft 31 des 2021).
 
+1.*Skadelige virkninger*
+
 Følgende skal tas i betraktning for å vurdere skadelige virkninger:Iskemisk hjertesykdom (IHD) tilsvarende kode BA40-BA6Z i den internasjonale klassifiseringen ICD-11 fastsatt av Verdens helseorganisasjon.Sterk plage (high annoyance, HA).Sterke søvnforstyrrelser (high sleep disturbance, HSD).
 
+2.*Beregning av skadelige virkninger*
+
 De skadelige virkningene beregnes ved en av følgende formler:Den relative risikoen (RR) for en skadelig virkning definert som(formel 1)Den absolutte risikoen (AR) for en skadelig virkning definert som(formel 2)
+
+2.1.*IHD*
 
 Ved beregning av RR for skadelig virkning av IHD og med hensyn til forekomsten i (incidence rate) anvendes følgende eksponerings-responssammenheng:
  (formel 3)
 for veitrafikkstøy.
+
+2.2.*HA*
 
 For beregning av AR for skadelig virkning av HA anvendes følgende eksponerings-responssammenheng:
  (formel 4)
@@ -561,6 +652,8 @@ for jernbanestøy,
  (formel 6)
 for flystøy.
 
+2.3.*HSD*
+
 For beregning av AR for skadelig virkning av HSD anvendes følgende eksponerings-respons-forhold:
  (formel 7)
 for veitrafikkstøy,
@@ -569,19 +662,35 @@ for jernbanestøy,
  (formel 9)
 for flystøy.
 
+3.*Vurdering av skadelige virkninger*
+
+3.1.
+
 Befolkningens eksponering skal bestemmes separat for hver støykilde og skadelige virkning. Dersom de samme personene samtidig utsettes for forskjellige støykilder, kan de skadelige virkningene generelt ikke legges sammen. Disse virkningene kan imidlertid sammenlignes for å vurdere den relative betydningen av hver av dem.
 
+3.2.*Vurdering av IHD*
+
+3.2.1.
+
 For IHD ved jernbane- og flystøy beregnes den populasjonen som eksponeres for over et gitt nivå av Lden, å ha høyere risiko for IHD, men det nøyaktige antallet N av IHD-tilfeller kan ikke beregnes.
+
+3.2.2.
 
 For IHD ved veitrafikkstøy utledes andelen av tilfeller av en bestemt skadelig virkning i en populasjon som eksponeres for en RR som anslås å forårsakes av utendørs støy, for støykilde x (veitrafikk), skadelig virkning y (IHD) og for forekomsten i som følger:(formel 10)
 derPAFx,y er den tilskrivbare andelen i populasjonen, dvs. den andelen av populasjonen som er under risiko for skadelig virkning som kan tilskrives eksponering (population attributable fraction),settet med j-støybånd består av enkeltbånd på maksimalt 5 dB (f.eks. 50–51 dB, 51–52 dB, 52–53 dB osv. eller 50–54 dB, 55–59 dB, 60–64 dB osv.),pj er andelen av den samlede populasjonen P i det vurderte området som eksponeres for det j-te eksponeringsbåndet, som er knyttet til en gitt RR for en bestemt skadelig virkning RRj,x,y. RRj,x,y beregnes ved hjelp av formlene i nr. 2 i dette vedlegget, beregnet ut fra midtverdien i hvert støybånd (f.eks. 50,5 dB for støybåndet definert som 50–51 dB, eller 52 dB for støybåndet 50–54 dB, avhengig av datatilgjengelighet).
 
-For IHD ved veitrafikkstøy er da det samlede antallet N tilfeller av IHD (personer påvirket av den skadelige virkningen y; antallet tilfeller som kan tilskrives eksponering) forårsaket av kilden x som følger:Nx,y = PAFx,y,i * Iy * P (formel 11)
+3.2.3.
+
+For IHD ved veitrafikkstøy er da det samlede antallet N tilfeller av IHD (personer påvirket av den skadelige virkningen y; antallet tilfeller som kan tilskrives eksponering) forårsaket av kilden x som følger:Nx,y = PAFx,y,i \* Iy \* P (formel 11)
 for veitrafikkstøy,
 derPAFx,y,i beregnes for forekomst i,Iy er forekomsten (oppgitt som rater) av IHD i området til vurdering; den kan utledes av helsestatistikk for regionen eller landet der området er,P er den samlede populasjonen i området til vurdering (populasjonssummen for de forskjellige støybåndene).
 
+3.3.
+
 For HA og HSD ved veitrafikk-, jernbane- og flystøy er da samlet antall N personer som påvirkes av den skadelige virkningen y (antall tilfeller som tilskrives eksponering) for kilde x, for hver kombinasjon av kilde x (veitrafikk-, jernbane- eller flystøy) og skadelig virkning y (HA, HSD) som følger:(formel 12)
 derARx,y er AR for relevant skadelig virkning (HA, HSD) og beregnes ved hjelp av formlene i nr. 2 i dette vedlegget, beregnet ut fra midtverdien i hvert støybånd (f.eks. 50,5 dB for støybåndet definert som 50–51 dB, eller 52 dB for støybåndet 50–54 dB, avhengig av datatilgjengelighet),*nj* er antallet personer som eksponeres for det *j*-te eksponeringsbåndet.
+
+4.*Framtidige revisjoner*
 
 De eksponerings-responssammenhengene som innføres i framtidige revisjoner av dette vedlegget, vil særlig gjelde følgende:Sammenhengen mellom plage og Lden for industristøy.Sammenhengen mellom søvnforstyrrelse og Lnight for industristøy.
 
@@ -601,12 +710,17 @@ Forbudet gjelder likevel ikke fritidsbåter med saktegående innenbordsmotorer u
 
 ## Del 3. Lokal luftkvalitet
 
+Bestemmelser om
+
 - lokal luftkvalitet står i [kapittel 7](forskrift/2004-06-01-931/kap7),
 - svovelinnhold i ulike oljeprodukter står i [kapittel 8](forskrift/2004-06-01-931/kap8),
 - begrensning av utslipp av flyktige organiske forbindelser (VOC) forårsaket av bruk av organiske løsemidler står i [kapittel 9](forskrift/2004-06-01-931/kap9),
 - utslipp fra krematorier står i kapittel 10.
 
 ### Kapittel 7. Lokal luftkvalitet
+
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 5](lov/1981-03-13-6/§5), [§ 9](lov/1981-03-13-6/§9), [§ 39](lov/1981-03-13-6/§39), [§ 49](lov/1981-03-13-6/§49), [§ 51](lov/1981-03-13-6/§51), [§ 52a](lov/1981-03-13-6/§52a), [§ 73](lov/1981-03-13-6/§73) og [§ 81](lov/1981-03-13-6/§81).
+**EØS-henvisninger:** [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 14c (direktiv [2008/50/EF](eu/32008l0050) som endret ved direktiv [(EU) 2015/1480](eu/32015l1480)), nr. 14ca (beslutning [2011/850/EU](eu/32011d0850)) og nr. 21ak (direktiv [2004/107/EF](eu/32004l0107)).
 
 > Kapittel 7 med vedlegg endret ved [forskrifter 24 mai 2007 nr. 699](forskrift/2007-05-24-699) (i kraft 1 juli 2007), [23 juni 2021 nr. 2221](forskrift/2021-06-23-2221) (i kraft 1 juli 2021, hjemmelsfeltet), [3 juni 2022 nr. 989](forskrift/2022-06-03-989) som endret ved forskrift [23 juni 2022 nr. 1189](forskrift/2022-06-23-1189) (i kraft 1 juli 2022).
 
@@ -714,15 +828,40 @@ Virksomheter som har tillatelse etter [forurensningsloven § 11](lov/1981-03-13-
 
 ### § 7-9. Grenseverdier
 
-Forurensningskonsentrasjonen i utendørs luft skal ikke overstige følgende grenseverdier for beskyttelse av menneskets helse flere enn det tillatte antall ganger:*Komponent**Midlingstid**Grenseverdi**Antall tillatte overskridelser av grenseverdien per kalenderår*Svoveldioksid (SO2)1 time350 μg/m3241 døgn125 μg/m33Nitrogendioksid (NO2)1 time200 μg/m318Kalenderår40 μg/m3Svevestøv (PM10)1 døgn50 µg/m325Kalenderår20 µg/m3Svevestøv (PM2,5)Kalenderår10 µg/m3Bly (Pb)Kalenderår0,5 μg/m3Benzen (C6H6)Kalenderår5 μg/m3Karbonmonoksid (CO)Maksimalt daglig 8-timers gjennomsnitt10 mg/m3
+Forurensningskonsentrasjonen i utendørs luft skal ikke overstige følgende grenseverdier for beskyttelse av menneskets helse flere enn det tillatte antall ganger:
 
-Forurensningskonsentrasjonen i utendørs luft skal ikke overstige følgende grenseverdier for beskyttelse av økosystemet og vegetasjonen, jf. vedlegg 3 og 4:*Komponent**Midlingstid**Grenseverdi*Svoveldioksid (SO2)Kalenderår og i vinterperioden (1/10–31/3)20 μg/m3Nitrogenoksider (NOX)Kalenderår30 μg/m3
+| *Komponent* | *Midlingstid* | *Grenseverdi* | *Antall tillatte overskridelser av grenseverdien per kalenderår* |
+| --- | --- | --- | --- |
+| Svoveldioksid (SO2) | 1 time | 350 μg/m3 | 24 |
+|  | 1 døgn | 125 μg/m3 | 3 |
+| Nitrogendioksid (NO2) | 1 time | 200 μg/m3 | 18 |
+|  | Kalenderår | 40 μg/m3 |  |
+| Svevestøv (PM10) | 1 døgn | 50 µg/m3 | 25 |
+|  | Kalenderår | 20 µg/m3 |  |
+| Svevestøv (PM2,5) | Kalenderår | 10 µg/m3 |  |
+| Bly (Pb) | Kalenderår | 0,5 μg/m3 |  |
+| Benzen (C6H6) | Kalenderår | 5 μg/m3 |  |
+| Karbonmonoksid (CO) | Maksimalt daglig 8-timers gjennomsnitt | 10 mg/m3 |  |
+
+Forurensningskonsentrasjonen i utendørs luft skal ikke overstige følgende grenseverdier for beskyttelse av økosystemet og vegetasjonen, jf. vedlegg 3 og 4:
+
+| *Komponent* | *Midlingstid* | *Grenseverdi* |
+| --- | --- | --- |
+| Svoveldioksid (SO2) | Kalenderår og i vinterperioden (1/10–31/3) | 20 μg/m3 |
+| Nitrogenoksider (NOX) | Kalenderår | 30 μg/m3 |
 
 > Endret ved forskrifter [24 juni 2011 nr. 772](forskrift/2011-06-24-772), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [3 juni 2022 nr. 989](forskrift/2022-06-03-989) som endret ved forskrift [23 juni 2022 nr. 1189](forskrift/2022-06-23-1189) (i kraft 1 juli 2022).
 
 ### § 7-10. Målsettingsverdier
 
-Forurensningskonsentrasjonen i utendørs luft skal ikke overstige følgende målsettingsverdier, såfremt dette ikke vil innebære uforholdsmessig store omkostninger:*Komponent**Midlingstid**Målsettingsverdi*Arsen (As)Kalenderår6 ng/m3Kadmium (Cd)Kalenderår5 ng/m3Nikkel (Ni)Kalenderår20 ng/m3Benzo[a]pyren (B[a]P)Kalenderår1,0 ng/m3
+Forurensningskonsentrasjonen i utendørs luft skal ikke overstige følgende målsettingsverdier, såfremt dette ikke vil innebære uforholdsmessig store omkostninger:
+
+| *Komponent* | *Midlingstid* | *Målsettingsverdi* |
+| --- | --- | --- |
+| Arsen (As) | Kalenderår | 6 ng/m3 |
+| Kadmium (Cd) | Kalenderår | 5 ng/m3 |
+| Nikkel (Ni) | Kalenderår | 20 ng/m3 |
+| Benzo[a]pyren (B[a]P) | Kalenderår | 1,0 ng/m3 |
 
 Konsentrasjonene av arsen, kadmium, nikkel og benzo[a]pyren skal beregnes ut fra totalt innhold i PM10-fraksjonen, som gjennomsnitt over et kalenderår.
 
@@ -734,9 +873,30 @@ Vurderingsterskler avgjør behov for måling og beregning, jf. § 7-14, og om de
 
 Det foreligger fare for overskridelse av grense- og målsettingsverdien dersom øvre vurderingsterskel overskrides.
 
-Vurderingsterskler for beskyttelse av menneskers helse:*Komponent**Midlingstid**Øvre vurderingsterskel**Nedre vurderingsterskel**Antall tillatte overskridelser av vurderingsterskel per kalenderår*Svoveldioksid (SO2)1 døgn75 μg/m350 μg/m33Nitrogendioksid (NO2)1 time140 μg/m3100 μg/m318Kalenderår32 μg/m326 μg/m3Svevestøv (PM10)1 døgn35 µg/m325 µg/m325Kalenderår17 µg/m315 µg/m3Svevestøv (PM2,5)Kalenderår7 µg/m35 µg/m3Bly (Pb)Kalenderår0,35 μg/m30,25 μg/m3Benzen (C6H6)Kalenderår3,5 μg/m32,0 μg/m3Karbonmonoksid (CO)Maksimalt daglig 8-timers gjennomsnitt7 mg/m35 mg/m3Arsen (As)Kalenderår3,6 ng/m32,4 ng/m3Kadmium (Cd)Kalenderår3 ng/m32 ng/m3Nikkel (Ni)Kalenderår14 ng/m310 ng/m3Benzo[a]pyren (B[a]P)Kalenderår0,6 ng/m30,4 ng/m3
+Vurderingsterskler for beskyttelse av menneskers helse:
 
-Vurderingsterskler for beskyttelse av økosystem og vegetasjon:*Komponent**Midlingstid**Øvre vurderingsterskel**Nedre vurderingsterskel*Svoveldioksid (SO2)Vinterperioden (1/10–31/3)12 μg/m38 μg/m3Nitrogenoksider (NOX)Kalenderår24 μg/m319,5 μg/m3
+| *Komponent* | *Midlingstid* | *Øvre vurderingsterskel* | *Nedre vurderingsterskel* | *Antall tillatte overskridelser av vurderingsterskel per kalenderår* |
+| --- | --- | --- | --- | --- |
+| Svoveldioksid (SO2) | 1 døgn | 75 μg/m3 | 50 μg/m3 | 3 |
+| Nitrogendioksid (NO2) | 1 time | 140 μg/m3 | 100 μg/m3 | 18 |
+|  | Kalenderår | 32 μg/m3 | 26 μg/m3 |  |
+| Svevestøv (PM10) | 1 døgn | 35 µg/m3 | 25 µg/m3 | 25 |
+|  | Kalenderår | 17 µg/m3 | 15 µg/m3 |  |
+| Svevestøv (PM2,5) | Kalenderår | 7 µg/m3 | 5 µg/m3 |  |
+| Bly (Pb) | Kalenderår | 0,35 μg/m3 | 0,25 μg/m3 |  |
+| Benzen (C6H6) | Kalenderår | 3,5 μg/m3 | 2,0 μg/m3 |  |
+| Karbonmonoksid (CO) | Maksimalt daglig 8-timers gjennomsnitt | 7 mg/m3 | 5 mg/m3 |  |
+| Arsen (As) | Kalenderår | 3,6 ng/m3 | 2,4 ng/m3 |  |
+| Kadmium (Cd) | Kalenderår | 3 ng/m3 | 2 ng/m3 |  |
+| Nikkel (Ni) | Kalenderår | 14 ng/m3 | 10 ng/m3 |  |
+| Benzo[a]pyren (B[a]P) | Kalenderår | 0,6 ng/m3 | 0,4 ng/m3 |  |
+
+Vurderingsterskler for beskyttelse av økosystem og vegetasjon:
+
+| *Komponent* | *Midlingstid* | *Øvre vurderingsterskel* | *Nedre vurderingsterskel* |
+| --- | --- | --- | --- |
+| Svoveldioksid (SO2) | Vinterperioden (1/10–31/3) | 12 μg/m3 | 8 μg/m3 |
+| Nitrogenoksider (NOX) | Kalenderår | 24 μg/m3 | 19,5 μg/m3 |
 
 > Endret ved forskrifter [21 juni 2010 nr. 1073](forskrift/2010-06-21-1073), [24 juni 2011 nr. 772](forskrift/2011-06-24-772), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [3 juni 2022 nr. 989](forskrift/2022-06-03-989) som endret ved forskrift [23 juni 2022 nr. 1189](forskrift/2022-06-23-1189) (i kraft 1 juli 2022), [18 nov 2024 nr. 2836](forskrift/2024-11-18-2836).
 
@@ -804,7 +964,12 @@ Kommunen skal sørge for å rapportere til Miljødirektoratet på status for gje
 
 ### § 7-17. Målsettingsverdier for bakkenær ozon
 
-Forurensningskonsentrasjonen i utendørs luft skal ikke overstige følgende målsettingsverdier, såfremt dette ikke vil innebære uforholdsmessig store omkostninger.*Formål**Midlingstid**Målsettingsverdi*Beskyttelse av helseMaksimum daglig 8-timers gjennomsnitt120 μg/m3 skal ikke overskrides mer enn 25 dager per kalenderår, i gjennomsnitt over tre årBeskyttelse av vegetasjonAOT40, beregnet fra 1-times verdier fra mai til juli18 000 µg/m3 timer i gjennomsnitt over 5 år
+Forurensningskonsentrasjonen i utendørs luft skal ikke overstige følgende målsettingsverdier, såfremt dette ikke vil innebære uforholdsmessig store omkostninger.
+
+| *Formål* | *Midlingstid* | *Målsettingsverdi* |
+| --- | --- | --- |
+| Beskyttelse av helse | Maksimum daglig 8-timers gjennomsnitt | 120 μg/m3 skal ikke overskrides mer enn 25 dager per kalenderår, i gjennomsnitt over tre år |
+| Beskyttelse av vegetasjon | AOT40, beregnet fra 1-times verdier fra mai til juli | 18 000 µg/m3 timer i gjennomsnitt over 5 år |
 
 AOT40 betyr summen av differansene mellom timeskonsentrasjoner > 80 μg/m3 og 80 μg/m3. Målingene av timeskonsentrasjoner skal gjøres over en gitt periode hvor det kun brukes 1-times verdier målt mellom kl. 0800 og 2000. Beregningen skal baseres på data som er gitt i vintertid (CET) og det skal korrigeres for manglende data.
 
@@ -812,7 +977,12 @@ AOT40 betyr summen av differansene mellom timeskonsentrasjoner > 80 μg/m3 og 80
 
 ### § 7-18. Langsiktige mål for bakkenær ozon
 
-Det er et langsiktig mål at bakkenær ozon ikke skal overstige følgende nivåer, såfremt dette ikke vil innebære uforholdsmessig store omkostninger:*Formål**Midlingstid**Langsiktig mål*Beskyttelse av helseMaksimum daglig 8-timers gjennomsnitt innenfor et kalenderår120 μg/m3Beskyttelse av vegetasjonAOT40, beregnet fra 1-times verdier fra mai til juli6 000 μg/m3 timer
+Det er et langsiktig mål at bakkenær ozon ikke skal overstige følgende nivåer, såfremt dette ikke vil innebære uforholdsmessig store omkostninger:
+
+| *Formål* | *Midlingstid* | *Langsiktig mål* |
+| --- | --- | --- |
+| Beskyttelse av helse | Maksimum daglig 8-timers gjennomsnitt innenfor et kalenderår | 120 μg/m3 |
+| Beskyttelse av vegetasjon | AOT40, beregnet fra 1-times verdier fra mai til juli | 6 000 μg/m3 timer |
 
 AOT40 betyr summen av differansene mellom timeskonsentrasjoner > 80 μg/m3 og 80 μg/m3. Målingene av timeskonsentrasjoner skal gjøres over en gitt periode hvor det kun brukes 1-times verdier målt mellom kl. 0800 og 2000. Beregningen skal baseres på data som er gitt i vintertid (CET) og det skal korrigeres for manglende data.
 
@@ -820,7 +990,12 @@ AOT40 betyr summen av differansene mellom timeskonsentrasjoner > 80 μg/m3 og 80
 
 ### § 7-19. Informasjons- og alarmterskel for bakkenær ozon
 
-Den ansvarlige jf. [§ 7-8](forskrift/2004-06-01-931/§7-8) skal varsle offentligheten ved faktiske eller forventede overskridelser av alarmterskelen i by- og bynære områder og spredtbygde strøk, og ved overskridelse av informasjonsterskselen i by- og bynære områder.*Parameter**Terskel*Informasjonsterskel1-times gjennomsnitt180 μg/m3Alarmterskel1-times gjennomsnitt (a)240 μg/m3
+Den ansvarlige jf. [§ 7-8](forskrift/2004-06-01-931/§7-8) skal varsle offentligheten ved faktiske eller forventede overskridelser av alarmterskelen i by- og bynære områder og spredtbygde strøk, og ved overskridelse av informasjonsterskselen i by- og bynære områder.
+
+|  | *Parameter* | *Terskel* |
+| --- | --- | --- |
+| Informasjonsterskel | 1-times gjennomsnitt | 180 μg/m3 |
+| Alarmterskel | 1-times gjennomsnitt (a) | 240 μg/m3 |
 
 Offentligheten skal som et minimum varsles om:lokalisering, type terskel som overskrides, varighet av overskridelse, høyeste time og 8-timers konsentrasjon,prognose for følgende ettermiddag/dag(er) omberørt geografisk område knyttet til informasjons- og/eller alarmterskel,forventet endring av forurensningsnivå,informasjon om følsomme befolkningsgrupper, beskrivelse av mulige symptomer, anbefalte forholdsregler og angi hvor ytterligere informasjon finnes.
 
@@ -832,8 +1007,14 @@ Den eller de som står for en vesentlig del av det lokale bidraget til dannelse 
 
 Målinger av bakkenær ozon skal skje i tråd med Kvalitetssystemet for måling av luftkvalitet, jf. [§ 7-14](forskrift/2004-06-01-931/§7-14).
 
-Det skal etableres målestasjoner for overvåking av ozon og ozondannelse i soner, som angitt i tabellen under.*Sone, jf. vedlegg 1**Plassering av målestasjoner**Antall målestasjoner for bakkenær ozon**Antall målestasjoner for overvåking av ozondannelse*1Indre Oslo by11 for VOC
-1 for NO21Bynær12Bynær14Bynær, Skien kommune11 for NO2
+Det skal etableres målestasjoner for overvåking av ozon og ozondannelse i soner, som angitt i tabellen under.
+
+| *Sone, jf. vedlegg 1* | *Plassering av målestasjoner* | *Antall målestasjoner for bakkenær ozon* | *Antall målestasjoner for overvåking av ozondannelse* |
+| --- | --- | --- | --- |
+| 1 | Indre Oslo by | 1 | 1 for VOC<br>1 for NO2 |
+| 1 | Bynær | 1 |  |
+| 2 | Bynær | 1 |  |
+| 4 | Bynær, Skien kommune | 1 | 1 for NO2 |
 
 > Tilføyd ved forskrift [3 juni 2022 nr. 989](forskrift/2022-06-03-989) (i kraft 1 juli 2022).
 
@@ -891,6 +1072,16 @@ For å sikre at bestemmelsene i dette kapitlet, eller vedtak i medhold av dette 
 
 ### Vedlegg 1. Soneinndeling
 
+|  |  |
+| --- | --- |
+| Sone 1: (byområde) | Oslo, Asker, Bærum, Lørenskog, Lillestrøm, Nordre Follo, Lier og Drammen. |
+| Sone 2: (byområde) | Bergen. |
+| Sone 3: (byområde) | Trondheim. |
+| Sone 4: | Innlandet, Akershus (unntatt Asker, Bærum, Lørenskog, Lillestrøm og Nordre Follo), Buskerud (unntatt Drammen og Lier), Østfold, Vestfold, Telemark og Agder. |
+| Sone 5: | Rogaland og Vestland (unntatt Bergen). |
+| Sone 6: | Møre og Romsdal, Trøndelag (unntatt Trondheim) og Nordland. |
+| Sone 7: | Troms og Finnmark. |
+
 > Endret ved [forskrifter 24 juni 2011 nr. 772](forskrift/2011-06-24-772), [forskrift 3 juni 2022 nr. 989](forskrift/2022-06-03-989) (i kraft 1 juli 2022), [18 nov 2024 nr. 2836](forskrift/2024-11-18-2836).
 
 ### Vedlegg 2. Krav til målenettverk for beskyttelse av menneskers helse
@@ -901,11 +1092,28 @@ I soner hvor nedre vurderingsterskel, jf. [§ 7-11](forskrift/2004-06-01-931/§7
 
 I soner hvor konsentrasjonene ligger under nedre vurderingsterskel, er det tilstrekkelig å benytte modellberegninger eller teknikker for objektive anslag for å vurdere luftkvaliteten. I sone 1, 2 og 3 skal det likevel foretas målinger av svoveldioksid og nitrogendioksid.
 
-For å kunne vurdere luftkvaliteten i forhold til de helsebaserte grenseverdiene i [§ 7-9](forskrift/2004-06-01-931/§7-9) skal minste antall faste målinger for hver komponent være:*Befolkningsmengde i sone (i 1 000)**Ved overskridelse av øvre vurderingsterskel**For konsentrasjoner mellom øvre og nedre vurderingsterskel**Komponenter unntatt PM**PM (sum av PM10 og PM2,5)**Komponenter unntatt PM**PM (sum av PM10 og PM2,5)*0–2491211250–4992312500–7492312750–99934121 000–1 49946231 500–1 9995723
+For å kunne vurdere luftkvaliteten i forhold til de helsebaserte grenseverdiene i [§ 7-9](forskrift/2004-06-01-931/§7-9) skal minste antall faste målinger for hver komponent være:
+
+| *Befolkningsmengde i sone (i 1 000)* | *Ved overskridelse av øvre vurderingsterskel* |  | *For konsentrasjoner mellom øvre og nedre vurderingsterskel* |  |
+| --- | --- | --- | --- | --- |
+|  | *Komponenter unntatt PM* | *PM (sum av PM10 og PM2,5)* | *Komponenter unntatt PM* | *PM (sum av PM10 og PM2,5)* |
+| 0–249 | 1 | 2 | 1 | 1 |
+| 250–499 | 2 | 3 | 1 | 2 |
+| 500–749 | 2 | 3 | 1 | 2 |
+| 750–999 | 3 | 4 | 1 | 2 |
+| 1 000–1 499 | 4 | 6 | 2 | 3 |
+| 1 500–1 999 | 5 | 7 | 2 | 3 |
 
 Ved overskridelse av øvre vurderingsterskel for nitrogendioksid og svevestøv skal det inkluderes minst én bybakgrunnsstasjon og én veinær stasjon. Det samme gjelder for overskridelse av øvre vurderingsterskel for benzen og karbonmonoksid såfremt dette ikke medfører en økning av antall stasjoner.
 
-For å kunne vurdere luftkvaliteten i forhold til målsettingsverdiene i [§ 7-10](forskrift/2004-06-01-931/§7-10) skal minste antall faste målinger for hver komponent være:*Befolkningsmengde i sone (i 1 000)**Ved overskridelse av øvre vurderingsterskel**For konsentrasjoner mellom øvre og nedre vurderingsterskel**Arsen, kadmium, nikkel**Benzo[a]pyren**Arsen, kadmium, nikkel**Benzo[a]pyren*0–7491111750–1 99922112 000–3 7492311
+For å kunne vurdere luftkvaliteten i forhold til målsettingsverdiene i [§ 7-10](forskrift/2004-06-01-931/§7-10) skal minste antall faste målinger for hver komponent være:
+
+| *Befolkningsmengde i sone (i 1 000)* | *Ved overskridelse av øvre vurderingsterskel* |  | *For konsentrasjoner mellom øvre og nedre vurderingsterskel* |  |
+| --- | --- | --- | --- | --- |
+|  | *Arsen, kadmium, nikkel* | *Benzo[a]pyren* | *Arsen, kadmium, nikkel* | *Benzo[a]pyren* |
+| 0–749 | 1 | 1 | 1 | 1 |
+| 750–1 999 | 2 | 2 | 1 | 1 |
+| 2 000–3 749 | 2 | 3 | 1 | 1 |
 
 Det skal måles konsentrasjoner av andre relevante polysykliske aromatiske hydrokarboner i utendørs luft ved et begrenset antall målestasjoner hvor det også måles B[a]P, slik at langsiktige trender og geografiske variasjoner fremkommer. Disse forbindelsene skal minst omfatte benzo[a]anthracen, benzo[b]fluoranthen, benzo[j]fluoranthen, benzo[k]fluoranthen, indeno[1,2,3-cd]pyren og dibenzo[a,h]anthracen.
 
@@ -915,9 +1123,18 @@ Det skal måles konsentrasjoner av andre relevante polysykliske aromatiske hydro
 
 Uavhengig av konsentrasjonsnivå skal Miljødirektoratet sørge for at det etableres bakgrunnsstasjoner for målinger av PM2,5, ozon og indikative målinger av arsen, kadmium, nikkel, kvikksølv i dampform, benzo[a]pyren og andre relevante polysykliske aromatiske hydrokarboner. Det skal etableres én stasjon for hver 100 000 km2. Den totale avsetningen av arsen, kadmium, nikkel, kvikksølv, benzo[a]pyren og andre relevante polysykliske aromatiske hydrokarboner skal måles på de samme stasjonene.
 
-Målinger av PM2,5 i regional bakgrunn skal minimum analyseres for følgende komponenter:SO42-Na+NH4+Ca2+Elementært karbonNO3 –K+Cl –Mg2+Organisk karbon
+Målinger av PM2,5 i regional bakgrunn skal minimum analyseres for følgende komponenter:
 
-For å kunne vurdere luftkvaliteten for beskyttelse av økosystem og vegetasjon, jf. grenseverdiene i [§ 7-9](forskrift/2004-06-01-931/§7-9) og vurderingstersklene i [§ 7-11](forskrift/2004-06-01-931/§7-11) skal minste antall målestasjoner for hver komponent være:*Ved overskridelse av øvre vurderingsterskel**For konsentrasjoner mellom øvre og nedre vurderingsterskel*1 stasjon hver 20 000 km21 stasjon hver 40 000 km2
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| SO42- | Na+ | NH4+ | Ca2+ | Elementært karbon |
+| NO3 – | K+ | Cl – | Mg2+ | Organisk karbon |
+
+For å kunne vurdere luftkvaliteten for beskyttelse av økosystem og vegetasjon, jf. grenseverdiene i [§ 7-9](forskrift/2004-06-01-931/§7-9) og vurderingstersklene i [§ 7-11](forskrift/2004-06-01-931/§7-11) skal minste antall målestasjoner for hver komponent være:
+
+| *Ved overskridelse av øvre vurderingsterskel* | *For konsentrasjoner mellom øvre og nedre vurderingsterskel* |
+| --- | --- |
+| 1 stasjon hver 20 000 km2 | 1 stasjon hver 40 000 km2 |
 
 > Tilføyd ved [forskrift 24 juni 2011 nr. 772](forskrift/2011-06-24-772), endret ved forskrifter [27 mars 2012 nr. 302](forskrift/2012-03-27-302), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [20 jan 2014 nr. 37](forskrift/2014-01-20-37), [8 des 2015 nr. 1452](forskrift/2015-12-08-1452) (i kraft 1 jan 2016), [7 jan 2022 nr. 50](forskrift/2022-01-07-50) (i kraft 1 feb 2022), [3 juni 2022 nr. 989](forskrift/2022-06-03-989) (i kraft 1 juli 2022).
 
@@ -927,6 +1144,8 @@ Nasjonalt referanselaboratorium for luftkvalitetsmålinger skal konsulteres ved 
 
 Overholdelse av grenseverdiene for beskyttelse av menneskets helse skal ikke vurderes på følgende steder:Steder der offentligheten ikke har adgang og det heller ikke finnes fast bosettingInne på fabrikkområder eller industrianlegg som omfattes av egne bestemmelser om helse og sikkerhet på arbeidsplassenI kjørebanen på veier og på midtrabatter, unntatt der fotgjengere vanligvis har adgang til midtrabatten
 
+*1. Plassering av målestasjoner på makronivå*
+
 Kriterier for overordnet plassering av målesteder for veinære stasjoner, industripåvirkede stasjoner og bakgrunnsstasjoner, er gitt i direktiv [2008/50/EF](eu/32008l0050) vedlegg III.
 
 Målestasjoner som skal brukes til å vurdere overholdelse av grenseverdier og målsettingsverdier for beskyttelse av menneskers helse, skal plasseres i de områder i en sone som:har de høyeste konsentrasjonene som befolkningen forventes å bli utsatt for, direkte eller indirekte, ogsom er representativ for konsentrasjonsnivåer befolkningen blir eksponert for i andre områder innenfor sonen.
@@ -934,6 +1153,8 @@ Målestasjoner som skal brukes til å vurdere overholdelse av grenseverdier og m
 Prøvetakingspunktene skal om mulig også være representative for lignende steder som ikke ligger i umiddelbar nærhet til målestasjonen.
 
 Målestasjonene skal plasseres på følgende måte:Veinære stasjoner skal, der det er mulig, plasseres slik at målingene er representative for luftkvaliteten langs et gatesegment på minst 100 meter. Målestasjonen skal plasseres minst 25 meter fra kanten av store veikryss og maksimalt 10 meter fra fortauskanten. Et stort veikryss er et veikryss som avbryter trafikkflyten og medfører utslipp (ved stopp og start) som er forskjellig fra resten av veien.Industrinære stasjoner skal, der det er mulig, plasseres slik at målingene er representative for luftkvaliteten i et område på minst 250 m x 250 m. Der bidrag fra industrikilder skal vurderes, skal minst ett prøvetakingspunkt plasseres nedstrøm i forhold til kilden i nærmeste boligområde. Dersom bakgrunnskonsentrasjonen ikke er kjent, skal et ekstra prøvetakingspunkt plasseres nedstrøms i forhold til den vanligste vindretningen. For vurdering av forurensningen i områder rundt større punktkilder skal antall målestasjoner vurderes ut fra utslippsmengde, sannsynlige spredningsmønstre for forurensningen og den potensielle eksponeringen for befolkningen.Bybakgrunnsstasjoner skal plasseres på steder som er representative for den eksponeringen befolkningen i sin alminnelighet er utsatt for. Stasjonene skal plasseres slik at forurensningsnivået påvirkes av det samlede bidraget fra alle kilder oppstrøms i forhold til stasjonen. Forurensningsnivået bør ikke domineres av en enkelt kilde med mindre denne situasjonen er typisk for et større byområde. Prøvetakingspunktene skal som hovedregel være representative for flere kvadratkilometer.Regionale målestasjoner, og målestasjoner som skal brukes til å vurdere overholdelsen av grenseverdier for økosystemer og vegetasjon skal plasseres i god avstand (minst 5 km) fra større byområder, andre bebygde områder, industrianlegg og motorveier eller større veier med trafikk på over 50 000 kjøretøyer per dag. Dette innebærer at målestedene skal plasseres slik at målingene er representative for luftkvaliteten i et omgivende areal på minst 1000 km2.
+
+*2. Plassering av målestasjoner på mikronivå*
 
 Retningslinjer for oppsetning av målestasjoner er presisert i vedlegg III i direktiv [2004/107/EF](eu/32004l0107) og vedlegg III i direktiv [2008/50/EF](eu/32008l0050).
 
@@ -951,7 +1172,7 @@ Det bør også tas hensyn til følgende faktorer:Kilder som kan påvirke måling
 
 ### Vedlegg 5. Krav om innhold i tiltaksutredninger
 
-Tiltaksutredningen i henhold til [§ 7-16](forskrift/2022-06-03-989/§7-16) skal inneholde Del 1 faglig utredning. Dersom tiltaksutredningens del 1 viser at det er behov for det, skal tiltaksutredningen også inneholde Del 2, forpliktende handlingsplan og Del 3, beredskapsplan for episoder med høy luftforurensning.
+Tiltaksutredningen i henhold til [§ 7-16](forskrift/2004-06-01-931/§7-16) skal inneholde Del 1 faglig utredning. Dersom tiltaksutredningens del 1 viser at det er behov for det, skal tiltaksutredningen også inneholde Del 2, forpliktende handlingsplan og Del 3, beredskapsplan for episoder med høy luftforurensning.
 
 *Del 1, faglig utredning*, skal minimum inkludere følgende informasjon:Informasjon om hvem som har utarbeidet tiltaksutredningenAnsvarlig myndighetAnsvarlige anleggseiereForfattereHvilke(n) komponent(er) tiltaksutredningen omhandlerGenerell informasjon om området tiltaksutredningen gjelder forKartMålestasjon(er) (markert i kart og hvilke komponenter som måles)Topografi, meteorologi og klimatiske forhold som kan påvirke luftkvalitetenLokalisering av sårbare grupperMetodebeskrivelseBeskrivelse av metoden som er valgt (vurdering, måling og/ eller beregning)Beskrivelse av forutsetninger og inngangsdataBeskrivelse av usikkerhetBeskrivelse av dagens forurensningssituasjonOversikt over dagens konsentrasjoner og beskrivelse av utviklingen de siste årene (vurdert, målt og/eller beregnet)Oversikt over kildene som bidrar mest til forurensningssituasjonen og kildebidragOversikt over totalt utslipp fra disse kildene (tonn/år) og kildefordelingInformasjon om andre regioners bidrag til konsentrasjoneneInformasjon om faktorer som har bidratt til overskridelseneAnslått areal med overskridelser av grense- og målsettingsverdier (km2)Anslått antall personer som er eksponert for nivåer over grense- og målsettingsverdierDet bør gjøres en vurdering av konsekvenser for befolkningens helseBeskrivelse av tiltak og virkemidler som gjennomføresBeskrivelse av framtidig situasjon med og uten tiltakOversikt over framtidig forurensningssituasjon (vurdert og/ eller beregnet)Oversikt over kildene som bidrar mest til konsentrasjoneneOversikt over totalt utslipp fra disse kildene (tonn/år) og kildefordelingInformasjon om andre regioners bidrag til konsentrasjoneneInformasjon om faktorer som har bidratt til overskridelseneAnslått areal med overskridelser av grense- og målsettingsverdier (km2)Anslått antall personer som er eksponert for nivåer over grense- og målsettingsverdierBeskrivelse av vedtatte tiltak og/eller virkemidler som skal gjennomføres i framtidenVed overskridelse av grense- eller målsettingsverdier i framtidig situasjon: beskrivelse av tiltak og/eller virkemidler som er nødvendige for å overholde grense- og målsettingsverdier i framtiden, inkludert deres effekt på luftkvaliteten. Det bør også gjøres en vurdering av konsekvenser for befolkningens helse.Konklusjon med vurdering av behov for utarbeidelse av del 2 og del 3 basert på forurensningssituasjonen nå og i framtiden.Referanseliste.
 
@@ -1142,7 +1363,11 @@ er fritatt for å overholde grenseverdiene for punktutslipp i vedlegg II A til d
 
 Dette vedlegget angir de virksomheter som omfattes av dette kapitlet. Ved overskridelse av tersklene fastsatt i vedlegg II A nedenfor kommer virksomhet nevnt i dette vedlegg inn under virkeområdet for kapitlet. I hvert tilfelle er rengjøring av utstyret inkludert, men ikke rengjøring av sluttproduktet, med mindre annet er opplyst.
 
+*Belegging med klebemiddel*
+
 - Enhver virksomhet der et klebemiddel påføres en overflate, med unntak av påføring av klebemiddel og laminering i forbindelse med trykking.
+
+*Overflatebehandling*
 
 - Enhver virksomhet der ett eller flere sammenhengende lag av et overflatebelegg påføres:følgende kjøretøyer:nye biler klassifisert i gruppe M1 i direktiv [70/156/EØF](eu/31970l0156)1 og i gruppe N1 såfremt de behandles i samme anlegg som M1-kjøretøyer,førerhus i lastebiler, definert som førerkupeen, samt enhver integrert kappe beregnet på det tekniske utstyret i kjøretøyer klassifisert i gruppe N2 og N3 i direktiv [70/156/EØF](eu/31970l0156),lastebiler og tilhengere, dvs. kjøretøyer klassifisert i gruppe N1, N2 og N3 i direktiv [70/156/EØF](eu/31970l0156), med unntak av førerhus,busser, dvs. kjøretøyer klassifisert i gruppe M2 og M3 i direktiv [70/156/EØF](eu/31970l0156),
 - tilhengere klassifisert i gruppe O1, O2, O3 og O4 i direktiv [70/156/EØF](eu/31970l0156),
@@ -1153,29 +1378,57 @@ Dette vedlegget angir de virksomheter som omfattes av dette kapitlet. Ved oversk
 
 Virksomheten omfatter ikke påføring av metall på underlag ved elektroforese eller kjemisk sprøyting. Dersom overflatebehandlingen omfatter et trinn der den samme artikkelen blir påført trykk, anses dette trinnet, uansett hvilken teknikk som benyttes, som en del av overflatebehandlingen. Trykking som særskilt virksomhet inngår derimot ikke, men kan være omfattet av dette kapitlet når den spesielle teknikken hører under kapitlets virkeområde.
 
+1 EFT L42 av 23. februar 1970, s. 1. Direktivet sist endret ved direktiv [97/27/EF](eu/31997l0027) (EFT L 233 av 25. august 1997, s. 1).
+
+*Båndlakkering*
+
 - Enhver virksomhet der oppspolte bånd av stål, rustfritt stål, belagt stål, kopperlegeringer eller aluminium påføres et filmdannende belegg eller et laminat i en kontinuerlig prosess.
+
+*Kjemisk rensing*
 
 - Enhver industriell eller kommersiell virksomhet der det i et anlegg benyttes flyktige organiske forbindelser til rensing av klær, møbler eller andre lignende forbruksvarer, med unntak av manuell fjerning av skjolder og flekker i tekstil- og klesindustrien.
 
+*Produksjon av skotøy*
+
 - Enhver virksomhet basert på produksjon av skotøy eller deler av skotøy.
+
+*Produksjon av overflatebelegg, lakker, trykkfarger og klebemidler*
 
 - Framstilling av ovennevnte ferdige produkter, samt mellomprodukter dersom dette skjer på samme sted, utført ved blanding av pigmenter, harpikser og klebende stoffer ved bruk av organiske løsemidler eller andre bærestoffer; produksjonen innbefatter dispergering og predispergering, justering av viskositet og farge samt fylling av ferdig produkt på beholder.
 
+*Farmasøytisk produksjon*
+
 - Kjemisk syntese, fermentering, ekstraksjon, tilbereding og ferdiggjøring av legemidler samt framstilling av mellomprodukter dersom dette skjer på samme sted.
+
+*Trykking*
 
 - Enhver virksomhet basert på reproduksjon av tekst og/eller bilder ved at trykkfarge overføres til en overflate ved hjelp av en bildebærer. Denne virksomheten omfatter også tilknyttede teknikker som lakkering, overflatebehandling og laminering. Imidlertid omfattes bare følgende spesifiserte virksomheter av dette kapitlet:*fleksografi:* trykkteknikk basert på bruk av en bildebærer av gummi eller elastiske polymerer med en trykkende del som er opphøyd i forhold til den ikke-trykkende delen, og på bruk av flytende trykkfarge som tørker ved fordampning,*rotasjons-offsettrykking med varmlufttørking:* offsetteknikk med en bildebærer der den trykkende og den ikke-trykkende delen ligger i samme plan. Med rotasjonstrykking menes at materialet som skal påføres trykk, føres inn i maskinen fra en bane, og ikke som enkeltark. Den ikke-trykkende delen av bildebæreren behandles slik at den tiltrekker vann og avviser trykkfargen. Den trykkende delen behandles slik at den mottar og overfører trykkfarge til den overflaten som skal påføres trykk. Fordampningen foregår i en ovn der materialet som er påført trykk, varmes opp ved hjelp av varmluft,*laminering i forbindelse med trykking:* sammenklebing av to eller flere bøyelige materialer slik at det framkommer laminater,*publikasjonsdyptrykk:* dyptrykking av papir til tidsskrifter, brosjyrer, kataloger og lignende produkter ved bruk av toluenbaserte trykkfarger,*dyptrykk:* trykking ved bruk av en sylindrisk bildebærer der den trykkende delen befinner seg i fordypninger og den ikke-trykkende delen er opphøyd, og der det brukes flytende trykkfarge som tørker ved fordampning. Trykkfargen fordeler seg i fordypningene, og den ikke-trykkende delen av bildebæreren rengjøres for trykkfarge før overflaten som skal påføres trykk, kommer i kontakt med sylinderen og løfter trykkfargen opp av fordypningene,*rotasjonsserigrafi:* rotasjonstrykking som består i å avsette trykkfargen på den overflaten som skal påføres trykk ved å presse den gjennom en porøs bildebærer der den trykkende delen er åpen og den ikke-trykkende delen er tildekket. Ved denne teknikken brukes det trykkfarge som bare tørker ved fordampning. Med rotasjonstrykking menes at materialet som skal påføres trykk, føres inn i maskinen fra en bane, og ikke som enkeltark,*lakkering:* virksomhet der lakk eller et klebende belegg påføres et bøyelig materiale med henblikk på senere å forsegle emballasje.
 
+*Omdanning av gummi*
+
 - Enhver virksomhet som omfatter blanding, knaing, kalandrering, ekstrudering og vulkanisering av naturgummi eller syntetisk gummi samt enhver tilknyttet virksomhet med det formål å bearbeide naturgummi eller syntetisk gummi til et ferdig produkt.
+
+*Overflaterensing*
 
 - Enhver virksomhet med unntak av kjemisk rensing der det brukes organiske løsemidler for å fjerne urenheter fra overflaten på en gjenstand, herunder avfetting. Rensing som består av mer enn ett trinn før eller etter enhver annen virksomhet, anses som én enkelt overflaterensingsvirksomhet. Denne operasjonen omfatter ikke rensing av utstyret som benyttes, bare rensing av produktenes overflate.
 
+*Ekstraksjon av vegetabilsk olje og animalsk fett samt raffinering av vegetabilsk olje*
+
 - Enhver virksomhet som består i å ekstrahere vegetabilsk olje fra frø og annet vegetabilsk materiale, bearbeiding av tørrstoffer beregnet på produksjon av fôr, rensing av fett og vegetabilsk olje utvunnet fra frø og fra vegetabilsk og/eller animalsk materiale.
+
+*Lakkering og omlakkering av kjøretøyer*
 
 - Enhver industriell eller kommersiell virksomhet basert på belegging av overflater samt tilknyttet avfetting i forbindelse med:påføring av originallakk på veigående kjøretøyer som definert i direktiv [70/156/EØF](eu/31970l0156) eller på del av slike kjøretøyer, ved bruk av materialer av samme type som etterbehandlingsmaterialer, når dette utføres utenom den opprinnelige produksjonslinje, ellerlakkering av tilhengere (herunder semitrailere) (gruppe O).
 
+*Belegging av viklingstråd*
+
 - Enhver virksomhet basert på belegging av metalledere brukt til vikling av spoler i transformatorer, motorer osv.
 
+*Impregnering av tre*
+
 - Enhver virksomhet som går ut på å impregnere trelast.
+
+*Laminering av tre og plast*
 
 - Enhver virksomhet som går ut på å lime sammen tre og/eller plast for å produsere laminater.
 
@@ -1183,26 +1436,60 @@ Virksomheten omfatter ikke påføring av metall på underlag ved elektroforese e
 
 ### Vedlegg II A
 
+*I. Terskler og grenseverdier for utslipp*
+
+|  | *Virksomhet (terskel for løsemiddelforbruk i tonn/år)* | *Terskel (terskel for løsemiddel-<br>forbruk i tonn/år)* | *Grenseverdi for punkt-<br>utslipp (mg<br>C/Nm3)* | *Grenseverdier for diffuse utslipp (i prosent av tilførsel)* |  | *Grenseverdier for totale utslipp* |  | *Særlige bestemmelser* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | *Nye anlegg* | *Eksister-<br>ende anlegg* | *Nye anlegg* | *Eksister-<br>ende anlegg* |  |
+| 1 | Rotasjons-offsettrykking med varmlufttørking (>15) | 15-25<br>>25 | 100<br>20 | 301<br>301 |  |  |  | 1 Løsemiddelrest i ferdig produkt anses ikke som diffust utslipp |
+| 2 | Publikasjonsdyptrykk (>25) |  | 75 | 10 | 15 |  |  |  |
+| 3 | Andre former for dyptrykk, fleksografi, rotasjonsserigrafi, laminerings- eller lakkeringsenheter (>15), trykking ved bruk av rotasjonsserigrafi på tekstil eller kartong (>30) | 15-25<br>>25<br>>301 | 100<br>100<br>100 | 25<br>20<br>20 |  |  |  | 1 Terskel for rotasjonsserigrafi på tekstil og kartong |
+| 4 | Overflaterensing1 (>1) | 1-5<br>>5 | 202<br>202 | 15<br>10 |  |  |  | 1 Ved bruk av forbindelsene nevnt i [§ 9-7](forskrift/2004-06-01-931/§9-7) første og andre ledd.<br>2 Grenseverdien viser til forbindelsenes masse i mg/Nm3 og ikke til totalt karbon. |
+| 5 | Annen overflaterensing (>2) | 2-10<br>>10 | 751<br>751 | 201<br>151 |  |  |  | 1 Anlegg som godtgjør overfor vedkommende myndighet at det gjennomsnittlige innholdet av løsemidler i samtlige rensemidler som anvendes ikke overstiger 30 vekt%, er unntatt fra dette kapittelet. |
+| 6 | Lakkering (<15) og omlakkering av biler | >0,5 | 501 | 25 |  |  |  | 1 Overholdelse i henhold til [§ 9-11](forskrift/2004-06-01-931/§9-11) bør godtgjøres på grunnlag av gjennomsnittsmålinger hvert 15. minutt. |
+| 7 | Båndlakkering (>25) |  | 501 | 5 | 10 |  |  | 1 For anlegg som benytter teknikker som muliggjør gjenbruk av gjenvunne løsemidler, skal grenseverdien være 150. |
+| 8 | Annen overflatebehandling, herunder av metall, plast, tekstil,5 stoff, folie og papir (>5) | 5-15<br>>15 | 1001,4<br>50/752,3,4 | 204<br>204 | 204<br>204 |  |  | 1 Grenseverdien gjelder for beleggings- og tørkeprosesser under innesluttede forhold.<br>2 Den første grenseverdien gjelder for tørkeprosesser, den andre for beleggingsprosesser.<br>3 For anlegg for belegging av tekstil der det benyttes teknikker som muliggjør gjenbruk av gjenvunne løsemidler, skal total grenseverdi for beleggings- og tørkeprosesser være 150.<br>4 Belegging som ikke kan utføres under innesluttede forhold (f.eks. skipsbygging, lakkering av fly), kan fravike disse grenseverdiene i samsvar med [§ 9-6](forskrift/2004-06-01-931/§9-6) annet ledd.<br>5 Rotasjonsserigrafi på tekstil omfattes av virksomhet nr. 3. |
+| 9 | Belegging av viklingstråd (>5) |  |  |  |  | 10 g/kg1<br>5 g/kg2 | 10 g/kg1<br>5 g/kg2 | 1 Gjelder for anlegg der trådens diameter i snitt er ≤= 0,1 mm.<br>2 Gjelder for alle andre anlegg. |
+| 10 | Overflatebehandling av tre (>15) | 15-25<br>>25 | 1001<br>50/752 | 25<br>20 | 25<br>20 |  |  | 1 Grenseverdien gjelder for beleggings- og tørkeprosesser under innesluttede forhold.<br>2 Den første grenseverdien gjelder for tørkeprosesser, den andre for beleggingsprosesser. |
+| 11 | Kjemisk rensing |  |  |  |  | 20 g/kg1,2 | 20 g/kg1,2 | 1 Uttrykt i masse av løsemiddel per kg renset og tørket produkt.<br>2 Grenseverdien i [§ 9-7](forskrift/2004-06-01-931/§9-7) andre ledd gjelder ikke for denne sektoren. |
+| 12 | Impregnering av tre (>25) |  | 1001 | 45 | 45 | 11 kg/m3 | 11 kg/m3 | 1 Gjelder ikke for impregnering med kreosot, jf. [§ 9-7](forskrift/2004-06-01-931/§9-7). |
+| 13 | Overflatebehandling av lær (>10) | 10-25<br>>25<br><br>(>10)1 |  |  |  | 85 g/m2<br>75 g/m2<br><br>150 g/m2 | 85 g/m2<br>75 g/m2<br><br>150 g/m2 | Grenseverdiene er angitt i gram løsemiddel sluppet ut per m2 framstilt produkt.<br>1 For overflatebehandling av lær i møbler og særlige lærvarer brukt som små forbruksartikler, f.eks. vesker, belter, lommebøker osv. |
+| 14 | Produksjon av skotøy (>5) |  |  |  |  | 25 g per par | 25 g per par | Grenseverdien for totale utslipp er angitt i gram løsemiddel sluppet ut per produsert par. |
+| 15 | Laminering av tre og plast (>5) |  |  |  |  | 30 g/m2 | 30 g/m2 |  |
+| 16 | Påføring av klebemiddel (>5) | 5-15<br>>15 | 501<br>501 | 25<br>20 | 25<br>20 |  |  | 1 Ved bruk av teknikker som muliggjør gjenbruk av gjenvunne løsemidler, er grenseverdien for punktutslipp 150. |
+| 17 | Produksjon av overflatebelegg, lakker, trykkfarger og klebemidler (>100) | 100-1000<br>>1000 | 150<br>150 | 5<br>3 | 5<br>3 | 5% av tilførsel<br>3% av tilførsel | 5% av tilførsel<br>3% av tilførsel | Grenseverdien for diffuse utslipp omfatter ikke løsemidler som selges sammen med stoffblandinger i lufttette beholdere. |
+| 18 | Omdanning av gummi (>15) |  | 201 | 252 | 252 | 25% av tilførsel | 25% av tilførsel | 1 Ved bruk av teknikker som muliggjør gjenbruk av gjenvunne løsemidler, er grenseverdien for punktutslipp 150.<br>2 Grenseverdien for diffuse utslipp omfatter ikke løsemidler som selges sammen med stoffblandinger i lufttette beholdere. |
+| 19 | Ekstraksjon av vegetabilsk olje og animalsk fett og raffinering av vegetabilsk olje (>10) |  |  |  |  | Animalsk fett: 1,5 kg/tonn<br>Ricinusolje: 3,0 kg/tonn<br>Rapsfrø: 1,0 kg/tonn<br>Solsikkefrø: 1,0 kg/tonn<br>Soyabønner (normal nedmal-ingsgrad): 0,8 kg/tonn<br>Soyabønner (hvite flak): 1,2 kg/tonn<br>Andre typer frø og vegetabilsk materiale:<br>3 kg/tonn1<br>1,5 kg/tonn2<br>4 kg/tonn3 | Animalsk fett: 1,5 kg/tonn<br>Ricinusolje: 3,0 kg/tonn<br>Rapsfrø: 1,0 kg/tonn<br>Solsikkefrø: 1,0 kg/tonn<br>Soyabønner (normal nedmal-ingsgrad): 0,8 kg/tonn<br>Soyabønner (hvite flak): 1,2 kg/tonn<br>Andre typer frø og vegetabilsk materiale:<br>3 kg/tonn1<br>1,5 kg/tonn2<br>4 kg/tonn3 | 1 Grenseverdiene for totale utslipp for anlegg som bearbeider enkeltpartier av frø og annet vegetabilsk materiale, bør fastsettes av vedkommende myndighet i hvert enkelt tilfelle ved bruk av de beste tilgjengelige teknikker.<br>2 Gjelder for alle fraksjoneringsprosesser med unntak av avsliming (fjerning av planteslimholdig materiale fra oljen).<br>3 Gjelder for avsliming. |
+| 20 | Farmasøytisk produksjon (>50) |  | 201 | 5 2 | 152 | 5% av tilførsel | 15% av tilførsel | 1 Ved bruk av teknikker som muliggjør gjenbruk av gjenvunne løsemidler, er grenseverdien for punktutslipp 150.<br>2 Grenseverdien for diffuse utslipp omfatter ikke løsemidler som selges sammen med stoffblandinger i lufttette beholdere. |
+
+*II. Billakkeringsbransjen*
+
 Grenseverdiene for totale utslipp er angitt i gram løsemiddel som slippes ut i forhold til produktets overflateområde i kvadratmeter og i kilo løsemiddel som slippes ut i forhold til karosseriet.
 
 Overflateområdet for produkter som er oppført nedenfor, defineres slik:overflateområdet beregnet på grunnlag av det totale området som skal elektroforesebehandles, og overflateområdet av samtlige deler som eventuelt føyes til i løpet av de påfølgende trinn i behandlingen, og som påføres samme belegg som det som benyttes på vedkommende produkt, eller det totale området av produktet som behandles i anlegget.
 
 Overflateområdet som skal elektroforesebehandles, beregnes ved hjelp av følgende formel:
 
+2 x produktets totalvekt
+
+---------------------------------------------
+
+metallplatens gjennomsnittstykkelse x metallplatens densitet
+
 Denne metoden skal også anvendes for andre belagte deler laget av platemetall.
 
 Dataassistert konstruksjon (DAK) eller tilsvarende metoder skal brukes ved beregning av overflateområdet av de andre delene som føyes til, eller det totale overflateområdet som behandles i anlegget.
 
-Grenseverdien for totale utslipp i nedenstående tabell viser til samtlige trinn i prosessen, utført i samme anlegg, fra elektroforese eller enhver annen beleggingsprosess fram til avsluttende voksing og polering, samt til løsemiddelet som benyttes til rensing av utstyr, herunder sprøytebokser og annet fastmontert utstyr, både under og utenom produksjonsprosessen. Grenseverdien er angitt i total vekt av organiske forbindelser per m2 av det totale behandlede område og i total masse av organiske forbindelser per kjøretøykarosseri.*Virksomhet (terskel for forbruk av løsemidler i tonn/år)**Produksjonsterskel (viser til årsproduksjon av det behandlede produkt)**Grenseverdi for totale utslipp**Nye anlegg**Eksisterende anlegg*Lakkering av nye kjøretøyer (>15)>500045 g/m2 eller 1,3 kg/karosseri + 33 g/m260 g/m2 eller 1,9 kg/karosseri + 41 g/m2≤5000 selvbærende karosseri eller >3500 chassis-bygd90 g/m2 eller 1,5 kg/karosseri + 70 g/m290 g/m2 eller 1,5 kg/karosseri + 70 g/m2Lakkering av nye førerhus (>15)≤5000
->500065
-5585
-75Lakkering av nye vare- og lastebiler (>15)≤2500
->250090
-70120
-90Lakkering av nye busser≤2000
-> 2000210
-150290
-225
+Grenseverdien for totale utslipp i nedenstående tabell viser til samtlige trinn i prosessen, utført i samme anlegg, fra elektroforese eller enhver annen beleggingsprosess fram til avsluttende voksing og polering, samt til løsemiddelet som benyttes til rensing av utstyr, herunder sprøytebokser og annet fastmontert utstyr, både under og utenom produksjonsprosessen. Grenseverdien er angitt i total vekt av organiske forbindelser per m2 av det totale behandlede område og i total masse av organiske forbindelser per kjøretøykarosseri.
+
+| *Virksomhet (terskel for forbruk av løsemidler i tonn/år)* | *Produksjonsterskel (viser til årsproduksjon av det behandlede produkt)* | *Grenseverdi for totale utslipp* |  |
+| --- | --- | --- | --- |
+|  |  | *Nye anlegg* | *Eksisterende anlegg* |
+| Lakkering av nye kjøretøyer (>15) | >5000 | 45 g/m2 eller 1,3 kg/karosseri + 33 g/m2 | 60 g/m2 eller 1,9 kg/karosseri + 41 g/m2 |
+|  | ≤5000 selvbærende karosseri eller >3500 chassis-bygd | 90 g/m2 eller 1,5 kg/karosseri + 70 g/m2 | 90 g/m2 eller 1,5 kg/karosseri + 70 g/m2 |
+| Lakkering av nye førerhus (>15) | ≤5000<br>>5000 | 65<br>55 | 85<br>75 |
+| Lakkering av nye vare- og lastebiler (>15) | ≤2500<br>>2500 | 90<br>70 | 120<br>90 |
+| Lakkering av nye busser | ≤2000<br>> 2000 | 210<br>150 | 290<br>225 |
 
 Billakkeringsanlegg med løsemiddelforbruk under terskelverdien i ovenstående tabell skal oppfylle kravene for billakkering og omlakkering i vedlegg II A.
 
@@ -1210,7 +1497,11 @@ Billakkeringsanlegg med løsemiddelforbruk under terskelverdien i ovenstående t
 
 ### Vedlegg II B. Program for utslippsmål
 
+1\. *Prinsipper*
+
 Formålet med program for utslippsmål er å tilby den driftsansvarlige muligheten til med andre midler å oppnå et utslipp tilsvarende det han ville ha oppnådd ved å overholde grenseverdiene for utslipp. For dette formål kan den driftsansvarlige benytte et hvilket som helst program som er særskilt utformet for hans anlegg, forutsatt at sluttresultatet er en tilsvarende utslippsreduksjon.
+
+2\. *Praksis*
 
 1. Nedenstående program kan anvendes i virksomhet som går ut på å påføre overflatebelegg, lakker, klebemidler eller trykkfarger på en overflate. I tilfeller der metoden ikke passer, kan vedkommende myndighet gi den driftsansvarlige tillatelse til å benytte enhver annen metode som etter dens oppfatning oppfyller de prinsippene som er skissert i dette vedlegg. I den forbindelse skal det tas hensyn til følgende forhold:Dersom erstatningsstoffer med lavt eller ikke noe innhold av løsemidler fremdeles er under utvikling, må den driftsansvarlige gis en tidsfrist for å gjennomføre sine planer for å overholde utslippsmålet.Referansepunktet for utslippsreduksjonen bør så vidt mulig svare til de utslipp som ville ha vært resultatet dersom det ikke var blitt truffet noen form for reduksjonstiltak.
 2. Følgende reduksjonsprogram skal gjelde for anlegg der det kan forutsettes et konstant innhold av tørrstoff i produktet, og dette innholdet kan brukes til å definere referansepunktet for utslippsreduksjonen.De årlige referanseutslippene beregnes på følgende måte:Den totale masse tørrstoff i det årlige forbruk av overflatebelegg og/eller trykkfarge, lakk og klebemiddel bestemmes. Tørrstoff er samtlige materialer i overflatebelegg, trykkfarger, lakker og klebemidler som har fast form når vann eller flyktige organiske forbindelser har fordampet.De årlige referanseutslippene beregnes ved å multiplisere den utregnede masse i bokstav a) med den relevante faktor i følgende tabell. Vedkommende myndighet kan justere disse faktorene for anlegg der tørrstoffene brukes på en mer effektiv måte.*Virksomhet**Multiplikasjonsfaktor brukt i forbindelse med nr. ii) bokstav b)*Dyptrykk, fleksografi, laminering og lakkering i forbindelse med trykking, overflatebehandling av tre, tekstiler, stoffer, folie eller papir; påføring av klebemidler4Båndlakkering, lakkering og omlakkering av kjøretøyer3Belegging som innebærer produktkontakt med matvarer, belegging i luft- og romfartsindustrien2,33Annen belegging og rotasjonsserigrafi1,5Utslippsmålet er lik det årlige referanseutslippet multiplisert med en prosentsats som er lik:(grenseverdien for diffuse utslipp + 15) for anlegg under nr. 6 og de laveste terskelområdene i nr. 8 og 10 i vedlegg II A til dette kapitlet,(grenseverdien for diffuse utslipp + 5) for alle andre anlegg.Grenseverdiene anses overholdt når det faktiske utslippet av løsemidler, bestemt ved løsemiddelbalansen, er lik eller lavere enn utslippsmålet.Programmet for utslippsmål kan for eksempel omfatte et eller flere av følgende tiltak:reduksjon av løsemiddelinnhold i de produkter og blandinger som brukes til aktivitetenøkt effektivitet i bruk av tørrstoff i de produkter og blandinger som brukes til aktivitetenøkt gjenvinning og gjenbruk av organiske løsemidlerrensing av organiske løsemidler.
@@ -1219,15 +1510,23 @@ Formålet med program for utslippsmål er å tilby den driftsansvarlige mulighet
 
 ### Vedlegg III. Løsemiddelbalanse
 
+1\. *Innledning*
+
 Dette vedlegg inneholder en veiledning for å sette opp en løsemiddelbalanse. Den beskriver de prinsipper som skal anvendes (punkt 2), presenterer en ramme for massebalansen (punkt 3) og angir kravene for kontroll av overholdelsen (punkt 4).
 
+2\. *Prinsipper*
+
 Løsemiddelbalansen har følgende formål:kontroll av overholdelse som angitt i [§ 9-11](forskrift/2004-06-01-931/§9-11),identifikasjon av framtidige reduksjonsmuligheter,muliggjøre informasjon til allmennheten om bruk av løsemidler, utslipp av løsemidler og oppfyllelse av kravene i dette kapitlet.
+
+3\. *Definisjoner*
 
 Følgende definisjoner angir en ramme for utarbeidelsen av massebalansen.
 
 Organiske løsemidler som går inn i produksjonen (I):Mengden av organiske løsemidler, i ren tilstand eller i innkjøpte stoffblandinger, som brukes som tilførsel i prosessen i det tidsrom massebalansen beregnes over.Mengden av organiske løsemidler, i ren tilstand eller i stoffblandinger som gjenvinnes og gjenbrukes som løsemiddeltilførsel i prosessen (gjenvunnet løsemiddel medregnes hver gang det brukes i utførelsen av virksomheten).
 
 Organiske løsemidler som går ut av produksjonen (O):Punktutslipp.Tap av organiske løsemidler i vann, idet det om nødvendig ved beregningen fastsatt i O5 tas hensyn til behandlingen av spillvann.Mengden av organiske løsemidler som er igjen i form av urenheter eller restmengder i produktene som prosessen resulterer i.Uoppfangede utslipp av organiske løsemidler til luft, herunder alminnelig ventilasjon av rom der luften slippes ut til miljøet gjennom vinduer, dører, ventilasjonsåpninger og lignende åpninger.Tap av organiske løsemidler og/eller organiske forbindelser på grunn av kjemiske eller fysiske reaksjoner (herunder løsemidler og forbindelser som destrueres f.eks. ved forbrenning eller annen behandling av punktutslipp eller spillvann, eller som fanges opp, f.eks. ved adsorpsjon, med mindre de medregnes under O6, O7 eller O8).Organiske løsemidler i innsamlet avfall.Organiske løsemidler, eller organiske løsemidler i stoffblandinger, som selges eller er beregnet på å selges som produkt med kommersiell verdi.Organiske løsemidler i stoffblandinger, gjenvunnet for gjenbruk, men ikke som tilførsel i prosessen, med mindre de medregnes under O7.Organiske løsemidler som slippes ut på annen måte.
+
+4\. *Veiledning for bruk av løsemiddelbalansen i forbindelse med kontroll av oppfyllelsen av kravene*
 
 Bruken av løsemiddelbalansen avhenger av de konkrete krav som skal kontrolleres:Kontroll av overholdelse av reduksjonsalternativet i vedlegg II B til dette kapitlet, med en grenseverdi for totale utslipp angitt i løsemiddelutslipp per produktenhet, eller på en annen måte oppgitt i vedlegg II A til dette kapitlet.For alle virksomheter omfattet av vedlegg II B bør løsemiddelbalansen utarbeides årlig med sikte på å bestemme forbruket (C). Forbruket kan beregnes ved bruk av følgende ligning:
 C = I1 – O8
@@ -1266,9 +1565,15 @@ For at krematoriet skal være lovlig etter kapitlet her, skal ansvarlig for krem
 
 ### § 10-5. Utslipp til luft
 
-Utslippene til luft ved kremering skal ikke overstige følgende grenseverdier for kategori I og kategori II ved de midlingstider som er angitt i tabellen:*Forurensende stoff**Grenseverdi (mg/Nm3)**Midlingstid**Kategori I**Kategori II*Totalt støv201506 timer
-1 kremasjonKvikksølv totalt (Hg tot.)0,05–6 timer
-1 kremasjonKarbonmonoksid (CO)1001001 timeKarbonmonoksid (CO)15015010 min.
+Utslippene til luft ved kremering skal ikke overstige følgende grenseverdier for kategori I og kategori II ved de midlingstider som er angitt i tabellen:
+
+| *Forurensende stoff* | *Grenseverdi (mg/Nm3)* |  | *Midlingstid* |
+| --- | --- | --- | --- |
+|  | *Kategori I* | *Kategori II* |  |
+| Totalt støv | 20 | 150 | 6 timer<br>1 kremasjon |
+| Kvikksølv totalt (Hg tot.) | 0,05 | – | 6 timer<br>1 kremasjon |
+| Karbonmonoksid (CO) | 100 | 100 | 1 time |
+| Karbonmonoksid (CO) | 150 | 150 | 10 min. |
 
 Grenseverdiene angir massekonsentrasjonen av stoffene i utslippsgassene målt i forhold til volumet av utslippsgassene ved normal temperatur og trykk (normal tilstand: 273 K og 101,3 kPa), etter fratrekk av fuktighetsinnhold i form av vanndamp, og med 11 volumprosent oksygen i utslippsgassen. Grenseverdier er definert som maksimal konsentrasjon som ikke skal overstiges av gjennomsnittet av en fast prøveserie på minimum 3 prøver.
 
@@ -1372,9 +1677,15 @@ Miljødirektoratet kan endre listene i vedlegg 2.
 
 ### Vedlegg 1
 
+*1.1 Kriterier for utarbeiding/revidering av liste over følsomme og mindre følsomme områder*
+
+*A. Følsomme områder*
+
 Statlige forurensningsmyndigheter skal registrere en vannforekomst som et følsomt område dersom den faller inn under en av gruppene nedenfor:naturlige innsjøer, andre ferskvannsforekomster, elvemunninger, fjorder og andre sjøområder som er eutrofe, eller som på kort tid kan bli eutrofe dersom det ikke treffes beskyttende tiltak. Det kan tas hensyn til forholdene nedenfor når det undersøkes hvilke næringsstoffer som skal reduseres ved ytterligere rensing:innsjøer og vassdrag som munner ut i innsjøer/reservoarer/avstengte viker som har liten vannutskifting, noe som kan føre til akkumulasjon. I slike områder bør fosfor fjernes med mindre det kan påvises at fjerning ikke vil ha noen innvirkning på eutrofieringen. Det kan også overveies å fjerne nitrogen når utslippene stammer fra omfattende tettbebyggelse,elvemunninger, viker, fjorder og andre sjøområder som har dårlig vannutskifting, eller som mottar store mengder næringsstoffer. Utslipp fra lite omfattende tettbebyggelse er i alminnelighet av liten betydning i slike områder, men når det gjelder omfattende tettbebyggelse, skal fosfor og/eller nitrogen fjernes med mindre det påvises at fjerning ikke vil ha noen innvirkning på eutrofieringen.Innsjøer og elver som er beregnet på uttak av drikkevann, og som kan få større nitratkonsentrasjon, dersom det ikke treffes tiltak, enn den som er fastsatt i [forskrift om vannforsyning og drikkevann](forskrift/2016-12-22-1868).Områder der det er nødvendig å foreta rensing utover sekundærrensing for å tilfredsstille andre direktiver i [EØS-avtalen](lov/1992-11-27-109/eøsl).
 
 Med eutrofiering menes anrikning av vann med hensyn til næringsstoffer, særlig nitrogen- og/eller fosforforbindelser, som påskynder veksten av alger og høyerestående plantearter, noe som fører til uønsket forstyrrelse av likevekten mellom organismene i vannet og forverring av vannkvaliteten.
+
+*B. Mindre følsomme områder*
 
 Forurensningsmyndigheten kan registrere en marin vannforekomst eller et marint område som et mindre følsomt område dersom utslipp av avløpsvann ikke har skadevirkninger på miljøet på grunn av områdets morfologi, hydrologi eller særskilte hydrauliske forhold.
 
@@ -1382,11 +1693,23 @@ Ved registreringen av mindre følsomme områder skal man ta hensyn til faren for
 
 Det skal tas hensyn til forholdene nedenfor når mindre følsomme områder registreres: åpne viker, elvemunninger og andre sjøområder som har god vannutskifting, og som ikke er utsatt for eutrofiering eller oksygensvinn, eller som ikke ventes å bli eutrofe eller å bli utsatt for oksygensvinn som følge av utslipp av avløpsvann fra byområder.
 
+*1.2 Områdeinndeling*
+
+a. *Følsomme områder*
+
 Kyststrekningen Svenskegrensen-Lindesnes med tilhørende nedbørfelt og Grimstadfjordområdet (Nordåsvannet, Grimstadfjorden, Mathopen og Dolviken).
+
+b. *Normale områder*
 
 Ferskvannsforekomster i Norge som ikke er klassifisert som følsomme.
 
+c. *Mindre følsomme områder*
+
 Kystfarvann og elvemunninger fra Lindesnes til Grense Jakobselv som ikke er klassifisert som følsomme.
+
+Kart over områdeinndelingen
+
+*1.3 Tettbebyggelser med nitrogenfjerningskrav*
 
 - Nordre Follo
 - Oslo
@@ -1395,16 +1718,54 @@ Kystfarvann og elvemunninger fra Lindesnes til Grense Jakobselv som ikke er klas
 
 ### Vedlegg 2
 
+*2.1 Analyseparametere*
+
 1. Alle inn- og utløpsprøver tatt i henhold til [§ 14-11](forskrift/2004-06-01-931/§14-11) fra avløpsanlegg i [kapittel 14](forskrift/2004-06-01-931/kap14) som etterkommer fosforfjerning, skal analyseres for BOF5 og KOFCR.
 2. Seks inn- og utløpsprøver per år fra avløpsanlegg i [kapittel 14](forskrift/2004-06-01-931/kap14) som etterkommer kun nitrogenfjerning, sekundær- eller primærrensing, skal analyseres for tot-P.
 3. Seks inn- og utløpsprøver per år fra avløpsanlegg større enn eller lik 10.000 pe i følsomt område skal analyseres for tot-N.
 4. Seks inn- og utløpsprøver per år fra avløpsanlegg større enn eller lik 20.000 pe skal analyseres for analyseparametere nevnt i tabell 2.1.1.
 
+Tabell 2.1.1. Analyseparametere for avløpsanlegg større enn eller lik 20.000 pe
+
+| *Analyseparameter* | *Deteksjonsgrense* |
+| --- | --- |
+| *Tungmetaller:* |  |
+| As, Cr, Cu, Ni, Zn og Pb | ≤ 1 μg/l |
+| Cd og Hg | ≤ 0,1 μg/l |
+
 1. Tre inn- og utløpsprøver per år fra avløpsanlegg over 50.000 pe skal analyseres for analyseparametere nevnt i tabell 2.1.2.
+
+Tabell 2.1.2. Analyseparametere for avløpsanlegg større enn eller lik 50.000 pe
+
+| *Analyseparameter* | *Deteksjonsgrense* |
+| --- | --- |
+| *Bromerte flammehemmere (BFH)*: |  |
+| Tetrabromdifenyleter (BDE-47), pentabromdifenyleter (BDE-99 og BDE-100), oktabromdifenyleter (BDE-183\*) og deka-bromdifenyleter (BDE-209), tetrabrombisfenol A (TBBPA) og heksabromsyklododekan (HBCD). | ≤ 10 ng/l |
+| *Polysykliske aromatiske hydrokarboner (PAH):* |  |
+| Sum av følgende PAH-forbindelser iht. Norsk Standard (NS-9815): fenantren, antracen, pyren, fluoranten, benzo(a)fluoren, benzo(b)fluoren, krysen/trifenylen, benzo(a)antracen, benzo(b)fluoranten, benzo(k)fluotanten, benzo(e)pyren, benzo(a)pyren, dibenzo(a,h)antracen, indeno(1,2,3-c,d)pyren og benzo(g,h,i)perylen, dibenzo(a,e)pyren, dibenzo(a,h)pyren, dibenzo(a,i)pyren. | ≤ 0,2μg/l |
+| *Polyklorerte bifenyler (Σ PCB 7):* |  |
+| Summen av de 7 enkeltforbindelsene av polyklorerte bifenyler nr. 28, 52, 101, 118, 138, 153 og 180. | ≤ 10 ng/l |
+| *Diethylheksylftalat (DEHP)* | ≤ 0,1μg/l |
+| *Nonylfenol (NP):* 4-nonylfenol | ≤ 0,1 μg/l |
 
 Det skal tas ukeblandprøver, og analysene skal utføres på ufiltrert prøve når prøven skal analyseres for parametere nevnt i d) og e). Norsk Standard skal om mulig brukes.
 
 Avløpsvannet skal analyseres for verdier ned til deteksjonsgrenser oppgitt i d) og e). Den ansvarlige kan bruke deteksjonsgrenser som er høyere enn de oppgitte deteksjonsgrensene, så fremt analyseresultatene er innenfor metodens deteksjonsgrenser.
+
+*2.2 Analysemetoder*
+
+| *Parametere* | *Norsk Standard* | *Analysemetode* | *Tilleggskrav* |
+| --- | --- | --- | --- |
+| Olje | NS-EN ISO 9377 | Vannundersøkelse – bestemmelse av olje og fett – gravimetrisk metode. |  |
+| BOF5 – Biokjemisk oksygenforbruk | NS-EN-1899-1 | Vannundersøkelse – Bestemmelse av biokjemisk oksygenforbruk etter n dager (BOFn) – Del 1: Metode basert på fortynning og poding etter tilsetning av allyltiourea (ISO 5815:1989, modifisert), eller | Homogenisert, ufiltrert og ikke dekantert prøve. |
+|  | NS-EN-1899-2 | Vannundersøkelse – Bestemmelse av biokjemisk oksygenforbruk etter n dager (BOFn) – Del 2: Metode basert på ufortynnede prøver (ISO 5815:1989, modifisert). |  |
+| KOFCR – Kjemisk oksygenforbruk | NS-ISO-6060 | Vannundersøkelse – Bestemmelse av kjemisk oksygenbehov (ISO 6060:1989). | Homogenisert, ufiltrert og ikke dekantert prøve. |
+| SS – Suspendert stoff | NS-EN-872 | Vannundersøkelse – Bestemmelse av suspendert stoff – Metode med filtrering gjennom glassfiberfiltre. | Filtrering av representativ prøve med glassfiberfilter 1,2 μm eller sentrifugering av en representativ prøve (i minst fem minutter på 2800 til 3200 g). |
+| Tot-P – Total fosfor | NS-EN-ISO-6878 | Vannundersøkelse – Bestemmelse av fosfor – Spektrometrisk metode med ammoniummolybdat. |  |
+| Tot-N – Total nitrogen | NS-EN-ISO-13395 | Vannundersøkelse – Bestemmelse av nitritt-nitrogen og nitrat-nitrogen og summen av begge ved automatisert analyse (CFA og FIA) og spektrometrisk deteksjon (ISO 13395:1996) og |  |
+|  | NS-ISO-5663 | Vannundersøkelse – Bestemmelse av Kjeldahl-nitrogen – Fremgangsmåte etter oppslutning med selen (= EN 25663:1993) (ISO 5663:1984) |  |
+
+*2.3 Drifts- og vedlikeholdsavtale*
 
 En forutsetning for tilstrekkelig funksjonalitet for minirenseanlegg er at det inngås skriftlig avtale om drift og vedlikehold (service) med leverandør eller annen fagkyndig virksomhet. Følgende punkter skal være regulert i avtalen:Servicebesøk. (Antall besøk per år og oppgaver som skal utføres ved service, herunder kontroll av slammengde, tømming av slam, kontroll av vannkvalitet, kontroll av alarm mv.).Beredskapsordning som sikrer anleggseier assistanse dersom det oppstår funksjonssvikt på anlegget.Årlig rapportering av service og slamtømming til kommunen.Leveranse av deler.Eventuelle andre forhold som også er av forurensningsmessig betydning for det aktuelle anlegget.
 
@@ -1777,7 +2138,23 @@ Rensegrad for tot-P og tot-N eller andre parametere som ikke er omfattet av før
 
 Den ansvarlige skal korrigere analyseresultatene for avløpsvann som i prøvetakingsperioden har gått utenom prøvetakingsstedet, herunder spesielt for overløp i eller ved renseanlegget.
 
-Det skal ikke tas hensyn til ekstreme analyseverdier dersom disse skyldes uvanlige forhold, som for eksempel kraftig nedbør.*Antall prøver tatt i løpet av et år**Største antall prøver som ikke behøver å oppfylle rensekravene**Antall prøver tatt i løpet av et år**Største antall prøver som ikke behøver å oppfylle rensekravene*4-71172-187148-162188-2031517-283204-2191629-404220-2351741-535236-2511854-676252-2681968-817269-2842082-958285-3002196-1109301-31722111-12510318-33423126-14011335-35024141-15512351-36525156-17113
+Det skal ikke tas hensyn til ekstreme analyseverdier dersom disse skyldes uvanlige forhold, som for eksempel kraftig nedbør.
+
+| *Antall prøver tatt i løpet av et år* | *Største antall prøver som ikke behøver å oppfylle rensekravene* | *Antall prøver tatt i løpet av et år* | *Største antall prøver som ikke behøver å oppfylle rensekravene* |
+| --- | --- | --- | --- |
+| 4-7 | 1 | 172-187 | 14 |
+| 8-16 | 2 | 188-203 | 15 |
+| 17-28 | 3 | 204-219 | 16 |
+| 29-40 | 4 | 220-235 | 17 |
+| 41-53 | 5 | 236-251 | 18 |
+| 54-67 | 6 | 252-268 | 19 |
+| 68-81 | 7 | 269-284 | 20 |
+| 82-95 | 8 | 285-300 | 21 |
+| 96-110 | 9 | 301-317 | 22 |
+| 111-125 | 10 | 318-334 | 23 |
+| 126-140 | 11 | 335-350 | 24 |
+| 141-155 | 12 | 351-365 | 25 |
+| 156-171 | 13 |  |  |
 
 ### § 14-14. Varsling av overskridelse av rensekrav
 
@@ -1960,6 +2337,14 @@ Statsforvalteren gir utslippstillatelse, jf. [forurensningsloven § 11](lov/1981
 
 ### Vedlegg 1
 
+*[EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 13 (direktiv [91/271/EØF](eu/31991l0271) med endringene i direktiv [98/15/EF](eu/31998l0015)) om rensing av avløpsvann fra byområder*
+
+EFT nr. L 135/91 s. 40
+
+*RÅDSDIREKTIV av 21. mai 1991 om rensing av avløpsvann fra byområder, [91/271/EØF](eu/31991*0271), med endring av [98/15/EF](eu/31998*0015)*
+
+RÅDET FOR DE EUROPEISKE FELLESSKAP HAR –
+
 under henvisning til traktaten om opprettelse av Det europeiske økonomiske fellesskap, særlig artikkel 130 S,
 
 under henvisning til forslag fra Kommisjonen,1
@@ -1992,171 +2377,278 @@ Medlemsstatene bør utarbeide og fremlegge for Kommisjonen nasjonale programmer 
 
 Det bør nedsettes en komite som skal bistå Kommisjonen i spørsmål som gjelder iverksettelsen av dette direktiv og tilpasningen av det til den tekniske utvikling –
 
+1 EFT nr. C 1 av 4.1.1990, s. 20 og EFT nr. C 287 av 15.11.1990, s. 11.
+
+2 EFT nr. C 260 av 15.10.1990, s. 185.
+
+3 EFT nr. C 168 av 10.7.1990, s. 36.
+
+4 EFT nr. C 209 av 9.8.1988, s. 3.
+
+VEDTATT DETTE DIREKTIV:
+
+*Artikkel 1*
+
 Dette direktiv gjelder oppsamling, rensing og utslipp av avløpsvann fra byområder, samt rensing og utslipp av spillvann fra visse industrisektorer.
 
 Dette direktiv har til formål å verne miljøet mot uheldige virkninger av utslipp av avløpsvannet nevnt ovenfor.
 
+*Artikkel 2*
+
 I dette direktiv menes med:avløpsvann fra byområder, spillvann fra husholdninger eller en blanding av spillvann fra husholdninger og spillvann fra industri og/eller overvann,spillvann fra husholdninger, spillvann som stammer fra boligområder og tjenesteytende virksomhet i forbindelse med disse, og som hovedsakelig skriver seg fra menneskers stoffskifte og fra husholdningsaktiviteter,spillvann fra industri, alt spillvann fra bygninger som benyttes i handel eller industri, unntatt spillvann fra husholdninger og overvann,tettbebyggelse, et område der befolkning og/eller økonomiske aktiviteter er tilstrekkelig samlet til at avløpsvann fra byområder kan samles opp og føres til et renseanlegg eller et endelig utslippssted,avløpsnett, et rørledningssystem som samler opp og fører avløpsvann fra byområder,en personekvivalent (pe), den mengde organisk stoff som brytes ned biologisk med et biokjemisk oksygenforbruk over fem døgn (BOF5) på 60 g oksygen per døgn,primærrensing, rensing av avløpsvann fra byområder ved en fysisk og/eller kjemisk prosess som består i sedimentering av suspenderte faste stoffer, eller ved andre prosesser der BOF5 -tallet for det tilførte avløpsvannet reduseres med minst 20% før utslipp, og der den samlede mengde suspenderte faste stoffer i det tilførte avløpsvannet reduseres med minst 50%,sekundærrensing, rensing av avløpsvann fra byområder ved en prosess som i alminnelighet består i biologisk rensing med sekundær sedimentering, eller ved en annen prosess som gjør det mulig å overholde vilkårene i tabell 1 i vedlegg I,passende rensing, rensing av avløpsvann fra byområder ved enhver prosess og/eller ethvert utslippssystem som gjør at utslippsresipienten tilfredsstiller fastsatte kvalitetsmålsettinger og overholder relevante bestemmelser i dette direktiv og i andre fellesskapsdirektiver,slam, restslam, behandlet eller ubehandlet, fra renseanlegg for avløpsvann fra byområder,eutrofiering, anrikning av vann med hensyn til næringsstoffer, særlig nitrogen- og/eller fosforforbindelser, som påskynder veksten av alger og høyerestående plantearter, noe som fører til uønsket forstyrrelse av likevekten mellom organismene i vannet og forverring av vannkvaliteten,elvemunning, overgangsområde mellom ferskvann og kystfarvann ved utløpet av en elv. Medlemsstatene skal fastlegge elvemunningers yttergrenser mot sjøen) ved gjennomføringen av dette direktiv innenfor rammen av iverksettelsesprogrammet i henhold til artikkel 17 nr. 1 og 2.kystfarvann, vann utenfor lavvannslinjen eller en elvemunnings yttergrense.
 
-1. Medlemsstatene skal påse at all tettbebyggelse har avløpsnett for avløpsvann fra byområder:senest 31. desember 2000 for tettbebyggelse med over 15.000 personekvivalenter (pe) ogsenest 31. desember 2005 for tettbebyggelse med mellom 2.000 og 15.000 pe.Når det gjelder utslipp av avløpsvann fra byområder i resipientvann betraktet som «følsomme områder», som definert i artikkel 5, skal medlemsstatene påse at det senest 31. desember 1998 anlegges avløpsnett i tettbebyggelse med over 10.000 pe.Når det ikke er berettiget grunn til å anlegge avløpsnett, enten fordi det ikke vil være noen vinning for miljøet, eller fordi det vil medføre uforholdsmessig store utgifter, kan det benyttes individuelle systemer eller andre egnede systemer som sikrer tilsvarende vern av miljøet.
+*Artikkel 3*
 
-2. Avløpsnettene nevnt i nr. 1 skal oppfylle kravene i vedlegg I avsnitt A. Kravene kan endres i henhold til fremgangsmåten fastsatt i artikkel 18.
+1\. Medlemsstatene skal påse at all tettbebyggelse har avløpsnett for avløpsvann fra byområder:senest 31. desember 2000 for tettbebyggelse med over 15.000 personekvivalenter (pe) ogsenest 31. desember 2005 for tettbebyggelse med mellom 2.000 og 15.000 pe.Når det gjelder utslipp av avløpsvann fra byområder i resipientvann betraktet som «følsomme områder», som definert i artikkel 5, skal medlemsstatene påse at det senest 31. desember 1998 anlegges avløpsnett i tettbebyggelse med over 10.000 pe.Når det ikke er berettiget grunn til å anlegge avløpsnett, enten fordi det ikke vil være noen vinning for miljøet, eller fordi det vil medføre uforholdsmessig store utgifter, kan det benyttes individuelle systemer eller andre egnede systemer som sikrer tilsvarende vern av miljøet.
 
-1. Medlemsstatene skal påse at avløpsvann fra byområder som går til avløpsnett, før utslipp gjennomgår sekundærrensing eller tilsvarende rensing etter følgende bestemmelser:senest 31. desember 2000 for alle utslipp fra tettbebyggelse med over 15.000 pe,senest 31. desember 2005 for alle utslipp fra tettbebyggelse med mellom 10.000 og 15.000 pe,senest 31. desember 2005 for utslipp i ferskvann og elvemunninger fra tettbebyggelse med mellom 2.000 og 10.000 pe.
+2\. Avløpsnettene nevnt i nr. 1 skal oppfylle kravene i vedlegg I avsnitt A. Kravene kan endres i henhold til fremgangsmåten fastsatt i artikkel 18.
 
-2. Utslipp av avløpsvann fra byområder i vann i høyfjellsområder (over 1500 m.o.h.) der det på grunn av lave temperaturer er vanskelig å foreta effektiv biologisk rensing, kan gjennomgå mindre omfattende rensing enn den fastsatt i nr. 1, forutsatt at grundige undersøkelser viser at utslippene ikke har skadevirkninger på miljøet.
+*Artikkel 4*
 
-3. Utslippene fra renseanlegg for avløpsvann fra byområder nevnt i nr. 1 og 2 skal oppfylle kravene i vedlegg I avsnitt B. Kravene kan endres i henhold til fremgangsmåten fastsatt i artikkel 18.
+1\. Medlemsstatene skal påse at avløpsvann fra byområder som går til avløpsnett, før utslipp gjennomgår sekundærrensing eller tilsvarende rensing etter følgende bestemmelser:senest 31. desember 2000 for alle utslipp fra tettbebyggelse med over 15.000 pe,senest 31. desember 2005 for alle utslipp fra tettbebyggelse med mellom 10.000 og 15.000 pe,senest 31. desember 2005 for utslipp i ferskvann og elvemunninger fra tettbebyggelse med mellom 2.000 og 10.000 pe.
 
-4. Mengden uttrykt i pe skal beregnes på grunnlag av største ukentlige middelmengde som går til renseanlegget i løpet av året, med unntak av uvanlige forhold som f.eks. skyldes kraftig nedbør.
+2\. Utslipp av avløpsvann fra byområder i vann i høyfjellsområder (over 1500 m.o.h.) der det på grunn av lave temperaturer er vanskelig å foreta effektiv biologisk rensing, kan gjennomgå mindre omfattende rensing enn den fastsatt i nr. 1, forutsatt at grundige undersøkelser viser at utslippene ikke har skadevirkninger på miljøet.
 
-1. Ved gjennomføringen av nr. 2 skal medlemsstatene senest 31. desember 1993 utarbeide en fortegnelse over følsomme områder på grunnlag av kriteriene fastlagt i vedlegg II.
+3\. Utslippene fra renseanlegg for avløpsvann fra byområder nevnt i nr. 1 og 2 skal oppfylle kravene i vedlegg I avsnitt B. Kravene kan endres i henhold til fremgangsmåten fastsatt i artikkel 18.
 
-2. Medlemsstatene skal påse at avløpsvann fra byområder som går til avløpsnett, gjennomgår mer omfattende rensing enn den beskrevet i artikkel 4 før det slippes ut i følsomme områder, og senest 31. desember 1998 for alle utslipp fra tettbebyggelse med over 10.000 pe.
+4\. Mengden uttrykt i pe skal beregnes på grunnlag av største ukentlige middelmengde som går til renseanlegget i løpet av året, med unntak av uvanlige forhold som f.eks. skyldes kraftig nedbør.
 
-3. Utslippene fra renseanlegg for avløpsvann fra byområder nevnt i nr. 2 skal oppfylle de relevante kravene i vedlegg I avsnitt B. Kravene kan endres i henhold til fremgangsmåten fastsatt i artikkel 18.
+*Artikkel 5*
 
-4. Vilkårene som i henhold til nr. 2 og 3 kreves oppfylt av det enkelte renseanlegg, får likevel ikke nødvendigvis anvendelse for følsomme områder dersom det kan påvises at den prosentvise reduksjon av forurensningen i den samlede mengde avløpsvann som går til renseanlegg i et slikt område, er minst 75% når det gjelder den samlede mengde fosfor, og minst 75% når det gjelder den samlede mengde nitrogen.
+1\. Ved gjennomføringen av nr. 2 skal medlemsstatene senest 31. desember 1993 utarbeide en fortegnelse over følsomme områder på grunnlag av kriteriene fastlagt i vedlegg II.
 
-5. Nr. 2, 3 og 4 får anvendelse når det gjelder utslipp fra renseanlegg for avløpsvann fra byområder som ligger i nedbørfeltene til følsomme områder, og som bidrar til forurensning av områdene. Når nedbørfeltene nevnt i første ledd helt eller delvis ligger i en annen medlemsstat, får artikkel 9 anvendelse.
+2\. Medlemsstatene skal påse at avløpsvann fra byområder som går til avløpsnett, gjennomgår mer omfattende rensing enn den beskrevet i artikkel 4 før det slippes ut i følsomme områder, og senest 31. desember 1998 for alle utslipp fra tettbebyggelse med over 10.000 pe.
 
-6. Medlemsstatene skal påse at fortegnelsen over følsomme områder revideres minst hvert fjerde år.
+3\. Utslippene fra renseanlegg for avløpsvann fra byområder nevnt i nr. 2 skal oppfylle de relevante kravene i vedlegg I avsnitt B. Kravene kan endres i henhold til fremgangsmåten fastsatt i artikkel 18.
 
-7. Medlemsstatene skal påse at områdene registrert som følsomme etter revisjonen nevnt i nr. 6 oppfyller kravene nevnt ovenfor innen en frist på sju år.
+4\. Vilkårene som i henhold til nr. 2 og 3 kreves oppfylt av det enkelte renseanlegg, får likevel ikke nødvendigvis anvendelse for følsomme områder dersom det kan påvises at den prosentvise reduksjon av forurensningen i den samlede mengde avløpsvann som går til renseanlegg i et slikt område, er minst 75% når det gjelder den samlede mengde fosfor, og minst 75% når det gjelder den samlede mengde nitrogen.
 
-8. En medlemsstat har ikke plikt til å utarbeide en fortegnelse over følsomme områder ved gjennomføringen av dette direktiv dersom den på sitt samlede territorium benytter rensingen fastsatt i nr. 2, 3 og 4.
+5\. Nr. 2, 3 og 4 får anvendelse når det gjelder utslipp fra renseanlegg for avløpsvann fra byområder som ligger i nedbørfeltene til følsomme områder, og som bidrar til forurensning av områdene. Når nedbørfeltene nevnt i første ledd helt eller delvis ligger i en annen medlemsstat, får artikkel 9 anvendelse.
 
-1. Ved gjennomføringen av nr. 2 kan medlemsstatene senest 31. desember 1993 utarbeide en fortegnelse over mindre følsomme områder på grunnlag av kriteriene fastlagt i vedlegg II.
+6\. Medlemsstatene skal påse at fortegnelsen over følsomme områder revideres minst hvert fjerde år.
 
-2. Utslipp av avløpsvann fra byområder fra tettbebyggelse med mellom 10.000 og 150.000 pe i kystfarvann og mellom 2.000 og 10.000 pe i elvemunninger beliggende i områdene nevnt i nr. 1 kan gjennomgå mindre omfattende rensing enn den fastsatt i artikkel 4, forutsatt at:utslippene minst har gjennomgått primærrensingen definert i artikkel 2 nr. 7 i samsvar med kontrollprosedyrene fastsatt i vedlegg I avsnitt D,grundige undersøkelser viser at utslippene ikke har skadevirkninger på miljøet.Medlemsstatene skal gi Kommisjonen alle relevante opplysninger om undersøkelsene.
+7\. Medlemsstatene skal påse at områdene registrert som følsomme etter revisjonen nevnt i nr. 6 oppfyller kravene nevnt ovenfor innen en frist på sju år.
 
-3. Dersom Kommisjonen finner at vilkårene nevnt i nr. 2 ikke er oppfylt, skal den fremlegge passende forslag for Rådet.
+8\. En medlemsstat har ikke plikt til å utarbeide en fortegnelse over følsomme områder ved gjennomføringen av dette direktiv dersom den på sitt samlede territorium benytter rensingen fastsatt i nr. 2, 3 og 4.
 
-4. Medlemsstatene skal påse at fortegnelsen over mindre følsomme områder revideres minst hvert fjerde år.
+*Artikkel 6*
 
-5. Medlemsstatene skal påse at områder som ikke lenger betraktes som mindre følsomme, oppfyller de relevante krav i artikkel 4 og 5 innen en frist på sju år.
+1\. Ved gjennomføringen av nr. 2 kan medlemsstatene senest 31. desember 1993 utarbeide en fortegnelse over mindre følsomme områder på grunnlag av kriteriene fastlagt i vedlegg II.
+
+2\. Utslipp av avløpsvann fra byområder fra tettbebyggelse med mellom 10.000 og 150.000 pe i kystfarvann og mellom 2.000 og 10.000 pe i elvemunninger beliggende i områdene nevnt i nr. 1 kan gjennomgå mindre omfattende rensing enn den fastsatt i artikkel 4, forutsatt at:utslippene minst har gjennomgått primærrensingen definert i artikkel 2 nr. 7 i samsvar med kontrollprosedyrene fastsatt i vedlegg I avsnitt D,grundige undersøkelser viser at utslippene ikke har skadevirkninger på miljøet.Medlemsstatene skal gi Kommisjonen alle relevante opplysninger om undersøkelsene.
+
+3\. Dersom Kommisjonen finner at vilkårene nevnt i nr. 2 ikke er oppfylt, skal den fremlegge passende forslag for Rådet.
+
+4\. Medlemsstatene skal påse at fortegnelsen over mindre følsomme områder revideres minst hvert fjerde år.
+
+5\. Medlemsstatene skal påse at områder som ikke lenger betraktes som mindre følsomme, oppfyller de relevante krav i artikkel 4 og 5 innen en frist på sju år.
+
+*Artikkel 7*
 
 Medlemsstatene skal påse at avløpsvann fra byområder som går til avløpsnett, senest 31. desember 2005 gjennomgår passende rensing som definert i artikkel 2 nr. 9 før det slippes ut, i følgende tilfeller:ved utslipp i ferskvann og elvemunninger fra tettbebyggelse med under 2.000 pe,ved utslipp i kystfarvann fra tettbebyggelse med under 10.000 pe.
 
-1. Medlemsstatene kan i unntakstilfeller som skyldes tekniske problemer, og til fordel for visse befolkningsgrupper ut fra geografiske hensyn, rette en særskilt anmodning til Kommisjonen om å få en lengre frist for å etterkomme artikkel 4.
+*Artikkel 8*
 
-2. I anmodningen, som skal være behørig begrunnet, skal det gjøres rede for de tekniske problemene som er oppstått, og foreslås et handlingsprogram som skal gjennomføres etter en egnet fremdriftsplan for å nå målet for dette direktiv. Fremdriftsplanen skal inngå i iverksettelsesprogrammet nevnt i artikkel 17.
+1\. Medlemsstatene kan i unntakstilfeller som skyldes tekniske problemer, og til fordel for visse befolkningsgrupper ut fra geografiske hensyn, rette en særskilt anmodning til Kommisjonen om å få en lengre frist for å etterkomme artikkel 4.
 
-3. Bare tekniske grunner kan godtas, og fristen nevnt i nr. 1 kan ikke strekke seg lenger enn til 31. desember 2005.
+2\. I anmodningen, som skal være behørig begrunnet, skal det gjøres rede for de tekniske problemene som er oppstått, og foreslås et handlingsprogram som skal gjennomføres etter en egnet fremdriftsplan for å nå målet for dette direktiv. Fremdriftsplanen skal inngå i iverksettelsesprogrammet nevnt i artikkel 17.
 
-4. Kommisjonen skal granske anmodningen og treffe egnede tiltak i henhold til fremgangsmåten fastsatt i artikkel 18.
+3\. Bare tekniske grunner kan godtas, og fristen nevnt i nr. 1 kan ikke strekke seg lenger enn til 31. desember 2005.
 
-5. Når det under særlige omstendigheter kan påvises at mer omfattende rensing ikke er noen vinning for miljøet, kan utslipp i mindre følsomme områder av avløpsvann fra tettbebyggelse med over 150.000 pe gjennomgå rensingen fastsatt i artikkel 6 for spillvann fra tettbebyggelse med mellom 10.000 og 150.000 pe.Under slike omstendigheter skal medlemsstatene på forhånd fremlegge relevante opplysninger for Kommisjonen. Kommisjonen skal undersøke saken og treffe egnede tiltak i henhold til fremgangsmåten fastsatt i artikkel 18.
+4\. Kommisjonen skal granske anmodningen og treffe egnede tiltak i henhold til fremgangsmåten fastsatt i artikkel 18.
+
+5\. Når det under særlige omstendigheter kan påvises at mer omfattende rensing ikke er noen vinning for miljøet, kan utslipp i mindre følsomme områder av avløpsvann fra tettbebyggelse med over 150.000 pe gjennomgå rensingen fastsatt i artikkel 6 for spillvann fra tettbebyggelse med mellom 10.000 og 150.000 pe.Under slike omstendigheter skal medlemsstatene på forhånd fremlegge relevante opplysninger for Kommisjonen. Kommisjonen skal undersøke saken og treffe egnede tiltak i henhold til fremgangsmåten fastsatt i artikkel 18.
+
+*Artikkel 9*
 
 Når vann som hører inn under en medlemsstats rettsområde, utsettes for skadevirkninger av utslipp av avløpsvann fra byområder fra en annen medlemsstat, kan medlemsstaten der vannet berøres, gi melding om dette til den annen medlemsstat og til Kommisjonen.
 
 De berørte medlemsstatene skal, eventuelt sammen med Kommisjonen, stå for den samordning som er nødvendig for å registrere de aktuelle utslippene, og for de tiltak som skal treffes ved kilden til fordel for det berørte vannet, for å sikre at bestemmelsene i dette direktiv overholdes.
 
+*Artikkel 10*
+
 Medlemsstatene skal påse at renseanlegg for avløpsvann fra byområder som bygges for å oppfylle kravene i artikkel 4, 5, 6 og 7, utformes, oppføres, drives og vedlikeholdes slik at de har tilstrekkelig yteevne under alle klimatiske forhold som er normale for stedet der de ligger. Ved utformingen av anleggene må det tas hensyn til variasjoner i avløpsvannsmengden i løpet av året.
 
-1. Medlemsstatene skal påse at vedkommende myndigheter eller egnede organer senest 31. desember 1993 fastsetter forhåndsbestemmelser og/eller særskilte tillatelser med hensyn til spillvann fra industri som går i avløpsnett og til renseanlegg for avløpsvann fra byområder.
+*Artikkel 11*
 
-2. Bestemmelsene og/eller de særskilte tillatelsene skal være i samsvar med kravene i vedlegg I avsnitt C. Kravene kan endres i henhold til fremgangsmåten fastsatt i artikkel 18.
+1\. Medlemsstatene skal påse at vedkommende myndigheter eller egnede organer senest 31. desember 1993 fastsetter forhåndsbestemmelser og/eller særskilte tillatelser med hensyn til spillvann fra industri som går i avløpsnett og til renseanlegg for avløpsvann fra byområder.
 
-3. Bestemmelsene og de særskilte tillatelsene skal med jevne mellomrom vurderes på nytt og om nødvendig tilpasses.
+2\. Bestemmelsene og/eller de særskilte tillatelsene skal være i samsvar med kravene i vedlegg I avsnitt C. Kravene kan endres i henhold til fremgangsmåten fastsatt i artikkel 18.
 
-1. Renset avløpsvann skal gjenbrukes når dette er hensiktsmessig. Utslipp skal skje der skadevirkningene på miljøet reduseres så mye som mulig.
+3\. Bestemmelsene og de særskilte tillatelsene skal med jevne mellomrom vurderes på nytt og om nødvendig tilpasses.
 
-2. Vedkommende myndigheter eller egnede instanser skal påse at utslipp av avløpsvann fra renseanlegg for avløpsvann fra byområder underlegges forhåndsbestemmelser og/eller særskilte tillatelser.
+*Artikkel 12*
 
-3. Forhåndsbestemmelsene og/eller de særskilte tillatelsene med hensyn til utslipp som stammer fra renseanlegg for avløpsvann fra byområder og foregår i samsvar med nr. 2 i tettbebyggelse med mellom 2.000 og 10.000 pe når det gjelder utslipp i ferskvann og elvemunninger, og i tettbebyggelse med 10.000 pe eller mer når det gjelder alle typer utslipp, skal fastlegge vilkårene som er nødvendige for å oppfylle de relevante krav i vedlegg I avsnitt B. Kravene kan endres i henhold til fremgangsmåten fastsatt i artikkel 18.
+1\. Renset avløpsvann skal gjenbrukes når dette er hensiktsmessig. Utslipp skal skje der skadevirkningene på miljøet reduseres så mye som mulig.
 
-4. Bestemmelsene og/eller tillatelsene skal med jevne mellomrom vurderes på nytt og om nødvendig tilpasses.
+2\. Vedkommende myndigheter eller egnede instanser skal påse at utslipp av avløpsvann fra renseanlegg for avløpsvann fra byområder underlegges forhåndsbestemmelser og/eller særskilte tillatelser.
 
-1. Medlemsstatene skal påse at biologisk nedbrytbart spillvann som stammer fra anlegg innen industrisektorene oppført i vedlegg III, og som ikke går til renseanlegg for avløpsvann fra byområder før det slippes ut i resipientvannet, senest 31. desember 2000 og før utslipp oppfyller vilkårene fastlagt i forhåndsbestemmelsene og/eller de særskilte tillatelsene fra vedkommende myndighet eller det egnede organ når det gjelder alle utslipp fra anlegg dimensjonert for 4.000 pe eller mer.
+3\. Forhåndsbestemmelsene og/eller de særskilte tillatelsene med hensyn til utslipp som stammer fra renseanlegg for avløpsvann fra byområder og foregår i samsvar med nr. 2 i tettbebyggelse med mellom 2.000 og 10.000 pe når det gjelder utslipp i ferskvann og elvemunninger, og i tettbebyggelse med 10.000 pe eller mer når det gjelder alle typer utslipp, skal fastlegge vilkårene som er nødvendige for å oppfylle de relevante krav i vedlegg I avsnitt B. Kravene kan endres i henhold til fremgangsmåten fastsatt i artikkel 18.
 
-2. Vedkommende myndighet eller det egnede organ i hver enkelt medlemsstat skal senest 31. desember 1993 fastsette krav til utslipp av slikt spillvann ut fra den aktuelle industriens art.
+4\. Bestemmelsene og/eller tillatelsene skal med jevne mellomrom vurderes på nytt og om nødvendig tilpasses.
 
-3. Kommisjonen skal sammenligne medlemsstatenes krav senest 31. desember 1994. Den skal offentliggjøre sine konklusjoner i en rapport og om nødvendig fremlegge passende forslag.
+*Artikkel 13*
 
-1. Slam fra avløpsrensing skal gjenbrukes når dette er hensiktsmessig. Fjerning skal skje der skadevirkningene på miljøet reduseres så mye som mulig.
+1\. Medlemsstatene skal påse at biologisk nedbrytbart spillvann som stammer fra anlegg innen industrisektorene oppført i vedlegg III, og som ikke går til renseanlegg for avløpsvann fra byområder før det slippes ut i resipientvannet, senest 31. desember 2000 og før utslipp oppfyller vilkårene fastlagt i forhåndsbestemmelsene og/eller de særskilte tillatelsene fra vedkommende myndighet eller det egnede organ når det gjelder alle utslipp fra anlegg dimensjonert for 4.000 pe eller mer.
 
-2. Vedkommende myndigheter eller de egnede organer skal påse at utslipp av slam fra renseanlegg for avløpsvann fra byområder senest 31. desember 1998 underlegges generelle regler, registrering eller tillatelse.
+2\. Vedkommende myndighet eller det egnede organ i hver enkelt medlemsstat skal senest 31. desember 1993 fastsette krav til utslipp av slikt spillvann ut fra den aktuelle industriens art.
 
-3. Medlemsstatene skal påse at utslipp av slam fra renseanlegg i overflatevann ved dumping fra fartøyer, ved utledning fra rørledninger eller på enhver annen måte er avviklet senest 31. desember 1998.
+3\. Kommisjonen skal sammenligne medlemsstatenes krav senest 31. desember 1994. Den skal offentliggjøre sine konklusjoner i en rapport og om nødvendig fremlegge passende forslag.
 
-4. Inntil utslipp av typen nevnt i nr. 3 er avviklet, skal medlemsstatene påse at den samlede mengde giftige, persistente eller bioakkumulerbare stoffer i slam som slippes ut i overflatevann, underlegges tillatelse og gradvis reduseres.
+*Artikkel 14*
 
-1. Vedkommende myndigheter eller de egnede organer skal overvåke:utslipp fra renseanlegg for avløpsvann fra byområder for å påse at kravene i vedlegg I avsnitt B overholdes i henhold til kontrollprosedyrene fastsatt i vedlegg I avsnitt D,mengden og sammensetningen av slam fra renseanlegg som slippes ut i overflatevann.
+1\. Slam fra avløpsrensing skal gjenbrukes når dette er hensiktsmessig. Fjerning skal skje der skadevirkningene på miljøet reduseres så mye som mulig.
 
-2. Vedkommende myndigheter eller de egnede organer skal overvåke resipientvann for utslipp fra renseanlegg for avløpsvann fra byområder og for direkte utslipp som beskrevet i artikkel 13 når det er grunn til å frykte at utslippene påfører resipientmiljøet betydelige skadevirkninger.
+2\. Vedkommende myndigheter eller de egnede organer skal påse at utslipp av slam fra renseanlegg for avløpsvann fra byområder senest 31. desember 1998 underlegges generelle regler, registrering eller tillatelse.
 
-3. Ved utslipp underlagt bestemmelsene i artikkel 6 og ved fjerning av slam i overflatevann skal medlemsstatene iverksette overvåking og foreta enhver undersøkelse som måtte være nødvendig, for å sikre at utslippet eller fjerningen ikke har skadevirkninger på miljøet.
+3\. Medlemsstatene skal påse at utslipp av slam fra renseanlegg i overflatevann ved dumping fra fartøyer, ved utledning fra rørledninger eller på enhver annen måte er avviklet senest 31. desember 1998.
 
-4. Opplysningene innsamlet av vedkommende myndigheter eller av de egnede organer i samsvar med nr. 1, 2 og 3 skal oppbevares i medlemsstaten og stilles til rådighet for Kommisjonen innen seks måneder etter at en anmodning om dette er mottatt.
+4\. Inntil utslipp av typen nevnt i nr. 3 er avviklet, skal medlemsstatene påse at den samlede mengde giftige, persistente eller bioakkumulerbare stoffer i slam som slippes ut i overflatevann, underlegges tillatelse og gradvis reduseres.
 
-5. Retningslinjene for overvåkingen nevnt i nr. 1, 2 og 3 kan fastsettes i henhold til fremgangsmåten fastsatt i artikkel 18.
+*Artikkel 15*
+
+1\. Vedkommende myndigheter eller de egnede organer skal overvåke:utslipp fra renseanlegg for avløpsvann fra byområder for å påse at kravene i vedlegg I avsnitt B overholdes i henhold til kontrollprosedyrene fastsatt i vedlegg I avsnitt D,mengden og sammensetningen av slam fra renseanlegg som slippes ut i overflatevann.
+
+2\. Vedkommende myndigheter eller de egnede organer skal overvåke resipientvann for utslipp fra renseanlegg for avløpsvann fra byområder og for direkte utslipp som beskrevet i artikkel 13 når det er grunn til å frykte at utslippene påfører resipientmiljøet betydelige skadevirkninger.
+
+3\. Ved utslipp underlagt bestemmelsene i artikkel 6 og ved fjerning av slam i overflatevann skal medlemsstatene iverksette overvåking og foreta enhver undersøkelse som måtte være nødvendig, for å sikre at utslippet eller fjerningen ikke har skadevirkninger på miljøet.
+
+4\. Opplysningene innsamlet av vedkommende myndigheter eller av de egnede organer i samsvar med nr. 1, 2 og 3 skal oppbevares i medlemsstaten og stilles til rådighet for Kommisjonen innen seks måneder etter at en anmodning om dette er mottatt.
+
+5\. Retningslinjene for overvåkingen nevnt i nr. 1, 2 og 3 kan fastsettes i henhold til fremgangsmåten fastsatt i artikkel 18.
+
+*Artikkel 16*
 
 Uten at det berører gjennomføringen av rådsdirektiv [90/313/EØF](eu/31990l0313) av 7. juni 1990 om fri adgang til miljøopplysninger,1 skal medlemsstatene påse at vedkommende myndigheter eller organer hvert annet år offentliggjør en statusrapport om utslipp av avløpsvann fra byområder og fjerning av slam på sitt område. Medlemsstatene skal oversende Kommisjonen rapportene så snart de er offentliggjort.
 
-1. Medlemsstatene skal senest 31. desember 1993 utarbeide et program for iverksettelsen av dette direktiv.
+1 EFT nr. L 158 av 23.6.1990, s. 56.
 
-2. Medlemsstatene skal senest 30. juni 1994 gi Kommisjonen opplysninger om programmet.
+*Artikkel 17*
 
-3. Medlemsstatene skal om nødvendig hvert annet år oversende Kommisjonen en oppdatering av opplysningene nevnt i nr. 2.
+1\. Medlemsstatene skal senest 31. desember 1993 utarbeide et program for iverksettelsen av dette direktiv.
 
-4. Metoder og mønstre som skal benyttes ved utforming av rapportene om de nasjonale programmene, skal fastlegges i henhold til fremgangsmåten nevnt i artikkel 18. Enhver endring av metodene og mønstrene skal vedtas i henhold til den samme fremgangsmåte.
+2\. Medlemsstatene skal senest 30. juni 1994 gi Kommisjonen opplysninger om programmet.
 
-5. Kommisjonen skal hvert annet år granske og vurdere opplysningene den har mottatt i henhold til nr. 2 og 3, og den skal offentliggjøre en rapport om dette.
+3\. Medlemsstatene skal om nødvendig hvert annet år oversende Kommisjonen en oppdatering av opplysningene nevnt i nr. 2.
 
-1. Kommisjonen skal bistås av en komite som er sammensatt av representanter fra medlemsstatene, og som har Kommisjonens representant som formann.
+4\. Metoder og mønstre som skal benyttes ved utforming av rapportene om de nasjonale programmene, skal fastlegges i henhold til fremgangsmåten nevnt i artikkel 18. Enhver endring av metodene og mønstrene skal vedtas i henhold til den samme fremgangsmåte.
 
-2. Kommisjonens representant skal fremlegge for komiteen et utkast til tiltak som skal treffes. Komiteen skal uttale seg om utkastet innen en frist som formannen kan fastsette etter hvor mye saken haster. Den skal treffe sin beslutning med det flertall som er fastsatt i traktatens artikkel 148 § 2 for beslutninger som Rådet skal treffe etter forslag fra Kommisjonen. Medlemsstatenes stemmer skal ha den vekt som er fastsatt i nevnte artikkel. Formannen skal ikke avgi stemme.
+5\. Kommisjonen skal hvert annet år granske og vurdere opplysningene den har mottatt i henhold til nr. 2 og 3, og den skal offentliggjøre en rapport om dette.
+
+*Artikkel 18*
+
+1\. Kommisjonen skal bistås av en komite som er sammensatt av representanter fra medlemsstatene, og som har Kommisjonens representant som formann.
+
+2\. Kommisjonens representant skal fremlegge for komiteen et utkast til tiltak som skal treffes. Komiteen skal uttale seg om utkastet innen en frist som formannen kan fastsette etter hvor mye saken haster. Den skal treffe sin beslutning med det flertall som er fastsatt i traktatens artikkel 148 § 2 for beslutninger som Rådet skal treffe etter forslag fra Kommisjonen. Medlemsstatenes stemmer skal ha den vekt som er fastsatt i nevnte artikkel. Formannen skal ikke avgi stemme.
 
 3.Kommisjonen skal vedta de planlagte tiltak når de er i samsvar med komiteens uttalelse.Når de planlagte tiltak ikke er i samsvar med komiteens uttalelse eller ingen uttalelse blir avgitt, skal Kommisjonen umiddelbart fremlegge for Rådet et forslag om tiltak som skal treffes. Rådet skal treffe beslutning med kvalifisert flertall.Dersom Rådet ikke har truffet beslutning innen tre måneder etter at forslaget ble fremlagt, skal Kommisjonen vedta de foreslåtte tiltakene med mindre Rådet med simpelt flertall har truffet beslutning mot de nevnte tiltakene.
 
-1. Medlemsstatene skal sette i kraft de lover og forskrifter som er nødvendige for å etterkomme dette direktiv senest 30. juni 1993. De skal umiddelbart underrette Kommisjonen om dette.
+*Artikkel 19*
 
-2. Når lovene og forskriftene nevnt i nr. 1 vedtas av medlemsstatene, skal de inneholde en henvisning til dette direktiv eller ledsages av en slik henvisning ved den offentlige kunngjøring av dem. Nærmere bestemmelser om slik henvisning skal vedtas av medlemsstatene.
+1\. Medlemsstatene skal sette i kraft de lover og forskrifter som er nødvendige for å etterkomme dette direktiv senest 30. juni 1993. De skal umiddelbart underrette Kommisjonen om dette.
 
-3. Medlemsstatene skal oversende Kommisjonen teksten til de viktigste internrettslige bestemmelser som de vedtar på det området dette direktiv omhandler.
+2\. Når lovene og forskriftene nevnt i nr. 1 vedtas av medlemsstatene, skal de inneholde en henvisning til dette direktiv eller ledsages av en slik henvisning ved den offentlige kunngjøring av dem. Nærmere bestemmelser om slik henvisning skal vedtas av medlemsstatene.
+
+3\. Medlemsstatene skal oversende Kommisjonen teksten til de viktigste internrettslige bestemmelser som de vedtar på det området dette direktiv omhandler.
+
+*Artikkel 20*
 
 Dette direktiv er rettet til medlemsstatene.
+
+Utferdiget i Brussel, 21. mai 1991.
+
+*For Rådet*
+R. STEICHEN
+*Formann*
 
 > [Kapittel 15b](forskrift/2004-06-01-931/kap15b) tilføyd ved [forskrift 15 des 2005 nr. 1691](forskrift/2005-12-15-1691) (i kraft 1 jan 2007).
 
 ### VEDLEGG I
 KRAV TIL AVLØPSVANN FRA BYOMRÅDER
 
+*A. Avløpsnett1*
+
 I forbindelse med avløpsnett skal det tas hensyn til kravene til rensing av avløpsvann.
 
 Avløpsnett skal, uten at det medfører uforholdsmessig store omkostninger, utformes, anlegges og vedlikeholdes med utgangspunkt i den mest avanserte tekniske viten, særlig med hensyn til:mengde avløpsvann fra byområder og dets egenskaper,forebygging av lekkasjer,begrensning av forurensning av resipientvann som følge av regnvannsoverløp.
 
-1. Renseanlegg for avløpsvann skal utformes eller endres slik at det før utslipp i resipientvann kan tas representative prøver av det tilførte avløpsvannet og av det rensede avløpsvannet.
+*B. Utslipp i resipientvann fra renseanlegg for avløpsvann fra byområder1*
 
-2. Utslipp som stammer fra renseanlegg for avløpsvann fra byområder, og som skal renses i samsvar med artikkel 4 og 5 i dette direktiv, skal oppfylle kravene oppført i tabell 1.
+1\. Renseanlegg for avløpsvann skal utformes eller endres slik at det før utslipp i resipientvann kan tas representative prøver av det tilførte avløpsvannet og av det rensede avløpsvannet.
 
-3. Utslipp fra renseanlegg for avløpsvann fra byområder i følsomme områder utsatt for eutrofiering, som definert i vedlegg II avsnitt A bokstav a), skal i tillegg oppfylle kravene oppført i tabell 2 i dette vedlegg.
+2\. Utslipp som stammer fra renseanlegg for avløpsvann fra byområder, og som skal renses i samsvar med artikkel 4 og 5 i dette direktiv, skal oppfylle kravene oppført i tabell 1.
 
-4. Det skal ved behov anvendes strengere krav enn dem oppført i tabell 1 og/eller 2 for å sikre at resipientvannet oppfyller bestemmelsene i ethvert annet direktiv på området.
+3\. Utslipp fra renseanlegg for avløpsvann fra byområder i følsomme områder utsatt for eutrofiering, som definert i vedlegg II avsnitt A bokstav a), skal i tillegg oppfylle kravene oppført i tabell 2 i dette vedlegg.
 
-5. Utslippsstedene for avløpsvann fra byområder skal i størst mulig utstrekning velges slik at virkningene på resipientvannet blir minst mulige.
+4\. Det skal ved behov anvendes strengere krav enn dem oppført i tabell 1 og/eller 2 for å sikre at resipientvannet oppfyller bestemmelsene i ethvert annet direktiv på området.
+
+5\. Utslippsstedene for avløpsvann fra byområder skal i størst mulig utstrekning velges slik at virkningene på resipientvannet blir minst mulige.
+
+*C. Spillvann fra industri*
 
 Spillvann fra industri som går i avløpsnett og til renseanlegg for avløpsvann fra byområder, skal gjennomgå den forbehandling som er nødvendig for:å verne helsen til personalet som arbeider med avløpsnett og på renseanlegg,å sikre at avløpsnett, avløpsrenseanlegg og dertil hørende utstyr ikke blir skadet,å sikre at driften av avløpsrenseanlegg samt rensing av slam ikke hindres,å påse at utslipp fra renseanlegg ikke har skadevirkninger på miljøet eller er til hinder for at resipientvann oppfyller bestemmelser i andre fellesskapsdirektiver,å sikre at slam fjernes trygt på en måte som kan godtas ut fra miljøvernhensyn.
 
-1. Medlemsstatene skal påse at det anvendes en overvåkingsmetode som minst svarer til kravene beskrevet nedenfor. Det kan anvendes andre metoder enn dem nevnt i nr. 2, 3 og 4 dersom det kan påvises at de fører til de samme resultater. Medlemsstatene skal gi Kommisjonen alle relevante opplysninger om metodene som anvendes. Dersom Kommisjonen finner at kravene oppført i nr. 2, 3 og 4 ikke er oppfylt, skal den fremlegge passende forslag for Rådet.
+*D. Referansemetoder for oppfølging og evaluering av resultater*
 
-2. Det skal tas døgnprøver, mengdeproporsjonale eller med jevne mellomrom, på et nærmere angitt sted ved renseanleggets utløp, og om nødvendig ved innløpet, for å kontrollere om kravene til utslipp av avløpsvann i dette direktiv overholdes. Det skal benyttes anerkjent internasjonal laboratoriepraksis for å sikre at prøvene forringes minst mulig fra de samles inn, til de analyseres.
+1\. Medlemsstatene skal påse at det anvendes en overvåkingsmetode som minst svarer til kravene beskrevet nedenfor. Det kan anvendes andre metoder enn dem nevnt i nr. 2, 3 og 4 dersom det kan påvises at de fører til de samme resultater. Medlemsstatene skal gi Kommisjonen alle relevante opplysninger om metodene som anvendes. Dersom Kommisjonen finner at kravene oppført i nr. 2, 3 og 4 ikke er oppfylt, skal den fremlegge passende forslag for Rådet.
 
-3. Det minste antall prøver som skal tas med jevne mellomrom i løpet av et år, skal fastsettes etter renseanleggets størrelse:2.000 til 9.999 pe: tolv prøver i løpet av det første året, fire prøver de påfølgende år dersom det kan påvises at vannet overholder bestemmelsene i dette direktiv det første året; dersom en av de fire prøvene ikke oppfyller kravene, skal det tas tolv prøver det påfølgende år,10.000 til 49.999 pe: tolv prøver,50.000 pe eller mer: tjuefire prøver.
+2\. Det skal tas døgnprøver, mengdeproporsjonale eller med jevne mellomrom, på et nærmere angitt sted ved renseanleggets utløp, og om nødvendig ved innløpet, for å kontrollere om kravene til utslipp av avløpsvann i dette direktiv overholdes. Det skal benyttes anerkjent internasjonal laboratoriepraksis for å sikre at prøvene forringes minst mulig fra de samles inn, til de analyseres.
 
-4. Renset avløpsvann skal anses å overholde verdiene fastsatt for de ulike parametrene, dersom prøvene viser, når hver enkelt parameter vurderes hver for seg, at de tilsvarende verdier overholdes i henhold til følgende bestemmelser:når det gjelder parametrene i tabell 1 og i artikkel 2 nr. 7, angis i tabell 3 det største antall prøver som ikke behøver å oppfylle konsentrasjonskravene og/eller den prosentvise reduksjonen oppført i tabell 1 og i artikkel 2 nr. 7,når det gjelder parametrene i tabell 1 uttrykt i konsentrasjonsverdier, skal det største antall prøver som tas under normale driftsvilkår, ikke avvike fra parameterverdiene med over 100%. Når det gjelder konsentrasjonsverdier med referanse til suspenderte faste stoffer, kan avviket være på inntil 150%,når det gjelder parametrene i tabell 2, skal den årlige middelverdi av prøvene for hver enkelt parameter overholde de tilsvarende verdier.
+3\. Det minste antall prøver som skal tas med jevne mellomrom i løpet av et år, skal fastsettes etter renseanleggets størrelse:2.000 til 9.999 pe: tolv prøver i løpet av det første året, fire prøver de påfølgende år dersom det kan påvises at vannet overholder bestemmelsene i dette direktiv det første året; dersom en av de fire prøvene ikke oppfyller kravene, skal det tas tolv prøver det påfølgende år,10.000 til 49.999 pe: tolv prøver,50.000 pe eller mer: tjuefire prøver.
 
-5. Når det gjelder det aktuelle vannets kvalitet, skal det ikke tas hensyn til ekstreme verdier dersom de skyldes usedvanlige omstendigheter som f.eks. kraftig nedbør.
+4\. Renset avløpsvann skal anses å overholde verdiene fastsatt for de ulike parametrene, dersom prøvene viser, når hver enkelt parameter vurderes hver for seg, at de tilsvarende verdier overholdes i henhold til følgende bestemmelser:når det gjelder parametrene i tabell 1 og i artikkel 2 nr. 7, angis i tabell 3 det største antall prøver som ikke behøver å oppfylle konsentrasjonskravene og/eller den prosentvise reduksjonen oppført i tabell 1 og i artikkel 2 nr. 7,når det gjelder parametrene i tabell 1 uttrykt i konsentrasjonsverdier, skal det største antall prøver som tas under normale driftsvilkår, ikke avvike fra parameterverdiene med over 100%. Når det gjelder konsentrasjonsverdier med referanse til suspenderte faste stoffer, kan avviket være på inntil 150%,når det gjelder parametrene i tabell 2, skal den årlige middelverdi av prøvene for hver enkelt parameter overholde de tilsvarende verdier.
+
+5\. Når det gjelder det aktuelle vannets kvalitet, skal det ikke tas hensyn til ekstreme verdier dersom de skyldes usedvanlige omstendigheter som f.eks. kraftig nedbør.
+
+1 Ettersom det i praksis ikke lar seg gjøre å bygge avløpsnett og renseanlegg som gjør det mulig å rense alt avløpsvann under forhold som for eksempel usedvanlig kraftig nedbør, skal medlemsstatene vedta tiltak som skal treffes for å begrense forurensning som følge av regnvannsoverløp. Tiltakene kan baseres på fortynningshastighet eller kapasitet i forhold til gjennomstrømningen ved tørt vær eller angi et antall overløp per år som kan godtas.
+
+*Tabell 1:* Krav til utslipp fra renseanlegg for avløpsvann fra byområder i henhold til bestemmelsene i artikkel 4 og 5 i dette direktiv. Konsentrasjonsverdien eller den prosentvise reduksjonen skal benyttes.
+
+| *Parametre* | *Konsentrasjon* | *Minste prosentvise reduksjon1* | *Referansemetode for måling* |
+| --- | --- | --- | --- |
+| Biokjemisk oksygenforbruk (BOF5 ved 20 °C) uten nitrifikasjon2 | 25 mg/l O2 | 70-90<br><br>40 i henhold til artikkel 4 nr. 2 | Homogenisert, ufiltrert og ikke dekantert prøve. Bestemmelse av oppløst oksygen før og etter inkubasjon i fem dager ved 20 °C ± 1 °C i fullstendig mørke. Nitrifikasjonshemmer tilsettes. |
+| Kjemisk oksygenforbruk (KOF) | 125 mg/l O2 | 75 | Homogenisert, ufiltrert og ikke dekantert prøve. Kalium-dikromat. |
+| Totalmengde suspenderte faste stoffer | 35 mg/l3<br><br>35 i henhold til artikkel 4 nr. 2 (over 10.000 pe)<br><br>60 i henhold til artikkel 4 nr. 2 (mellom 2.000 og 10.000 pe) | 903<br><br>90 i henhold til artikkel 4 nr. 2 (over 10.000 pe)<br><br>70 i henhold til artikkel 4 nr. 2 (mellom 2.000 og 10.000 pe) | – Filtrering av en representativ prøve med membranfilter på 0,45 μg, tørking ved 105 °C og veiing.<br><br>– Sentrifugering av en representativ prøve (i minst fem minutter, med gjennomsnittlig akselerasjon på 2.800 til 3.200 g), tørking ved 105 °C og veiing. |
+
+1 Reduksjon i forhold til verdiene ved innløpet.
+
+2 Denne parameteren kan erstattes av en annen: totalmengde organisk karbon (TOK) eller totalt oksygenforbruk (TOF), dersom det kan påvises en sammenheng mellom BOF5 og parameteren som avløser den.
+
+3 Dette kravet er valgfritt.
 
 Analyser av utslipp etter bassengbehandling skal utføres på filtrerte prøver; konsentrasjonen av totalmengden suspenderte faste stoffer i prøvene av ufiltrert vann skal likevel ikke overstige 150 mg/l.
+
+*Tabell 2:*\* Krav til utslipp fra renseanlegg for avløpsvann fra byområder foretatt i følsomme områder som er utsatt for eutrofiering, registrert i vedlegg II avsnitt A bokstav a). Alt etter de lokale forhold skal det benyttes en parameter eller begge. Konsentrasjonsverdien eller den prosentvise reduksjonen skal benyttes.
+
+| *Parametre* | *Konsentrasjon* | *Minste prosentvise reduksjon1* | *Referansemetode for måling* |
+| --- | --- | --- | --- |
+| Totalfosfor | 2 mg/l P (mellom 10.000 og 100.000 pe)<br><br>1 mg/l P (over 100.000 pe) | 80 | Molekylær absorpsjonsspektro-fotometri |
+| Totalnitrogen2 | 15 mg/l N3 (mellom 10.000 og 100.000 pe)<br><br>10 mg/l N3 (over 100.000 pe) | 70-80 | Molekylær absorpsjonsspektro-fotometri |
+
+1 Reduksjon i forhold til verdiene ved innløpet.
+
+2 Totalnitrogen betyr summen av nitrogen målt med Kjeldahl-metoden (organisk nitrogen og ammoniumnitrogen), nitrogen i nitrater og nitrogen i nitritter.
+
+3 Disse konsentrasjonsverdiene er årlige middeltall i henhold til vedlegg I avsnitt D nr. 4 bokstav c). Kravene til nitrogen kan imidlertid kontrolleres ved å bruke daglige middeltall når det i samsvar med vedlegg I avsnitt D nr. 1 kan dokumenteres at det oppnås et tilsvarende vernenivå. I så fall skal det daglige middeltall ikke overstige 20 mg/l totalnitrogen for alle prøvene når temperaturen i spillvannet i den biologiske reaktoren er 12 °C eller høyere. Temperaturvilkåret kan erstattes med en begrensning av driftstiden for å ta hensyn til regionale klimaforhold.
+
+\* Tabell 2 samsvarer med endring vedtatt i EUs rådsdirektiv [98/15/EEC](eu/31998l0015).
+
+*Tabell 3*
+
+| *Antall prøver tatt i løpet av et år* | *Største antall prøver som ikke behøver å oppfylle kravene* |
+| --- | --- |
+| 4-7<br>8-16<br>17-28<br>29-40<br>41-53<br>54-67<br>68-81<br>82-95<br>96-110<br>111-125<br>126-140<br>141-155<br>156-171<br>172-187<br>188-203<br>204-219<br>220-235<br>236-251<br>252-268<br>269-284<br>285-300<br>301-317<br>318-334<br>335-350<br>351-365 | 1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20<br>21<br>22<br>23<br>24<br>25 |
 
 > [Kapittel 15b](forskrift/2004-06-01-931/kap15b) tilføyd ved [forskrift 15 des 2005 nr. 1691](forskrift/2005-12-15-1691) (i kraft 1 jan 2007).
 
 ### VEDLEGG II
 KRITERIER FOR UTARBEIDING AV FORTEGNELSE OVER FØLSOMME OG MINDRE FØLSOMME OMRÅDER
 
+*A. Følsomme områder*
+
 En vannmasse skal registreres som følsomt område dersom den faller inn under en av gruppene nedenfor:naturlige ferskvannsinnsjøer, andre ferskvannsmasser, elvemunninger og kystfarvann som er eutrofe, eller som på kort tid kan bli eutrofe dersom det ikke treffes vernetiltak.Det kan tas hensyn til forholdene nedenfor når det undersøkes hvilke næringsstoffer som skal reduseres ved ytterligere rensing:innsjøer og vassdrag som munner ut i innsjøer/reservoarer/avstengte viker som har liten vannutskifting, noe som kan føre til akkumulasjon. I slike områder bør fosfor fjernes med mindre det kan påvises at fjerning ikke vil ha noen innvirkning på eutrofieringen. Det kan også overveies å fjerne nitrogen når utslippene stammer fra omfattende tettbebyggelse,elvemunninger, viker og andre kystfarvann som har dårlig vannutskifting, eller som mottar store mengder næringsstoffer. Utslipp fra lite omfattende tettbebyggelse er i alminnelighet av liten betydning i slike områder, men når det gjelder omfattende tettbebyggelse, skal fosfor og/eller nitrogen fjernes med mindre det påvises at fjerning ikke vil ha noen innvirkning på eutrofieringen.Overflateferskvann som er beregnet på uttak av drikkevann, og som kan få større nitratkonsentrasjon enn den fastsatt i de relevante bestemmelsene i rådsdirektiv [75/440/EØF](eu/31975l0440) av 16. juni 1975 om kvalitetskrav til overflatevann som benyttes til fremstilling av drikkevann i medlemsstatene,1 dersom det ikke treffes tiltak.Områder der det er nødvendig å foreta rensing utover rensingen fastsatt i artikkel 4 i dette direktiv for å tilfredsstille Rådets direktiver.
+
+*B. Mindre følsomme områder*
 
 En havvannsmasse eller et havvannsområde kan registreres som mindre følsomt område dersom utslipp av avløpsvann ikke har skadevirkninger på miljøet på grunn av områdets morfologi, hydrologi eller særskilte hydrauliske forhold.
 
@@ -2166,6 +2658,8 @@ Det skal tas hensyn til forholdene nedenfor når mindre følsomme områder regis
 åpne viker, elvemunninger og andre kystfarvann som har god vannutskifting, og som ikke er utsatt for eutrofiering eller oksygensvinn, eller som ikke ventes å bli eutrofe eller å bli utsatt for oksygensvinn som følge av utslipp av avløpsvann fra byområder.
 
 > [Kapittel 15b](forskrift/2004-06-01-931/kap15b) tilføyd ved [forskrift 15 des 2005 nr. 1691](forskrift/2005-12-15-1691) (i kraft 1 jan 2007).
+
+1 EFT nr. L 194 av 25.7.1975, s. 26. Direktivet endret ved direktiv [79/869/EØF](eu/31979l0869) (EFT nr. L 271 av 29.10.1979, s. 44).
 
 ### VEDLEGG III
 INDUSTRISEKTORER
@@ -2248,6 +2742,8 @@ Lokale forskrifter for vann- og avløpsgebyrer gitt i medhold av [lov 31. mai 19
 
 ## Del 5. Visse forurensende komponenter til vann og grunnvann
 
+Bestemmelser om utslipp av farlige stoffer til vann står i [kapittel 17](forskrift/2004-06-01-931/kap17).
+
 ### Kapittel 17. Utslipp av farlige stoffer til vann
 
 Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 9](lov/1981-03-13-6/§9). Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) (direktiv [76/464/EØF](eu/31976l0464), direktiv [82/176/EØF](eu/31982l0176), direktiv [83/513/EØF](eu/31983l0513), direktiv [84/156/EØF](eu/31984l0156), direktiv [84/491/EØF](eu/31984l0491) og direktiv [86/280/EØF](eu/31986l0280) endret ved direktiv [88/347/EØF](eu/31988l0347) og direktiv [90/415/EØF](eu/31990l0415)) og (direktiv [80/68/EØF](eu/31980l0068) endret ved direktiv [91/692/EØF](eu/31991l0692)).
@@ -2257,6 +2753,8 @@ Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om
 Direktivene i [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) om utslipp av farlige stoffer til vann (direktiv [82/176/EØF](eu/31982l0176), direktiv [83/513/EØF](eu/31983l0513), direktiv [84/156/EØF](eu/31984l0156), direktiv [84/491/EØF](eu/31984l0491), direktiv [86/280/EØF](eu/31986l0280) med endringer som følger av direktiv [88/347/EØF](eu/31988l0347) og direktiv [90/415/EØF](eu/31990l0415))1 og grunnvann (direktiv [80/68/EØF](eu/31980l0068))2 med de endringer som følger av direktiv [91/692/EØF](eu/31991l0692), jf. EØS-komiteens beslutning nr. [7/94](eu/21994d0007) og avtalen for øvrig, gjelder som forskrift.
 
 > Endret ved [forskrift 27 mars 2012 nr. 260](forskrift/2012-03-27-260).
+
+1 Direktivene er opphevet fra 22 des 2012, jf. [§ 17-2](forskrift/2004-06-01-931/§17-2).2 Direktivet er opphevet fra 22 des 2013, jf. [§ 17-2](forskrift/2004-06-01-931/§17-2).
 
 ### § 17-2. Opphevelse av direktiver slik de er gjengitt i § 17-1
 
@@ -2268,15 +2766,27 @@ Fra 22. desember 2013 oppheves følgende direktiv i [§ 17-1](forskrift/2004-06-
 
 ### Vedlegg I
 
-> Opphevet 22 des 2012, jf. [§ 17-2](forskrift/2004-06-01-931/§17-2).
+*[EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 8: Rådsdirektiv [82/176/EØF](eu/31982l0176) om grenseverdier og kvalitetsmålsettinger for utslipp av kvikksølv fra kloralkalielektrolyse*
 
 > Opphevet 22 des 2012, jf. [§ 17-2](forskrift/2004-06-01-931/§17-2).
 
-> Opphevet 22 des 2012, jf. [§ 17-2](forskrift/2004-06-01-931/§17-2).
+*[EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 9: Rådsdirektiv [83/513/EØF](eu/31983l0513) om grenseverdier og kvalitetsmålsettinger for utslipp av kadmium*
 
 > Opphevet 22 des 2012, jf. [§ 17-2](forskrift/2004-06-01-931/§17-2).
 
+*[EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 10: Rådsdirektiv [84/156/EØF](eu/31984l0156) om grenseverdier og kvalitetsmålsettinger for utslipp av kvikksølv fra andre sektorer enn kloralkalielektrolyse*
+
 > Opphevet 22 des 2012, jf. [§ 17-2](forskrift/2004-06-01-931/§17-2).
+
+*[EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 11: Rådsdirektiv [84/491/EØF](eu/31984l0491) om grenseverdier og kvalitetsmålsettinger for utslipp av heksaklorsykloheksan*
+
+> Opphevet 22 des 2012, jf. [§ 17-2](forskrift/2004-06-01-931/§17-2).
+
+*[EØS-avtalens vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 12: Rådsdirektiv [86/280/EØF](eu/31986l0280) om grenseverdier og kvalitetsmålsettinger for utslipp av visse farlige stoffer oppført i liste I i vedlegg til direktiv [76/464/EØF](eu/31976l0464)*
+
+> Opphevet 22 des 2012, jf. [§ 17-2](forskrift/2004-06-01-931/§17-2).
+
+*[EØS-avtalens vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 6: Rådsdirektiv [80/68/EØF](eu/31980l0068) om vern av grunnvann mot forurensning forårsaket av visse farlige stoffer*
 
 > Opphevet 22 des 2013 jf. [§ 17-2](forskrift/2004-06-01-931/§17-2).
 
@@ -2302,11 +2812,11 @@ Kapitlet gjelder ikke nedgravde tanker eller tanker brukt i midlertidig bygge- o
 
 ### § 18-3. Definisjoner
 
-1. *Farlige kjemikalier* – stoffer og stoffblandinger som er:klassifisert i henhold til CLP-forordningen artikkel 3 jf. [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP-forskriften)](forskrift/2012-06-16-622), ellerpersistente, bioakkumulerende og giftige (PBT) eller svært persistente og svært bioakkumulerende (vPvB) i henhold til kriteriene fastsatt i REACH-forordningen vedlegg XIII jf. [forskrift 30. mai 2008 nr. 516 om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften)](forskrift/2008-05-30-516), samt ikke gassformige stoffblandinger som inneholder minst et av disse stoffene i en enkeltkonsentrasjon på ≥0,1 vektprosent.
+1\. *Farlige kjemikalier* – stoffer og stoffblandinger som er:klassifisert i henhold til CLP-forordningen artikkel 3 jf. [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP-forskriften)](forskrift/2012-06-16-622), ellerpersistente, bioakkumulerende og giftige (PBT) eller svært persistente og svært bioakkumulerende (vPvB) i henhold til kriteriene fastsatt i REACH-forordningen vedlegg XIII jf. [forskrift 30. mai 2008 nr. 516 om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften)](forskrift/2008-05-30-516), samt ikke gassformige stoffblandinger som inneholder minst et av disse stoffene i en enkeltkonsentrasjon på ≥0,1 vektprosent.
 
-2. *Farlig avfall* – avfall definert som farlig i [forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall (avfallsforskriften) § 11-2](forskrift/2004-06-01-930/§11-2) andre ledd.
+2\. *Farlig avfall* – avfall definert som farlig i [forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall (avfallsforskriften) § 11-2](forskrift/2004-06-01-930/§11-2) andre ledd.
 
-3. *Midlertidig bygge- og anleggsvirksomhet* – bygge- og anleggsvirksomhet på samme sted i inntil 2 år.
+3\. *Midlertidig bygge- og anleggsvirksomhet* – bygge- og anleggsvirksomhet på samme sted i inntil 2 år.
 
 > Tilføyd ved [forskrift 3 juli 2013 nr. 1009](forskrift/2013-07-03-1009) (i kraft 1 jan 2014), endret ved forskrifter [7 nov 2019 nr. 1490](forskrift/2019-11-07-1490), [28 april 2021 nr. 1298](forskrift/2021-04-28-1298), [3 nov 2021 nr. 3130](forskrift/2021-11-03-3130).
 
@@ -2426,6 +2936,8 @@ For ileggelse av overtredelsesgebyr gjelder bestemmelsene i [kapittel 41A](forsk
 
 ## Del 6. Forurensning til vassdrag og det marine miljø fra skipsfart og andre aktiviteter
 
+Bestemmelser om
+
 - sammensetning og bruk av dispergeringsmidler og strandrensemidler for bekjempelse av oljeforurensning står i [kapittel 19](forskrift/2004-06-01-931/kap19),
 - levering og mottak av avfall og lasterester fra skip står i [kapittel 20](forskrift/2004-06-01-931/kap20),
 - forbud mot forbrenning til sjøs står i [kapittel 21](forskrift/2004-06-01-931/kap21),
@@ -2512,7 +3024,15 @@ Miljødirektoratet kan gjøre endringer i vedleggene.
 
 Alle tester skal utføres på laboratorier som er akkreditert i henhold til NS-EN-ISO-17025 og NS-EN-ISO-9100 eller kan dokumentere at de innehar systemer for dokumentasjon, sporbarhet og sammenlignende prøving av resultater tilsvarende god laboratoriepraksis, (GLP) eller standardene.
 
+1\. *Akutt giftighet*
+
 For både dispergeringsmidler og strandrensemidler i kjemisk løsning skal det testes på planktonalger i henhold til prosedyren ISO/DIS 10253 (*Skeletonema costatum*).
+
+2\. *Effektivitet*
+
+A. *For virksomheter som produserer eller behandler olje*
+
+Tester:
 
 Det skal benyttes en IFP-test (Institute Francais du Petrole) for sammenlikning av egnede dispergeringsmidler som står beskrevet i *Bocard et el. (1984): Chemical oil dispersion in trials at sea and in laboratory tests; the key role of dilution processes. In: Oil Spill Chemical Dispersants: Research, Experience and Recommendations, STP 840, Tom E. Allen, Ed., American Society for Testing and Materials, Philadelphia, pp. 125-142, 1984.*
 
@@ -2520,9 +3040,15 @@ Ved testing av oljens dispergerbarhet ved ulike forvitringsgrader skal IFP-teste
 
 Testprosedyrer er beskrevet i vedlegg 2.
 
+B. *For virksomheter som ikke produserer eller behandler olje*
+
+Test:
+
 Det skal benyttes en WSL-test (Warren Spring Laboratory) beskrevet i Martinelli, F.N., 1984: The status of the Warren Spring Laboratory's Rolling flask test. In: Oil Spill Chemical Dispersants: Research, Experience and Recommendations. STP 840. Tom E. Allen, Ed. American Society for Testing and Materials, Philadelphia, pp. 55-68, 1984.
 
 Testprosedyrer er beskrevet i vedlegg 2.
+
+*Både for 2A og 2B gjelder følgende:*
 
 Det skal gå klart fram av testdokumentasjonen for begge typer tester om dispergerings- eller strandrensemidlet er testet for normale eller lave salinitetsforhold. Det er ikke satt noen bestemt grenseverdi for midlets effektivitet, da denne varierer med oljetypen.
 
@@ -2530,23 +3056,43 @@ Det skal gå klart fram av testdokumentasjonen for begge typer tester om disperg
 
 ### Vedlegg 2: Prosedyrer for testing av dispergeringsmidlers/strandresemidlers effektivitet
 
+A. *Virksomheter som produserer eller behandler olje*
+
 For de virksomhetene som produserer, behandler eller lagrer definerte oljetyper, og som samtidig planlegger bruk av dispergeringsmidler i sin beredskap, skal effektivitetstesten utføres med denne eller disse oljene. Dersom antall oljetyper ved samme virksomhet er så stort at det ved effektivitetstesting av samtlige oljer vil påføre virksomheten en urimelig stor kostnad, skal det testes på et utvalg av de oljetypene som mest sannsynlig blir gjenstand for dispergering. For å optimalisere virksomhetens dispergeringsberedskap utføres først en utvelgelse av egnede dispergeringsmidler med virksomhetens aktuelle oljetype, og under aktuelle betingelser på stedet (temperatur, og salinitet).
+
+*Testprogram for produktoptimalisering*
 
 Produktoptimalisering omfatter:Utvelgelse av produkter for screening bør inkludere produkter som kan dokumentere høy effektivitet fra tidligere studier. For oljetyper av lignende kategorier som tidligere er studert bør det være tilstrekkelig å referere til eksisterende screeningsstudier. De utvalgte produktene testes på en 200 °C/50 % syntetisk forvitret emulsjon 1 av den aktuelle oljen med IFP-testen. Det skal gjennomføres minimum 2 parallelle tester for hvert enkelt produkt, med doseringsforhold 1:25.De tre beste produktene gjennomfører IFP-testen i forskjellige doseringsforhold (for eksempel; 1:25, 1:50 og 1:100) på en 200 °C/50 % emulsjon av den aktuelle oljen. Det skal gjennomføres minimum 2 paralleller.De tre beste produktene testes ved alternativ temperatur og salinitet dersom det er relevant. De samme produktene testes på en 200 °C/50 % emulsjon av oljen med IFP-testen. Det skal gjennomføres minimum 2 parallelle tester for hvert enkelt produkt, med doseringsforhold 1:25.
 
 En endelig fastsetting av doseringsforholdet er oljespesifikk og kan først gjennomføres når oljetypen er kjent.
 
+1 Med 200 °C/50 % emulsjon, menes en olje som gjennom standardiserte forvitringsprosedyrer har avdampet alle komponenter med kokepunkt under 200 °C, samt er innblandet 50 % sjøvann. Denne syntetisk forvitrede oljeprøven/emulsjonen tilsvarer 0,5 til 1 dags forvitring på sjøen.
+
+*Testprogram for kartlegging av oljens dispergerbarhet ved ulike forvitringsgrader*
+
 Det skal benyttes to ulike testmetoder (IFP og MNS) for å teste dispergerbarhet på forskjellige prøver av oljen, hvor prøvene representerer ulike forvitringsgrader.
+
+B. *Virksomheter som ikke produserer eller behandler olje*
 
 Virksomheter som har beredskapsplikt, men som ikke kan knytte beredskapen opp mot en eller flere oljetyper, skal kunne planlegge en beredskap med dispergeringsmiddel dersom man har gjennomgått en «standard» testprosedyre.
 
-I denne standard testprosedyren skal WSL-testen benyttes. Testprosedyren skal gjennomføres under følgende betingelser:*Testolje**Betingelser*1. Sture Blend 200 °C/50 %10 °C, 3,5 % salinitet2. Medium Fuel Oil (2000 cP ved 10 °C)10 °C, 3,5 % salinitet3. Sture Blend 200 °C/50 %10 °C, 0,5 % salinitet4. IFO 18010 °C, 3,5 % salinitet
+I denne standard testprosedyren skal WSL-testen benyttes. Testprosedyren skal gjennomføres under følgende betingelser:
+
+| *Testolje* | *Betingelser* |
+| --- | --- |
+| 1. Sture Blend 200 °C/50 % | 10 °C, 3,5 % salinitet |
+| 2. Medium Fuel Oil (2000 cP ved 10 °C) | 10 °C, 3,5 % salinitet |
+| 3. Sture Blend 200 °C/50 % | 10 °C, 0,5 % salinitet |
+| 4. IFO 180 | 10 °C, 3,5 % salinitet |
 
 De to første testene skal benyttes for alle produktene. Den tredje testen trenger kun å gjennomføres dersom produktet planlegges for bruk under betingelser med lav salinitet. Alle tester gjennomføres med doseringsforhold (DOR) = 1:25.
 
 > [Kapittel 19](forskrift/2004-06-01-931/kap19) endret ved [forskrift 5 feb 2009 nr. 186](forskrift/2009-02-05-186).
 
 ### Kapittel 20. Levering og mottak av avfall fra skip
+
+Fastsatt med hjemmel i [lov 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v](lov/1903-06-09-7). Hjemmel er endret til [lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 2](lov/2007-02-16-9/§2), [§ 31](lov/2007-02-16-9/§31), [§ 33](lov/2007-02-16-9/§33), [§ 35](lov/2007-02-16-9/§35) og [§ 37](lov/2007-02-16-9/§37), jf. [delegeringsvedtak 16. februar 2007 nr. 171](forskrift/2007-02-16-171), og [lov 26. juni 1998 nr. 47 om fritids- og småbåter § 20](lov/1998-06-26-47/§20) og [§ 38](lov/1998-06-26-47/§38), jf. [delegeringsvedtak 27. november 1998 nr. 1095](forskrift/1998-11-27-1095), og delegeringsvedtak/kgl.res. ift. [kap. 5](lov/1998-06-26-47/kap5), [delegeringsvedtak 29. juni 2007 nr. 848](forskrift/2007-06-29-848). Videre fastsatt med hjemmel i [lov 13. mars 1981](lov/1981-03-13-6) og om avfall [(forurensningsloven) § 32a](lov/1981-03-13-6/§32a) og [§ 33](lov/1981-03-13-6/§33), jf. [delegeringsvedtak 8. juli 1983 nr. 1245](forskrift/1983-07-08-1245) og [delegeringsvedtak 11. juni 1993 nr. 785](forskrift/1993-06-11-785).
+EØS-henvisninger: [EØS-avtalen vedlegg XIII kap. V](avtale/avt-1992-05-02-1-v13/kapV) nr. 56i (direktiv [(EU) 2019/883](eu/32019l0883)) og nr. 56id (forordning [(EU) 2022/92](eu/32022r0092), som endret ved forordning [(EU) 2024/917](eu/32024r0917)).
 
 > Hjemmel endret ved [forskrifter 29 juni 2007 nr. 820](forskrift/2007-06-29-820) (i kraft 1 juli 2007), [2 juni 2023 nr. 1213](forskrift/2023-06-02-1213) (i kraft 1 okt 2023). EØS-henvisninger endret ved forskrift [3 feb 2026 nr. 191](forskrift/2026-02-03-191).
 
@@ -2751,47 +3297,89 @@ Prosedyrene for mottak, innsamling, lagring, behandling og videre håndtering b�
 ### Vedlegg II
 Kostnadskategorier og nettoinntekter knyttet til drift og administrasjon av mottaksanlegg i havner
 
+| *Direkte kostnader*<br>*Direkte driftskostnader forbundet med den faktiske håndteringen av avfall fra skip, herunder kostnadspostene oppført nedenfor* | *Indirekte kostnader*<br>*Indirekte administrasjonskostnader forbundet med forvaltningen av systemet i havnen, herunder kostnadspostene oppført nedenfor* | *Nettoinntekter*<br>*Nettoinntekter fra avfallshåndteringsordninger og tilgjengelig nasjonal/regional finansiering, herunder inntektspostene oppført nedenfor* |
+| --- | --- | --- |
+| – Infrastruktur til mottaksanlegg i havner, som containere, tanker, bearbeidingsverktøy, lektere, lastebiler, avfallsmottak og behandlingsanlegg.<br>– Eventuelle kostnader til leie av sted eller utstyr som er nødvendig for å drive mottaksordninger i havner.<br>– Den faktiske driften av mottaksordningene: innsamling av avfall fra skip, transport av avfall fra mottaksordningene til sluttbehandling, vedlikehold og rengjøring av mottaksordningene, personalkostnader (inkludert overtid), strøm, avfallsanalyse og forsikring.<br>– Forberedelse til ombruk, materialgjenvinning eller sluttbehandling av avfall fra skip, herunder separat innsamling.<br>– Administrasjon: fakturering, utstedelse av avfallskvitteringer til skip, rapportering. | – Utarbeiding, godkjenning og gjennomføring av avfallsplan, herunder eventuelle revisjoner.<br>– Oppdatering av avfallsplan, herunder lønnskostnader og kostnader til rådgivningstjenester.<br>– Organisering av dialog ved evaluering av avfallsplanen.<br>– Forvaltning av meldingssystemet og gebyrsystemet, herunder bruk av reduserte avgifter for «grønne skip», IT-systemer i havnene, statistisk analyse og tilhørende lønnskostnader.<br>– Organisering av nødvendige anskaffelser og tillatelser ved etablering og drift av mottaksordninger.<br>– Formidling av informasjon til havnebrukerne<br>– Forvaltning av øvrige avfallshåndteringsordninger, som ordninger for utvidet produsentansvar (EPR), mål om økt materialgjenvinning og søknad om og disponering av nasjonale/regionale midler. | – Nettofordeler av ordninger for utvidet produsentansvar.<br>– Andre nettoinntekter av avfallshåndtering, f.eks. gjenvinningsordninger.<br>– Annen finansering eller andre tilskudd til havner til avfallshåndtering og fiskerier. |
+
 > Tilføyd ved forskrift [2 juni 2023 nr. 1213](forskrift/2023-06-02-1213) (i kraft 1 okt 2023).
 
 ### Vedlegg III
 Standardskjema for melding om avfallslevering til mottaksanlegg i havner
+
+For å lese vedlegget se her: [(pdf)](static/SF/sf-20040601-0931-kap20-v3-01-01.pdf)
 
 > Endret ved forskrifter [24 aug 2010 nr. 1291](forskrift/2010-08-24-1291) (i kraft 31 okt 2010), [25 okt 2016 nr. 1252](forskrift/2016-10-25-1252), [31 mars 2017 nr. 435](forskrift/2017-03-31-435), [2 juni 2023 nr. 1213](forskrift/2023-06-02-1213) (i kraft 1 okt 2023, tidligere vedlegg II).
 
 ### Vedlegg IV
 Standardskjema for avfallskvittering
 
+For å lese vedlegget se her: [(pdf)](static/SF/sf-20040601-0931-kap20-v4-01-01.pdf)
+
 > Tilføyd ved forskrift [2 juni 2023 nr. 1213](forskrift/2023-06-02-1213) (i kraft 1 okt 2023).
 
 ### Vedlegg V
 
+*Standardiserte krav for mottak av farlig avfall fra skip og fritidsbåter*
+
+1\. *Formål*
+
 Formålet med disse standardiserte kravene for mottak av farlig avfall fra skip er å sikre at slike ordninger drives miljømessig forsvarlig. Det er havneansvarlig som har ansvar for å sikre at kravene blir fulgt.
+
+2\. *Beskrivelse av ordninger for mottak av farlig avfall fra skip og fritidsbåter i havner*
+
+2.1 *Mottak av farlig avfall fra skip*
 
 Avfallet leveres og lagres på havneområdet. Avfallet kan også hentes direkte av virksomhet med tillatelse etter [avfallsforskriften § 11-6](forskrift/2004-06-01-930/§11-6) og [§ 11-7](forskrift/2004-06-01-930/§11-7) uten mellomlagring på havneområdet.
 
+2.2 *Mottak av farlig avfall fra fritidsbåter*
+
 Avfallet leveres og lagres på mottaket/ene som skal være sentralt plassert på havneområdet. Mottaket er begrenset til farlig avfall fra fritidsbåter. Båteierne plasserer selv avfall i mottaket.
+
+3\. *Farlige avfallstyper*
 
 På mottak for farlig avfall fra skip som er etablert i medhold av denne forskriften og som er omfattet av unntaksbestemmelsen i [forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall kapittel 11](forskrift/2004-06-01-930/kap11) [§ 11-7](forskrift/2004-06-01-930/§11-7) bokstav d, er det tillatt å motta de farlige avfallstypene som er definert i [§ 11-2 i forskrift om gjenvinning og behandling av avfall](forskrift/2004-06-01-930/§11-2).
 
+4\. *Andre avfallstyper*
+
 Disse standardiserte kravene omfatter ikke mottak av avfall i følgende ADR1 -klasser: eksplosive stoffer (klasse 1) og radioaktive materialer (klasse 7) eller stoffer med tilsvarende egenskaper. Myndigheten for nevnte stoffer og materialer er henholdsvis Direktoratet for samfunnssikkerhet og beredskap (DSB) og Direktoratet for strålevern og atomsikkerhet.
 
+5\. *Ansvar*
+
 Det er havneansvarlig som omfattes av unntaket i [forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall kapittel 11](forskrift/2004-06-01-930/kap11) [§ 11-7](forskrift/2004-06-01-930/§11-7) bokstav d, som må sørge for at mottaket og driften av mottaket som minimum tilfredsstiller de standardiserte kravene i dette vedlegget.
+
+6\. *Sikring mot forurensning – generelle krav*
+
+6.1 *Kompetanse*
 
 Den som driver mottaksordningen for farlig avfall og det personell som håndterer farlig avfall, plikter å ha nødvendig kunnskap og kompetanse om farlig avfall slik at dette sikres forsvarlig håndtering.
 
 Den som håndterer farlig avfall skal på forespørsel fremvise skriftlig dokumentasjon som viser at vedkommende har tilstrekkelig kompetanse til å ta hånd om avfallet. Dette gjelder også for den som ervervsmessig transporterer farlig avfall, med mindre slik transport utføres av virksomhet som selv har generert avfallet.
 
+6.2 *Forebygging*
+
 Havneansvarlig plikter å gjennomføre nødvendige tiltak for å unngå at forurensning skal oppstå. Farlig avfall som oppbevares i påvente av levering/henting før behandling eller annen disponering, skal sikres slik at det farlige avfallet ikke medfører avrenning til grunn, avløpsnett eller annen resipient. Eventuelt spill skal kunne samles opp.
+
+6.3 *Håndtering*
 
 Håndtering av farlig avfall skal foregå slik at forurensning ikke oppstår. Farlig avfall skal ikke blandes med annet avfall. Oppsamlet spill og/eller vann som er forurenset med farlig avfall, skal håndteres som farlig avfall.
 
+6.4 *Beredskap*
+
 Havneansvarlig skal sørge for å ha en nødvendig beredskap for å hindre, oppdage eller stanse akutt forurensning. Beredskapsplikten omfatter også utstyr til å fjerne og begrense virkningen av forurensningen og omfanget av skadene og ulempene som kan inntreffe. Det skal f.eks. til enhver tid eksistere tilstrekkelig lager med absorpsjonsmidler og annet nødvendig utstyr, inklusiv verneutstyr, for å kunne ta hånd om spill og lekkasjer av farlig avfall. Beredskapen skal stå i et rimelig forhold til sannsynligheten for akutt forurensning og omfanget av skadene og ulempene som kan inntreffe. Ved visse mengder brannfarlig vare må tillatelse innhentes fra Direktoratet for samfunnssikkerhet og beredskap (DSB).
 
+6.5 *Varsling*
+
 Akutt forurensning eller fare for akutt forurensning skal varsles i samsvar med [forskrift om varsling av akutt forurensning eller fare for akutt forurensning](forskrift/1992-07-09-1269).
+
+7\. *Krav til mottak*
+
+7.1 *Mottak av farlig avfall fra skip*
 
 Havnene skal være betjent ved mottak av farlig avfall fra skip. Det farlige avfallet skal være sikret mot adgang for uvedkommende. Havneansvarlig plikter å ta imot alle de farlige avfallstypene som nevnt i punkt 3. Den som driver mottaket, skal minst en gang pr. uke vurdere behov for tømming og frakt til godkjent lager eller behandlingsanlegg.
 
 Ved plasseringen av mottaket på havneområdet skal det tas hensyn til ulempe for naboer og fare for forurensning i spesielt sårbare områder.
+
+7.2 *Mottak av farlig avfall fra fritidsbåter*
 
 Mottaket kan være ubetjent, men skal sikres slik at avfallet som er levert ikke er tilgjengelig for uvedkommende. Ved mottaket skal det finnes informasjon om hvilke typer farlige avfall som kan plasseres i mottaket. Det er ikke krav om at mottaket skal ta imot alle typer farlig avfall.
 
@@ -2799,19 +3387,27 @@ Mottaket må ha tilstrekkelig kapasitet. Havneansvarlig eller den som driver mot
 
 Ved plasseringen av mottaket på havneområdet skal det tas hensyn til ulempe for naboer og fare for forurensning i spesielt sårbare områder.
 
+*7.3 Lagring av farlig avfall på havneområdet*
+
 Mottaket kan ha en total lagringskapasitet på maksimalt 50 tonn. Farlig avfall kan oppbevares i inntil 6 måneder før viderelevering. Farlig avfall skal lagres slik det er beskrevet ovenfor under punkt 6 Sikring mot forurensning. Lageret skal være slik at forsvarlig inspeksjon og håndtering kan utføres. Det farlige avfallet skal lagres slik at det lett kan flyttes, f.eks. på paller. Stoffer som ifølge ADR1 -regelverket ikke kan samlastes, skal lagres på atskilte områder.
 
 Ved plasseringen av mottaket skal det tas hensyn til ulempe for naboer og fare for forurensning i spesielt sårbare områder.
 
+8\. *Deklarering*
+
 Farlig avfall mottatt fra skip, inkludert fritidsbåter, skal deklareres av havneansvarlig når avfallet leveres til godkjent mottak for farlig avfall. Skip som leverer farlig avfall skal gi tilstrekkelige opplysninger om avfallets opprinnelse, innhold og egenskaper, slik at havneansvarlig kan oppfylle deklarasjonsplikten iht. [avfallsforskriften § 11-12](forskrift/2004-06-01-930/§11-12) og slik at den videre håndteringen av avfallet kan skje på en forsvarlig måte.
 
 All deklarering skal skje på deklarasjonsskjema godkjent av Miljødirektoratet. Består en leveranse av flere avfallstyper, skal det være minst én deklarasjon for hver avfallstype.
+
+9\. *Journalføring og rapportering*
 
 Havneansvarlig skal føre journal over opplysninger om mottak, lagring og viderelevering av alt farlig avfall som mottas. Journalen skal oppbevares i minst 3 år.
 
 Statsforvalteren kan pålegge havneansvarlig å sende forurensningsmyndighetene eller andre offentlige organer kopier eller sammendrag av alle journaler.
 
 > Endret ved forskrifter [21 juni 2010 nr. 1073](forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014), [15 jan 2018 nr. 55](forskrift/2018-01-15-55), [20 des 2018 nr. 2092](forskrift/2018-12-20-2092) (i kraft 1 jan 2019), [14 des 2020 nr. 3341](forskrift/2020-12-14-3341) (i kraft 1 juni 2021), [2 juni 2023 nr. 1213](forskrift/2023-06-02-1213) (i kraft 1 okt 2023, tidligere vedlegg III).
+
+1 ADR: Europeisk avtale om internasjonal vegtransport av farlig gods.
 
 ### Kapittel 21. Forbud mot forbrenning til sjøs
 
@@ -2821,7 +3417,9 @@ Fastsatt med hjemmel i [lov 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødy
 
 ### § 21-1. Definisjoner
 
-I dette kapitlet betyr*skip:* ethvert sjøgående fartøy uavhengig av om fartøyet har egen drivkraft. Dette omfatter ikke innretninger,*innretning:* installasjon eller annet anlegg som benyttes i petroleumsvirksomheten, uavhengig av om konstruksjonen er fast eller flyttbar. Innretning omfatter også rørledning og kabel benyttet i petroleumsvirksomhet,*forbrenning:* enhver termisk destruksjon av avfall eller annet materiale i den hensikt å kvitte seg med dette. Forbrenning omfatter ikke forbrenning som er knyttet til eller skriver seg fra vanlig drift av skip, innretning eller utstyr ombord på disse, unntatt når avfallet eller materialet er fraktet bort fra avfallskilden med det formål å bringe det av veien.
+I dette kapitlet betyr*skip:* ethvert sjøgående fartøy uavhengig av om fartøyet har egen drivkraft. Dette omfatter ikke innretninger,*innretning:* plattformer eller andre konstruerte innretninger til sjøs. Innretning omfatter installasjon eller annet anlegg som benyttes i petroleumsvirksomheten, uavhengig av om konstruksjonen er fast eller flyttbar, og rørledning og kabel benyttet i petroleumsvirksomheten,*forbrenning:* enhver termisk destruksjon av avfall eller annet materiale i den hensikt å kvitte seg med dette. Forbrenning omfatter ikke forbrenning som er knyttet til eller skriver seg fra vanlig drift av skip, innretning eller utstyr ombord på disse, unntatt når avfallet eller materialet er fraktet bort fra avfallskilden med det formål å bringe det av veien.
+
+> Endret ved forskrift [2 juli 2026 nr. 1508](forskrift/2026-07-02-1508).
 
 ### § 21-2. Forbud mot forbrenning
 
@@ -2835,69 +3433,95 @@ Forbudet omfatter forbrenning ombord på norske skip i alle farvann.
 
 ### Kapittel 22. Mudring og dumping i sjø og vassdrag
 
-Fastsatt med hjemmel i [lov 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v](lov/1903-06-09-7). Hjemmel er endret til [lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 2](lov/2007-02-16-9/§2), [§ 31](lov/2007-02-16-9/§31), [§ 33](lov/2007-02-16-9/§33) og [§ 47](lov/2007-02-16-9/§47), jf. [delegeringsvedtak 16. februar 2007 nr. 171](forskrift/2007-02-16-171) og [lov 26. juni 1998 nr. 47 om fritids- og småbåter § 20](lov/1998-06-26-47/§20) og [§ 38](lov/1998-06-26-47/§38), jf. [delegeringsvedtak av 27. november 1998 nr. 1095](forskrift/1998-11-27-1095) og delegeringsvedtak/kgl.res. ift. kap.5. Videre fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 9](lov/1981-03-13-6/§9) nr. 1 og nr. 3 og [§ 11](lov/1981-03-13-6/§11).
+Fastsatt med hjemmel i [lov 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v.](lov/1903-06-09-7) Hjemmel er endret til [lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 2](lov/2007-02-16-9/§2), [§ 31](lov/2007-02-16-9/§31), [§ 33](lov/2007-02-16-9/§33) og [§ 47](lov/2007-02-16-9/§47), jf. [delegeringsvedtak 16. februar 2007 nr. 171](forskrift/2007-02-16-171) og [lov 26. juni 1998 nr. 47 om fritids- og småbåter § 20](lov/1998-06-26-47/§20) og [§ 38](lov/1998-06-26-47/§38), jf. [delegeringsvedtak av 27. november 1998 nr. 1095](forskrift/1998-11-27-1095) og delegeringsvedtak/kgl.res. ift. kap.5. Videre fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 3 andre ledd nr. 3](lov/1981-03-13-6/§3/ledd/2/nummer/3) og [nr. 4 andre punktum](lov/1981-03-13-6/§3/ledd/2/nummer/4/setning/2), [§ 9 første ledd nr. 1](lov/1981-03-13-6/§9/ledd/1/nummer/1) og [nr. 3](lov/1981-03-13-6/§9/ledd/1/nummer/3) og [§ 11](lov/1981-03-13-6/§11), jf. [delegeringsvedtak 19. juni 2026 nr. 1138](forskrift/2026-06-19-1138).
 
-> Hjemmel endret ved [forskrift 29 juni 2007 nr. 820](forskrift/2007-06-29-820) (i kraft 1 juli 2007).
+> Hjemmel endret ved forskrifter [29 juni 2007 nr. 820](forskrift/2007-06-29-820) (i kraft 1 juli 2007), [2 juli 2026 nr. 1508](forskrift/2026-07-02-1508).
 
 ### § 22-1. Virkeområde
 
-Bestemmelsene i dette kapitlet gjelder all mudring fra skip, med unntak av mudring som ledd i petroleumsvirksomheten til havs. De gjelder videre all dumping og plassering av materiale fra skip, innretninger og fly samt dumping og plassering av skip. Kapitlet gjelder ikke dumping av innretninger.
+Bestemmelsene i dette kapitlet gjelder all mudring fra skip, med unntak av mudring som ledd i petroleumsvirksomheten til havs. De gjelder videre all dumping, plassering av materiale og marine geoingeniørtiltak fra skip, innretninger og fly samt dumping og plassering av skip. Kapitlet gjelder ikke dumping av innretninger som benyttes i petroleumsvirksomheten.
 
-Bestemmelsene i dette kapitlet gjelder i sjø og vassdrag her i riket. Innen folkerettens grenser gjelder den også i norsk økonomisk sone og på norsk kontinentalsokkel. Kapitlet gjelder i alle farvann for dumping fra norske skip.
+Bestemmelsene i dette kapitlet gjelder i sjø og vassdrag her i riket. Innen folkerettens grenser gjelder den også i norsk økonomisk sone og på norsk kontinentalsokkel.
 
-> Endret ved forskrift [11 des 2024 nr. 3037](forskrift/2024-12-11-3037) (i kraft 1 jan 2025).
+Med de begrensninger som følger av folkeretten gjelder kapitlet også utenfor norske jurisdiksjonsområder for dumping, plassering av materiale og marine geoingeniørtiltak fra norske skip, innretninger og fly, samt fra utenlandske skip, innretninger og fly når avfallet eller materialet er lastet på norsk territorium.
+
+> Endret ved forskrifter [11 des 2024 nr. 3037](forskrift/2024-12-11-3037) (i kraft 1 jan 2025), [2 juli 2026 nr. 1508](forskrift/2026-07-02-1508).
 
 ### § 22-2. Definisjoner
 
-I dette kapitlet betyr*skip:* ethvert sjøgående fartøy uavhengig av om fartøyet har egen drivkraft. Dette omfatter ikke innretninger,*innretning:* installasjon eller annet anlegg som benyttes i petroleumsvirksomheten, uavhengig av om konstruksjonen er fast eller flyttbar. Innretning omfatter også rørledning og kabel benyttet i petroleumsvirksomheten,*fly:* ethvert luftfartøy, uavhengig av om det har egen drivkraft,*mudring:* enhver forsettlig forflytning av masser fra bunnen, herunder slamsuging, forskyvning eller fjerning av bunnsedimenter. Mudring omfatter ikke oppvirvling som følge av normale aktiviteter i sjø eller vassdrag, herunder normal skipstrafikk,*dumping:* enhver forsettlig disponering av avfall eller annet materiale i sjø eller vassdrag med det formål å bringe det av veien, herunder senking av ammunisjon samt senking og etterlatelse av skip. Dumping omfatter ikke disponering av avfall eller annet materiale som er knyttet til eller skriver seg fra vanlig drift av skip, innretning eller fiskeri- og oppdrettsnæring, unntatt når avfallet eller materialet er fraktet bort fra avfallskilden med det formål å bringe det av veien,*plassering av materiale:* enhver forsettlig disponering av materiale i sjø eller vassdrag med et annet formål enn materialet opprinnelig er bygd eller konstruert for, og som ikke regnes som dumping.
+I dette kapitlet betyr*skip:* ethvert sjøgående fartøy uavhengig av om fartøyet har egen drivkraft. Dette omfatter ikke innretninger,*innretning:* plattformer eller andre konstruerte innretninger til sjøs. Innretning omfatter installasjon eller annet anlegg som benyttes i petroleumsvirksomheten, uavhengig av om konstruksjonen er fast eller flyttbar, og rørledning og kabel benyttet i petroleumsvirksomheten,*fly:* ethvert luftfartøy, uavhengig av om det har egen drivkraft,*mudring:* enhver forsettlig forflytning av masser fra bunnen, herunder slamsuging, forskyvning eller fjerning av bunnsedimenter. Mudring omfatter ikke oppvirvling som følge av normale aktiviteter i sjø eller vassdrag, herunder normal skipstrafikk,*dumping:* enhver forsettlig disponering av avfall eller annet materiale i sjø eller vassdrag med det formål å bringe det av veien, herunder senking av ammunisjon samt senking og etterlatelse av skip. Dumping omfatter ikke disponering av avfall eller annet materiale som er knyttet til eller skriver seg fra vanlig drift av skip, innretning eller fiskeri- og oppdrettsnæring, unntatt når avfallet eller materialet er fraktet bort fra avfallskilden med det formål å bringe det av veien,*plassering av materiale:* enhver forsettlig disponering av materiale i sjø eller vassdrag med et annet formål enn materialet opprinnelig er bygd eller konstruert for, og som ikke regnes som dumping eller marine geoingeniørtiltak,*marine geoingeniørtiltak:* enhver forsettlig disponering av materiale i sjø med formål å påvirke naturlige prosesser, inkludert for å motvirke menneskeskapte klimaendringer, og som kan ha negative virkninger for det marine miljøet.
+
+> Endret ved forskrift [2 juli 2026 nr. 1508](forskrift/2026-07-02-1508).
 
 ### § 22-3. Forbud mot mudring
 
-Mudring er forbudt, unntatt når tillatelse er gitt i medhold av [§ 22-6](forskrift/2004-06-01-931/§22-6).
+Mudring er forbudt, unntatt når tillatelse er gitt i medhold av [§ 22-7](forskrift/2004-06-01-931/§22-7).
+
+> Endret ved forskrift [2 juli 2026 nr. 1508](forskrift/2026-07-02-1508).
 
 ### § 22-4. Forbud mot dumping
 
-Dumping er forbudt. Det kan likevel gis tillatelse i medhold av [§ 22-6](forskrift/2004-06-01-931/§22-6) til dumping av:muddermasser, løsmasser og stein,skip med metallskrog frem til 31. desember 1998,andre skip frem til 31. desember 2004,fiskeavfall fra fiskeforedling/prosessering på land,annet avfall/materiale i helt spesielle situasjoner hvor deponering på land medfører uakseptabel fare eller skade.
+Dumping er forbudt. Det kan likevel gis tillatelse i medhold av [§ 22-7](forskrift/2004-06-01-931/§22-7) til dumping av:muddermasser, løsmasser og stein,skip med metallskrog frem til 31. desember 1998,andre skip frem til 31. desember 2004,fiskeavfall fra fiskeforedling/prosessering på land,annet avfall/materiale i helt spesielle situasjoner hvor deponering på land medfører uakseptabel fare eller skade.
+
+> Endret ved forskrift [2 juli 2026 nr. 1508](forskrift/2026-07-02-1508).
 
 ### § 22-5. Plassering av materiale
 
-Det er forbudt å plassere materiale i sjø eller vassdrag for et annet formål enn det opprinnelig ble bygd eller konstruert for, unntatt når tillatelse er gitt i medhold av [§ 22-6](forskrift/2004-06-01-931/§22-6).
+Det er forbudt å plassere materiale i sjø eller vassdrag for et annet formål enn det opprinnelig ble bygd eller konstruert for, unntatt når tillatelse er gitt i medhold av [§ 22-7](forskrift/2004-06-01-931/§22-7).
 
-### § 22-6. Tillatelse til mudring, dumping og plassering av materiale
+> Endret ved forskrift [2 juli 2026 nr. 1508](forskrift/2026-07-02-1508).
 
-Statsforvalteren kan gi tillatelse til mudring, samt dumping som nevnt i [§ 22-4](forskrift/2004-06-01-931/§22-4) første ledd bokstavene a til d, i sjø og vassdrag her i riket. Miljødirektoratet eller den departementet bemyndiger kan gi tillatelse til dumping som nevnt i [§ 22-4](forskrift/2004-06-01-931/§22-4) første ledd e i sjø og vassdrag her i riket, til plassering av materiale som nevnt i [§ 22-5](forskrift/2004-06-01-931/§22-5), samt til mudring og dumping i norsk økonomisk sone.
+### § 22-6. Marine geoingeniørtiltak
+
+Marine geoingeniørtiltak er forbudt, unntatt når tillatelse er gitt i medhold av [§ 22-7](forskrift/2004-06-01-931/§22-7).
+
+> Tilføyd ved forskrift [2 juli 2026 nr. 1508](forskrift/2026-07-02-1508).
+
+### § 22-7. Tillatelse til mudring, dumping og plassering av materiale
+
+Forurensningsmyndigheten kan gi tillatelse til mudring, dumping, plassering av materiale og marine geoingeniørtiltak.
 
 Søknad om tillatelse til mudring, dumping eller plassering av materiale skal inneholde de opplysninger som er nødvendig for å vurdere om tillatelse bør gis og hvilke vilkår som skal settes, herunder opplysninger om avfallet/materialet som skal dumpes/plasseres og om bunnforholdene på mudre- og/eller dumpestedet.
 
 Ved avgjørelse av søknaden skal det legges vekt på de forurensningsmessige ulemper ved tiltaket sammenholdt med de fordeler og ulemper som tiltaket for øvrig vil medføre.
 
-> Endret ved forskrifter [21 juni 2010 nr. 1073](forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [14 des 2020 nr. 3341](forskrift/2020-12-14-3341) (i kraft 1 juni 2021).
+> Endret ved forskrifter [21 juni 2010 nr. 1073](forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [14 des 2020 nr. 3341](forskrift/2020-12-14-3341) (i kraft 1 juni 2021), [2 juli 2026 nr. 1508](forskrift/2026-07-02-1508) (tidligere § 22-6).
 
-### § 22-7. Rapportering
+### § 22-8. Myndighet
+
+Statsforvalteren er myndighet for mudring her i riket samt for dumping som nevnt i [§ 22-4 første ledd bokstav a](forskrift/2004-06-01-931/§22-4/ledd/1/bokstav/a)–[d](forskrift/2004-06-01-931/§22-4/ledd/1/bokstav/a), i sjø og vassdrag her i riket.
+
+Miljødirektoratet er myndighet for mudring i norsk økonomisk sone, for dumping som nevnt i [§ 22-4 første ledd bokstav e](forskrift/2004-06-01-931/§22-4/ledd/1/bokstav/e) i sjø og vassdrag og for marine geoingeniørtiltak her i riket samt for dumping, plassering av materiale og marine geoingeniørtiltak i norsk økonomisk sone, norsk kontinentalsokkel og utenfor norske jurisdiksjonsområder.
+
+Klima- og miljødepartementet kan fastsette at vedtak etter [§ 22-7](forskrift/2004-06-01-931/§22-7) kan treffes av andre enn det som fremgår av første og andre ledd.
+
+> Tilføyd ved forskrift [2 juli 2026 nr. 1508](forskrift/2026-07-02-1508).
+
+### § 22-9. Rapportering
 
 Dersom den myndighet som ga tillatelsen ikke bestemmer annet, skal det innen 6 uker etter avsluttet mudre- eller dumpeoperasjon eller plassering av materiale sendes rapport til denne myndigheten.
 
-### § 22-8. Unntak fra forbudet mot dumping
+> Endret ved forskrift [2 juli 2026 nr. 1508](forskrift/2026-07-02-1508) (tidligere § 22-7).
+
+### § 22-10. Unntak fra forbudet mot dumping
 
 Forbudet mot dumping gjelder ikke i tilfeller av force majeure på grunn av værmessig belastning eller annen årsak, når menneskeliv er i fare eller sikkerheten til skip, fly eller innretning er truet. Slik dumping skal snarest meldes til Miljødirektoratet.
 
-> Endret ved forskrifter [21 juni 2010 nr. 1073](forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013).
+> Endret ved forskrifter [21 juni 2010 nr. 1073](forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [2 juli 2026 nr. 1508](forskrift/2026-07-02-1508) (tidligere § 22-8).
 
-### § 22-9. Tilsyn
+### § 22-11. Tilsyn
 
-Statsforvalteren, Miljødirektoratet eller den Klima- og miljødepartementet bemyndiger, jf. [§ 22-6](forskrift/2004-06-01-931/§22-6), fører tilsyn med gjennomføringen av bestemmelsene i dette kapitlet eller vedtak truffet i medhold av disse bestemmelsene.
+Statsforvalteren, Miljødirektoratet eller den Klima- og miljødepartementet bemyndiger, jf. [§ 22-7](forskrift/2004-06-01-931/§22-7), fører tilsyn med gjennomføringen av bestemmelsene i dette kapitlet eller vedtak truffet i medhold av disse bestemmelsene.
 
-> Endret ved forskrifter [21 juni 2010 nr. 1073](forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014), [14 des 2020 nr. 3341](forskrift/2020-12-14-3341) (i kraft 1 juni 2021).
-
-### § 22-10. (Opphevet)
-
-> Opphevet ved [forskrift 29 juni 2007 nr. 820](forskrift/2007-06-29-820) (i kraft 1 juli 2007).
+> Endret ved forskrifter [21 juni 2010 nr. 1073](forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014), [14 des 2020 nr. 3341](forskrift/2020-12-14-3341) (i kraft 1 juni 2021), [2 juli 2026 nr. 1508](forskrift/2026-07-02-1508) (tidligere § 22-9).
 
 ### Kapittel 23. Hindring av forurensning ved kloakkutslipp fra skip
 
 Fastsatt med hjemmel i [lov 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v](lov/1903-06-09-7). Hjemmel er endret til [lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 2](lov/2007-02-16-9/§2), [§ 13](lov/2007-02-16-9/§13), [§ 31](lov/2007-02-16-9/§31), [§ 32](lov/2007-02-16-9/§32), [§ 33](lov/2007-02-16-9/§33) og [§ 43](lov/2007-02-16-9/§43), jf. [delegeringsvedtak 16. februar 2007 nr. 171](forskrift/2007-02-16-171) og [lov 26. juni 1998 nr. 47 om fritids- og småbåter § 20](lov/1998-06-26-47/§20) og [§ 38](lov/1998-06-26-47/§38), jf. [delegeringsvedtak 27. november 1998 nr. 1095](forskrift/1998-11-27-1095) og delegeringsvedtak/kgl.res. ift. kap. 5. Videre fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 9](lov/1981-03-13-6/§9).1
 
 > Hjemmel endret ved [forskrift 29 juni 2007 nr. 820](forskrift/2007-06-29-820) (i kraft 1 juli 2007).
+
+1 Kapitlet har vært notifisert til ESA i henhold til direktiv [98/34/EF](eu/31998l0034).
 
 ### I. Innledende bestemmelser
 
@@ -3057,6 +3681,8 @@ For idrettsbaner som er anlagt før dette kapitlets ikrafttredelse gjelder beste
 
 ## Del 7. Krav til forebygging av forurensning fra visse virksomheter eller utslippskilder
 
+Bestemmelser om
+
 - forurensninger fra asfaltverk står i [kapittel 24](forskrift/2004-06-01-931/kap24),
 - forurensning fra vask og impregnering av oppdrettsnøter står i [kapittel 25](forskrift/2004-06-01-931/kap25).
 
@@ -3116,7 +3742,11 @@ Virksomheten skal søke å forhindre utslipp som utsetter omgivelsene for sjener
 
 ### § 24-8. Støy
 
-Bedriftens bidrag til utendørs støy ved omkringliggende boliger, sykehus, pleieinstitusjoner, fritidsboliger, utdanningsinstitusjoner og barnehager skal ikke overskride følgende grenser, målt eller beregnet som frittfeltsverdi ved mest støyutsatte fasade:*Mandag-fredag**Kveld mandag-fredag**Lørdag**Søn-/helligdager**Natt (kl. 23-07)**Natt (kl. 23-07)*55 Lden50 Levening50 Lden45 Lden45 Lnight60 LAFmax
+Bedriftens bidrag til utendørs støy ved omkringliggende boliger, sykehus, pleieinstitusjoner, fritidsboliger, utdanningsinstitusjoner og barnehager skal ikke overskride følgende grenser, målt eller beregnet som frittfeltsverdi ved mest støyutsatte fasade:
+
+| *Mandag-fredag* | *Kveld mandag-fredag* | *Lørdag* | *Søn-/helligdager* | *Natt (kl. 23-07)* | *Natt (kl. 23-07)* |
+| --- | --- | --- | --- | --- | --- |
+| 55 Lden | 50 Levening | 50 Lden | 45 Lden | 45 Lnight | 60 LAFmax |
 
 Lden er definert som døgnmiddel. Med impulsstøy eller rentonelyd er grensen 5 dBA lavere. Den strengeste grenseverdien legges til grunn når impulslyd opptrer med i gjennomsnitt mer enn 10 hendelser pr. time.
 
@@ -3270,9 +3900,13 @@ Utslippsledning fra store anlegg skal ha et utslippspunkt som ligger minst 10 me
 
 ### § 26-5. Måling og beregning av utslipp
 
+*a. Måling av prosessavløpsvann*
+
 Virksomheter som må ha fettutskiller i henhold til [§ 26-3](forskrift/2004-06-01-931/§26-3) skal måle vannmengde og fettinnhold i prosessavløpsvannet.
 
 Statsforvalteren kan bestemme at også andre virksomheter enn dem som omfattes av første ledd skal foreta målinger av prosessavløpsvannet.
+
+*b. Generelle bestemmelser*
 
 Utslippsmålingene skal være representative for normal drift. Prøvetaking og analyse skal utføres etter Norsk Standard (NS) der slik standard finnes. Annen metode kan brukes dersom det kan dokumenteres at den metoden som brukes gir minst samme nøyaktighet som NS. Prøvetakning og måling skal være kvalitetssikret.
 
@@ -3514,6 +4148,8 @@ For gassturbiner og motorer som er satt i drift før 20. desember 2021 gjelder d
 
 ### Vedlegg 1. Krav til innhold i melding og søknad om tillatelse
 
+*Opplysninger som virksomheten skal gi i melding eller søknad, jf. [§ 27-4](forskrift/2004-06-01-931/§27-4) og [§ 27-5](forskrift/2004-06-01-931/§27-5):*
+
 1. Forbrenningsanleggets nominelle tilførte termiske effekt
 2. Type forbrenningsanlegg (dieselmotor, gassturbin, dual fuel motor, annen motor eller annet forbrenningsanlegg). Forbrenningsanleggets bruk av renseløsninger for røykgassen.
 3. Type og andel av benyttede brensel i overenstemmelse med brenselskategorier fastsatt i vedlegg 2 del 1 tabell 2, 3 og 4 og del 2. For forbrenningsanlegg som omfattes av [§ 27-5](forskrift/2004-06-01-931/§27-5) første ledd bokstav b skal det i tillegg gis opplysninger om brenselets sammensetning og innhold av forurensninger.
@@ -3536,16 +4172,143 @@ Hvis et forbrenningsanlegg omfattet av [§ 27-10](forskrift/2004-06-01-931/§27-
 
 ### Del 1: Utslippsgrenseverdier for forbrenningsanlegg etablert før 20. desember 2021
 
+*Tabell 1. Utslippsgrenseverdier (mg/Nm3) for forbrenningsanlegg, unntatt motorer og gassturbiner*
+
+| *Brensel* | *Enhetsstørrelse*1 | *Støv mg/Nm3<br>12 timers middelverdi* | *NOx mg/Nm3 timesmiddel* | *CO mg/Nm3 timesmiddel* |
+| --- | --- | --- | --- | --- |
+| Animalske og vegetabilske oljer2 | 1<5 MW | 30 | – | 80 |
+|  | 5<50 MW | 30 | 300 | 80 |
+| Lette og medium destillater/lette og medium gassoljer: | 1<10 MW | 20 | – | 80 |
+|  | 10<50 | 20 | 250 | 80 |
+| Tunge destillater/tunge gassoljer | 5<50 MW | 20 | 600 | 100 |
+| Fast biomasse | 1<5 MW | 225 | – | 200/3003 |
+|  | 5<20 MW | 75 | 300 | 200/3003 |
+|  | 20<50 MW | 30 | 300 | 150/3003 |
+| Kull | 5<50 MW | 50 | 200 | 150 |
+| Gass | 5<50 MW | – | 170 | 80 |
+
+1 Enhetsstørrelse: summen av tilført termisk effekt for forbrenningsanlegg med samme brensel som drives samtidig på samme lokalitet.
+
+2 Med animalske oljer menes fiskeoljer og annet rent flytende animalsk fett.
+
+3 Forbrenningsanlegg for trepulver.
+
+*Tabell 2. Utslippsgrenseverdier (mg/Nm3) for forbrenningsanlegg, unntatt motorer og gassturbiner, med nominell tilført termisk effekt over 5 MW*
+
+| *Utslipps-parameter* | *Fast biomasse* | *Annet fast brensel* | *Lette og medium destillater/lette og medium gassoljer:* | *Andre flytende brensel enn lette og medium destillater/lette og medium gassoljer:* | *Naturgass* | *Andre gassformige brensel enn naturgass* |
+| --- | --- | --- | --- | --- | --- | --- |
+| SO2 | 2001 2 | 4003 | – | 3504 | – | 355 6 |
+| NOx | 300 | 200 | 200 | 3007 | 170 | 170 |
+| Støv | 308 | 308 | – | 30 | – | – |
+
+1 Verdien anvendes ikke for anlegg som utelukkende fyres med fast biomasse fra skog.
+
+2 300 mg/Nm3 for anlegg som fyres med halm.
+
+3 1100 mg/Nm3 for anlegg med en nominell tilført termisk effekt fra 5 MW til og med 20 MW.
+
+4 Inntil 1. januar 2030: 850 mg/Nm3 for anlegg med nominell tilført termisk effekt over 5 MW til og med 20 MW som fyres med tunge destillater/tunge gassoljer.
+
+5 400 mg/Nm3 for gasser med lav brennverdi fra koksovner, og 200 mg/Nm3 for gasser med lav brennverdi fra masovner, i jern- og stålindustrien.
+
+6 170 mg/Nm3 for biogass.
+
+7 600 mg/Nm3 for anlegg som fyrer med tunge destillater/tunge gassoljer.
+
+8 50 mg/Nm3 for anlegg med nominell tilført termisk effekt fra 5 MW til og med 20 MW.
+
+*Tabell 3. Utslippsgrenseverdier (mg/Nm3) for forbrenningsanlegg, unntatt motorer og gassturbiner, med nominell tilført termisk effekt fra og med 1 MW til og med 5 MW*
+
+| *Utslipps-parameter* | *Fast biomasse* | *Annet fast brensel* | *Lette og medium destillater/lette og medium gassoljer:* | *Andre flytende brensel enn lette og medium destillater/lette og medium gassoljer:* | *Naturgass* | *Andre gassformige brensel enn naturgass* |
+| --- | --- | --- | --- | --- | --- | --- |
+| SO2 | 2001 2 | 1100 | – | 350 | – | 2003 |
+| NOx | 650 | 650 | 200 | 650 | 250 | 250 |
+| Støv | 50 | 50 | – | 30 | – | – |
+
+1 Verdien anvendes ikke for anlegg som utelukkende fyres med fast biomasse fra skog.
+
+2 300 mg/Nm3 for anlegg som fyrer med halm.
+
+3 400 mg/Nm3 for gasser med lav brennverdi fra koksovner i jern- og stålindustrien.
+
+*Tabell 4. Utslippsgrenseverdier (mg/Nm3) for motorer og gassturbiner*
+
+| *Utslipps-parameter* | *Type forbrenningsanlegg* | *Lette og medium destillater/lette og medium gassoljer:* | *Andre flytende brensler enn lette og medium destillater/lette og medium gassoljer:* | *Naturgass* | *Andre gassformige brensler enn naturgass* |
+| --- | --- | --- | --- | --- | --- |
+| SO2 | Motorer og gassturbiner | – | 120 | – | 151 2 |
+| NOx | Motorer | 1903 4 | 1903 5 | 1906 | 1906 |
+|  | Gassturbiner7 | 200 | 200 | 150 | 200 |
+| Støv | Motorer og gassturbiner | – | 108 | – | – |
+
+1 60 mg/Nm3 for biogass.
+
+2 130 mg/Nm3 for gasser med lav brennverdi fra koksovner, og 65 mg/Nm3 for gasser med lav brennverdi fra masovner, i jern- og stålindustrien.
+
+3 1850 mg/Nm3 i følgende tilfelle:
+
 1. For dieselmotorer for hvilke konstruksjonen er påbegynt før 18. mai 2006.
 2. For dual fuel-motorer når det fyres med flytende brensel.
+
+4 250 mg/Nm3 for anlegg med nominell tilført termisk effekt fra og med 1 MW til og med 5 MW.
+
+5 250 mg/Nm3 for anlegg med nominell tilført termisk effekt fra og med 1 MW til og med 5 MW og 225 mg/Nm3 for anlegg med nominell tilført termisk effekt over 5 MW til og med 20 MW.
+
+6 380 mg/Nm3 for dual fuel-motorer, når det fyres med gassformig brensel.
+
+7 Utslippsgrenseverdiene gjelder bare når belastningen er over 70 %.
+
+8 20 mg/Nm3 for anlegg med nominell tilført termisk effekt fra og med 1 MW til og med 20 MW.
 
 > Tilføyd ved [forskrift 23 juni 2021 nr. 2221](forskrift/2021-06-23-2221) (i kraft 1 juli 2021).
 
 ### Del 2: Utslippsgrenseverdier for forbrenningsanlegg etablert etter 19. desember 2021
 
+*Tabell 1. Utslippsgrenseverdier (mg/Nm3) for forbrenningsanlegg, unntatt motorer og gassturbiner*
+
+| *Utslipps-parameter* | *Fast biomasse* | *Annet fast brensel* | *Lette og medium destillater/lette og medium gassoljer:* | *Andre flytende brensel enn lette og medium destillater/lette og medium gassoljer:* | *Naturgass* | *Andre gassformige brensel enn naturgass* |
+| --- | --- | --- | --- | --- | --- | --- |
+| SO2 | 2001 | 400 | – | 350 | – | 352 3 |
+| NOx | 3004 | 3004 | 200 | 300 | 100 | 170 |
+| Støv | 205 | 205 | – | 206 | – | – |
+
+1 Verdien anvendes ikke for anlegg som utelukkende fyres med fast biomasse fra skog.
+
+2 400 mg/Nm3 for gasser med lav brennverdi fra koksovner, og 200 mg/Nm3 for gasser med lav brennverdi fra masovner, i jern- og stålindustrien.
+
+3 100 mg/Nm3 for biogass.
+
+4 500 mg/Nm3 for anlegg med samlet nominell tilført termisk effekt fra og med 1 MW til og med 5 MW.
+
+5 50 mg/Nm3 for anlegg med en samlet nominell tilført termisk effekt fra og med 1 MW til og med 5 MW og 30 mg/Nm3 for anlegg med en samlet nominell tilført termisk på mer enn 5 MW og til og med 20 MW.
+
+6 30 mg/Nm3 for anlegg med en samlet nominell tilført termisk effekt fra og med 1 MW til og med 5 MW.
+
+*Tabell 2. Utslippsgrenseverdier (mg/Nm3) for motorer og gassturbiner*
+
+| *Utslipps-parameter* | *Type forbrenningsanlegg* | *Lette og medium destillater/lette og medium gassoljer:* | *Andre flytende brensler enn lette og medium destillater/lette og medium gassoljer:* | *Naturgass* | *Andre gassformige brensler enn naturgass* |
+| --- | --- | --- | --- | --- | --- |
+| SO2 | Motorer og gassturbiner | – | 120 | – | 151 |
+| NOx | Motorer | 1902 | 1902 3 | 954 | 190 |
+|  | Gassturbiner5 | 75 | 75 | 50 | 75 |
+| Støv | Motorer og gassturbiner | – | 106 | – | – |
+
+1 40 mg/Nm3 for biogass.
+
+2 225 mg/Nm3 for dual fuel-motorer når det fyres med flytende brensel.
+
+3 225 mg/Nm3 for dieselmotorer med en samlet nominell tilført termisk effekt til og med 20 MW med ≤ 1200 omdreininger pr minutt.
+
+4 190 mg/Nm3 for dual fuel-motorer når det fyres med gassformig brensel.
+
+5 Utslippsgrenseverdiene gjelder bare når lasten overstiger 70 %.
+
+6 20 mg/Nm3 for anlegg med en samlet nominell tilført termisk effekt fra og med 1 MW til og med 5 MW.
+
 > Tilføyd ved [forskrift 23 juni 2021 nr. 2221](forskrift/2021-06-23-2221) (i kraft 1 juli 2021).
 
 ### Vedlegg 3. Målinger av utslipp
+
+*1. Krav til periodiske og kontinuerlige utslippsmålinger*
 
 Det skal utføres periodiske målinger minst:hvert tredje år for forbrenningsanlegg fra og med 1 MW til og med 20 MWhvert år for forbrenningsanlegg over 20 MW.
 
@@ -3559,9 +4322,13 @@ For forbrenningsanlegg satt i drift etter 19. desember 2021 skal de første mål
 
 Forurensningsmyndigheten kan gjøre unntak fra andre ledd.
 
+*2. Krav til måleparameter og gjennomføringen av målingene*
+
 Målingene skal omfatte:de forurensende stoffer som det er satt utslippsgrenser for for det berørte anleggetCO fra alle anlegg.
 
 Prøvetaking og analyse skal utføres etter Norsk Standard (NS) der slik standard finnes. Annen metode kan brukes dersom det kan dokumenteres at metoden gir minst samme nøyaktighet som NS. Under hver måling skal anlegget være i drift under stabile forhold og med en representativ jevn belastning. Oppstarts- og nedkjøringsperioder er i den forbindelse utenfor. Prøvetaking og måling skal være kvalitetssikret.
+
+*3. Overholdelse av utslippsgrenseverdier*
 
 Ved periodiske målinger anses utslippsgrenseverdiene for å være overholdt om resultatene fra hver serie målinger, ikke overskrider utslippsgrenseverdiene.
 
@@ -3601,7 +4368,35 @@ Når særlige forhold tilsier det, kan statsforvalteren kreve at også virksomhe
 
 Mengden av prosessavløpsvann skal holdes så lav som mulig.
 
-Prosessavløpsvann fra overflatebehandlingen skal ikke overstige følgende konsentrasjonsgrenser målt etter metoder beskrevet i Norsk Standard:*Komponent**Måleparameter**Konsesjonsgrense (mg/l)*AluminiumAl10,0BlyPb0,5CyanidCN- (fritt)0,2FluorF10,0Flyktige klororganiske løsemidler (VOX)CH-Cl0,1 (uttrykt som klor)FosforP-tot5,0GullAu0,1JernFe5,0KadmiumCd01KobberCu0,5Krom (VI)Cr-VI+0,05KromCr-tot0,5KvikksølvHg0,002ManganMn2,0MolybdenMo1,0NikkelNi0,5OljeOlje20,0SinkZn1,0SølvAg0,1SulfatSO4300TinnSn2,0MagnesiumMg5,0FettFETT20
+Prosessavløpsvann fra overflatebehandlingen skal ikke overstige følgende konsentrasjonsgrenser målt etter metoder beskrevet i Norsk Standard:
+
+| *Komponent* | *Måleparameter* | *Konsesjonsgrense (mg/l)* |
+| --- | --- | --- |
+| Aluminium | Al | 10,0 |
+| Bly | Pb | 0,5 |
+| Cyanid | CN- (fritt) | 0,2 |
+| Fluor | F | 10,0 |
+| Flyktige klororganiske løsemidler (VOX) | CH-Cl | 0,1 (uttrykt som klor) |
+| Fosfor | P-tot | 5,0 |
+| Gull | Au | 0,1 |
+| Jern | Fe | 5,0 |
+| Kadmium | Cd | 01 |
+| Kobber | Cu | 0,5 |
+| Krom (VI) | Cr-VI+ | 0,05 |
+| Krom | Cr-tot | 0,5 |
+| Kvikksølv | Hg | 0,002 |
+| Mangan | Mn | 2,0 |
+| Molybden | Mo | 1,0 |
+| Nikkel | Ni | 0,5 |
+| Olje | Olje | 20,0 |
+| Sink | Zn | 1,0 |
+| Sølv | Ag | 0,1 |
+| Sulfat | SO4 | 300 |
+| Tinn | Sn | 2,0 |
+| Magnesium | Mg | 5,0 |
+| Fett | FETT | 20 |
+
+1 I forbindelse med plettering av flydeler tillates utslipp av inntil 0,05 mg/l Cd.
 
 pH-verdien i avløpsvannet skal ligge mellom 6,0-9,5. Hurtige forandringer av pH innenfor dette området er ikke tillatt.
 
@@ -3609,17 +4404,31 @@ Grenseverdiene skal overholdes uten noen form for fortynning før prøvetaking/m
 
 ### § 28-4. Måling og beregning av utslipp til vann
 
+*a. Alle virksomheter*
+
 Alle virksomheter skal måle avløpsvannmengde, pH og relevante utslippskomponenter pH skal måles kontinuerlig i utslippspunktet.
+
+*b. Virksomheter med kontinuerlig utslipp og avløpsvann som inneholder kadmium, krom eller cyanid*
 
 Det skal tas prøver av avløpsvannet 12 ganger pr. år. Prøvene tas som mengdeproporsjonale ukeblandprøver i en på forhånd fastsatt driftsuke hver måned.
 
+*c. Virksomheter med kontinuerlig utslipp over 1,0 m3/t som ikke inneholder kadmium, krom eller cyanid*
+
 Det skal tas prøver av avløpsvannet 6 ganger pr. år. Prøvene skal tas som mengdeproporsjonale ukeblandprøver i en på forhånd fastsatt driftsuke annenhver måned.
+
+*d. Andre virksomheter med kontinuerlig utslipp lik eller mindre enn 1,0 m3/t som ikke inneholder kadmium, krom eller cyanid*
 
 Det skal tas prøver av avløpsvannet 6 ganger pr. år. Prøvene skal tas i en på forhånd fastsatt driftsuke annenhver måned. Prøvene skal tas som stikkprøver (momentanverdier).
 
+*e. Virksomheter med satsvis avgiftning av avløpsvann som inneholder kadmium, krom eller cyanid*
+
 Vannprøve tas ved utslipp av ferdig avgiftet avløpsvann av inntil 12 satser pr. år. Dersom det avgiftes over 12 satser pr. år, skal prøvene fordeles jevnt over året. Avgiftes det færre satser pr. år, skal det tas prøve av hver sats.
 
+*f. Virksomheter med satsvis avgiftning som ikke inneholder kadmium, krom eller cyanid*
+
 Vannprøver skal tas ved utslipp av ferdig avgiftet avløpsvann av inntil 6 satser pr. år. Dersom det avgiftes over 6 satser pr. år, skal prøvene fordeles jevnt over året.
+
+*g. Generelle bestemmelser*
 
 Utslippsmålingene skal være representative for normal drift. Prøvetaking og analyse skal utføres etter Norsk Standard (NS) der slik standard finnes. Annen metode kan brukes dersom det kan dokumenteres at den metoden som brukes gir minst samme nøyaktighet som NS. Prøvetakning og måling skal være kvalitetssikret.
 
@@ -3715,7 +4524,11 @@ Ved blåserensing/høytrykkspyling av overflater påført begroingshindrende mid
 
 ### § 29-7. Støy
 
-Bedriftens bidrag til utendørs støy skal ikke overskride følgende grenser, målt eller beregnet som frittfeltsverdi ved mest støyutsatte fasade hos nabo:*Mandag-fredag**Kveld mandag-fredag**Lørdag**Søn-/helligdager**Natt (kl. 23-07)**Natt (kl. 23-07)*55 Lden50 Levening50 Lden45 Lden45 Lnight60 LAFmax
+Bedriftens bidrag til utendørs støy skal ikke overskride følgende grenser, målt eller beregnet som frittfeltsverdi ved mest støyutsatte fasade hos nabo:
+
+| *Mandag-fredag* | *Kveld mandag-fredag* | *Lørdag* | *Søn-/helligdager* | *Natt (kl. 23-07)* | *Natt (kl. 23-07)* |
+| --- | --- | --- | --- | --- | --- |
+| 55 Lden | 50 Levening | 50 Lden | 45 Lden | 45 Lnight | 60 LAFmax |
 
 Lden er definert som døgnmiddel. Med impulsstøy eller rentonelyd er grensen 5 dBA lavere. Den strengeste grenseverdien legges til grunn når impulslyd opptrer med i gjennomsnitt mer enn 10 hendelser pr. time.
 
@@ -3741,6 +4554,8 @@ For virksomheter som driver overflatebehandling og vedlikehold av skip/offshorei
 
 ### § 29-9. Måling og beregning av utslipp
 
+*a. Utslipp til luft*
+
 Virksomheten skal gjennomføre representative målinger og beregninger av utslipp av støv fra punktkilder til luft.
 
 Virksomheter som driver blåserensing som en del av produksjonsprosessen skal måle støvnedfall i månedlige intervaller. Måleperioden skal vare minst ett år og skal ikke avsluttes før målingene dokumenterer at kravene i [§ 29-5](forskrift/2004-06-01-931/§29-5) overholdes. Nedfallsmålingene skal planlegges og utføres av uavhengig faginstans. Virksomheten skal også kunne dokumentere at støvnedfallet ikke inneholder miljøskadelige stoffer
@@ -3749,9 +4564,15 @@ Målinger av støv fra punktkilder og støvnedfallsmålinger skal gjennomføres 
 
 Krav om støvnedfallsmålinger gjelder ikke for virksomheter i byer og tettsteder der luftkvaliteten overvåkes av offentlige myndigheter, og der det er åpenbart at virksomheten ikke bidrar vesentlig til det totale støvnedfallet i området.
 
+*b. Utslipp til vann*
+
 Dersom virksomheten har utslipp til vann, skal den kunne dokumentere hvordan utslipp av prioriterte stoffer (jf. vedlegg 1) blir målt/kontrollert og hvilke tiltak som er gjort for å begrense utslippene.
 
+*c. Støy*
+
 Virksomheten skal innen ett år etter at dette kapittelet trer i kraft foreta måling av støy ved nærmeste nabo.
+
+*d. Generelle bestemmelser*
 
 Utslippsmålingene skal være representative for normal drift. Prøvetaking og analyse skal utføres etter Norsk Standard (NS) der slik standard finnes. Annen metode brukes dersom det kan dokumenteres at den metoden som brukes gir minst samme nøyaktighet som NS. Prøvetakning og måling skal være kvalitetssikret.
 
@@ -3792,6 +4613,54 @@ Krav i utslippstillatelse fastsatt før dette kapittelet trer i kraft, som er st
 > Tilføyd ved [forskrift 17 sep 2009 nr. 1219](forskrift/2009-09-17-1219) (i kraft 1 jan 2010), endret ved [forskrift 14 des 2020 nr. 3341](forskrift/2020-12-14-3341) (i kraft 1 juni 2021).
 
 Utslipp av disse komponenter er bare tillatt dersom de er så små at de må anses å være uten miljømessig betydning. Statsforvalteren kan gi veiledning med å vurdere hva som anses å være uten miljømessig betydning.
+
+*Metaller og metallforbindelser:*
+
+|  | *Forkortelser* |
+| --- | --- |
+| *Arsen* og arsenforbindelser | As og As-forbindelser |
+| *Bly* og blyforbindelser | Pb og Pb-forbindelser |
+| *Kadmium* og kadmiumforbindelser | Cd og Cd-forbindelser |
+| *Krom* og kromforbindelser | Cr og Cr-forbindelser |
+| *Kvikksølv* og kvikksølvforbindelser | Hg og Hg-forbindelser |
+
+*Organiske forbindelser:*
+
+|  | *Vanlige forkortelser* |
+| --- | --- |
+| *Bromerte flammehemmere:* |  |
+| Penta-bromdifenyleter (difenyleter, pentabromderivat) | Penta-BDE |
+| Okta-bromdifenyleter (defenyleter, oktabromderivat) | Okta-BDE, octa-BDE |
+| Deka-bromdifenyleter (bis(pentabromfenyl)eter) | Deka-BDE, deca-BDE |
+| Heksabromcyclododekan | HBCDD |
+| Tetrabrombisfenol A (2.2,6,6-tetrabromo-4,4isopropyliden difenol) | TBBPA |
+| *Dietylheksylftalat (bis((2-etylheksyl)ftalat)* | DEHP |
+| *Klorholdige organiske forbindelser* |  |
+| 1,2-Dikloretan | EDC |
+| Klorerte dioksiner og furaner | Dioksiner, PCDD/PCDF |
+| Heksaklorbenzen | HCB |
+| Kortkjedete klorparafiner C10 – C13 (kloralkaner C10 – C13) | SCCP |
+| Klorerte alkylbenzener | KAB |
+| Mellomkjedete klorparafiner C14 – C17 (kloralkaner C14 – C17 ) | MCCP |
+| Pentaklorfenol | PCF, PCP |
+| Polyklorerte bifenyler | PCB |
+| Tetrakloreten | PER |
+| Tensidene: |  |
+| Ditalg-dimetylammoniumklorid | DTDMAC |
+| Dimetyldioktadekylammoniumklorid | DSDMAC |
+| Di(hydrogenert talg)dimetylammoniumklorid | DHTMAC |
+| Triklorbenzen | TCB |
+| Trikloreten | TRI |
+| *Muskxylener* (nitromuskforbindelser): |  |
+| Muskxylen |  |
+| Muskketon |  |
+| *Nonylfenol og nonylfenoletoksilater* | NF, NP, NFE, NPE |
+| *Oktylfenol og oktylfenoletoksilater* | OF, OP, OFE, OPE |
+| *Perfluor oktylsulfonat og andre perfluorerte alkylsulfonater* | PFOS, PFAS |
+| *Polysykliske aromatiske hydrokarboner* | PAH |
+| *Tinnorganiske forbindelser:* |  |
+| Tributyltinn | TBT |
+| Trifenyltinn | TFT, TPT |
 
 ### Kapittel 30. Forurensninger fra produksjon av pukk, grus, sand og singel
 
@@ -3849,7 +4718,11 @@ Dersom prosessvann har helse- eller miljøskadelige stoffer/egenskaper, eller ut
 
 ### § 30-7. Støy
 
-Bedriftens bidrag til utendørs støy skal ikke overskride følgende grenser, målt eller beregnet som frittfeltsverdi ved mest støyutsatte fasade hos nabo:*Mandag-fredag**Kveld mandag-fredag**Lørdag**Søn-/helligdager**Natt (kl. 23-07)**Natt (kl. 23-07)*55 Lden50 Levening50 Lden45 Lden45 Lnight60 LAFmax
+Bedriftens bidrag til utendørs støy skal ikke overskride følgende grenser, målt eller beregnet som frittfeltsverdi ved mest støyutsatte fasade hos nabo:
+
+| *Mandag-fredag* | *Kveld mandag-fredag* | *Lørdag* | *Søn-/helligdager* | *Natt (kl. 23-07)* | *Natt (kl. 23-07)* |
+| --- | --- | --- | --- | --- | --- |
+| 55 Lden | 50 Levening | 50 Lden | 45 Lden | 45 Lnight | 60 LAFmax |
 
 Lden er definert som døgnmiddel. Med impulsstøy eller rentonelyd er grensen 5 dBA lavere. Den strengeste grenseverdien legges til grunn når impulslyd opptrer med i gjennomsnitt mer enn 10 hendelser pr. time.
 
@@ -3988,7 +4861,14 @@ Hvis CEN-standarder ikke er tilgjengelige, skal ISO-standarder, nasjonale eller 
 
 (9) Automatiske målesystemer skal minst én gang per år kontrolleres ved hjelp av parallellmålinger med referansemetoden. Virksomhetsansvarlig skal informere forurensningsmyndigheten om resultatet av kontrollene.
 
-(10) Måleusikkerheten, uttrykt som et 95 % konfidensintervall for et enkelt måleresultat skal ikke overskride følgende prosentverdier ved utslippsgrenseverdiene:*Maks. måleusikkerhet*Karbonmonoksid10 %Svoveldioksid20 %Nitrogenoksider20 %Støv30 %
+(10) Måleusikkerheten, uttrykt som et 95 % konfidensintervall for et enkelt måleresultat skal ikke overskride følgende prosentverdier ved utslippsgrenseverdiene:
+
+|  | *Maks. måleusikkerhet* |
+| --- | --- |
+| Karbonmonoksid | 10 % |
+| Svoveldioksid | 20 % |
+| Nitrogenoksider | 20 % |
+| Støv | 30 % |
 
 (11) Validering av måleresultater: De validerte gjennomsnittsverdiene per time og per dag skal bestemmes ut fra de målte gyldige gjennomsnittsverdiene per time etter fratrekk av verdien til konfidensintervallet som angitt i punkt (10). For å oppnå en gyldig døgnmiddelverdi kan ikke mer enn tre timesmiddelverdier per døgn forkastes på grunn av svikt ved eller vedlikehold av det kontinuerlige måleutstyret. Om mer enn ti døgn over ett år ikke valideres av slike årsaker, skal virksomhetsansvarlig iverksette tiltak for å forbedre det automatiske målesystemets pålitelighet.
 
@@ -4054,6 +4934,8 @@ Dersom et forbrenningsanlegg endres på en måte som kan ha konsekvenser for mil
 
 ### Vedlegg 1. Utslippsgrenseverdier for forbrenningsanlegg
 
+*Utslippsgrenseverdier for forbrenningsanlegg som omhandlet i [§ 31-5](forskrift/2004-06-01-931/§31-5)*. For overholdelse av utslippsgrenseverdiene jf. [§ 31-7](forskrift/2004-06-01-931/§31-7).
+
 Alle utslippsgrenseverdier er uttrykt i mg/Nm3 og skal beregnes ved en temperatur på 273,15 K, et trykk på 101,3 kPa og korreksjon av vanndampinnhold i røykgassene ved et standardisert O2 -innhold på 6 % for faste brensler, 3 % for flytende og gassformige brensler, med unntak for gassturbiner og gassmotorer der standardisert O2 -innhold er 15 %.
 
 > Tilføyd ved [forskrift 26 juli 2016 nr. 950](forskrift/2016-07-26-950) (i kraft 1 aug 2016).
@@ -4061,24 +4943,119 @@ Alle utslippsgrenseverdier er uttrykt i mg/Nm3 og skal beregnes ved en temperatu
 ### Del 1:
 Utslippsgrenseverdier for forbrenningsanlegg med tillatelse fra før 7. januar 2013 eller hvor virksomhetsansvarlig har levert en fullstendig søknad om tillatelse innen denne datoen, og anlegget ble satt i drift senest 7. januar 2014
 
+*1.1 Utslippsgrenseverdier for forbrenningsanlegg som benytter faste brensler, med unntak av hva som er angitt i 1.2:*
+
+| *Samlet nominell tilført termisk effekt (MW)* | *SO2* |  |  | *NOx* |  | *Støv* |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | *andre faste brensel* | *bio-masse* | *torv* | *andre faste brensel* | *biomasse og torv* | *andre faste brensel* | *biomasse og torv* |
+| 50 ≤ MW ≤ 100 | 400 | 200 | 300 | 300<br>4501 | 300 | 30 | 30 |
+| 100 < MW ≤ 300 | 250 | 200 | 300 | 200 | 250 | 25 | 20 |
+| MW > 300 | 200 | 200 | 200 | 200 | 200 | 20 | 20 |
+
+1 Ved pulverforbrenning av brunkull.
+
+*1.2 Utslippsgrenseverdier for forbrenningsanlegg som benytter faste brensler og har tillatelse fra før 27. november 2002, eller der virksomhetsansvarlig leverte en fullstendig søknad om tillatelse innen denne datoen og forbrenningsanlegget ble satt i drift senest 27. november 2003, og ikke er i drift mer enn 1 500 timer per år som en rullerende middelverdi over en periode på fem år:*
+
+| *Samlet nominell tilført termisk effekt (MW)* | *SO2* | *NOx* |  |
+| --- | --- | --- | --- |
+|  |  | *Tillatelse fra før 27.11.2002* | *Tillatelse fra før 1.7.1987* |
+| 50 ≤ MW ≤ 300 | 800 | 450 | 450 |
+| 300 < MW ≤ 500 | 800 | 450 | 450 |
+| MW > 500 | 800 | 200 | 450 |
+
 Støv har samme grenseverdier som i tabell 1.1
 
 Utslippsgrenseverdiene gjelder også for en del av et forbrenningsanlegg (en eller flere fyringsenheter), som faller inn under samme bestemmelse, og som slipper ut røykgassene gjennom en eller flere røykgasskanaler i en felles skorstein. Det forutsettes at utslippene måles separat i de aktuelle røykgasskanalene. Utslippsgrenseverdiene skal bestemmes ut fra hele forbrenningsanleggets sammenlagte nominelle tilførte termiske effekt.
 
+*1.3 Utslippsgrenseverdier for forbrenningsanlegg som benytter flytende brensler, med unntak av gassturbiner og gassmotorer og med unntak av hva som er angitt i 1.4:*
+
+| *Samlet nominell tilført termisk effekt (MW)* | *SO2* | *NOx* |  | *Støv* |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  | *særlige betingelser1* |  | *særlige betingelser2* |
+| 50 ≤ MW ≤ 100 | 350 | 450 | 450 | 30 | 50 |
+| 100 < MW ≤ 300 | 250 | 200 | 450 | 25 | 50 |
+| MW > 300 | 200 | 150 | 450 | 20 | 50 |
+
+1 Alle forbrenningsanlegg med tillatelse fra før 27. november 2002, eller hvor virksomhetsansvarlig har levert en fullstendig søknad om tillatelse innen samme dato, og forbrenningsanlegget ble satt i drift senest 27. november 2003, med samlet nominell tilført termisk effekt som ikke overstiger 500 MW, i følgende anvendelser:
+
 - benytter destillasjons- og omvandlingsrester fra råoljeraffinering til eget forbruk
 - benytter flytende produksjonsrester som ikke-kommersielt brensel i kjemiske anlegg til eget forbruk
 
+2 Alle forbrenningsanlegg med tillatelse fra før 27. november 2002, eller hvor virksomhetsansvarlig har levert en fullstendig søknad om tillatelse innen samme dato, og forbrenningsanlegget ble satt i drift senest 27. november 2003 og benytter destillasjons- og omvandlingsrester fra råoljeraffinering til eget forbruk.
+
+*1.4 Utslippsgrenseverdier for forbrenningsanlegg som benytter flytende brensler, med unntak av gassturbiner og gassmotorer, med tillatelse fra før 27. november 2002, eller der virksomhetsansvarlig har levert en fullstendig søknad om tillatelse innen samme dato forutsatt at forbrenningsanlegget ble satt i drift senest 27. november 2003, og ikke er i drift mer enn 1 500 timer per år som en rullerende middelverdi over en periode på fem år:*
+
+| *Samlet nominell tilført termisk effekt (MW)* | *SO2* | *NOx* | *Støv* |
+| --- | --- | --- | --- |
+| MW ≤ 300 | 850 | 450 | 50 |
+| 300 < MW ≤ 500 | 400 | 450 | 50 |
+| MW > 500 | 400 | 400 | 50 |
+
 Utslippsgrenseverdiene gjelder også for en del av et forbrenningsanlegg (en eller flere fyringsenheter), som faller inn under samme bestemmelser, og som slipper ut røykgassene gjennom en eller flere røykgasskanaler i en felles skorstein. Det forutsettes at utslippene måles separat i de aktuelle røykgasskanalene. Utslippsgrenseverdiene som skal fastsettes bestemmes ut fra forbrenningsanleggets sammenlagte nominelle tilførte termiske effekt.
 
+*1.5 Utslippsgrenseverdier for forbrenningsanlegg som benytter gassformige brensler, med unntak av gassturbiner og gassmotorer:*
+
+| *Type brensel* | *SO2* |
+| --- | --- |
+| Generelt | 35 |
+| Flytende gass | 5 |
+| Gasser med lav brennverdi fra koksovn | 400 |
+| Gasser med lav brennverdi fra masovn | 200 |
+| Forbrenningsanlegg med tillatelse fra før 27. november 20021 og som benytter gasser med lav brennverdi fra forgassing av raffinerirestprodukter | 800 |
+
+1 Alle forbrenningsanlegg med tillatelse fra før 27. november 2002, eller hvor virksomhetsansvarlig har levert en fullstendig søknad om tillatelse innen samme dato, forutsatt at forbrenningsanlegget ble satt i drift senest 27. november 2003.
+
+*1.6 Utslippsgrenseverdier for gassturbiner, inkludert combined cycle gassturbin (CCGT):*
+
+| *Type brensel* | *NOx* | *CO* |
+| --- | --- | --- |
+| Lett og medium destillat som flytende brensel | 90 | 100 |
+
 Gassturbiner i reservedrift med driftstid mindre enn 500 driftstimer per år omfattes ikke av disse utslippsgrenseverdiene. I slike anlegg skal virksomhetsansvarlig registrere driftstiden.
+
+*1.7 Utslippsgrenseverdier for forbrenningsanlegg som benytter gassformige brensler med unntak av hva som er angitt i 1.8:*
+
+| *Type anlegg og brensel* | *NOx* | *CO* |
+| --- | --- | --- |
+| Forbrenningsanlegg som fyres med naturgass, unntatt gassturbiner og gassmotorer | 100 | 100 |
+| Forbrenningsanlegg som fyres med masovngass, gass fra koksovn eller gasser med lav brennverdi fra forgassing av raffinerirestprodukter, unntatt gassturbiner og gassmotorer | 200<br>3004 | – |
+| Forbrenningsanlegg som fyres med andre gasser, unntatt gassturbiner og gassmotorer | 200<br>3004 | – |
+| Gassturbiner (inkl. CCGT) som fyrer med naturgass1,5 | 50 2,3 | 100 |
+| Gassturbiner (inkl. CCGT) som fyrer med andre gasser5 | 120 | – |
+| Gassmotorer | 100 | 100 |
+
+1 Naturgass er naturlig forekommende metan med høyest 20 volumprosent av inerte og andre bestanddeler.
+
+2 75 mg/Nm3 i følgende tilfeller der gassturbinens virkningsgrad er bestemt ved ISO standard grunnlastbetingelser:
 
 1. gassturbiner i kombinerte kraftvarmesystem (CHP) med samlet virkningsgrad høyere enn 75 %
 2. gassturbiner i CCGT-anlegg (Combined Cycle Gas Turbine) med årlig total el-virkningsgrad høyere enn 55 %
 3. gassturbiner for mekaniske drivverk.
 
+3 For enkle gassturbiner som ikke faller inn under kategoriene nevnt i fotnote 2, men som har en virkningsgrad høyere enn 35 % – bestemt ved ISO standard grunnlastbetingelser – er utslippsgrenseverdien for NOx: (50 x η)/ 35 der η er virkningsgraden for gassturbinen, uttrykt i prosent, ved ISO standard grunnlastbetingelser.
+
+4 For forbrenningsanlegg med samlet nominell tilført termisk effekt inntil 500 MW med tillatelse fra før 27. november 2002, eller hvor virksomhetsansvarlig har levert en fullstendig søknad om tillatelse innen sammen dato, forutsatt at forbrenningsanlegget ble satt i drift senest 27. november 2003.
+
+5 Utslippsgrenseverdiene for gassturbiner (inkl. CCGT) gjelder kun for last over 70 %.
+
+*1.8 Utslippsgrenseverdier for forbrenningsanlegg med gassturbiner (inkl. CCGT) med tillatelse fra før 27. november 2002, eller der virksomhetsansvarlig har levert en fullstendig søknad om tillatelse innen samme dato forutsatt at forbrenningsanlegget ble satt i drift senest 27. november 2003, og ikke er i drift mer enn 1500 timer per år som en rullerende middelverdi over en periode på fem år:*
+
+| *Brensel* | *NOx* |
+| --- | --- |
+| Naturgass | 150 |
+| Andre gasser eller flytende brensel | 200 |
+
 Utslippsgrenseverdiene gjelder også for en del av et forbrenningsanlegg (en eller flere fyringsenheter), som faller inn under samme bestemmelse, og som slipper ut røykgassene gjennom en eller flere røykgasskanaler i en felles skorstein. Det forutsettes at utslippene måles separat i de aktuelle røykgasskanalene. Utslippsgrenseverdiene skal bestemmes ut fra hele forbrenningsanleggets sammenlagte nominelle tilførte termiske effekt.
 
 Gassturbiner og gassmotorer i reservedrift med mindre enn 500 driftstimer per år omfattes ikke av utslippsgrenseverdiene i punktene 1.7 og 1.8.
+
+*1.9 Utslippsgrenseverdier for forbrenningsanlegg som benytter gassformige brensler, med unntak av gassturbiner og gassmotorer:*
+
+| *Type brensel* | *Støv* |
+| --- | --- |
+| Generelt | 5 |
+| Masovngass | 10 |
+| Gasser fra stålindustrien som kan anvendes på et annet sted | 30 |
 
 > Tilføyd ved [forskrift 26 juli 2016 nr. 950](forskrift/2016-07-26-950) (i kraft 1 aug 2016).
 
@@ -4087,11 +5064,77 @@ Utslippsgrenseverdier for forbrenningsanlegg med tillatelse gitt første gang fr
 
 Alle utslippsgrenseverdier er uttrykt i mg/Nm3 og skal beregnes ved en temperatur på 273,15 K, et trykk på 101,3 kPa og for korreksjon av vanndampinnhold i røykgassene ved et standardisert O2-innhold på 6 % for faste brensel, 3 % for flytende og gassformige brensler, unntatt for gassturbiner og gassmotorer hvor standardisert O2-innhold er 15 %.
 
+*2.1 Utslippsgrenseverdier for forbrenningsanlegg som benytter faste brensler unntatt biomasse og torv:*
+
+| *Samlet nominell tilført termisk effekt (MW)* | *SO2* |  | *NOx* |  | *Støv* |
+| --- | --- | --- | --- | --- | --- |
+|  |  | *særlige forhold*1 |  | *særlige forhold*2 |  |
+| 50 ≤ MW ≤ 100 | 400 | 400 | 300 | 400 | 20 |
+| 100 < MW ≤ 300 | 200 | 200 | 200 | 200 | 20 |
+| MW > 300 | 150 | 200 | 150 | 200 | 10 |
+
+1 Ved sirkulerende eller trykksatt «fluidised» bed forbrenning.
+
+2 Ved pulverforbrenning av brunkull.
+
+*2.2 Utslippsgrenseverdier for forbrenningsanlegg som benytter biomasse og torv:*
+
+| *Samlet nominell tilført termisk effekt* | *SO2* |  |  | *NOx* | *Støv* |
+| --- | --- | --- | --- | --- | --- |
+|  | *biomasse* | *torv* |  |  |  |
+|  |  |  | *særlige forhold*1 |  |  |
+| 50 ≤ MW ≤ 100 | 200 | 300 | 300 | 250 | 20 |
+| 100 < MW ≤ 300 | 200 | 300 | 250 | 200 | 20 |
+| MW > 300 | 150 | 150 | 200 | 150 | 20 |
+
+1 Ved «fluidised bed» forbrenning.
+
+*2.3 Utslippsgrenseverdier for forbrenningsanlegg som benytter flytende brensler, med unntak av gassturbiner og gassmotorer:*
+
+| *Samlet nominell tilført termisk effekt (MW)* | *SO2* | *NOx* | *Støv* |
+| --- | --- | --- | --- |
+| 50 ≤ MW ≤ 100 | 350 | 300 | 20 |
+| 100 < MW ≤ 300 | 200 | 150 | 20 |
+| MW >300 | 150 | 100 | 10 |
+
+*2.4 Utslippsgrenseverdier for forbrenningsanlegg som benytter gassformige brensler, med unntak for gassturbiner og gassmotorer:*
+
+| *Type brensel* | *SO2* |
+| --- | --- |
+| Generelt | 35 |
+| Flytende gass | 5 |
+| Gasser med lav brennverdi fra koksovn | 400 |
+| Gasser med lav brennverdi fra masovn | 200 |
+
+*2.5 Utslippsgrenseverdier for gassturbiner (inkludert combined cycle gassturbin (CCGT)):*
+
+| *Type brensel* | *NOx* | *CO* |
+| --- | --- | --- |
+| Lett og medium destillat som flytende brensel | 50 | 100 |
+
 Gassturbiner i reservedrift med driftstid mindre enn 500 driftstimer per år omfattes ikke av disse utslippsgrenseverdiene. I slike anlegg skal virksomhetsansvarlig registrere driftstiden.
+
+*2.6 Utslippsgrenseverdier for gassfyrte forbrenningsanlegg:*
+
+| *Type forbrenningsanlegg* | *NOx* | *CO* |
+| --- | --- | --- |
+| Andre forbrenningsanlegg enn gassturbiner og gassmotorer | 100 | 100 |
+| Gassturbiner (inkl. CCGT) | 501 | 100 |
+| Gassmotorer | 75 | 100 |
+
+1 For enkle gassturbiner som har en virkningsgrad større enn 35 % bestemt ved ISO standard grunnlastbetingelser, er utslippsgrenseverdi for NOx : (50 x η)/35 der η er virkningsgraden for gassturbinen, uttrykt i prosent, ved ISO grunnlastbetingelser.
 
 For gassturbiner (inkl. CCGT) gjelder utslippsgrenseverdiene for NOx og CO i tabellen bare for last over 70 %.
 
 Gassturbiner og gassmotorer som kjøres i reservedrift med mindre enn 500 driftstimer per år omfattes ikke av disse utslippsgrenseverdiene. Virksomhetsansvarlig ved slike anlegg skal registrere driftstiden.
+
+*2.7 Utslippsgrenseverdier for forbrenningsanlegg som benytter gassformige brensler, med unntak av gassturbiner og gassmotorer, med tillatelse fra og med 7. januar 2013:*
+
+| *Type brensel* | *Støv* |
+| --- | --- |
+| Generelt | 5 |
+| Masovngass | 10 |
+| Gasser fra stålindustrien som kan anvendes på et annet sted | 30 |
 
 > Tilføyd ved [forskrift 26 juli 2016 nr. 950](forskrift/2016-07-26-950) (i kraft 1 aug 2016).
 
@@ -4107,30 +5150,46 @@ I multibrenselsanlegg som benytter destillasjons- og omvandlingsrester fra råol
 ### Vedlegg 3
 Bestemmelser om oppstarts- og nedkjøringsperioder for forbrenningsanlegg dekket av [kapittel 31 i forurensingsforskriften](forskrift/2004-06-01-931/kap31)
 
+*1. Generelle regler for å bestemme oppstarts- og nedkjøringsperioder*
+
 For å bestemme endepunkt for en oppstartsperiode og startpunkt for en nedkjøringsperiode skal følgende regler gjelde:Kriterier eller parametre brukt for å bestemme oppstarts- og nedkjøringsperioder skal være klare og kontrollerbare;Bestemmelse av oppstarts- og nedkjøringsperioder skal baseres på vilkår som tar hensyn til en stabil produksjonsprosess og ivaretar helse og sikkerhet;Perioder etter oppstart der et forbrenningsanlegg er i stabil og sikker drift med brenselstilførsel, men uten eksport av varme, elektrisitet eller mekanisk energi, skal ikke inkluderes i oppstarts- eller nedkjøringsperioder.
+
+*2. Vilkår for oppstarts- og nedkjøringsperioder i tillatelser*
 
 I en tillatelse for en virksomhet som inkluderer et forbrenningsanlegg skal forholdsregler for unormale driftsforhold, slik som ved oppstarts- og nedkjøringsperioder, driftsforstyrrelser, og ikke planlagt driftsstans, jf. [forurensningsforskriften § 36-11](forskrift/2004-06-01-931/§36-11) nr. 10, inkludere:minst en av følgende:endepunkt for en oppstartperiode og startpunkt for en nedkjøringsperiode uttrykt som en terskellast jf. punktene 4, 5 og 6, hvor minimum nedkjøringslast for stabil produksjon kan være lavere enn minimum oppstartlast for stabil produksjon. Dette fordi forbrenningsanlegget kan være i stand til å operere stabilt ved en lavere last etter å ha vært i drift i en periode;særskilte prosesser eller terskler for driftsparametre som kan benyttes til å bestemme endepunkt for oppstartsperiode og startpunkt for nedkjøringsperiode, som måles enkelt og er egnet for teknologien som benyttes, jf. punkt 8;tiltak som sikrer at oppstarts- og nedkjøringsperioder minimeres så mye som det er gjennomførbart;tiltak som sikrer at alt utslippsreduserende utstyr settes i drift så snart det er teknisk gjennomførbart.
 
 I punktene a), b) og c) skal det tas hensyn til tekniske og driftsmessige karakteristikker ved forbrenningsanlegget, inkludert de enkelte enhetene og de tekniske betingelsene for å drifte utslippsreduserende utstyr som er installert.Dersom forhold som påvirker oppstarts- og nedkjøringsperioder i forbrenningsanlegget endres, inkludert installert utstyr, brenselstype, anleggets rolle i systemet og installert utslippsreduserende utstyr, skal vilkår i tillatelsen vurderes på nytt og om nødvendig oppdateres.
 
+*3. Bestemmelse av oppstarts- og nedkjøringsperioder for forbrenningsanlegg som består av to eller flere fyringsenheter*
+
 1. Ved beregning av middelverdier for utslipp til å sammenlikne med overholdelse av utslippsgrenseverdier, jf. [§ 31-7](forskrift/2004-06-01-931/§31-7), skal følgende regler gjelde for å bestemme oppstarts- og nedkjøringsperioder i forbrenningsanlegg som består av to eller flere fyringsenheter:verdier målt under oppstartsperioden for den første fyringsenheten som startes opp og under nedkjøringsperioden for den siste forbrenningsenheten som stenger ned, skal ses bort fra.verdier bestemt under oppstarts- og nedkjøringsperioder for andre fyringsenheter skal ses bort i fra bare dersom de er målt, eller i de tilfeller der målinger ikke er teknisk eller økonomisk gjennomførbare, beregnes separat for hver enhet det angår.
 2. For å beregne driftstid iht. [§ 31-2](forskrift/2004-06-01-931/§31-2) i et forbrenningsanlegg som består av to eller flere fyringsenheter, skal oppstartperiode kun bestå av første forbrenningsenhet som starter opp, og nedkjøringsperiode kun bestå av den siste fyringsenheten som stenges ned.For en del av et forbrenningsanlegg som slipper ut røykgassene gjennom en eller flere røykgasskanaler i en felles skorstein og som omfattes av bestemmelsene i vedlegg 1, punktene 1.2, 1.4 og 1.8, kan oppstarts- og nedkjøringsperioder bestemmes separat for den aktuelle delen av forbrenningsanlegget. Oppstarts- og nedkjøringsperioder skal da bestå av oppstartsperioden for den første fyringsenheten som startes opp og nedkjøringsperioden for den siste fyringsenheten som stenges ned, innenfor den aktuelle delen av anlegget.
+
+*4. Bestemmelse av oppstarts- og nedkjøringsperioder for forbrenningsanlegg som produserer elektrisitet eller leverer kraft til mekanisk drift, og benytter terskellast*
 
 1. For forbrenningsanlegg som produserer elektrisitet eller mekanisk effekt skal endepunkt for oppstartsperioden være når anlegget har nådd minimum oppstartlast for stabil produksjon.
 2. Nedkjøringsperioden starter etter å ha nådd minimum nedkjøringslast for stabil produksjon av elektrisitet eller mekanisk kraft, og initieres ved påbegynt avslutning på tilførsel av brensel. Produsert elektrisitet er da ikke lenger tilgjengelig for nettet og produsert mekanisk kraft ikke lenger nyttig for mekanisk last.
 3. Terskellastene som skal benyttes for å bestemme endepunkt for oppstartsperiode og startpunkt for nedkjøringsperiode i anlegg som produserer elektrisitet, skal inkluderes i tillatelsen for anlegget, og være en fast prosent av forbrenningsanleggets nominelle elektriske avgitte effekt.
 4. Terskellastene som skal benyttes for å bestemme endepunkt for oppstartsperiode og startpunkt for nedkjøringsperiode i forbrenningsanlegg som benyttes til mekanisk drift, skal inkluderes i tillatelsen for anlegget, og være en fast prosent av nominell avgitt effekt til mekanisk drift.
 
+*5. Bestemmelse av oppstarts- og nedkjøringsperioder i forbrenningsanlegg som produserer varme og benytter terskellast*
+
 1. For forbrenningsanlegg som produserer varme skal endepunkt for oppstartsperiode være når anlegget har nådd minimum oppstartlast for stabil produksjon.
 2. Nedkjøringsperioden starter etter å ha nådd minimum nedkjøringslast for stabil produksjon, og varme ikke lenger kan leveres sikkert og pålitelig til et nettverk eller brukes direkte på et lokalt industriområde.
 3. Terskellastene som skal benyttes for å bestemme endepunktet for oppstartsperiode og startpunkt for nedkjøringsperiode i forbrenningsanlegg som produserer varme, skal inkluderes i tillatelsen for anlegget, og være en fast prosent av forbrenningsanleggets nominelle termiske avgitte effekt.
 4. Perioder hvor det varmeproduserende anlegget lagrer eller akkumulerer varme uten å eksportere, skal betraktes som driftstid og ikke oppstarts- eller nedkjøringsperioder.
 
+*6. Bestemmelse av oppstarts- og nedkjøringsperioder for forbrenningsanlegg som produserer varme og elektrisitet og benytter terskellast*
+
 I forbrenningsanlegg som produserer elektrisitet og varme skal oppstarts- og nedkjøringsperioder bestemmes som fastsatt i punktene 4 og 5 og ta hensyn til både elektrisitet og varme som produseres.
+
+*7. Bestemmelse av oppstarts- og nedkjøringsperioder ved å benytte driftsparametre eller særskilte prosesser*
 
 For å bestemme minimum oppstartlast og minimum nedkjøringslast for stabil produksjon skal minst tre kriterier defineres, der endepunkt for oppstarts- eller startpunkt for nedkjøringsperiode kan fylle to av kriteriene.
 
 Kriteriene skal velges fra følgende:særskilte prosesser fastsatt i punkt 8 eller tilsvarende prosesser som passer de tekniske karakteristikkene til anlegget;terskler for driftsparametre fastsatt i punkt 8 eller tilsvarende driftsparametre, som passer de tekniske karakteristikkene til anlegget.
+
+*8. Særskilte prosesser og driftsparametre som kan benyttes til å bestemme oppstarts- og nedkjøringsperioder*
 
 1. særskilte prosesser som kan benyttes til å bestemme minimum oppstartlast for stabil produksjonKjeler som fyres med fast brensel: Ved overgang fra bruk av reservebrennere/ekstrabrennere til kun å operere med normal brensel.Kjeler som fyres med flytende brensel: Der tilførselspumpe for hovedbrensel startes og brenneroljetrykk stabiliseres, og gjennomstrømning av brensel kan benyttes som en indikator.Gassturbiner: Der det nås stabil forbrenningstilstand, eller tomgangshastighet.
 2. DriftsparametreOksygeninnhold i røykgassenRøykgasstemperaturDamptrykkFor anlegg som produserer varme: Entalpi og massestrøm for energibærerFor anlegg som fyres med flytende eller gassformig brensel: Massestrøm for brenselFor dampkjeler: Utgående temperatur på damp fra kjel.
@@ -4223,7 +5282,19 @@ Virksomheten skal redusere sine utslipp så langt dette er mulig uten urimelige 
 
 ### § 33-5. Grenseverdier for tungmetaller og suspendert stoff
 
-Prosessavløpsvann skal ikke overstige følgende konsentrasjonsgrenser ved utslipp til resipient:*Komponenter**Måleparameter**Konsentrasjonsgrense (mg/l)*BlyPb0,1KadmiumCd0,02KobberCu0,2KromCr-tot0,1Krom (VI)Cr(VI)0,03KvikksølvHg0,005NikkelNi0,5SinkZn0,5Suspendert stoffSS30
+Prosessavløpsvann skal ikke overstige følgende konsentrasjonsgrenser ved utslipp til resipient:
+
+| *Komponenter* | *Måleparameter* | *Konsentrasjonsgrense (mg/l)* |
+| --- | --- | --- |
+| Bly | Pb | 0,1 |
+| Kadmium | Cd | 0,02 |
+| Kobber | Cu | 0,2 |
+| Krom | Cr-tot | 0,1 |
+| Krom (VI) | Cr(VI) | 0,03 |
+| Kvikksølv | Hg | 0,005 |
+| Nikkel | Ni | 0,5 |
+| Sink | Zn | 0,5 |
+| Suspendert stoff | SS | 30 |
 
 Grenseverdiene skal overholdes uten noen form for fortynning før prøvetaking og måling.
 
@@ -4247,10 +5318,11 @@ Tiltak for å begrense diffuse utslipp skal dokumenteres i virksomhetens internk
 
 ### § 33-8. Støy
 
-Virksomhetens bidrag til utendørs støy ved nabo skal ikke overskride følgende grenser, målt eller beregnet som frittfeltsverdi ved mest støyutsatte fasade:*Mandag–fredag**Kveld
-mandag–fredag**Lørdag**Søn-/helligdager**Natt*
-*(kl. 23–07)**Natt*
-*(kl. 23–07)*55 Lden50 Levening50 Lden45 Lden45 Lnight60 LAFmax
+Virksomhetens bidrag til utendørs støy ved nabo skal ikke overskride følgende grenser, målt eller beregnet som frittfeltsverdi ved mest støyutsatte fasade:
+
+| *Mandag–fredag* | *Kveld<br>mandag–fredag* | *Lørdag* | *Søn-/helligdager* | *Natt*<br>*(kl. 23–07)* | *Natt*<br>*(kl. 23–07)* |
+| --- | --- | --- | --- | --- | --- |
+| 55 Lden | 50 Levening | 50 Lden | 45 Lden | 45 Lnight | 60 LAFmax |
 
 Lden er definert som døgnmiddel. Med impulsstøy eller rentonelyd er grensen 5 dBA lavere. Den strengeste grenseverdien legges til grunn når impulslyd opptrer med i gjennomsnitt mer enn 10 hendelser pr. time.
 
@@ -4361,6 +5433,8 @@ Krav i tillatelse fastsatt før dette kapittelet trer i kraft, som er strengere 
 > Tilføyd ved forskrift [20 des 2022 nr. 2410](forskrift/2022-12-20-2410) (i kraft 1 jan 2023), endret ved forskrift [20 des 2022 nr. 2450](forskrift/2022-12-20-2450) (i kraft 1 jan 2023).
 
 ### Kapittel 34. Akvakultur av fisk
+
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 9](lov/1981-03-13-6/§9), [§ 18](lov/1981-03-13-6/§18), [§ 49](lov/1981-03-13-6/§49), [§ 51](lov/1981-03-13-6/§51) og [§ 81](lov/1981-03-13-6/§81), jf. [delegeringsvedtak 8. juli 1983 nr. 1245](forskrift/1983-07-08-1245).
 
 > Tilføyd ved forskrift [2 feb 2024 nr. 170](forskrift/2024-02-02-170).
 
@@ -4542,33 +5616,53 @@ Usikkerheten forbundet med hver av parametrene som er brukt til å bygge modelle
 
 Karakteriseringene og vurderingene skal være basert på dynamiske modeller som omfatter tidssimuleringer av CO2-injeksjoner i lagringslokaliteten ved å bruke tredimensjonal geologisk regnemodell som er etablert for lagringskomplekset iht. trinn 2.
 
+*Trinn 3.1 Karakterisering av dynamiske forhold i lagringslokaliteten*
+
 Som et minimum skal følgende faktorer vurderes:Mulige injeksjonsrater og CO2-strømmens egenskaperEffekten av koplede prosessmodelleringer (dvs. hvordan forskjellige enkeltvise effekter i regnemodellen virker sammen)Reaktive prosesser (dvs. hvordan reaksjoner mellom injisert CO2 og de tilstedeværende komponentene (substansene) gir tilbakekopling i modellen)Reservoarimuleringsmodellen som er benyttet (flere simuleringer kan være påkrevd for å validere visse funn)Kort- og langtidssimuleringer (for å etablere CO2 skjebne og utvikling over årtier og årtusener inkludert oppløsningshastighet av CO2 i vann)
 
 Den dynamiske modellen skal gi innsikt i:Trykk og temperatur i lagringsformasjonen som en funksjon av injeksjonshastighet og akkumulert injisert mengde over tidAreal og vertikal utbredelse av CO2 over tidCO2-strømmen i reservoaret inkludert fasene den opptrer iCO2-fellemekanismer og -hastigheter (inkludert overfyllingspunktet) og laterale og vertikale forseglingerSekundære innesluttingssystemer for hele lagringskompleksetLagringskapasitet og trykkgradienter for lagringslokalitetenRisiko for sprekkdannelser i lagringsformasjonen og takbergartenRisiko for CO2 inntrengning i takbergartenRisiko for lekkasje fra lagringslokaliteten (f.eks. gjennom forlatte eller utilstrekkelig forseglede brønner);Migrasjonsshastighet (i ikke-innelukkede reservoarer)SprekkforseglinghastighetForandringer i formasjonens væskekjemi og påfølgende reaksjoner (f.eks. pH-endringer, mineraldannelse) og inkludering av modellering av reaksjoner for å vurdere konsekvenseneErstatning av formasjonsvæskerØkt seismisitet og overflateheving
 
+*Trinn 3.2 Følsomhetskarakteristikk*
+
 Flere simuleringer skal utføres for å identifisere følsomhet av vurderingene av valgte forutsetninger for særskilte parametre. Simuleringene skal baseres på ulike parametre i den geologiske modellen (e), og skiftende hastighetsfunksjoner og forutsetninger i den dynamiske modelleringen. Enhver vesentlig følsomhet skal tas i betraktning i risikovurderingen.
 
+*Trinn 3.3 Risikovurdering*
+
 Risikovurderingen skal omfatte, blant annet, følgende:
+
+*3.3.1 Farekarakteristikk*
 
 Farekarakteristikk skal gjennomføres ved karakterisering av potensialet for lekkasje fra lagringskomplekset, som etablert gjennom dynamisk modellering og sikkerhetskarakteristikk som beskrevet over. Dette skal inkludere betraktninger som blant annet:Potensielle lekkasjeveierPotensiell størrelse av lekkasje i identifiserte lekkasjeveier (flukshastigheter)Kritiske parametre som påvirker potensiell lekkasje (f.eks. maksimum reservoartrykk, maksimum injeksjonsrate, temperatur, sensitivitet for varierende antagelser i den geologiske modellen etc.)Sekundæreffekter av lagringen av CO2 inkludert fortrengt formasjonsvæske og nye substanser dannet ved lagring av CO2Enhver annen faktor som kan innebære risiko for helse eller miljø (f.eks. fysiske strukturer assosiert med prosjektet)
 
 Farekarakteristikken skal dekke hele spekteret av potensielle operasjonsbetingelser for å teste lagringskompleksets sikkerhet.
 
+*3.3.2 Eksponeringsvurdering*
+
 Denne skal være basert på karakteristikk av miljøet, befolkning og aktiviteter over lagringskomplekset, og den potensielle oppførsel og skjebne for CO2 som lekker fra de potensielle lekkasjeveier som er identifisert under trinn 3.3.1.
+
+*3.3.3 Effektvurderinger*
 
 Denne skal være basert på spesielle arter sin følsomhet, samfunn eller habitater koplet til potensielle lekkasjehendelser identifisert under trinn 3.3.1.
 
 Hvis relevant skal den inkludere effekter av eksponering for forhøyede CO2 konsentrasjoner i biosfæren, inkludert jord, marine sedimenter og bentisk vann (asphyxiation,1 hypercapnia,2 ) og redusert pH i disse omgivelsene (miljøet) som en konsekvens av utlekket CO2). Den skal også inkludere en vurdering av effekter av andre substanser som kan være til stede i utlekket CO2-strømmer (enten som urenheter til stede i injeksjonsstrømmen eller nye substanser dannet gjennom lagring av CO2). Disse effektene skal bli vurdert for forskjellig varighet og i arealomfang og forbundet med en rekke forskjellige størrelser av lekkasjehendelser.
 
+*3.3.4 Risikokarakterisering*
+
 Denne skal omfatte en vurdering av sikkerhet og integritet av lagringslokaliteten på kort og lang sikt, inkludert en vurdering av risiko for lekkasje under de foreslåtte bruksbetingelser, og som verst tenkelig miljø og helsekonsekvenser.
 
 Risikokarakteriseringen skal utføres basert på fare, eksponering og effektvurderinger. Den skal inkludere en vurdering av kildene for usikkerhet som er identifisert gjennom trinnene i karakteriseringen og vurdering av lagringslokaliteten og når mulig en beskrivelse av mulighetene til å redusere usikkerhet.
+
+1 Oksygenmangel.
+
+2 For høyt CO2-innhold i blodet.
 
 ### Vedlegg II. Kriterier for etablering og oppdatering av overvåkingsplan og for etterdriftsplan
 
 ### 1. Etablering og oppdatering av overvåkingsplan
 
 Overvåkingsplanen referert til i [§ 35-9](forskrift/2004-06-01-931/§35-9) skal etableres i samsvar med risikovurderingsanalysen som er gjennomført etter trinn 3 i vedlegg 1, og oppdateres for å møte kravene fastsatt i [§ 35-9](forskrift/2004-06-01-931/§35-9) (1) i samsvar med følgende kriterier:
+
+*1.1 Etablere planen*
 
 Overvåkingsplanen skal inneholde detaljer om overvåkingsprogrammet som vil bli gjennomført på alle hovedtrinn i prosjektet, inkludert grunnlagsdata, operasjonell fase og i etterdriftsfasen.
 
@@ -4577,6 +5671,8 @@ Følgende skal spesifiseres for hver fase:parametre som skal overvåkesovervåki
 Parametrene som skal overvåkes skal være utvalgt slik at de skal oppfylle formålet med overvåkingen. Planen skal likevel i et hvert tilfelle inkludere kontinuerlig eller periodisk overvåking av de følgende forhold:Diffuse utslipp av CO2 ved injeksjonsinstallasjonenCO2-volumstrøm ved injeksjonsbrønnhodeCO2-trykk og -temperatur ved injeksjonsbrønnhode (for å bestemme massestrøm)kjemisk analyse av injeksjonsstrømmenreservoartemperatur og -trykk (for å bestemme CO2-faseoppførsel og -tilstand)
 
 Valget av overvåkingsteknikker skal baseres på beste praksis som er tilgjengelig på designtidspunktet. De følgende alternativer skal vurderes og anvendes om mulig:teknologier som kan detektere nærvær, sted og migreringsvei for CO2 i undergrunnen og på overflatenteknologier som kan gi informasjon om utviklingen av trykk og volum og areal/vertikal metning av CO2-skyen (plumen) for å forbedre numeriske 3-D-simuleringer relatert til 3-D geologiske modeller av lagringsformasjonen etablert iht. [§ 35-4](forskrift/2004-06-01-931/§35-4) og vedlegg 1teknologier som kan dekke et vidt areal for å hente informasjon om tidligere uoppdagede potensielle lekkasjeveier over arealdimensjonene av hele lagringskomplekset og over, i tilfelle av vesentlige irregulariteter eller migrering av CO2 ut av lagringskomplekset.
+
+*1.2 Oppdatering av planen*
 
 Data som er innhentet fra overvåkingen skal samles og tolkes. De observerte resultatene skal sammenlignes med oppførsel som er forutsagt i den dynamiske simuleringen av 3-D-trykkvolum og metningoppførsel foretatt i forbindelse med sikkerhetskarakteristikk iht. til [§ 35-5](forskrift/2004-06-01-931/§35-5) og vedlegg 1, trinn 3.
 
@@ -4591,6 +5687,8 @@ For nye CO2-kilder, lekkasjeveier og fluksrater eller ved observerte vesentlige 
 Overvåking etter at lagringslokaliteten er nedlukket skal baseres på informasjonen som er samlet og modellert under gjennomføring av overvåkingsplanen iht. [§ 35-9](forskrift/2004-06-01-931/§35-9) (2) og over under 1.2. Den skal særlig tjene til å gi informasjonen som kreves for bestemmelse av [§ 35-14](forskrift/2004-06-01-931/§35-14) (1).
 
 ## Del 8. Tillatelse til forurensning
+
+Bestemmelser om
 
 - behandling av tillatelser etter [forurensningsloven](lov/1981-03-13-6) står i [kapittel 36](forskrift/2004-06-01-931/kap36),
 - meldeplikt etter [forurensningsloven](lov/1981-03-13-6) står i [kapittel 37](forskrift/2004-06-01-931/kap37).
@@ -4815,91 +5913,183 @@ Etter hvert tilsynsbesøk skal forurensningsmyndigheten skrive en rapport som be
 
 ### Vedlegg I. Typer virksomhet som bestemmelsene i [§ 36-1](forskrift/2004-06-01-931/§36-1) andre ledd gjelder for
 
+1\.
+
 Anlegg eller deler av anlegg som brukes til forskning, utvikling og prøving av nye produkter og prosesser, omfattes ikke av dette vedlegget.
+
+2\.
 
 Terskelverdiene nevnt nedenfor har i alminnelighet referanse til en produksjonskapasitet eller ytelse. Dersom en virksomhetsansvarlig i samme anlegg eller på samme sted har flere typer virksomhet som hører inn under samme hovedkategori, skal samlet kapasitet for denne virksomheten legges sammen.
 
+1.*Energi-industri*
+
+1.1.
+
 Forbrenning av brensel i anlegg med nominell tilført termisk effekt fra og med 50 MW
+
+1.2.
 
 Raffinering av mineralolje- og gass
 
+1.3.
+
 Produksjon av koks
+
+1.4.
 
 Prosessering avkullandre brensel i anlegg med samlet nominell tilført termisk effekt fra og med 20 MW til gass- eller væskeform.
 
+2.*Produksjon og bearbeiding av metaller*
+
+2.1.
+
 Røsting og sintring av malm, herunder svovelholdig malm
+
+2.2.
 
 Produksjon av råjern eller stål (første- eller andregangs smelting) med tilhørende utstyr for kontinuerlig støping med en kapasitet på over 2,5 tonn per time
 
+2.3.
+
 Bearbeiding av ferrometaller ved hjelp avvarmevalsing med en kapasitet på over 20 tonn råstål per time,smiing med hammere med en slagenergi på over 50 kilojoule per hammer når den anvendte varmeytelse er på over 20 MW,påføring av beskyttelseslag av smeltet metall med en behandlingskapasitet på over 2 tonn råstål per time
+
+2.4.
 
 Drift av Jern- og stålstøperier med en produksjonskapasitet på over 20 tonn per dag
 
+2.5.
+
 Bearbeiding av ikke-jernholdige metallerproduksjon av ikke-jern-metaller fra malm, konsentrater eller sekundærråstoffer ved hjelp av metallurgiske, kjemiske eller elektrolytiske prosesser,smelting, inklusive framstilling av legeringsmetaller, av ikke-jernmetaller, herunder gjenvinningsprodukter og drift av støperier for ikke-jernholdige metaller med en smeltekapasitet på over 4 tonn per dag for bly og kadmium eller 20 tonn per dag for alle andre metaller
+
+2.6.
 
 Overflatebehandling av metaller og plast ved hjelp av en elektrolytisk eller kjemisk prosess når behandlingsbadene har et volum på over 30 m3.
 
+3.*Mineralindustri*
+
+3.1.
+
 Produksjon av sement, kalk og magnesiumoksidproduksjon av sementklinker i roterovner med en produksjonskapasitet på over 500 tonn per dag eller andre ovner med produksjonskapasitet på over 50 tonn per dag,produksjon av kalk i ovner med en produksjonskapasitet på over 50 tonn per dagproduksjon av magnesiumoksid i ovner med en produksjonskapasitet på over 50 tonn per dag
+
+3.2.
 
 produksjon av asbest eller framstilling av asbestbaserte produkter
 
+3.3.
+
 produksjon av glass, medregnet glassfibrer, med en smeltekapasitet på over 20 tonn per dag
+
+3.4.
 
 smelting av mineralske stoffer, medregnet produksjon av mineralfibrer, med en smeltekapasitet på over 20 tonn per dag
 
+3.5.
+
 produksjon av keramiske produkter ved brenning, særlig takstein, murstein, ildfast stein, fliser, steintøy eller porselen, med en produksjonskapasitet på over 75 tonn per dag og/eller en ovnskapasitet på over 4m3 og en innsettingstetthet på over 300 kg/m3 i hver ovn.
+
+4.*Kjemisk industri*
 
 Med produksjon i forbindelse med kategoriene av virksomhet i dette avsnitt menes produksjon i industriell målestokk ved kjemiske eller biologiske reaksjoner av stoffene eller gruppene av stoffer oppført i nr. 4.1 til 4.6.
 
+4.1.
+
 Produksjon av organiske kjemikalier somhydrokarboner (lineære eller sykliske, mettede eller umettede, alifatiske eller aromatiske),oksygenholdige hydrokarboner som alkoholer, aldehyder, ketoner, karboksylsyrer, estere, acetater, etere, peroksider, epoksymateriale,svovelholdige hydrokarboner,nitrogenholdige hydrokarboner som aminer, amider, nitrøse forbindelser, nitro- eller nitratforbindelser, nitriler, cyanater, isocyanater,fosforholdige hydrokarboner,halogenerte hydrokarboner,metallorganiske forbindelser,plastmaterialer (polymerer, syntetfibrer, cellulosebaserte fibrer),syntetisk gummi,fargestoffer og pigmenter,overflateaktive stoffer og tensider
+
+4.2.
 
 Produksjon av uorganiske kjemikalier somgasser som ammoniakk, klor eller hydrogenklorid, fluor eller hydrogenfluorid, karbonoksider, svovelforbindelser, nitrogenoksider, hydrogen, svoveldioksid, karbonylklorid,syrer som kromsyre, flussyre, fosforsyre, salpetersyre, saltsyre, svovelsyre, oleum, svovelsyrling,baser som ammoniumhydroksid, kaliumhydroksid, natriumhydroksid,salter som ammoniumklorid, kaliumklorat, kaliumkarbonat, natriumkarbonat, perborat, sølvnitrat,ikke-metaller, metalloksider eller andre uorganiske forbindelser som kalsiumkarbid, silisium, silisiumkarbid
 
+4.3.
+
 Produksjon av fosfor-, nitrogen- eller kaliumbasert gjødsel (ren eller sammensatt gjødsel)
+
+4.4.
 
 Produksjon av plantevernmidler eller biocider
 
+4.5.
+
 Produksjon av farmasøytiske produkter inkludert mellomprodukter
+
+4.6.
 
 Produksjon av sprengstoff.
 
+5.*Avfallshåndtering*
+
+5.1.
+
 Sluttbehandling eller gjenvinning av farlig avfall med en kapasitet på mer enn 10 tonn per dag som omfatter en eller flere av de følgende aktiviteter:Biologisk behandlingFysiokjemisk behandlingBlanding utført forut for noen av aktivitetene i punkt 5.1 og 5.2Ompakking utført forut for noen av aktivitetene i punkt 5.1 og 5.2Regenerering av løsemidlerMaterialgjenvinning av uorganisk materiale med unntak av metaller og metallforbindelserRegenerering av syrer og baserGjenvinning av komponenter brukt til reduksjon av forurensningerGjenvinning av materiale fra katalysatorerRegenerering eller annen gjenbruk av oljeBehandling, lagring eller sluttbehandling av flytende materiale i bassenger
 
+5.2.
+
 Sluttbehandling eller gjenvinning av avfall i avfallsforbrenningsanlegg eller samforbrenningsanlegg:for ordinært avfall med en kapasitet på mer enn 3 tonn per timefor farlig avfall med en kapasitet på mer enn 10 tonn per dag
+
+5.3.
 
 1. Sluttbehandling av ordinært avfall med en kapasitet på mer enn 50 tonn per dag som omfatter en eller flere av følgende aktiviteter, unntatt aktiviteter dekket av [kapittel 15B](forskrift/2004-06-01-931/kap15b) om rensing av avløpsvann:Biologisk behandlingFysiokjemisk behandlingForbehandling før forbrenning eller samforbrenningBehandling av slagg og bunnaskeBehandling av metallavfall i shredderanlegg, herunder metallavfall fra elektrisk og elektronisk avfall og kasserte kjøretøy med tilhørende komponenter
 2. Gjenvinning, eller en blanding av gjenvinning og sluttbehandling, av ordinært avfall med en kapasitet på mer enn 75 tonn per dag som omfatter en eller flere av følgende aktiviteter, unntatt aktiviteter dekket av kapittel 15B om rensing av avløpsvann:Biologisk behandlingForbehandling før forbrenning eller samforbrenningBehandling av slagg og bunnaskeBehandling av metallavfall i shredderanlegg, herunder metallavfall fra elektrisk og elektronisk avfall og kasserte kjøretøy med tilhørende komponenter
 
 Når den eneste avfallshåndteringsaktiviteten som utføres er anaerob utråtning, skal kapasitetsgrensen for denne aktiviteten være 100 tonn per dag.
 
+5.4.
+
 Deponier, som definert i [forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall (avfallsforskriften) § 9-3](forskrift/2004-06-01-930/§9-3) bokstav h, som mottar mer enn 10 tonn avfall per dag eller med en total kapasitet på mer enn 25 000 tonn, med unntak av deponier for inert avfall
+
+5.5.
 
 Midlertidig lagring av farlig avfall som ikke dekkes av punkt 5.4, i påvente av noen av aktivitetene i punkt 5.1, 5.2, 5.4 og 5.6 med en total kapasitet på mer enn 50 tonn, med unntak av midlertidig lagring i påvente av innsamling på stedet der avfallet oppstår.
 
+5.6.
+
 Underjordisk lagring av farlig avfall med en total kapasitet på mer enn 50 tonn.
+
+6.*Annen virksomhet*
+
+6.1.
 
 Produksjon i industrianlegg avpapirmasse fra tre eller andre fibermaterialer,papir eller papp hvor produksjonskapasiteten er på over 20 tonn per dagen eller flere av følgende trebaserte plater: OSB-plater (finer), sponplater eller fiberplater hvor produksjonskapasiteten er større enn 600 m3/dag
 
+6.2.
+
 Forbehandling (vasking, bleking, mercerisering) eller farging av fibrer eller tekstiler, med en behandlingskapasitet på over 10 tonn per dag
 
+6.3.
+
 Garving av huder og skinn, hvor behandlingskapasiteten er på over 12 tonn ferdige produkter per dag
+
+6.4.
 
 1. Drift av slakterier med en produksjonskapasitet på over 50 tonn skrotter/dag.
 2. Behandling og bearbeiding, med mindre det kun består av emballering, av følgende råstoffer, enten bearbeidet eller ubearbeidet, med sikte på fremstilling av næringsmidler eller fôr fra:bare animalske råstoffer (bortsett fra kun melk) med en kapasitet til produksjon av ferdige produkter på over 75 tonn per dagbare vegetabilske råstoffer med en kapasitet til produksjon av ferdige produkter på over 300 tonn per dag, eller 600 tonn per dag hvor anlegget er i drift høyst 90 sammenhengende dager i et åranimalske og vegetabilske råstoffer både i sammensatte og usammensatte produkter med en kapasitet til produksjon av ferdige produkter målt i tonn per dag større enn:75, hvis A er lik 10 eller mer, eller[300- (22,5 × A)] i alle andre tilfeller
 hvor «A» er andelen av animalsk materiale (i prosent av vekten) av ferdigproduktproduksjonskapasiteten. Emballasje inngår ikke i produktets sluttvekt. Dette underpunktet brukes ikke hvis råstoffet er kun melk.
 3. Behandling og bearbeiding av kun melk, når den mottatte melkemengde er på over 200 tonn per dag (årsgjennomsnitt).
 
+6.5.
+
 Disponering eller gjenvinning av skrotter og animalsk avfall med en behandlingskapasitet på over 10 tonn per dag.
+
+6.6.
 
 Intensiv fjørfeavl eller svineavl med mer enn40 000 plasser til fjørfe,2 000 plasser til produksjonssvin (over 30 kg), eller750 plasser til purker.
 
+6.7.
+
 Overflatebehandling av stoffer, gjenstander eller produkter ved bruk av organiske løsemidler, særlig appretur, trykking, belegging, avfetting, isolering, liming, maling, rengjøring eller impregnering, med en forbrukskapasitet på over 150 kg per time eller over 200 tonn per år
+
+6.8.
 
 Produksjon av karbon (hardbrent kull) eller grafittelektroder ved forbrenning eller grafittisering
 
+6.9.
+
 Fangst av CO2-strømmer fra anlegg som dekkes av dette kapittel med formål om geologisk lagring i samsvar med direktiv [2009/31/EF](eu/32009l0031)
 
+6.10.
+
 Beskyttelse av tre og treprodukter med kjemikalier hvor produksjonskapasiteten er større enn 75 m3/dag, unntatt behandling utelukkende mot blåvedsopp
+
+6.11.
 
 Uavhengig driftet behandling av avløpsvann som ikke dekkes av direktiv [91/271/EØF](eu/31991l0271) med utslipp fra et anlegg dekket av kapittel II.
 
@@ -4923,6 +6113,8 @@ Med utslippsgrensenivåer forbundet med beste tilgjengelige teknikker (BAT-AEL) 
 
 ### Vedlegg III. De viktigste forurensende stoffene som det skal tas hensyn til ved fastsettelse av utslippsgrenseverdier
 
+*Luft*
+
 1. Svoveldioksid og andre svovelforbindelser
 2. Nitrogenoksider og andre nitrogenforbindelser
 3. Karbonmonoksid
@@ -4936,6 +6128,8 @@ Med utslippsgrensenivåer forbundet med beste tilgjengelige teknikker (BAT-AEL) 
 11. Cyanider
 12. Stoffer og stoffblandinger med påviste kreftframkallende, mutagene eller eventuelt reproduksjonsskadelige egenskaper som kan overføres gjennom luft
 13. Polyklorerte dibenzodioksiner og polyklorerte dibenzofuraner.
+
+*Vann*
 
 1. Organiske halogenforbindelser og stoffer som kan danne slike forbindelser i akvatisk miljø
 2. Organiske fosforforbindelser
@@ -5182,6 +6376,8 @@ På grunnlag av den innsendte melding skal Miljødirektoratet avgjøre om det sk
 
 > Overskrift endret ved [forskrift 8 mai 2008 nr. 439](forskrift/2008-05-08-439).
 
+Bestemmelser om frivillig deltaking for organisasjoner i en fellesskapsordning for miljøstyring og miljørevisjon (EMAS) står i [kapittel 38](forskrift/2004-06-01-931/kap38).
+
 ### Kapittel 38. Frivillig deltaking for organisasjoner i en fellesskapsordning for miljøstyring og miljørevisjon (EMAS)
 
 Fastsatt av Miljøverndepartementet (nå Klima- og miljødepartementet) 13. juli 2012 med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 52a](lov/1981-03-13-6/§52a), [§ 52c](lov/1981-03-13-6/§52c), [§ 81](lov/1981-03-13-6/§81) og [§ 85](lov/1981-03-13-6/§85). Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 1ea (forordning [(EF) nr. 1221/2009](eu/32009r1221)).
@@ -5238,6 +6434,12 @@ Vedtak truffet av Brønnøysundregistrene eller Norsk Akkreditering (NA) i medho
 
 ### Forordninger
 
+Nedenfor gjengis til informasjon Utenriksdepartementets oversettelse av forordning [(EF) 1221/2009](eu/32009r1221) om frivillig deltaking for organisasjoner i en fellesskapsordning for miljøstyring og miljørevisjon (EMAS) (slik den opprinnelig ble vedtatt): (pdf)
+
+Nedenfor gjengis til informasjon Utenriksdepartementets oversettelser av forordning [(EF) 2017/1505](eu/32017r1505) om endring av vedlegg I, II og III til forordning [(EF) nr. 1221/2009](eu/32009r1221): (pdf)
+
+Nedenfor gjengis til informasjon engelsk versjon av forordning [(EU) 2018/2026](eu/32018r2026) om endring av vedlegg IV til forordning [(EF) nr. 1221/2009](eu/32009r1221): (pdf)
+
 > Tilføyd ved [forskrift 13 juli 2012 nr. 756](forskrift/2012-07-13-756), endret ved forskrifter [9 feb 2018 nr. 179](forskrift/2018-02-09-179), [17 juni 2019 nr. 753](forskrift/2019-06-17-753).
 
 ### Kapittel 38B. Rapportering til det europeiske register over utslipp og transport av forurensende stoffer (E-PRTR)
@@ -5259,6 +6461,8 @@ Miljødirektoratet er vedkommende myndighet etter forordningen. Der statsforvalt
 > Tilføyd ved [forskrift 8 mai 2008 nr. 439](forskrift/2008-05-08-439), endret ved forskrifter [21 juni 2010 nr. 1073](forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [14 des 2020 nr. 3341](forskrift/2020-12-14-3341) (i kraft 1 juni 2021).
 
 ## Del 10. Gebyrer
+
+Bestemmelser om
 
 - gebyr til statskassen for arbeid med tillatelser og kontroll etter [forurensningsloven](lov/1981-03-13-6) står i [kapittel 39](forskrift/2004-06-01-931/kap39).
 
@@ -5284,7 +6488,15 @@ Bestemmelsene gjelder ikke arbeid med tillatelser og kontroll som er omfattet av
 
 ### § 39-2. Definisjoner
 
-I dette kapitlet menes med:*Tillatelse:*Vedtak i medhold av [forurensningsloven § 11](lov/1981-03-13-6/§11) eller vedtak i medhold av forskrifter fastsatt med hjemmel i [forurensningsloven](lov/1981-03-13-6) som krever tillatelse, samt vedtak om beredskapskrav og godkjenning av beredskapsplaner i medhold av [forurensningsloven § 40](lov/1981-03-13-6/§40) og [§ 41](lov/1981-03-13-6/§41).*Saksbehandling:*Forurensningsmyndighetens arbeid med tillatelser.*Kontroll:*Undersøkelse av virksomhetens status i henhold til krav fastsatt i [forurensningsloven](lov/1981-03-13-6) og i forskrift eller enkeltvedtak gitt i medhold av loven, herunder systemrevisjon og arbeid med egenkontrollrapporter.*Flerdagstilsyn:*Tilsyn som har varighet utover en dag.*Dokumenttilsyn:*Kontroll av virksomhet gjennom pålegg om opplysninger med hjemmel i [forurensningsloven § 49](lov/1981-03-13-6/§49) eller [§ 51](lov/1981-03-13-6/§51).
+I dette kapitlet menes med:
+
+|  |  |
+| --- | --- |
+| *Tillatelse:* | Vedtak i medhold av [forurensningsloven § 11](lov/1981-03-13-6/§11) eller vedtak i medhold av forskrifter fastsatt med hjemmel i [forurensningsloven](lov/1981-03-13-6) som krever tillatelse, samt vedtak om beredskapskrav og godkjenning av beredskapsplaner i medhold av [forurensningsloven § 40](lov/1981-03-13-6/§40) og [§ 41](lov/1981-03-13-6/§41). |
+| *Saksbehandling:* | Forurensningsmyndighetens arbeid med tillatelser. |
+| *Kontroll:* | Undersøkelse av virksomhetens status i henhold til krav fastsatt i [forurensningsloven](lov/1981-03-13-6) og i forskrift eller enkeltvedtak gitt i medhold av loven, herunder systemrevisjon og arbeid med egenkontrollrapporter. |
+| *Flerdagstilsyn:* | Tilsyn som har varighet utover en dag. |
+| *Dokumenttilsyn:* | Kontroll av virksomhet gjennom pålegg om opplysninger med hjemmel i [forurensningsloven § 49](lov/1981-03-13-6/§49) eller [§ 51](lov/1981-03-13-6/§51). |
 
 > Endret ved [forskrifter 4 nov 2016 nr. 1340](forskrift/2016-11-04-1340) (i kraft 1 jan 2017), [21 aug 2023 nr. 1350](forskrift/2023-08-21-1350), [30 mai 2024 nr. 884](forskrift/2024-05-30-884) (i kraft 1 juli 2024).
 
@@ -5304,7 +6516,19 @@ Forurensningsmyndigheten skal, så langt det er mulig, underrette den gebyrplikt
 
 ### § 39-4. Gebyr for arbeid med fastsettelse av nye og endring av tillatelser
 
-For arbeid med fastsettelse av nye tillatelser og endring skal det betales gebyr etter følgende satser:*Sats**2026*1kr 473 1002kr 331 2003kr 236 5004kr 141 9005kr 94 6006kr 47 3007kr 23 7008kr 14 1009kr 9 500
+For arbeid med fastsettelse av nye tillatelser og endring skal det betales gebyr etter følgende satser:
+
+| *Sats* | *2026* |
+| --- | --- |
+| 1 | kr 473 100 |
+| 2 | kr 331 200 |
+| 3 | kr 236 500 |
+| 4 | kr 141 900 |
+| 5 | kr 94 600 |
+| 6 | kr 47 300 |
+| 7 | kr 23 700 |
+| 8 | kr 14 100 |
+| 9 | kr 9 500 |
 
 > Endret ved forskrifter [29 des 2006 nr. 1666](forskrift/2006-12-29-1666) (i kraft 1 jan 2007), [8 des 2008 nr. 1606](forskrift/2008-12-08-1606) (i kraft 1 jan 2009), [14 des 2009 nr. 1649](forskrift/2009-12-14-1649) (i kraft 1 jan 2010), [26 nov 2010 nr. 1513](forskrift/2010-11-26-1513) (i kraft 1 jan 2011), [28 nov 2011 nr. 1169](forskrift/2011-11-28-1169) (i kraft 1 jan 2012), [16 nov 2012 nr. 1072](forskrift/2012-11-16-1072) (i kraft 1 jan 2013), [18 nov 2013 nr. 1378](forskrift/2013-11-18-1378) (i kraft 1 jan 2014), [17 nov 2014 nr. 1520](forskrift/2014-11-17-1520) (i kraft 1 jan 2015), [31 des 2015 nr. 1866](forskrift/2015-12-31-1866) (i kraft 1 jan 2016), [4 nov 2016 nr. 1340](forskrift/2016-11-04-1340) (i kraft 1 jan 2017), [29 nov 2019 nr. 1615](forskrift/2019-11-29-1615) (i kraft 1 jan 2020), [17 nov 2020 nr. 2729](forskrift/2020-11-17-2729) (i kraft 1 jan 2021), [30 nov 2021 nr. 3635](forskrift/2021-11-30-3635) (i kraft 1 jan 2022), [27 okt 2022 nr. 2029](forskrift/2022-10-27-2029) (i kraft 1 jan 2023), [6 des 2023 nr. 1965](forskrift/2023-12-06-1965) (i kraft 1 jan 2024), [30 mai 2024 nr. 884](forskrift/2024-05-30-884) (i kraft 1 juli 2024), [5 des 2024 nr. 2935](forskrift/2024-12-05-2935) (i kraft 1 jan 2025), [14 nov 2025 nr. 2414](forskrift/2025-11-14-2414) (i kraft 1 jan 2026).
 
@@ -5320,13 +6544,31 @@ Gebyr etter denne bestemmelsen skal betales for arbeid med hver enkelt egenkontr
 
 ### § 39-6. Gebyr for dokumenttilsyn
 
-Ved dokumenttilsyn skal det betales gebyr etter følgende satser:*Sats**2026*1kr 51 1002kr 40 9003kr 30 6004kr 20 4005kr 10 2006kr 5 100
+Ved dokumenttilsyn skal det betales gebyr etter følgende satser:
+
+| *Sats* | *2026* |
+| --- | --- |
+| 1 | kr 51 100 |
+| 2 | kr 40 900 |
+| 3 | kr 30 600 |
+| 4 | kr 20 400 |
+| 5 | kr 10 200 |
+| 6 | kr 5 100 |
 
 > Endret ved forskrifter [29 des 2006 nr. 1666](forskrift/2006-12-29-1666) (i kraft 1 jan 2007), [8 des 2008 nr. 1606](forskrift/2008-12-08-1606) (i kraft 1 jan 2009), [14 des 2009 nr. 1649](forskrift/2009-12-14-1649) (i kraft 1 jan 2010), [26 nov 2010 nr. 1513](forskrift/2010-11-26-1513) (i kraft 1 jan 2011), [28 nov 2011 nr. 1169](forskrift/2011-11-28-1169) (i kraft 1 jan 2012), [16 nov 2012 nr. 1072](forskrift/2012-11-16-1072) (i kraft 1 jan 2013), [18 nov 2013 nr. 1378](forskrift/2013-11-18-1378) (i kraft 1 jan 2014), [17 nov 2014 nr. 1520](forskrift/2014-11-17-1520) (i kraft 1 jan 2015), [31 des 2015 nr. 1866](forskrift/2015-12-31-1866) (i kraft 1 jan 2016), opphevet ved [forskrift 4 nov 2016 nr. 1340](forskrift/2016-11-04-1340) (i kraft 1 jan 2017), tilføyd ved forskrift [30 mai 2024 nr. 884](forskrift/2024-05-30-884) (i kraft 1 juli 2024), endret ved forskrift [5 des 2024 nr. 2935](forskrift/2024-12-05-2935) (i kraft 1 jan 2025), [14 nov 2025 nr. 2414](forskrift/2025-11-14-2414) (i kraft 1 jan 2026).
 
 ### § 39-7. Gebyr for tilsyn av inntil en dags varighet i virksomheter
 
-Ved tilsyn av virksomheter som omfattes av krav fastsatt i forskriftene nevnt i [§ 39-1](forskrift/2004-06-01-931/§39-1) skal det betales gebyr etter følgende satser:*Sats**2026*1kr 53 8002kr 43 1003kr 32 3004kr 21 6005kr 10 8006kr 5 300
+Ved tilsyn av virksomheter som omfattes av krav fastsatt i forskriftene nevnt i [§ 39-1](forskrift/2004-06-01-931/§39-1) skal det betales gebyr etter følgende satser:
+
+| *Sats* | *2026* |
+| --- | --- |
+| 1 | kr 53 800 |
+| 2 | kr 43 100 |
+| 3 | kr 32 300 |
+| 4 | kr 21 600 |
+| 5 | kr 10 800 |
+| 6 | kr 5 300 |
 
 Forurensningsmyndighetens deltakelse på beredskapsøvelser, med unntak av kommunale beredskapsøvelser, jf. [§ 39-1](forskrift/2004-06-01-931/§39-1), omfattes av denne bestemmelsen.
 
@@ -5334,7 +6576,16 @@ Forurensningsmyndighetens deltakelse på beredskapsøvelser, med unntak av kommu
 
 ### § 39-8. Gebyr for flerdagstilsyn
 
-Ved flerdagstilsyn skal det betales gebyr etter følgende satser:*Sats**2026*1kr 376 8002kr 296 0003kr 215 3004kr 161 4005kr 80 8006kr 53 800
+Ved flerdagstilsyn skal det betales gebyr etter følgende satser:
+
+| *Sats* | *2026* |
+| --- | --- |
+| 1 | kr 376 800 |
+| 2 | kr 296 000 |
+| 3 | kr 215 300 |
+| 4 | kr 161 400 |
+| 5 | kr 80 800 |
+| 6 | kr 53 800 |
 
 > Endret ved forskrifter [29 des 2006 nr. 1666](forskrift/2006-12-29-1666) (i kraft 1 jan 2007), [8 des 2008 nr. 1606](forskrift/2008-12-08-1606) (i kraft 1 jan 2009), [14 des 2009 nr. 1649](forskrift/2009-12-14-1649) (i kraft 1 jan 2010), [26 nov 2010 nr. 1513](forskrift/2010-11-26-1513) (i kraft 1 jan 2011), [28 nov 2011 nr. 1169](forskrift/2011-11-28-1169) (i kraft 1 jan 2012), [16 nov 2012 nr. 1072](forskrift/2012-11-16-1072) (i kraft 1 jan 2013), [18 nov 2013 nr. 1378](forskrift/2013-11-18-1378) (i kraft 1 jan 2014), [17 nov 2014 nr. 1520](forskrift/2014-11-17-1520) (i kraft 1 jan 2015), [31 des 2015 nr. 1866](forskrift/2015-12-31-1866) (i kraft 1 jan 2016), [4 nov 2016 nr. 1340](forskrift/2016-11-04-1340) (i kraft 1 jan 2017), [29 nov 2019 nr. 1615](forskrift/2019-11-29-1615) (i kraft 1 jan 2020), [17 nov 2020 nr. 2729](forskrift/2020-11-17-2729) (i kraft 1 jan 2021), [30 nov 2021 nr. 3635](forskrift/2021-11-30-3635) (i kraft 1 jan 2022), [27 okt 2022 nr. 2029](forskrift/2022-10-27-2029) (i kraft 1 jan 2023), [6 des 2023 nr. 1965](forskrift/2023-12-06-1965) (i kraft 1 jan 2024), [30 mai 2024 nr. 884](forskrift/2024-05-30-884) (i kraft 1 juli 2024), [5 des 2024 nr. 2935](forskrift/2024-12-05-2935) (i kraft 1 jan 2025), [14 nov 2025 nr. 2414](forskrift/2025-11-14-2414) (i kraft 1 jan 2026).
 
@@ -5418,29 +6669,67 @@ Vedlegget tilsvarer Europaparlaments- og rådsdirektiv [2004/35/EF](eu/32004l003
 
 I dette vedlegg fastsettes en felles ramme som skal anvendes for at man skal kunne velge de mest hensiktsmessige tiltak for å sikre utbedring av miljøskader.
 
+1.*Utbedring av skader på vann, arter og habitater*
+
 Miljøskader på vann, arter eller habitater utbedres ved at miljøet tilbakeføres til sin opprinnelige tilstand ved hjelp av primær, utfyllende eller kompenserende utbedring:«primær utbedring»: utbedringstiltak som fører de skadede naturressursene og/eller nedsatte funksjonene tilbake til eller i retning av sin opprinnelige tilstand«utfyllende utbedring»: utbedringstiltak som treffes i forbindelse med naturressurser og/eller funksjoner for å kompensere for at primær utbedring ikke fører til full gjenoppretting av naturressursene eller funksjonene«kompenserende utbedring»: tiltak som treffes for å kompensere for midlertidige tap av naturressurser og/eller funksjoner som oppstår fra den dato skaden inntreffer til den primære utbedring har fått full virkning«midlertidige tap»: tap som skyldes at de skadede naturressursene og/eller nedsatte funksjonene ikke kan oppfylle sine økologiske funksjoner eller utnyttes av andre naturressurser eller allmennheten før de primære eller utfyllende tiltakene har begynt å virke. Det innebærer ikke økonomisk erstatning til allmennheten. Dersom primær utbedring ikke fører til at miljøet tilbakeføres til sin opprinnelige tilstand, vil det bli iverksatt utfyllende utbedring. Dessuten vil det bli iverksatt kompenserende utbedring for å kompensere for midlertidige tap.
 
 Utbedring av miljøskader i form av skader på vann, arter eller habitater innebærer også at enhver betydelig risiko for at menneskers helse påvirkes negativt, fjernes.
 
+1.1.*Mål for utbedring*
+
+*Formålet med primær utbedring*
+
+1.1.1.
+
 Formålet med primær utbedring er å føre de skadede naturressursene og/eller nedsatte funksjonene tilbake til eller i retning av sin opprinnelige tilstand.
+
+*Formålet med utfyllende utbedring*
+
+1.1.2.
 
 Dersom de skadede naturressursene og/eller nedsatte funksjonene ikke tilbakeføres til sin opprinnelige tilstand, blir det iverksatt utfyllende utbedring. Formålet med utfyllende utbedring er å oppnå et lignende nivå for naturressurser og/eller funksjoner, eventuelt på et annet sted, som det som ville ha blitt oppnådd dersom det skadede stedet hadde blitt tilbakeført til sin opprinnelige tilstand. Dersom det er mulig og hensiktsmessig, bør det andre stedet være geografisk knyttet til det skadede stedet, samtidig som det tas hensyn til den berørte befolknings interesser.
 
+*Formålet med kompenserende utbedring*
+
+1.1.3.
+
 Kompenserende utbedring skal iverksettes for å kompensere for midlertidig tap av naturressurser og funksjoner i påvente av gjenoppretting. Denne kompensasjonen består i ytterligere forbedringer av habitater, arter eller vann enten på det skadede stedet eller på et annet sted. Det innebærer ikke økonomisk erstatning til allmennheten.
+
+1.2.*Fastsettelse av utbedringstiltak*
+
+*Fastsettelse av primære utbedringstiltak*
+
+1.2.1.
 
 Muligheten skal overveies for tiltak som direkte fører naturressursene og funksjonene tilbake til sin opprinnelige tilstand innen en kortere tidsfrist eller gjennom naturlig gjenoppretting.
 
+*Fastsettelse av utfyllende og kompenserende utbedringstiltak*
+
+1.2.2.
+
 Ved fastsettelse av omfanget av utfyllende og kompenserende utbedringstiltak skal bruk av framgangsmåter som bygger på likeverdighet mellom ressurser eller mellom funksjoner vurderes først. Etter disse framgangsmåtene skal tiltak som gir naturressurser og/eller funksjoner av samme type, kvalitet og mengde som de skadede, vurderes først. Dersom det ikke er mulig, skal det skaffes til veie andre naturressurser og/eller funksjoner. En kvalitetsreduksjon kan for eksempel kompenseres med en økt mengde utbedringstiltak.
+
+1.2.3.
 
 Dersom det ikke er mulig å bruke framgangsmåtene som bygger på likeverdighet mellom ressurser eller mellom funksjoner, skal det brukes alternative vurderingsmetoder. Vedkommende myndighet kan foreskrive metoden, for eksempel økonomisk vurdering, for å fastsette omfanget av nødvendige utfyllende eller kompenserende utbedringstiltak. Dersom det er mulig å verdivurdere tapte ressurser og/eller funksjoner, mens det ikke er mulig innen en rimelig tidsfrist eller til en rimelig kostnad å verdivurdere de naturressurser og/eller funksjoner som skal erstatte dem, kan vedkommende myndighet velge utbedringstiltak til en kostnad som tilsvarer den anslåtte økonomiske verdi av de tapte naturressursene og/eller funksjonene.
 
 De utfyllende og kompenserende utbedringstiltakene bør utformes slik at de gir ytterligere naturressurser og/eller funksjoner som avspeiler tidspreferanser og tidsprofil for utbedringstiltakene. Jo lengre tid det tar før den opprinnelige tilstand nås, desto flere utbedringstiltak skal treffes (på ellers like vilkår).
 
+1.3.*Valg av utbedringsalternativer*
+
+1.3.1.
+
 De rimelige utbedringsalternativene bør vurderes med bruk av den beste tilgjengelige teknologi på grunnlag av følgende kriterier:virkningen av hvert alternativ på folkehelsen og offentlig sikkerhet,kostnaden ved å gjennomføre alternativet,sannsynligheten for at hvert alternativ skal lykkes,i hvilken utstrekning hvert alternativ bidrar til å forebygge framtidig skade og unngå ytterligere skade som følge av gjennomføringen av alternativet,i hvilken grad hvert alternativ gagner naturressursens og/eller funksjonens ulike komponenter,i hvilken grad hvert alternativ tar hensyn til relevante sosiale, økonomiske og kulturelle interesser og andre relevante faktorer som er særegne for stedet,hvor lang tid det vil ta før miljøskaden er gjenopprettet,i hvilken grad hvert alternativ fører til gjenoppretting av stedet der miljøskaden oppstod,den geografiske tilknytning til stedet der skaden oppstod.
+
+1.3.2.
 
 Ved vurderingen av de ulike utbedringsalternativene som er fastsatt, kan det velges primære utbedringstiltak som ikke fullt ut fører vannet, artene eller habitatet som er skadet, tilbake til den opprinnelige tilstand, eller som gjenoppretter den langsommere. En slik beslutning kan tas bare dersom tapet av naturressursene og/eller funksjonene på det opprinnelige stedet som følge av beslutningen, kompenseres ved en styrking av de utfyllende og kompenserende tiltakene slik at det oppnås et lignende nivå som tidligere for naturressurser og/eller funksjoner. Det vil for eksempel være tilfelle dersom likeverdige naturressurser og/eller funksjoner kan skaffes til veie et annet sted til en lavere kostnad. Disse ytterligere utbedringstiltakene skal fastsettes i samsvar med reglene i avsnitt 1.2.2.
 
+1.3.3.
+
 Uten at det berører reglene fastsatt i avsnitt 1.3.2, og i samsvar med artikkel 7 nr. 3, har vedkommende myndighet rett til å beslutte at det ikke skal treffes ytterligere utbedringstiltak dersomde utbedringstiltak som allerede er truffet, sikrer at det ikke lenger er betydelig risiko for at menneskers helse, vann, arter eller habitater påvirkes negativt, ogkostnaden ved de utbedringstiltak som bør treffes for å nå den opprinnelige tilstand eller lignende nivå, ikke vil stå i forhold til de miljøfordeler som skal oppnås.
+
+2.*Utbedring av skade på jord*
 
 De nødvendige tiltak skal treffes for minst å sikre at de relevante forurensende stoffer fjernes, kontrolleres, innesluttes eller begrenses slik at forurenset jord, idet det tas hensyn til dens nåværende bruk eller den framtidige bruk som var godkjent på tidspunktet for skaden, ikke lenger utgjør en betydelig risiko for at menneskers helse påvirkes negativt. Vurderingen av om slike risikoer foreligger skal foretas ved hjelp av framgangsmåter for risikovurdering der det tas hensyn til jordens egenskaper og funksjon samt de skadelige stoffenes, stoffblandingenes, organismenes eller mikroorganismenes art og konsentrasjon, den risiko de innebærer og muligheten for at de spres. Bruken skal bestemmes på grunnlag av regler for arealbruk eller eventuelt andre relevante regler som gjelder på det tidspunkt skaden oppstår.
 
@@ -5453,6 +6742,8 @@ Muligheten for naturlig gjenoppbygging, dvs. et alternativ uten direkte menneske
 > Endret ved [forskrift 13 juni 2014 nr. 739](forskrift/2014-06-13-739).
 
 ## Del 11. Felles bestemmelser
+
+Bestemmelser om
 
 - tilsyn, klage, straff mv. står i [kapittel 41](forskrift/2004-06-01-931/kap41),
 - ikrafttreden og myndighet til senere endringer står i [kapittel 42](forskrift/2004-06-01-931/kap42)
