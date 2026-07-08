@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2017-01-01"
 last_change_in_force: "2026-01-01"
 last_updated: "2024-06-18"
-xml_hash: "020be67a459418a445361e6b1ae8304f553a776dd9e0a3e602308424bea9d7e3"
+xml_hash: "6d4ff89099c5c68fdd5976b675a7ea211f416c5620f5901fa5d114e6facfe1ac"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-08T06:25:33.153142+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,7 +62,7 @@ Godkjend eigendel som nemnd i [§ 4](forskrift/2016-12-20-1848/§4) vert i fylgj
 
 Ved behandling som nemnd i bokstav h skal helsepersonellet grunngje i pasienten sin journal at eitt eller fleire av vilkåra for dekkjing av eigendel er oppfylt. Staten dekkjer eigendel for helsehjelp etter bokstav h for pasientar som oppheld seg i riket sjølv om pasienten ikkje er medlem av folketrygda.
 
-> Endra ved [forskrifter 19 des 2018 nr. 2166](forskrift/2018-12-19-2166) (i kraft 1 jan 2019), [29 juni 2020 nr. 1449](forskrift/2020-06-29-1449) (i kraft 3 juli 2020), [30 juni 2023 nr. 1182](forskrift/2023-06-30-1182) (i kraft 1 juli 2023), [19 des 2024 nr. 3291](forskrift/2024-12-19-3291) (i kraft 1 jan 2025), [17 jan 2025 nr. 46](forskrift/2025-01-17-46), [2 sep 2025 nr. 1769](forskrift/2025-09-02-1769).
+> Endra ved [forskrifter 19 des 2018 nr. 2166](forskrift/2018-12-19-2166) (i kraft 1 jan 2019), [29 juni 2020 nr. 1449](forskrift/2020-06-29-1449) (i kraft 3 juli 2020), [30 juni 2023 nr. 1182](forskrift/2023-06-30-1182) (i kraft 1 juli 2023), [19 des 2024 nr. 3291](forskrift/2024-12-19-3291) (i kraft 1 jan 2025), [17 jan 2025 nr. 46](forskrift/2025-01-17-46), [2 sep 2025 nr. 1769](forskrift/2025-09-02-1769). **Vert endra** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
 ## § 6. Betalingsfritak ved forseinking
 
@@ -82,7 +82,7 @@ Ved behandling i poliklinikk innan somatikk kan pasienten verta kravd for 75 kro
 
 I høve godkjend yrkesskade etter lov [28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd [kapittel 13](lov/1997-02-28-19/kap13), og godkjend krigsskade etter [lov 13. desember 1946 nr. 21](lov/1946-12-13-21) om krigspensjonering for militærpersonell og [lov 13. desember 1946 nr. 22](lov/1946-12-13-22) om krigspensjonering for hjemmestyrkepersonell og sivilpersoner, vert kostnader etter fyrste leden dekte av staten.
 
-> Endra ved [forskrifter 14 nov 2018 nr. 1704](forskrift/2018-11-14-1704), [1 mars 2019 nr. 168](forskrift/2019-03-01-168) (i kraft 1 juli 2019), [22 des 2020 nr. 3093](forskrift/2020-12-22-3093) (i kraft 1 jan 2021), [9 april 2025 nr. 652](forskrift/2025-04-09-652) (i kraft 1 juli 2025).
+> Endra ved [forskrifter 14 nov 2018 nr. 1704](forskrift/2018-11-14-1704), [1 mars 2019 nr. 168](forskrift/2019-03-01-168) (i kraft 1 juli 2019), [22 des 2020 nr. 3093](forskrift/2020-12-22-3093) (i kraft 1 jan 2021), [9 april 2025 nr. 652](forskrift/2025-04-09-652) (i kraft 1 juli 2025). **Vert endra** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
 ## § 9. Pasientbetaling for særskilt helsehjelp
 
@@ -107,3 +107,11 @@ Forskrifta tek til å gjelde 1. januar 2017.
 ## § 13. Endringar i andre forskrifter
 
 Frå tida forskrifta tek til å gjelde blir det gjort fylgjande endringar i andre forskrifter:
+
+1\. I [forskrift 18. april 1997 nr. 334](forskrift/1997-04-18-334) om egenandelstak 1 vert fylgjande endringar gjorde:---
+
+2\. I [forskrift 21. desember 2000 nr. 1385](forskrift/2000-12-21-1385) om pasientjournal skal [§ 12](forskrift/2000-12-21-1385/§12) lyde:---
+
+3\. I [forskrift 27. juni 2016 nr. 819](forskrift/2016-06-27-819) om stønad til dekning av utgifter til undersøkelse og behandling hos lege vert følgjande endring gjorde:---
+
+4\. I [forskrift 19. desember 2007 nr. 1761](forskrift/2007-12-19-1761) om godtgjørelse av utgifter til helsehjelp som utføres poliklinisk ved statlige helseinstitusjoner og ved helseinstitusjoner som mottar driftstilskudd fra regionale helseforetak vert følgjande endringar gjorde:---
