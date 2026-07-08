@@ -1,13 +1,25 @@
+---
+type: "history"
+slug: "forurensningsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forurensningsforskriften — Change history
 
-_4 events; doc_id `sf-20040601-0931`._
+_5 events; doc_id `sf-20040601-0931`._
+
+## 2026-07-08 — Content updated
+Lines: +1430 -139.
+Subject: `update(forskrift): forurensningsforskriften`
+Commit: `d6474aa`.
 
 ## 2026-06-20 — Content updated
 Lines: +2 -2.
 Subject: `update(forskrift): forurensningsforskriften`
 Commit: `331b4d5`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

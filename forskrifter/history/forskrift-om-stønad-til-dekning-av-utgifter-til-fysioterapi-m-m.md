@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-stønad-til-dekning-av-utgifter-til-fysioterapi-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-stønad-til-dekning-av-utgifter-til-fysioterapi-m-m — Change history
 
-_5 events; doc_id `sf-20240617-1184`._
+_6 events; doc_id `sf-20240617-1184`._
+
+## 2026-07-08 — Content updated
+Lines: +143 -2.
+Subject: `update(forskrift): forskrift-om-stønad-til-dekning-av-utgifter-til-fysioterapi-m-m`
+Commit: `3dafe22`.
 
 ## 2026-07-01 — Content updated
 Lines: +36 -16.
@@ -12,13 +24,13 @@ Lines: +7 -5.
 Subject: `update(forskrift): forskrift-om-stønad-til-dekning-av-utgifter-til-fysioterapi-m-m`
 Commit: `0363a20`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20240617-1184.md` → `"forskrifter/forskrift-om-st\303\270nad-til-dekning-av-utgifter-til-fysioterapi-m-m.md"`.
+Renamed: `forskrifter/sf-20240617-1184.md` → `forskrifter/forskrift-om-stønad-til-dekning-av-utgifter-til-fysioterapi-m-m.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -2,6 +2,16 @@
   "doc_id": "sf-20070628-0814",
   "events": [
     {
+      "commit": "34c8f45",
+      "date": "2026-07-08",
+      "from_path": null,
+      "lines_added": 901,
+      "lines_removed": 4,
+      "subject": "update(forskrift): blåreseptforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "5033806",
       "date": "2026-07-02",
       "from_path": null,
@@ -79,7 +89,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -88,7 +98,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/bl\\303\\245reseptforskriften.md\"",
+      "to_path": "forskrifter/blåreseptforskriften.md",
       "type": "renamed"
     },
     {

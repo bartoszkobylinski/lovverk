@@ -2,13 +2,33 @@
   "doc_id": "sf-20161220-1848",
   "events": [
     {
+      "commit": "3f1a48c",
+      "date": "2026-07-08",
+      "from_path": null,
+      "lines_added": 12,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-om-betaling-frå-pasientar-for-poliklinisk-helsehjelp-i-spesialisthelsetenesta",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "forskrifter/sf-20161220-1848.md",
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-betaling-fr\\303\\245-pasientar-for-poliklinisk-helsehjelp-i-spesialisthelsetenesta.md\"",
+      "to_path": "forskrifter/forskrift-om-betaling-frå-pasientar-for-poliklinisk-helsehjelp-i-spesialisthelsetenesta.md",
       "type": "renamed"
     },
     {

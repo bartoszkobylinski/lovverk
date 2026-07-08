@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "blåreseptforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # blåreseptforskriften — Change history
 
-_10 events; doc_id `sf-20070628-0814`._
+_11 events; doc_id `sf-20070628-0814`._
+
+## 2026-07-08 — Content updated
+Lines: +901 -4.
+Subject: `update(forskrift): blåreseptforskriften`
+Commit: `34c8f45`.
 
 ## 2026-07-02 — Content updated
 Lines: +3 -3.
@@ -37,13 +49,13 @@ Lines: +6 -4.
 Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
 Commit: `5511aa4`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20070628-0814.md` → `"forskrifter/bl\303\245reseptforskriften.md"`.
+Renamed: `forskrifter/sf-20070628-0814.md` → `forskrifter/blåreseptforskriften.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

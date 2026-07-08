@@ -2,6 +2,16 @@
   "doc_id": "sf-20040601-0931",
   "events": [
     {
+      "commit": "d6474aa",
+      "date": "2026-07-08",
+      "from_path": null,
+      "lines_added": 1430,
+      "lines_removed": 139,
+      "subject": "update(forskrift): forurensningsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "331b4d5",
       "date": "2026-06-20",
       "from_path": null,
@@ -19,7 +29,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",

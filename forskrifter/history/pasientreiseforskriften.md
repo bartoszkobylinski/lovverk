@@ -1,13 +1,25 @@
+---
+type: "history"
+slug: "pasientreiseforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # pasientreiseforskriften — Change history
 
-_4 events; doc_id `sf-20150625-0793`._
+_5 events; doc_id `sf-20150625-0793`._
+
+## 2026-07-08 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): pasientreiseforskriften`
+Commit: `a8ca043`.
 
 ## 2026-06-16 — Content updated
 Lines: +3 -3.
 Subject: `update(forskrift): pasientreiseforskriften`
 Commit: `c6c8e1c`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

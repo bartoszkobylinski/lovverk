@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260703-1510",
+  "events": [
+    {
+      "commit": "a2b3193",
+      "date": "2026-07-08",
+      "from_path": null,
+      "lines_added": 111,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrifter-om-fritak-for-egenandeler-for-barn-under-18-år-under-egenandelstakordningen",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrifter-om-fritak-for-egenandeler-for-barn-under-18-år-under-egenandelstakordningen"
+}

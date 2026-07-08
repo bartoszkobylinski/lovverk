@@ -2,6 +2,16 @@
   "doc_id": "sf-20240617-1184",
   "events": [
     {
+      "commit": "3dafe22",
+      "date": "2026-07-08",
+      "from_path": null,
+      "lines_added": 143,
+      "lines_removed": 2,
+      "subject": "update(forskrift): forskrift-om-stønad-til-dekning-av-utgifter-til-fysioterapi-m-m",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,
@@ -29,7 +39,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -38,7 +48,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-st\\303\\270nad-til-dekning-av-utgifter-til-fysioterapi-m-m.md\"",
+      "to_path": "forskrifter/forskrift-om-stønad-til-dekning-av-utgifter-til-fysioterapi-m-m.md",
       "type": "renamed"
     },
     {

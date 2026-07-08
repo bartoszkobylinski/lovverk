@@ -2,6 +2,16 @@
   "doc_id": "sf-20030627-0959",
   "events": [
     {
+      "commit": "5412c60",
+      "date": "2026-07-08",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): forskrift-om-dekning-av-laboratorieutgifter-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "c3c7f48",
       "date": "2026-07-07",
       "from_path": null,

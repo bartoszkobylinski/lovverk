@@ -2,6 +2,16 @@
   "doc_id": "sf-20150625-0793",
   "events": [
     {
+      "commit": "a8ca043",
+      "date": "2026-07-08",
+      "from_path": null,
+      "lines_added": 3,
+      "lines_removed": 3,
+      "subject": "update(forskrift): pasientreiseforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "c6c8e1c",
       "date": "2026-06-16",
       "from_path": null,
@@ -19,7 +29,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",

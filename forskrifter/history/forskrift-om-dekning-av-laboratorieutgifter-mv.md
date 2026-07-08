@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-dekning-av-laboratorieutgifter-mv — Change history
 
-_5 events; doc_id `sf-20030627-0959`._
+_6 events; doc_id `sf-20030627-0959`._
+
+## 2026-07-08 — Content updated
+Lines: +3 -3.
+Subject: `update(forskrift): forskrift-om-dekning-av-laboratorieutgifter-mv`
+Commit: `5412c60`.
 
 ## 2026-07-07 — Content updated
 Lines: +181 -22.
