@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-07-01"
 last_change_in_force: "2026-07-01"
 last_updated: null
-xml_hash: "ebb1050de4d91013cb1967ba290ad180551d9e10369a6463f358b8b5fed8819a"
+xml_hash: "3bb29c2760f8d7b13b6512f504537d0b2d2f3bcceb20af07b97b093c2f950f5d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-08T06:25:33.153142+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -46,6 +46,8 @@ Fysioterapeuten må i journal dokumentere refusjonskravet, herunder hvilke under
 
 Avtalefysioterapeut som mottar turnuskandidat krever inn og beholder de egenandelene som turnuskandidaten utløser, jf. [forskrift om egenandel for kommunale helse- og omsorgstjenester § 11](forskrift/2011-12-16-1349/§11) første ledd og [forskrift om fastlønnstilskudd til delvis dekning av kommunenes utgifter til fysioterapitjenesten § 1](forskrift/2001-05-25-542/§1) første ledd. Turnuskandidat kan utløse egenandelene som framkommer i [kapittel II](forskrift/2024-06-17-1184/kapII), pkt. T.
 
+> **Endres** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
+
 ### § 6
 
 Hvis et medlem ikke kan møte fram på behandlingsstedet på grunn av sin helsetilstand, dekker kommunen reiseutgiftene for fysioterapeuten etter [lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. § 11-1](lov/2011-06-24-30/§11-1) fjerde og femte ledd.
@@ -68,20 +70,49 @@ En behandling hos fysioterapeut kan være enten en undersøkelse, en individuell
 
 Ugyldig takstkombinasjon betyr at takstene ikke kan kombineres i samme behandling.
 
+*Forkortelser:*
+
 - *Hon.* – står for honorar, og angir takstbeløpet i kroner.
 - *Ref.* – står for refusjonsandel.
 - *Egen.* – står for egenandel.
 - *Merk.* – står for merknad.
 - *Rep.* – står for repetisjon.
 
+*Repetisjoner:*
+
 - *0* – betyr at taksten ikke kan repeteres i samme behandling, dvs. at prosedyre/undersøkelse/behandling refunderes én gang selv om den gjentas.
 - *Rep.* – betyr at taksten kan repeteres flere ganger i samme behandling. Står det i stedet et tall, kan taksten repeteres dette antall ganger.
 
 ### A. Undersøkelse og individuell behandling
 
+| *Takst* | *Tekst* | *Hon.* | *Ref.* | *Egen.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- | --- | --- |
+| A1a | Undersøkelse hos fysioterapeut, inntil 20 minutter. Ved undersøkelse av barn under 16 år benyttes takst A1d. Takst A1a og B0a kan til sammen benyttes inntil 4 ganger for samme sykdom/skade per kalenderår.<br>Ugyldig takstkombinasjon: Alle unntatt A1c, A1g, A1i, D40, F1, F21, F22, F23 | 415,– | 271,– | 144,– | A1, A2, A3 | 0 |
+| A1c | Tillegg for undersøkelse ut over 20 minutter per påbegynte 10 minutter, jf. takst A1a.<br>Ugyldig takstkombinasjon: Alle unntatt A1a, A1g, A1i, D40, F1, F21, F22, F23 | 127,– | 81,– | 46,– | A1, A2, A3 | 6 |
+| A1d | Undersøkelse i inntil 20 minutter: – hos manuellterapeut – hos fysioterapeut med rett til å utløse takst A7, A8 og A9, eller – ved undersøkelse av barn under 16 år hos fysioterapeut Takst A1d og B0d kan til sammen benyttes inntil 4 ganger for samme sykdom/skade per kalenderår.<br>Ugyldig takstkombinasjon: Alle unntatt A1f, A1g, A1ha, A1hb, A1i, D40, F1, F21, F22, F23 | 517,– | 329,– | 188,– | A1, A2, A3, A4, A5, A7 | 0 |
+| A1f | Tillegg for undersøkelse ut over 20 minutter per påbegynte 10 minutter, jf. takst A1d<br>Ugyldig takstkombinasjon: Alle unntatt A1d, A1g, A1ha, A1hb, A1i, D40, F1, F21, F22, F23 | 158,– | 90,– | 68,– | A1, A2, A3, A4, A5, A7 | 6 |
+| A1g | Tillegg ved undersøkelse i samband med utforming av individuell plan eller tverrfaglig utredning av rehabiliteringspasient.<br>Ugyldig takstkombinasjon: Alle unntatt A1a, A1c, A1d, A1f, A1ha, A1hb, A1i, B0a, B0c, B0d, B0f, D40, F1, F21, F22, F23 | 139,– | 139,– | 0,– |  | 0 |
+| A1ha | Tillegg for undersøkelse hos manuellterapeut, inntil 20 minutter.<br>Ugyldig takstkombinasjon: Alle unntatt A1d, A1f, A1g, A1hb, A1i, B0d, B0f, D40, F1, F21, F22, F23 | 146,– | 146,– | 0,– | A4 | 0 |
+| A1hb | Tillegg for undersøkelse hos manuellterapeut ved undersøkelse ut over 20 minutter per påbegynte 10 minutter<br><br>Ugyldig takstkombinasjon: Alle unntatt A1d, A1f, A1g, A1ha, A1i, B0d, B0f, D40, F1, F21, F22, F23 | 21,– | 21,– | 0,– | A4 | 6 |
+| A1i | Tillegg for diagnostisk ultralyd ved muskel- og skjelettplager. Indikasjon og resultat må framgå av journalnotat. Taksten dekker utgifter til gel mv. Taksten krever samtidig bruk av A1a eller A1d. Taksten kan benyttes inntil 2 ganger for samme sykdom/skade per kalenderår.<br>Ugyldig takstkombinasjon: Alle unntatt A1a, A1c, A1d, A1f, A1g, A1ha, A1hb, D40 | 271,– | 168,– | 103,– |  | 0 |
+| A3a | Behandling hos fysioterapeut, inntil 20 minutter<br>Ugyldig takstkombinasjon: Alle unntatt A3b, D40, F1, F21, F22, F23 | 238,– | 94,– | 144,– | A1, A3 | 0 |
+| A3b | Tillegg for behandling ut over 20 minutter per påbegynte 10 minutter<br>Ugyldig takstkombinasjon: Alle unntatt A3a, D40, F1, F21, F22, F23 | 109,– | 63,– | 46,– | A1, A3 | 6 |
+| A4 | Enkel pasientkontakt ved brev, telefonsamtale eller elektronisk kommunikasjon (sikkerhetsnivå 4). Taksten forutsetter at det gis råd/veiledning. Taksten kan ikke benyttes når kontakten/forespørselen resulterer i skriving av rekvisisjon eller henvisning. Taksten kan heller ikke benyttes ved kontakt av administrativ karakter, f.eks. ved bestilling, endring eller avbestilling av time.<br>Ugyldig takstkombinasjon: Alle | 91,– | 91,– | 0,– |  | 0 |
+| A7a | Behandling hos fysioterapeut med tilleggskompetanse som gir rett til å utløse takst A7a og A7b, inntil 20 minutter<br>Ugyldig takstkombinasjon: Alle unntatt A7b, D40, F1, F21, F22, F23 | 290,– | 146,– | 144,– | A1, A3, A7 | 0 |
+| A7b | Tillegg for behandling ut over 20 minutter per påbegynte 10 minutter<br>Ugyldig takstkombinasjon: Alle unntatt A7a, D40, F1, F21, F22, F23 | 131,– | 85,– | 46,– | A1, A3, A7 | 6 |
+| A8a | Behandling hos manuellterapeut, inntil 20 minutter<br>Ugyldig takstkombinasjon: Alle unntatt A8b, D40, F1, F21, F22, F23 | 360,– | 172,– | 188,– | A1, A3, A4 | 0 |
+| A8b | Tillegg for behandling ut over 20 minutter per påbegynte 10 minutter.<br>Ugyldig takstkombinasjon: Alle unntatt A8a, D40, F1, F21, F22, F23 | 152,– | 84,– | 68,– | A1, A3, A4 | 6 |
+| A9a | Behandling hos fysioterapeut med tilleggskompetanse i psykomotorisk fysioterapi, inntil 20 minutter.<br>Ugyldig takstkombinasjon: Alle unntatt A9b, D40, F1, F21, F22, F23 | 290,– | 146,– | 144,– | A1, A3, A5 | 0 |
+| A9b | Tillegg for behandling ut over 20 minutter per påbegynte 10 minutter.<br>Ugyldig takstkombinasjon: Alle, unntatt A9a, D40, F1, F21, F22, F23 | 131,– | 85,– | 46,– | A1, A3, A5 | 6 |
+| A10 | Egentrening på fysioterapeutens klinikk etter et individuelt tilpasset treningsprogram utarbeidet av fysioterapeuten, minst 20 minutter<br>Ugyldig takstkombinasjon: Alle | 33,– | 3,– | 30,– | A6 | 0 |
+
+*Merknad A1*
+
 Hver av takstene A1a, A1d, A3a, A7a, A8a og A9a teller som en behandling. Disse takstene kan ikke kombineres i samme behandling, pasienten skal ha fysioterapeutens fulle oppmerksomhet i hele behandlingstiden og overlapping i tid av pasientbehandlinger honoreres ikke.
 
 Inkludert i takstene ligger honorar for for- og etterarbeid, men tidsangivelsen angir den tiden pasienten er til stede ved undersøkelsen eller behandlingen. Innenfor tiden som utløser A1a, A1d, A3a, A3b, A7a, A7b, A8a, A8b eller A9a og A9b, kan fysioterapeuten skrive journalnotat, henvisninger og rekvisisjoner. Hjelp til av- og påkledning kan også inngå i tiden som det kreves refusjon for.
+
+*Merknad A2*
 
 Bruk av takst A1a og A1d forutsetter en fysioterapeutisk undersøkelse og funksjonsvurdering. Resultatet av undersøkelsen, herunder diagnose og mål for behandlingen, skal være dokumentert i journal. Enkel retesting påfølgende behandlingstimer gir ikke rett til å utløse takst for undersøkelse på nytt.
 
@@ -89,7 +120,11 @@ Ved undersøkelse av barn under 16 år, kan takst A1d også utløses av fysioter
 
 Når undersøkelse som gir rett til å utløse takst A1a eller A1d går over i behandling i samme konsultasjon, skal undersøkelsestakstene benyttes for den samlede tiden til undersøkelse og behandling. Det kan ikke kreves takst for individuell behandling samme dag som det er utløst takst for undersøkelse på samme pasient.
 
+*Merknad A3*
+
 Råd og praktisk veiledning i tilknytning til behandlingsopplegget er inkludert i taksten. Nødvendig opplæring, veiledning til egentrening og sykdomsmestring kan inngå i taksten når dette er et ledd i pasientens behandlings- eller rehabiliteringsopplegg. Dette gjelder også nødvendig tilpasning, veiledning, opplæring og vurdering av behov for hjelpemidler. Ved lymfødembehandling kan også tid medgått til måltaking og tilpasning av strømper inkluderes i taksten.
+
+*Merknad A4*
 
 Det er et vilkår for rett til stønad at behandlingen utføres av manuellterapeut, jf. [helsepersonelloven § 48](lov/1999-07-02-64/§48).
 
@@ -97,21 +132,44 @@ Taksten kan utløses fra den dato autorisasjon som manuellterapeut er registrert
 
 Fysioterapeut som er under masterutdanning i manuellterapi eller godkjent tilsvarende videreutdanning i manuellterapi, kan benytte takstene A8a og A8b i forbindelse med veiledet praksis som er nødvendig for å få godkjent utdanningen.
 
+*Merknad A5*
+
 Det er et vilkår for rett til stønad at behandlingen utføres av fysioterapeut som:har bestått eksamen i klinisk masterstudium i psykomotorisk fysioterapi (120 studiepoeng) eller tilsvarende utdanning, og har gjennomført 20 timer egenbehandling hos fysioterapeut med rett til å utløse takst A9 ellerhar bestått eksamen i videreutdanning i psykomotorisk fysioterapi ved OsloMet (60 studiepoeng) og i tillegg bestått eksamen i masterstudium som er relevant for fagfeltet psykomotorisk fysioterapi (120 studiepoeng), og har gjennomført 20 timer egenbehandling hos fysioterapeut med rett til å utløse takst A9 ellerhar godkjenning for bruk av takst A9 per 31. desember 2015. Retten gjelder i en overgangsperiode til og med 31. desember 2026. Fysioterapeut som har godkjenning fra Norsk Fysioterapeutforbund per 31. desember 2015 og får registrert retten til å utløse A9 i Helsepersonellregisteret innen 31. desember 2026, beholder retten til å utløse takst A9.
 
 Taksten kan utløses fra den dato tilleggskompetansen er registrert i Helsepersonellregisteret.
 
 Fysioterapeut som har rett til refusjon som utdanningskandidat i forbindelse med masterstudium i psykomotorisk fysioterapi, kan benytte taksten i forbindelse med veiledet praksis som er nødvendig for å få godkjent utdanningen.
 
+*Merknad A6*
+
 Taksten kan kreves for pasienter i et pågående behandlingsforløp når følgende vilkår er oppfylt:egentrening på klinikken er nødvendig som ledd i behandlingsoppleggetklinikken har treningssal som er egnet for egentreningkvalifisert personell er tilgjengelig på klinikken for å ivareta pasientenes sikkerhet.
 
 Taksten kan benyttes inntil 5 ganger mellom to undersøkelser/behandlinger. Taksten kan ikke benyttes mer enn én gang samme dag. Fysioterapeuten må dokumentere målet med egentreningen i journal, og justere treningsopplegget ved behov. Fysioterapeuten må ikke dokumentere hver gang A10 utløses, men ved oppstart og i forbindelse med individuelle undersøkelser/behandlinger/gruppebehandlinger.
+
+*Merknad A7*
 
 Rett til å utløse takst A7a og A7b har fysioterapeut som:har bestått eksamen i klinisk masterstudium i fysioterapi (120 studiepoeng) ved norsk universitet eller tilsvarende utdanning,har bestått eksamen i klinisk rettet masterstudium som er relevant for fysioterapeuter (120 studiepoeng) ved norsk universitet eller tilsvarende utdanning, og har gjennomført ett års klinisk praksis i forbindelse med masterstudiet eller etter bestått masterstudium, ellerhar godkjenning fra Norsk Fysioterapeutforbund for bruk av takst A2k per 31. desember 2024. Retten gjelder i en overgangsperiode til og med 31. desember 2026. Fysioterapeut som har godkjenning fra Norsk Fysioterapeutforbund per 31. desember 2024 og får registrert retten til å utløse A2k i Helsepersonellregisteret innen 31. desember 2026, beholder retten til å utløse takst A2k (A7a og A7b fra 1. juli 2025).
 
 Søknad om å få rett til å utløse takst A7a og A7b behandles av Helsedirektoratet. Taksten kan utløses fra den dato tilleggskompetansen er registrert i Helsepersonellregisteret.
 
 ### B. Videokonsultasjon
+
+| *Takst* | *Tekst* | *Hon.* | *Ref.* | *Egen.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- | --- | --- |
+| B0a | Undersøkelse via video hos fysioterapeut, inntil 20 minutter. Ved undersøkelse av barn under 16 år benyttes takst B0d. Takst B0a og A1a kan til sammen benyttes inntil 4 ganger for samme sykdom/skade per kalenderår.<br>Ugyldig takstkombinasjon: Alle unntatt B0c, A1g, D40 | 415,– | 271,– | 144,– | B1, A2, A3 | 0 |
+| B0c | Tillegg for undersøkelse via video ut over 20 minutter per påbegynte 10 minutter, jf. takst B0a.<br>Ugyldig takstkombinasjon: Alle unntatt B0a, A1g, D40 | 127,– | 81,– | 46,– | B1, A2, A3 | 6 |
+| B0d | Undersøkelse i inntil 20 minutter: – hos manuellterapeut – hos fysioterapeut med rett til å utløse takst A7, A8 og A9, eller – ved undersøkelse av barn under 16 år hos fysioterapeut. Takst B0d og A1d kan til sammen benyttes inntil 4 ganger for samme sykdom/skade per kalenderår.<br>Ugyldig takstkombinasjon: Alle unntatt B0f, A1g, A1ha, A1hb, D40 | 517,– | 329,– | 188,– | B1, A2, A3, A4, A5, A7 | 0 |
+| B0f | Tillegg for undersøkelse via video ut over 20 minutter per påbegynte 10 minutter, jf. takst B0d.<br>Ugyldig takstkombinasjon: Alle unntatt B0d, A1g, A1ha, A1hb, D40 | 158,– | 90,– | 68,– | B1, A2, A3, A4, A5, A7 | 6 |
+| B3a | Videokonsultasjon hos fysioterapeut, inntil 20 minutter.<br>Ugyldig takstkombinasjon: Alle unntatt B3b, D40 | 238,– | 94,– | 144,– | B1 | 0 |
+| B3b | Tillegg for behandling ut over 20 minutter per påbegynte 10 minutter, jf. takst B3a.<br>Ugyldig takstkombinasjon: Alle unntatt B3a, D40 | 109,– | 63,– | 46,– | B1 | 6 |
+| B7a | Videokonsultasjon hos fysioterapeut med tilleggskompetanse som gir rett til å utløse takst A7a og A7b, inntil 20 minutter<br>Ugyldig takstkombinasjon: Alle unntatt B7b, D40, F1, F21, F22, F23 | 290,– | 146,– | 144,– | B1 | 0 |
+| B7b | Tillegg for behandling ut over 20 minutter per påbegynte 10 minutter, jf. takst B7a.<br>Ugyldig takstkombinasjon: Alle unntatt B7a, D40, F1, F21, F22, F23 | 131,– | 85,– | 46,– | B1 | 6 |
+| B8a | Videokonsultasjon hos manuellterapeut, inntil 20 minutter.<br>Ugyldig takstkombinasjon: Alle unntatt B8b, D40 | 360,– | 172,– | 188,– | B1 | 0 |
+| B8b | Tillegg for behandling ut over 20 minutter per påbegynte 10 minutter, jf. takst B8a.<br>Ugyldig takstkombinasjon: Alle unntatt B8a, D40 | 152,– | 84,– | 68,– | B1 | 6 |
+| B9a | Videokonsultasjon hos fysioterapeut med tilleggskompetanse i psykomotorisk fysioterapi, inntil 20 minutter.<br>Ugyldig takstkombinasjon: Alle unntatt B9b, D40 | 290,– | 146,– | 144,– | B1 | 0 |
+| B9b | Tillegg for behandling ut over 20 minutter per påbegynte 10 minutter, jf. takst B9a.<br>Ugyldig takstkombinasjon: Alle unntatt B9a, D40 | 131,– | 85,– | 46,– | B1 | 6 |
+
+*Merknad B1*
 
 Bruk av takstene B0a–f, B3a–b, B7a–b, B8a–b og B9a–b forutsetter at videokonsultasjon foregår i henhold til krav til informasjonssikkerhet, jf. Norm for informasjonssikkerhet og personvern i helse- og omsorgstjenesten.
 
@@ -121,27 +179,78 @@ Det er ikke anledning til å kreve fakturagebyr for video- og telefonkonsultasjo
 
 ### C. Behandling i grupper
 
+| *Takst* | *Tekst* | *Hon.* | *Ref.* | *Egen.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | *Behandling i gruppe på inntil 6 barn under 16 år* |  |  |  |  |  |
+| C20a | Gruppebehandling barn under 16 år i 60 minutter, inntil 6 pasienter, per gruppe.<br>Ugyldige takstkombinasjoner: Alle unntatt C20b, C22b, C34g, D40, F1, F21, F22, F23 | 210,– | 210,– | 0,– | C1, C2, C3, C4 | 0 |
+| C20b | Tillegg per pasient for gruppebehandling barn under 16 år i 60 minutter.<br>Ugyldige takstkombinasjoner: Alle unntatt C20a, C22b, C34g, D40, F1, F21, F22, F23 | 257,– | 257,– | 0,– | C1, C2, C3, C4 | 0 |
+|  | *Behandling i grupper på inntil 10 personer* |  |  |  |  |  |
+| C21a | Gruppebehandling 30 minutter, inntil 10 pasienter, per gruppe<br>Ugyldige takstkombinasjoner: Alle unntatt C21b, C34g, D40, F1, F21, F22, F23 | 164,– | 164,– | 0,– | C1, C2, C3, C4 | 0 |
+| C21b | Tillegg per pasient for gruppebehandling i 30 minutter<br>Ugyldige takstkombinasjoner: Alle unntatt C21a, C34g, D40, F1, F21, F22, F23 | 67,– | 4,– | 63,– | C1, C2, C3, C4 | 0 |
+| C22a | Gruppebehandling 60 minutter, inntil 10 pasienter, per gruppe<br>Ugyldige takstkombinasjoner: Alle unntatt C22b, C34g, D40, F1, F21, F22, F23 | 324,– | 324,– | 0,– | C1, C2, C3, C4 | 0 |
+| C22b | Tillegg per pasient for gruppebehandling i 60 minutter.<br>Ugyldige takstkombinasjoner: Alle unntatt C20a, C20b, C22a, C34g, D40, F1, F21, F22, F23 | 116,– | 7,– | 109,– | C1, C2, C3, C4 | 0 |
+| C23a | Gruppebehandling 90 minutter, inntil 10 pasienter, per gruppe<br>Ugyldige takstkombinasjoner: Alle unntatt C23b, C34g, D40, F1, F21, F22, F23 | 478,– | 478,– | 0,– | C1, C2, C3, C4 | 0 |
+| C23b | Tillegg per pasient for gruppebehandling i 90 minutter,<br>Ugyldige takstkombinasjoner: Alle unntatt C23a, C34g, D40, F1, F21, F22, F23 | 168,– | 11,– | 157,– | C1, C2, C3, C4 | 0 |
+| C34g | Tillegg for behandling i basseng, per pasient. Taksten krever samtidig bruk av enten C20b, C21b, C22b, eller C23b.<br>Ugyldig takstkombinasjon: Alle unntatt C20a, C20b, C21a, C21b, C22a, C22b, C23a, C23b, D40, F1, F21, F22, F23 | 49,– | 23,– | 26,– |  | 0 |
+
+*Merknad C1*
+
 Utgifter til behandling i grupper dekkes på følgende vilkår:Hver pasient må ha vært til individuell undersøkelse før oppstart av gruppebehandling.Fysioterapeuten må være til stede i hele behandlingstiden og følge opp hver pasient i gruppen.Lokaler og utstyr må være tilpasset antall pasienter i gruppen.
 
 Individuell undersøkelse etter punkt 1 kan være foretatt hos en annen fysioterapeut enn den som gjennomfører gruppebehandlingen. Det må dokumenteres hvilken fysioterapeut som har undersøkt, dato for undersøkelsen, resultatet av undersøkelsen og hvilke mål som er satt for behandlingen.
+
+*Merknad C2*
 
 En gruppe skal starte på samme klokkeslett og ha en på forhånd definert tidsbruk til 30, 60 eller 90 minutter. Hvis en pasient unntaksvis må avbryte gruppebehandlingen tidligere, kan fysioterapeuten likevel kreve takst i henhold til oppsatt tid. Overlapping i tid mellom gruppebehandlinger honoreres ikke.
 
 Det er et vilkår for å utløse gruppetakster at gruppen har minst 2 deltakere, men takster for gruppebehandling kan likevel utløses dersom det på grunn av frafall kun er én person i gruppen som møter og mottar behandling.
 
+*Merknad C3*
+
 For- og etterarbeid er inkludert i gruppetakstene, men tidsangivelsen angir den tiden pasientene er til stede ved behandlingen. Hjelp til av- og påkledning kan inngå i tiden som det kreves refusjon for. Det samme gjelder hjelp til å komme ut i basseng ved gruppebehandling i basseng. Nødvendig opplæring, veiledning til egentrening og sykdomsmestring kan inngå i takstene når dette er et ledd i pasientens behandlings- eller rehabiliteringsopplegg.
+
+*Merknad C4*
 
 Ved gruppebehandling gjelder krav til dokumentasjon, jf. [§ 5](forskrift/2024-06-17-1184/§5) i denne forskriften. Fysioterapeuten må dokumentere at gruppebehandlingen som er gitt er av vesentlig betydning for den enkelte pasientens sykdom og funksjonsevne. Eksempler på relevante og nødvendige opplysninger vil kunne være opplysninger om sykdom og funksjon, resultat av undersøkelse, valg av behandlingstiltak, mål for behandlingen, progresjon og effekt av behandlingen.
 
 ### D. Behandling av pasient over 80 år / rullestolbruker
 
+| *Takst* | *Tekst* | *Hon.* | *Ref.* | *Egen.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- | --- | --- |
+| D40 | Tillegg for undersøkelse og/eller behandling av pasient over 80 år / rullestolbruker. Takst D40 forutsetter samtidig bruk av en av takstene Ala, A1d, A3a, A7a, A8a, A9a, B0a, B0d, B3a, B7a, B8a, B9a, C20b, C21b, C22b eller C23b.<br>Ugyldig takstkombinasjon: A4, A10, E50a, E50b, E51a, E51b, E51c, E52 | 20,– | 20,– | 0,– |  | 0 |
+
 ### E. Samhandling
 
+| *Takst* | *Tekst* | *Hon.* | *Ref.* | *Egen.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- | --- | --- |
+| E50a | Møtegodtgjørelse med reisetid når fysioterapeuten deltar i planlagt tverrfaglig eller flerfaglig samarbeidsmøte om enkeltpasient. Møtet må være ledd i pasientens behandlings- eller rehabiliteringsopplegg. Taksten kan også utløses når møtet foregår via telefon eller video. Takst E50a beregnes for arbeid i inntil en halv time og deretter utløses takst E50b per påbegynte halvtime. Hvis møtet gjelder flere pasienter, beregnes takstene E50a og b for den samlede møte- og reisetid, ikke per pasient. Hvilke instanser/personer som har deltatt på møtet, tidspunkt for møtet og hvor møtet fant sted må kunne dokumenteres. Takst E50a og E50b kan ikke benyttes:<br>• ved samtidig konsultasjon<br>• når manuellterapeut deltar i dialogmøte med arbeidsgiver, arbeidstaker og/eller NAV. Deltakelse i slike møter godtgjøres av NAV etter L-takster.<br>• dersom møtet blir avlyst<br>Ugyldig takstkombinasjon: Alle, unntatt E50b, E50k | 445,– | 445,– | 0,– | E1 | 0 |
+| E50b | Senere per påbegynt halvtime.<br>Ugyldig takstkombinasjon: Alle, unntatt E50a, E50k | 445,– | 445,– | 0,– | E1 | rep. |
+| E50k | Kompetansetillegg til takst E50a og E50b for manuellterapeut og fysioterapeut med rett til å utløse takst A7 og A9. Taksten kan utløses én gang for E50a og én gang per utløste E50b. Taksten krever samtidig bruk av takst E50a.<br>Ugyldig takstkombinasjon: Alle unntatt E50a og E50b | 50,– | 50,– | 0,– | E2 | rep. |
+| E51a | Telefonsamtale / skriftlig kommunikasjon med annet fagpersonell om enkeltpasient. Taksten kan ikke benyttes ved mottak og lesing av tilsendt dokumentasjon som epikriser, henvisninger, svar på røntgenundersøkelser mv.<br>Ugyldig takstkombinasjon: Alle unntatt E52k | 182,– | 182,– | 0,– |  | 0 |
+| E51b | Skriving av epikrise eller tilbakemelding til fastlege og til henvisende instans dersom pasienten er henvist, når dette gjøres uten samtidig undersøkelse eller behandling. Taksten kan ikke benyttes ved utskrift av journal eller ved skriving av rapport eller erklæring til instanser som NAV eller forsikringsselskap. Slike erklæringer må kompenseres etter avtale med den som har bedt om erklæringen.<br>Ugyldig takstkombinasjon: Alle unntatt E51k | 303,– | 303,– | 0,– |  | 0 |
+| E51c | Skriving av henvisninger og rekvisisjoner til spesialisthelsetjenesten når dette gjøres uten samtidig undersøkelse eller behandling. Taksten kan også benyttes når fysioterapeut med spesialkompetanse i fysikalsk lymfødembehandling og samarbeidsavtale med helseforetak søker om kompresjonsplagg og bandasjemateriell ved lymfødem. Taksten kan ikke benyttes ved rekvirering av pasientreiser.<br>Ugyldig takstkombinasjon: Alle unntatt E51k | 309,– | 309,– | 0,– |  | 0 |
+| E51k | Kompetansetillegg til takst E51b og E51c for manuellterapeut og fysioterapeut med rett til å utløse takst A7 og A9. Taksten krever samtidig bruk av takst E51b eller E51c.<br>Ugyldig takstkombinasjon: Alle unntatt E51b og E51c | 40,– | 40,– | 0,– | E2 | 0 |
+| E52 | Nødvendig samtale med pårørende/foresatte som ledd i pasientens behandlings- eller rehabiliteringsopplegg, per påbegynt 15 min. Taksten kan repeteres en gang. Grunnlaget for bruk av taksten skal framgå av journalnotat.<br>Ugyldig takstkombinasjon: Alle unntatt E52k | 201,– | 201,– | 0,– |  | 1 |
+| E52k | Kompetansetillegg til takst E51a og E52 for manuellterapeut og fysioterapeut med rett til å utløse takst A7 og A9. Taksten krever samtidig bruk av takst E51a eller E52.<br>Ugyldig takstkombinasjon: Alle unntatt E51a og E52 | 25,– | 25,– | 0 | E2 | 0 |
+
+*Merknad E1*
+
 Samarbeidet kan omfatte vurdering av diagnose og funksjonsnivå, kartlegging av rehabiliteringsbehov, utarbeiding og oppfølging av rehabiliteringsplan, oppfølging av hjelpemiddelbehov, tilrettelegging av miljø mv. Skyssgodtgjørelse kan kreves i tillegg etter forskrift om dekning av utgifter til transport av helsepersonell m.m. i forbindelse med reise for å foreta undersøkelse og behandling.
+
+*Merknad E2*
 
 Takstene E50k, E51k og E52k kan ikke benyttes av utdanningskandidater.
 
 ### F. Behandling i pasientens hjem m.m.
+
+| *Takst* | *Tekst* | *Hon.* | *Ref.* | *Egen.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- | --- | --- |
+| F1 | Tillegg ved behandling i pasientens hjem. Takst F1 forutsetter samtidig bruk av en av takstene A1a, A1d, A3a, A7a, A8a, A9a, C20b, C21b, C22b, C23b.<br>Ugyldig takstkombinasjon: A10, E50a, E50b, E51a, E51b, E51c, E52 | 177,– | 177,– | 0,– | F1 | 0 |
+| F21 | Reisetillegg (godtgjørelse for reisetid) per. kilometer, for reise med bil, motorsykkel, tog. Takst F21 forutsetter samtidig bruk av en av takstene A1a, A1d, A3a, A7a, A8a, A9a, C20b, C21b, C22b, C23b.<br>Ugyldig takstkombinasjon: A10, E50a, E50b, E51a, E51b, E51c, E52, F22, F23 | 12,– | 12,– | 0,– | F1, F2 | rep. |
+| F22 | Reisetillegg (godtgjørelse for reisetid) for reise med annet transportmiddel (herunder til fots) for hver påbegynte halvtime. Takst F22 forutsetter samtidig bruk av en av takstene A1a, A1d, A3a, A7a, A8a, A9a, C20b, C21b, C22b, C23b.<br>Ugyldig takstkombinasjon: A10, E50a, E50b, E51a, E51b, E51c, E52, F21, F23 | 84,– | 84,– | 0,– | F1, F3 | rep. |
+| F23 | I byer og bymessig bebygde strøk hvor det er innført fast skysstillegg, ytes det et fast reisetillegg i stedet for reisetillegg som nevnt i F21, jf. [§ 5](forskrift/2003-12-19-1728/§5) i [forskrift om dekning av utgifter til transport av helsepersonell m.m. i forbindelse med reise for å foreta undersøkelse eller behandling](forskrift/2003-12-19-1728). Takst F23 forutsetter samtidig bruk av en av takstene A1a, A1d, A3a, A7a, A8a, A9a, C20b, C21b, C22b, C23b<br>Ugyldig takstkombinasjon: A10, E50a, E50b, E51a, E51b, E51c, E52, F21, F22 | 84,– | 84,– | 0,– | F1 | 0 |
+
+*Merknad F1*
 
 Det er et vilkår for å utløse takstene F1, F21, F22 og F23 at pasienten på grunn av sin helsetilstand eller funksjonsevne ikke kan møte i fysioterapeutens institutt, eller at behandling i pasientens hjem er nødvendig for å sikre pasienten forsvarlig helsehjelp.
 
@@ -149,21 +258,53 @@ Takstene kan også benyttes når pasienten er i et habiliterings- eller rehabili
 
 Dersom samme pasient mottar flere behandlinger fortløpende samme dag, kan takst F1 bare utløses en gang.
 
+*Merknad F2*
+
 Beregningsgrunnlaget for reisetillegget er antall tilbakelagte kilometer. Ved beregning av veglengden avrundes samlet antall kilometer ved fram- og tilbakereisen til nærmeste hele antall kilometer.
 
 Veglengden regnes fra fysioterapeutens kontor, men skjer utreisen fra et midlertidig oppholdssted, regnes fra dette hvis reisen derfra til pasienten er kortere.
 
 Ved hjemmebehandling under fast kontordagsreise regnes reisetillegg bare for det antall kilometer som fysioterapeuten reiser ekstra i anledning av hjemmebehandlingen.
 
+*Merknad F3*
+
 Takst F22 beregnes for den tiden fysioterapeuten bruker på reise tur/retur til pasient fra fysioterapeutens kontor, eller fra et midlertidig oppholdssted dersom reisen fra dette tar kortere tid. Ved besøksrunde skal det regnes for samlet reisetid og ikke per pasient. Tiden som går med til behandling skal ikke medregnes.
 
 ### H. Elektronisk samhandling
 
+| *Takst* | *Tekst* | *Hon.* | *Ref.* | *Egen.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- | --- | --- |
+| H2a | Elektronisk samhandling via Helsenettet, herunder innrapportering av oppgjørskrav/egenandelsopplysninger til Helfo.<br>Ugyldig takstkombinasjon: Alle unntatt H2b | 1131,– | 1131,– | 0,– | H1 | 0 |
+| H2b | Tillegg for fysioterapeut som ikke deler kostnaden ved oppkobling og medlemskap i Norsk Helsenett med andre behandlere.<br>Ugyldig takstkombinasjon: Alle unntatt H2a | 1070,– | 1070,– | 0,– | H1, H2 | 0 |
+
+*Merknad H1*
+
 Taksten kan benyttes en gang per kalendermåned og maksimalt 12 ganger per kalenderår når oppgjør sendes elektronisk via Helsenettet.
+
+*Merknad H2*
 
 Medlemskap i Norsk Helsenett er knyttet til virksomheten og registreres på organisasjonsnummer. Dersom flere fysioterapeuter sender oppgjør fra samme organisasjonsnummer, kan ikke H2b utløses. Inntak av vikar eller utdanningskandidat som kommunikasjonspart under hjemmelshaver sitt medlemskap i NHN, begrenser ikke retten til å kreve H2b.
 
 ### T. Egenandeler ved undersøkelse og behandling hos turnuskandidat hos avtalefysioterapeut
+
+| *Takst* | *Tekst* | *Hon.* | *Ref.* | *Egen.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- | --- | --- |
+| A1at | Undersøkelse hos fysioterapeut, inntil 20 minutter. Takst A1at og B0at kan til sammen benyttes inntil 4 ganger for samme sykdom/skade per kalenderår.<br>Ugyldig takstkombinasjon: Alle unntatt A1ct | 144,– | 0,– | 144,– | A1, A2, A3, T1 | 0 |
+| A1ct | Tillegg for undersøkelse ut over 20 minutter per påbegynte 10 minutter, jf. takst A1at.<br>Ugyldig takstkombinasjon: Alle unntatt A1at | 46,– | 0,– | 46,– | A1, A2, A3, T1 | 6 |
+| A3at | Behandling hos fysioterapeut, inntil 20 minutter<br>Ugyldig takstkombinasjon: Alle unntatt A3bt | 144,– | 0,– | 144,– | A1, A3, T1 | 0 |
+| A3bt | Tillegg for behandling ut over 20 minutter per påbegynte 10 minutter<br>Ugyldig takstkombinasjon: Alle unntatt A3at | 46,– | 0,– | 46,– | A1, A3, T1 | 6 |
+| A10t | Egentrening på fysioterapeutens klinikk etter et individuelt tilpasset treningsprogram utarbeidet av fysioterapeuten, minst 20 minutter<br>Ugyldig takstkombinasjon: Alle | 30,– | 0,– | 30,– | A6, T1 | 0 |
+| B0at | Undersøkelse via video hos fysioterapeut, inntil 20 minutter. Takst B0at og A1at kan til sammen benyttes inntil 4 ganger for samme sykdom/skade per kalenderår.<br>Ugyldig takstkombinasjon: Alle | 144,– | 0,– | 144,– | B1, T1 | 0 |
+| B0ct | Tillegg for undersøkelse via video ut over 20 minutter per påbegynte 10 minutter, jf. takst B0at.<br>Ugyldig takstkombinasjon: Alle unntatt B0at | 46,– | 0,– | 46,– | B1, T1 | *6* |
+| B3at | Videokonsultasjon hos fysioterapeut, inntil 20 minutter.<br>Ugyldig takstkombinasjon: Alle unntatt B3bt | 144,– | 0,– | 144,– | B1, T1 | 0 |
+| B3bt | Tillegg for behandling ut over 20 minutter per påbegynte 10 minutter, jf. takst B3at.<br>Ugyldig takstkombinasjon: Alle unntatt B3at | 46,– | 0,– | 46,– | B1, T1 | 6 |
+|  | *Behandling i grupper på inntil 10 personer* |  |  |  |  |  |
+| C21bt | Tillegg per pasient for gruppebehandling i 30 minutter<br>Ugyldig takstkombinasjon: Alle unntatt C34gt | 63,– | 0,– | 63,– | C1, C2, C3, C4, T1 | 0 |
+| C22bt | Tillegg per pasient for gruppebehandling i 60 minutter<br>Ugyldig takstkombinasjon: Alle unntatt C34gt | 109,– | 0,– | 109,– | C1, C2, C3, C4, T1 | 0 |
+| C23bt | Tillegg per pasient for gruppebehandling i 90 minutter<br>Ugyldig takstkombinasjon: Alle unntatt C34gt | 157,– | 0,– | 157,– | C1, C2, C3, C4, T1 | 0 |
+| C34gt | Tillegg for behandling i basseng, pr. pasient Taksten krever samtidig bruk av enten C21bt, C22bt eller C23bt.<br>Ugyldig takstkombinasjon: Alle unntatt C21bt, C22bt, C23bt | 26,– | 0,– | 26,– |  | 0 |
+
+*Merknad T1*
 
 Takstene gjelder egenandeler for undersøkelse og behandling utført av turnuskandidat og kan benyttes av avtalefysioterapeut som tar imot turnuskandidat, jf. denne forskriften [§ 5 fjerde ledd](forskrift/2024-06-17-1184/§5/ledd/4). Avtalefysioterapeuten må informere Helfo om inntak av turnuskandidat, oppgi turnuskandidatens HPR-nummer og i hvilken periode turnuskandidaten skal ha turnustjeneste ved instituttet. Avtalefysioterapeuten har det overordnede ansvaret for undersøkelse og behandling gitt av turnuskandidaten og står ansvarlig for kravet overfor Helfo.
 
