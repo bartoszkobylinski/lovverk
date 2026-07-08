@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2003-07-01"
 last_change_in_force: "2026-07-01"
 last_updated: "2021-04-19"
-xml_hash: "f4c99d5da48cc6518e9c66a18a83325f98d309f0583faa3563f9e2a0915724dc"
+xml_hash: "b8d4b0206cc343691e0ba323fbe806ada8489dae451ec944e256028528390051"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-08T06:25:33.153142+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -58,7 +58,7 @@ Det ytes godtgjørelse etter honorartakstene dersomundersøkelse er rekvirert p�
 
 Det ytes stønad etter denne bestemmelse til den som oppholder seg i Norge, selv om vedkommende ikke er medlem i folketrygden.
 
-> Endret ved [forskrifter 18 des 2005 nr. 1692](forskrift/2005-12-18-1692) (i kraft 1 jan 2006), [21 juni 2006 nr. 671](forskrift/2006-06-21-671) (i kraft 1 juli 2006), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [21 des 2009 nr. 1732](forskrift/2009-12-21-1732) (i kraft 1 jan 2010), [23 juni 2010 nr. 962](forskrift/2010-06-23-962) (i kraft 1 juli 2010), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [12 mai 2016 nr. 490](forskrift/2016-05-12-490).
+> Endret ved [forskrifter 18 des 2005 nr. 1692](forskrift/2005-12-18-1692) (i kraft 1 jan 2006), [21 juni 2006 nr. 671](forskrift/2006-06-21-671) (i kraft 1 juli 2006), [25 nov 2008 nr. 1265](forskrift/2008-11-25-1265) (i kraft 1 jan 2009), [21 des 2009 nr. 1732](forskrift/2009-12-21-1732) (i kraft 1 jan 2010), [23 juni 2010 nr. 962](forskrift/2010-06-23-962) (i kraft 1 juli 2010), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [12 mai 2016 nr. 490](forskrift/2016-05-12-490). **Endres** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
 ### § 5. (Opphevet)
 
