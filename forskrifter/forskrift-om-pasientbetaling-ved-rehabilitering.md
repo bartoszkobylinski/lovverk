@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2006-01-01"
 last_change_in_force: "2017-01-01"
 last_updated: null
-xml_hash: "06fca7e4121a752b6a58b3b6e9cdffc642f638871a02d212f127a62a572cac81"
+xml_hash: "c8308939e65ed9538099f71de74ec5449f4e85ba4dabe12065b4d70ad79f87bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-08T06:25:33.153142+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,7 +32,7 @@ Det skal ikke kreves egenandel av pasienter der behovet for opphold i opptrening
 
 Barn under 16 år er fritatt fra å betale egenandel.
 
-> Endret ved [forskrift 19 des 2016 nr. 1750](forskrift/2016-12-19-1750) (i kraft 1 jan 2017).
+> Endret ved [forskrift 19 des 2016 nr. 1750](forskrift/2016-12-19-1750) (i kraft 1 jan 2017). **Endres** ved forskrift [3 juli 2026 nr. 1510](forskrift/2026-07-03-1510) (i kraft 1 aug 2026).
 
 ## § 3. Ikraftsetting
 
