@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2024-08-01"
 last_change_in_force: "2025-01-14"
 last_updated: null
-xml_hash: "bea7e65ff5dadbb2fed92520c2d08c4c31a15701bf20661634f892ca6962371a"
+xml_hash: "8d1fdb6484860508a26f028b1fbb469b0e9eb2292ccec9c55818dd8047aefa09"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-09T07:34:50.708170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -144,7 +144,7 @@ Studenter kan bli pålagt å legge frem originaldokumenter av opptaksgrunnlaget 
 
 Universitetet kan tildele grader og yrkesutdanninger i samsvar med [forskrift 16. desember 2005 nr. 1574 om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskoler](forskrift/2005-12-16-1574).
 
-> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33).
+> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33). **Endres** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
 
 ### § 3-2. Krav til graden bachelor
 
@@ -170,7 +170,7 @@ Universitetet kan tildele grader og yrkesutdanninger i samsvar med [forskrift 16
 
 Krav til innhold og omfang i mastergrad fremgår av nasjonal [forskrift 1. desember 2005 nr. 1392 om krav til mastergrad](forskrift/2005-12-01-1392). Universitetet tildeler de mastergrader som er godkjent i henhold til lovens [kapittel 3](lov/2024-03-08-9/KAPITTEL_3).
 
-> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33).
+> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33). **Endres** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
 
 ### § 3-5. Tilleggsbetegnelse for graden master
 
@@ -190,7 +190,7 @@ For oppnådd mastergrad angis gradens faglige innhold på vitnemål som følger:
 
 Ved faglig godkjenning av utdanning som tidligere har inngått i grunnlaget for en tildelt grad, eller som del av en grad eller yrkesutdanning, må studenten avlegge minimum 60 nye studiepoeng ved universitetet før det kan tildeles ny grad. Rektor kan fastsette krav om inntil 90 nye studiepoeng for bestemte studieprogram. Ved tildeling av ny mastergrad må de nye studiepoengene som hovedregel inkludere en annen masteroppgave enn den oppgaven som inngikk i grunnlaget for den tidligere tildelte mastergraden. Unntak må fremgå av studieplanen.
 
-> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33).
+> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33). **Endres** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
 
 ## Kapittel 4. Studier og utdanningsplaner
 
@@ -221,6 +221,8 @@ Ved faglig godkjenning av utdanning som tidligere har inngått i grunnlaget for 
 (3) Rektor godkjenner endringer i fastsatte studieplaner. Endringer i studieplaner eller emnebeskrivelser skal ikke tre i kraft før ved nytt studieår.
 
 (4) Studenter som følger normert studieprogresjon har krav på at studieprogrammets læringsutbytte, nivå og struktur ikke endres vesentlig. Mindre endringer må ikke medføre at studenten blir forsinket i sin progresjon.
+
+> **Endres** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
 
 ### § 4-3. Utdanningsplaner
 
@@ -254,7 +256,7 @@ Rektor fastsetter undervisningsterminer for studieåret. Studieårets lengde er 
 
 Studentene må disponere egen datamaskin som oppfyller krav fastsatt av universitetet jf. [forskrift om egenbetaling § 3-3 tredje ledd](forskrift/2005-12-15-1506/§3-3/ledd/3).
 
-> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33).
+> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33). **Endres** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
 
 ## Kapittel 5. Studierett og permisjoner
 
@@ -277,6 +279,8 @@ Studentene må disponere egen datamaskin som oppfyller krav fastsatt av universi
 ### § 5-2. Vilkår for å beholde studieretten
 
 Studenten må betale semesteravgift og eventuell annen avgift fastsatt i samsvar med [forskrift om egenbetaling ved universiteter og høyskoler](forskrift/2005-12-15-1506), bekrefte utdanningsplanen og/eller registrere seg hvert semester innen gjeldende frister for å beholde studieretten.
+
+> **Endres** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
 
 ### § 5-3. Opphør av studierett
 
@@ -382,7 +386,11 @@ Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekk
 
 (5) I emner med deleksamener er antall eksamensforsøk normalt knyttet til den enkelte deleksamen. Bestått deleksamen i et emne må normalt ikke avlegges på nytt dersom annen deleksamen i samme emne vurderes til ikke bestått.
 
-> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33).
+> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33). **Endres** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
+
+### § 6-5a. Gjentakskvote og emnesperre ved Bachelor i rettsvitenskap
+
+> **Tilføyes** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
 
 ### § 6-6. Antall eksamensforsøk for masteroppgaver, bacheloroppgaver og tilsvarende selvstendig arbeid
 
@@ -408,7 +416,7 @@ Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekk
 
 (7) Med mindre annet fremgår av emnebeskrivelsen kan studenten ved mappeeksamen levere samme besvarelse i omarbeidet form til kontinuasjonseksamen. Innlevering i omarbeidet form regnes som tellende eksamensforsøk. Dersom studenten ikke leverer eller ikke består kontinuasjonseksamen henvises studenten til neste ordinære eksamen. Ved ordinær eksamen må studenten utarbeide ny besvarelse.
 
-> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33).
+> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33). **Endres** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
 
 ### § 6-8. Adgang til å gå opp til eksamen som privatist
 
@@ -459,6 +467,8 @@ Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekk
 (1) Ved gruppeeksamen skal alle deltakere i gruppen bidra til ett felles produkt. Dersom det oppstår tvil om hvorvidt en student bidrar eller har bidratt tilstrekkelig til å få uttelling for et felles produkt hvor det normalt skal gis samlet karakter for hele gruppen, kan det ved sensur fastsettes individuelle karakterer for gruppens medlemmer.
 
 (2) Fakultetet kan fatte vedtak om at en student som ikke har bidratt tilstrekkelig, skal anses for å ha trukket seg fra eksamen.
+
+> **Endres** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
 
 ## Kapittel 7. Praksis
 
@@ -608,6 +618,8 @@ Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekk
 
 (5) Ved mistanke om fusk avbrytes sensuren eller vurderingen til det foreligger vedtak i saken.
 
+> **Endres** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
+
 ### § 9-2. Annullering og utestenging
 
 (1) Saker om fusk, forsøk på fusk og medvirkning til fusk behandles etter lovens [§ 12-4](lov/2024-03-08-9/§12-4).
@@ -616,7 +628,7 @@ Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekk
 
 (3) Universitetets nemnd for studentsaker kan utestenge studenten fra universitetet og frata studenten retten til å gå opp til eksamen ved andre høyere utdanningsinstitusjoner i inntil ett år som følge av fusk eller forsøk på fusk, jf. lovens [§ 12-4](lov/2024-03-08-9/§12-4) tredje ledd.
 
-> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33).
+> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33). **Endres** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
 
 ## Kapittel 10. Vitnemål og dokumentasjon
 
@@ -642,7 +654,7 @@ Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekk
 
 (10) Deleksamen føres ikke på vitnemål, med mindre det er gitt nasjonale føringer om dette.
 
-> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33).
+> Endret ved forskrift [14 jan 2025 nr. 33](forskrift/2025-01-14-33). **Endres** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
 
 ### § 10-2. Dokumentasjon på fullført studieprogram og resultater
 
@@ -651,6 +663,8 @@ Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekk
 (2) Studenten kan fortløpende hente ut resultater i Studentweb.
 
 ## Kapittel 11. Utfyllende regler og ikrafttredelse
+
+> **Endres** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
 
 ### § 11-1. Utfyllende bestemmelser
 
@@ -665,3 +679,7 @@ Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekk
 Forskriften trer i kraft 1. august 2024.
 
 Samtidig oppheves [forskrift 26. januar 2017 nr. 98 om opptak, studier og eksamen ved Høgskolen i Innlandet](forskrift/2017-01-26-98).
+
+### § 11-3. Forsøk
+
+> **Tilføyes** ved forskrift [17 juni 2026 nr. 1511](forskrift/2026-06-17-1511) (i kraft 1 aug 2026).
