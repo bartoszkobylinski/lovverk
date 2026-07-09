@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-04-15"
-last_change_in_force: "2026-06-18"
+last_change_in_force: "2026-07-06"
 last_updated: null
-xml_hash: "747e5239509ea456bd0b02e452b0447469e085e2844da8ca4276830545f760e7"
+xml_hash: "85ca8a2add37d7e6aef1ec794ce66165ab34ea3eb5ef0955e971cf202f272b06"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-24T07:36:55.746362+00:00"
+retrieved_at: "2026-07-09T07:34:50.708170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -155,16 +155,24 @@ Etter dette er det forbudt å fiske etter sei med not i et område på Turiskall
 
 > Tilføyd ved forskrift [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170).
 
-## § 30. Straff
+## § 30. Finnskallen i Finnmark
+
+Det er forbudt å fiske etter sei med not i et område på Finnskallen i Finnmark, avgrenset av rette linjer mellom følgende posisjoner:Nord 70 grader 45,000 minutter. Øst 029 grader 45,000 minutter.Nord 70 grader 49,000 minutter. Øst 029 grader 45,000 minutter.Nord 70 grader 47,000 minutter. Øst 030 grader 07,000 minutter.Nord 70 grader 43,000 minutter. Øst 030 grader 07,000 minutter.Herfra videre til posisjon 1.
+
+> Tilføyd ved forskrift [6 juli 2026 nr. 1513](forskrift/2026-07-06-1513).
+
+## § 31. Straff
 
 Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskrift, straffes etter [havressurslova §§ 61](lov/2008-06-06-37/§61), [64](lov/2008-06-06-37/§64) og [65](lov/2008-06-06-37/§65). På samme måte straffes medvirkning og forsøk
 
-> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 32), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 31), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 30), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 29), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 27), [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170) (tidligere § 28).
+> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 32), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 31), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 30), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 29), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 27), [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170) (tidligere § 28), [6 juli 2026 nr. 1513](forskrift/2026-07-06-1513) (tidligere § 30).
 
-## § 31. Ikrafttredelse
+## § 32. Ikrafttredelse
 
 Forskriften trer i kraft 15. april 2026.
 
 Samtidig oppheves forskrift 21. august 2009 om regulering av seinotfiske, stenging av områder på kysten nord for 62° N1.
 
-> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 33), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 32), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 31), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 30), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 28), [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170) (tidligere § 29).
+> Endret ved forskrifter [13 mai 2026 nr. 826](forskrift/2026-05-13-826) (tidligere § 33), [19 mai 2026 nr. 857](forskrift/2026-05-19-857) (tidligere § 32), [20 mai 2026 nr. 867](forskrift/2026-05-20-867) (tidligere § 31), [26 mai 2026 nr. 898](forskrift/2026-05-26-898) (tidligere § 30), [18 juni 2026 nr. 1115](forskrift/2026-06-18-1115) (tidligere § 28), [18 juni 2026 nr. 1170](forskrift/2026-06-18-1170) (tidligere § 29), [6 juli 2026 nr. 1513](forskrift/2026-07-06-1513) (tidligere § 31).
+
+1 Ikke kunngjort i Norsk Lovtidend, Lovtidendredaksjonens anm.
