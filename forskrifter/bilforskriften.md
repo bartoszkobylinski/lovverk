@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-10-01"
 last_change_in_force: "2026-06-08"
 last_updated: "2024-02-12"
-xml_hash: "917b867e548b6c99d4ed32538dff9bd21b2140ce65859d8a163984962aa37dd8"
+xml_hash: "58c4dca1e8a2dc77911f80cfb28326c9fa767213caccb79501ce64fe73995244"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-08T08:51:39.537351+00:00"
+retrieved_at: "2026-07-09T07:34:50.708170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -52,7 +52,7 @@ Formålet med forskriften er å sikre at bil og tilhenger til bil som godkjennes
 
 Følgende forordninger og direktiver gjelder som norsk rett, med de tilpasninger som følger av denne forskrift: forordning [(EU) 2018/858](eu/32018r0858), forordning [(EF) nr. 595/2009](eu/32009r0595), forordning [(EU) nr. 582/2011](eu/32011r0582) som endret ved forordning [(EU) 2018/932](eu/32018r0932), forordning [(EU) nr. 143/2013](eu/32013r0143), forordning [(EU) nr. 195/2013](eu/32013r0195), forordning [(EU) nr. 133/2014](eu/32014r0133), forordning [(EU) nr. 136/2014](eu/32014r0136), forordning [(EU) nr. 540/2014](eu/32014r0540) som endret ved forordning [(EU) 2017/1576](eu/32017r1576), forordning [(EU) nr. 627/2014](eu/32014r0627), forordning [(EU) 2015/45](eu/32015r0045), forordning [(EU) 2015/562](eu/32015r0562), forordning [(EU) 2015/758](eu/32015r0758) som gjennomført ved forordning [(EU) 2017/78](eu/32017r0078) og senest endret ved forordning [(EU) 2024/1180](eu/32024r1180), forordning [(EU) 2016/1718](eu/32016r1718), forordning [(EU) 2017/1151](eu/32017r1151) som endret ved forordning [(EU) 2018/1832](eu/32018r1832), forordning [(EU) 2017/1154](eu/32017r1154), forordning [(EU) 2017/1347](eu/32017r1347), forordning [(EU) 2017/2400](eu/32017r2400) som endret ved forordning [(EU) 2022/1379](eu/32022r1379), forordning [(EU) 2019/26](eu/32019r0026), forordning [(EU) 2019/318](eu/32019r0318), forordning [(EU) 2019/543](eu/32019r0543), forordning [(EU) 2019/839](eu/32019r0839), forordning [(EU) 2019/1892](eu/32019r1892), forordning [(EU) 2019/2144](eu/32019r2144), forordning [(EU) 2020/683](eu/32020r0683) som endret ved forordning [(EU) 2022/195](eu/32022r0195), forordning [(EU) 2022/545](eu/32022r0545), forordning [(EU) 2022/1177](eu/32022r1177) og forordning [(EU) 2022/1362](eu/32022r1362), forordning [(EU) 2020/1812](eu/32020r1812), forordning [(EU) 2021/133](eu/32021r0133) som endret ved forordning [(EU) 2024/1061](eu/32024r1061), forordning [(EU) 2021/535](eu/32021r0535) som endret ved forordning [(EU) 2024/883](eu/32024r0883), forordning [(EU) 2021/646](eu/32021r0646), forordning [(EU) 2021/1243](eu/32021r1243), forordning [(EU) 2021/1244](eu/32021r1244), forordning [(EU) 2021/1341](eu/32021r1341), forordning [(EU) 2021/1445](eu/32021r1445), forordning [(EU) 2021/1958](eu/32021r1958), forordning [(EU) 2022/163](eu/32022r0163), forordning [(EU) 2022/1398](eu/32022r1398), forordning [(EU) 2022/1426](eu/32022r1426), forordning [(EU) 2023/2590](eu/32023r2590), forordning [(EU) 2024/1721](eu/32024r1721), forordning [(EU) 2024/2220](eu/32024r2220), forordning [(EU) 2025/1871](eu/32025r1871) og forordning [(EU) 2025/1122](eu/32025r1122).
 
-> Endret ved forskrifter [23 sep 2022 nr. 1644](forskrift/2022-09-23-1644) (i kraft 1 okt 2022), [18 nov 2022 nr. 1990](forskrift/2022-11-18-1990), [28 mars 2023 nr. 433](forskrift/2023-03-28-433), [18 april 2023 nr. 513](forskrift/2023-04-18-513), [11 mai 2023 nr. 694](forskrift/2023-05-11-694), [28 juni 2023 nr. 1153](forskrift/2023-06-28-1153), [23 aug 2023 nr. 1353](forskrift/2023-08-23-1353), [25 sep 2023 nr. 1527](forskrift/2023-09-25-1527), [3 okt 2023 nr. 1569](forskrift/2023-10-03-1569), [6 feb 2024 nr. 198](forskrift/2024-02-06-198), [20 mars 2024 nr. 510](forskrift/2024-03-20-510), [5 aug 2024 nr. 1874](forskrift/2024-08-05-1874) (i kraft 7 aug 2024), [10 des 2024 nr. 3033](forskrift/2024-12-10-3033) (i kraft 12 des 2024), [10 des 2024 nr. 3034](forskrift/2024-12-10-3034) (i kraft 12 des 2024), [10 des 2024 nr. 3035](forskrift/2024-12-10-3035) (i kraft 12 des 2024), [16 jan 2025 nr. 74](forskrift/2025-01-16-74) (i kraft 21 jan 2025), [11 feb 2025 nr. 221](forskrift/2025-02-11-221) (i kraft 18 feb 2025), [3 april 2025 nr. 615](forskrift/2025-04-03-615) (i kraft 7 april 2025), [10 okt 2025 nr. 2022](forskrift/2025-10-10-2022) (i kraft 16 okt 2025), [10 okt 2025 nr. 2023](forskrift/2025-10-10-2023) (i kraft 16 okt 2025), [18 feb 2026 nr. 240](forskrift/2026-02-18-240) (i kraft 23 feb 2026), [24 mars 2026 nr. 472](forskrift/2026-03-24-472) (i kraft 15 april 2026).
+> Endret ved forskrifter [23 sep 2022 nr. 1644](forskrift/2022-09-23-1644) (i kraft 1 okt 2022), [18 nov 2022 nr. 1990](forskrift/2022-11-18-1990), [28 mars 2023 nr. 433](forskrift/2023-03-28-433), [18 april 2023 nr. 513](forskrift/2023-04-18-513), [11 mai 2023 nr. 694](forskrift/2023-05-11-694), [28 juni 2023 nr. 1153](forskrift/2023-06-28-1153), [23 aug 2023 nr. 1353](forskrift/2023-08-23-1353), [25 sep 2023 nr. 1527](forskrift/2023-09-25-1527), [3 okt 2023 nr. 1569](forskrift/2023-10-03-1569), [6 feb 2024 nr. 198](forskrift/2024-02-06-198), [20 mars 2024 nr. 510](forskrift/2024-03-20-510), [5 aug 2024 nr. 1874](forskrift/2024-08-05-1874) (i kraft 7 aug 2024), [10 des 2024 nr. 3033](forskrift/2024-12-10-3033) (i kraft 12 des 2024), [10 des 2024 nr. 3034](forskrift/2024-12-10-3034) (i kraft 12 des 2024), [10 des 2024 nr. 3035](forskrift/2024-12-10-3035) (i kraft 12 des 2024), [16 jan 2025 nr. 74](forskrift/2025-01-16-74) (i kraft 21 jan 2025), [11 feb 2025 nr. 221](forskrift/2025-02-11-221) (i kraft 18 feb 2025), [3 april 2025 nr. 615](forskrift/2025-04-03-615) (i kraft 7 april 2025), [10 okt 2025 nr. 2022](forskrift/2025-10-10-2022) (i kraft 16 okt 2025), [10 okt 2025 nr. 2023](forskrift/2025-10-10-2023) (i kraft 16 okt 2025), [18 feb 2026 nr. 240](forskrift/2026-02-18-240) (i kraft 23 feb 2026), [24 mars 2026 nr. 472](forskrift/2026-03-24-472) (i kraft 15 april 2026). **Endres** ved forskrift [6 juli 2026 nr. 1512](forskrift/2026-07-06-1512) (i kraft 10 juli 2026).
 
 ### § 1-5. Definisjoner og kjøretøyklasser
 
@@ -60,7 +60,16 @@ Følgende forordninger og direktiver gjelder som norsk rett, med de tilpasninger
 
 (2) For definisjoner knyttet til registrering gjelder, dersom annet ikke er fastsatt, [forskrift om bruk av kjøretøy § 2-1](forskrift/1990-01-25-92/§2-1).
 
-(3) Klassifisering av bil og tilhenger til bil framgår av forordningen art. 4. Norske betegnelser er:M1PersonbilM2 og M3BussN1VarebilN2 og N3Lastebil/trekkvognO1–O2Tilhenger (≤ 3500kg)O3–O4Tilhenger (> 3500 kg)
+(3) Klassifisering av bil og tilhenger til bil framgår av forordningen art. 4. Norske betegnelser er:
+
+|  |  |
+| --- | --- |
+| M1 | Personbil |
+| M2 og M3 | Buss |
+| N1 | Varebil |
+| N2 og N3 | Lastebil/trekkvogn |
+| O1–O2 | Tilhenger (≤ 3500kg) |
+| O3–O4 | Tilhenger (> 3500 kg) |
 
 ### § 1-6. Forholdet til registrering
 
@@ -942,493 +951,1128 @@ Kolonnene skal leses på følgende måte:*Teknisk rettsakt:* forordningen eller 
 
 Fotnoter som gjelder mer enn ett kravområde, er merket med tall som er hevet over linja. Eksempel: 01.11.20161. Her står den forklarende teksten helt til slutt, under overskriften Fotnoter til [vedlegg 1](forskrift/2022-06-28-1233/vedlegg1).
 
-Fotnoter eller forklaringer som gjelder ett enkelt kravområde er merket med *. Den forklarende teksten står umiddelbart under tabellen til det aktuelle kravområdet.
+Fotnoter eller forklaringer som gjelder ett enkelt kravområde er merket med \*. Den forklarende teksten står umiddelbart under tabellen til det aktuelle kravområdet.
 
 ### A – Belter og barnesikring, kollisjonstesting, sikkerhet til drivstoffsystem og elektrisk sikkerhet
 
 ### A1 – Innvendig utforming
 
-Gjelder for M1.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 21.0101.11.20161
+Gjelder for M1.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 21.01 | 01.11.20161 |  |
 
 ### A2 – Seter og hodestøtter
 
-Gjelder for all M og N. Dette regulativet gjelder for seter som ikke faller inn under FN-regulativ. 80.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 17.0801.11.20161
+Gjelder for all M og N. Dette regulativet gjelder for seter som ikke faller inn under FN-regulativ. 80.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 17.08 | 01.11.20161 |  |
 
 ### A3 – Buss-seter
 
-Gjelder for M2 og M3.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 80.0301.11.20161
+Gjelder for M2 og M3.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 80.03 | 01.11.20161 |  |
 
 ### A4 – Bilbeltefester
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 14.0701.11.20161
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 14.07 | 01.11.20161 |  |
 
 ### A5 – Bilbelter og sikringsutstyr
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 16.0601.11.2016130.09.2022FN-reg. 16.0701.10.2022
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 16.06 | 01.11.20161 | 30.09.2022 |
+| FN-reg. 16.07 | 01.10.2022 |  |
 
 ### A6 – Bilbeltevarslere
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 16.0701.02.2025
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 16.07 | 01.02.2025 |  |
 
 ### A8 – Barnesikringsfester
 
 Gjelder for M1.
-For M2, M3 og N; hvis utstyr er montert*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 145. 00*01.02.2025
+For M2, M3 og N; hvis utstyr er montert
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 145. 00\* | 01.02.2025 |  |
+
+\* Typegodkjenninger ustedt i henhold til FN-regulativ nr. 14.07 og senere utvidelser anses for at være likeverdige med en typegodkjenning ustedt i henhold til FN-regulativ nr. 145.00.
 
 ### A9 – Barnesikringsutstyr
 
-Gjelder for alle M og N; hvis utstyr er montert.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 44.0401.02.2025
+Gjelder for alle M og N; hvis utstyr er montert.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 44.04 | 01.02.2025 |  |
 
 ### A11 – Underkjøringshinder foran
 
-Gjelder for N2 og N3.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 93.0001.11.20161
+Gjelder for N2 og N3.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 93.00 | 01.11.20161 |  |
 
 ### A12 – Underkjøringshinder bak
 
-Gjelder for alle M, N og O.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 58.0231.08.2021FN-reg. 58.0301.09.2021*
+Gjelder for alle M, N og O.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 58.02 |  | 31.08.2021 |
+| FN-reg. 58.03 | 01.09.2021\* |  |
+
+\* Gitt generelt unntak, MIME 22/15046-6, med siste frist for teknisk godkjenning 31.12.2022 for kjøretøy som oppfyller vilkårene i unntaket.
 
 ### A13 – Sidevern
 
-Gjelder for N2, N3, O3 og O4.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 73.0101.11.20161
+Gjelder for N2, N3, O3 og O4.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 73.01 | 01.11.20161 |  |
 
 ### A14 – Drivstofftankers sikkerhet
 
-Gjelder for alle M, N og O.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 34.0201.11.2016106.07.2024FN-reg. 34.0307.07.202431.08.2026FN-reg. 34.0401.09.2026
+Gjelder for alle M, N og O.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 34.02 | 01.11.20161 | 06.07.2024 |
+| FN-reg. 34.03 | 07.07.2024 | 31.08.2026 |
+| FN-reg. 34.04 | 01.09.2026 |  |
 
 ### A15 – LPG-sikkerhet
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 67.0112.11.2013
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 67.01 | 12.11.2013 |  |
 
 ### A16 – CNG- og LNG-sikkerhet
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 110.0116.11.2016
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 110.01 | 16.11.2016 |  |
 
 ### A17 – Hydrogensikkerhet
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 406/2010](eu/32010r0406)05.05.201430.09.2022*FN-reg. 134.0001.10.2022
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 406/2010](eu/32010r0406) | 05.05.2014 | 30.09.2022\* |
+| FN-reg. 134.00 | 01.10.2022 |  |
+
+\* Kjøretøy som er typegodkjent i henhold til forordning [(EF) nr. 79/2009](eu/32009r0079) som endret ved [(EU) nr. 406/2010](eu/32010r0406) kan fortsatt registreres etter denne dato, jf. forordning [(EU) 2019/2144](eu/32019r2144) artikkel 15.
 
 ### A18 – Hydrogensystem materialsikkerhet
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) 2021/535](eu/32021r0535) vedlegg XIV01.10.2022
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) 2021/535](eu/32021r0535) vedlegg XIV | 01.10.2022 |  |
 
 ### A19 – El-sikkerhet under bruk
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 100.0216.11.201631.08.2026FN-reg. 100.0301.09.2026
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 100.02 | 16.11.2016 | 31.08.2026 |
+| FN-reg. 100.03 | 01.09.2026 |  |
 
 ### A20 – Frontkollisjon, delvis
 
-Gjelder for M1 og N1 med tillatt totalvekt 2500 kg og lavere.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 94.0201.11.2016130.09.2022FN-reg. 94.0320.01.202031.01.2025Gjelder for M1 med tillatt totalvekt 3500 kg og lavere og N1 med tillatt totalvekt 2500 kg og lavere.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 94.0401.02.2025
+Gjelder for M1 og N1 med tillatt totalvekt 2500 kg og lavere.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 94.02 | 01.11.20161 | 30.09.2022 |
+| FN-reg. 94.03 | 20.01.2020 | 31.01.2025 |
+
+Gjelder for M1 med tillatt totalvekt 3500 kg og lavere og N1 med tillatt totalvekt 2500 kg og lavere.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 94.04 | 01.02.2025 |  |
 
 ### A21 – Frontkollisjon, fullbredde
 
-Gjelder for M1 og N1.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 137.0201.02.2025
+Gjelder for M1 og N1.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 137.02 | 01.02.2025 |  |
 
 ### A22 – Kollisjonssikret styreinnretning
 
-Gjelder for M1 og N1.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 12.0401.11.20161
+Gjelder for M1 og N1.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 12.04 | 01.11.20161 |  |
 
 ### A24 – Førerhusets styrke
 
-Gjelder for alle N med separat førerhus.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 29.0330.01.2021
+Gjelder for alle N med separat førerhus.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 29.03 | 30.01.2021 |  |
 
 ### A25 – Sidekollisjon
 
-Gjelder M1 og N1 hvor referansepunktet (R-punktet) for det laveste setet befinner seg mindre enn 700 mm fra bakken*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 95.03*30.09.2022FN-reg. 95.0301.10.202230.09.2025
+Gjelder M1 og N1 hvor referansepunktet (R-punktet) for det laveste setet befinner seg mindre enn 700 mm fra bakken
 
-Gjelder for alle M1 og N1*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 95.0501.10.2025
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 95.03 | \* | 30.09.2022 |
+| FN-reg. 95.03 | 01.10.2022 | 30.09.2025 |
+
+Gjelder for alle M1 og N1
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 95.05 | 01.10.2025 |  |
+
+\* [Bilforskriften (2012)](forskrift/2012-07-05-817) sidestilte direktiv [96/27/EF](eu/31996l0027) og FN-regulativ 95.03 som krav. Fra 1. oktober 2022 er det kun FN-regulativ 95.03 som kan benyttes.
 
 ### A26 – Sidekollisjon mot stolper
 
-Gjelder for M1 og N1.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 135.0107.07.2024
+Gjelder for M1 og N1.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 135.01 | 07.07.2024 |  |
 
 ### A27 – Kollisjon bakfra
 
-Gjelder for M1 og N1.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 153.00*01.02.2025
+Gjelder for M1 og N1.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 153.00\* | 01.02.2025 |  |
+
+\* typegodkjenninger ustedt i henhold til FN-regulativ nr. 34.03 anses for at være likeverdige med en typegodkjenning ustedt i henhold til FN-regulativ nr. 153.00.
 
 ### A28 – eCall system
 
-Gjelder for M1 og N1, men er ikke obligatorisk ved enkeltgodkjenning.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) 2015/758](eu/32015r0758) som endret ved [(EU) 2017/79](eu/32017r0079)[(EU) 2015/758](eu/32015r0758) som endret ved [(EU) 2024/1180](eu/32024r1180)[(EU) 2015/758](eu/32015r0758) som endret ved [(EU) 2025/1871](eu/32025r1871)
+Gjelder for M1 og N1, men er ikke obligatorisk ved enkeltgodkjenning.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) 2015/758](eu/32015r0758) som endret ved [(EU) 2017/79](eu/32017r0079) |  |  |
+| [(EU) 2015/758](eu/32015r0758) som endret ved [(EU) 2024/1180](eu/32024r1180) |  |  |
+| [(EU) 2015/758](eu/32015r0758) som endret ved [(EU) 2025/1871](eu/32025r1871) |  |  |
 
 ### B – Myke trafikanter, synsfelt og sikt
 
 ### B1 – Beskyttelse av fotgjengeres bein og hode
 
-Gjelder for M1 og N1.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 78/2009](eu/32009r0078)30.09.2022*FN-reg. 127.0201.10.2022
+Gjelder for M1 og N1.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 78/2009](eu/32009r0078) |  | 30.09.2022\* |
+| FN-reg. 127.02 | 01.10.2022 |  |
+
+\* Kjøretøy som er typegodkjent i henhold til [(EF) nr. 78/2009](eu/32009r0078) kan fortsatt registreres etter denne dato, jf. forordning [(EU) 2019/2144](eu/32019r2144) artikkel 15.
 
 ### B2 – Utvidet beskyttelsesområde for hodestøt
 
-Gjelder for M1 og N1.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 127.0207.07.202631.08.2031FN-reg. 127.0401.09 2031
+Gjelder for M1 og N1.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 127.02 | 07.07.2026 | 31.08.2031 |
+| FN-reg. 127.04 | 01.09 2031 |  |
 
 ### B3 – Frontalbeskyttelsessystem
 
-Gjelder for M1 og N1 hvis separat teknisk enhet (STU) er montert ved førstegangsgodkjenning.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy (hvis montert)**Brukes til og med*[(EU) 2021/535](eu/32021r0535) vedlegg XII01.10.2022
+Gjelder for M1 og N1 hvis separat teknisk enhet (STU) er montert ved førstegangsgodkjenning.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy (hvis montert)* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) 2021/535](eu/32021r0535) vedlegg XII | 01.10.2022 |  |
 
 Ved montering av frontal beskyttelse, som ikke er del av bilens typegodkjenning, på M1 og N1 må «bøylen» være godkjent som separat teknisk enhet til biltypen i henhold til forordning [(EU) 2021/535](eu/32021r0535) vedlegg XII, og montert i henhold til monteringsanvisningen.
 
 ### B4 – Avansert nødbremsing for fotgjengere og syklister
 
-Gjelder for M1 og N1.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 152.0007.07.2026
+Gjelder for M1 og N1.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 152.00 | 07.07.2026 |  |
 
 ### B5 – Advarsel om kollisjon med fotgjengere og syklister
 
-Gjelder for M2, M3 N2 og N3.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 159.0001.02.2025
+Gjelder for M2, M3 N2 og N3.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 159.00 | 01.02.2025 |  |
 
 ### B6 – System for informasjon om blindsoner
 
-Gjelder for M2, M3 N2 og N3.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 151.0001.02.2025
+Gjelder for M2, M3 N2 og N3.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 151.00 | 01.02.2025 |  |
 
 ### B7 – Ryggeassistent
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 158.0001.02.2025
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 158.00 | 01.02.2025 |  |
 
 ### B8 – Synsfelt forover for lette kjøretøy
 
-Gjelder for M1 og N1*.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 125.0001.11.2016130.09.2022FN-reg. 125.0101.10.2022
+Gjelder for M1 og N1\*.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 125.00 | 01.11.20161 | 30.09.2022 |
+| FN-reg. 125.01 | 01.10.2022 |  |
+
+\* For N1 gjelder kravet fra 7. juli 2026.
 
 ### B9 – Direkte sikt for tunge kjøretøyer
 
-Gjelder for M2, M3, N2 og N3.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 167.0007.01.2029
+Gjelder for M2, M3, N2 og N3.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 167.00 | 07.01.2029 |  |
 
 ### B10 – Sikkerhetsglass
 
-Gjelder for alle M, N og O.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 43.0101.11.20161
+Gjelder for alle M, N og O.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 43.01 | 01.11.20161 |  |
 
 ### B11 – Avising/avdugging
 
-Gjelder for M1. Øvrige M og N skal ha passende avisings-/avduggingsanlegg installert.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 672/2010](eu/32010r0672)01.11.2016130.09.2022*[(EU) 2021/535](eu/32021r0535) vedlegg VI01.10.2022
+Gjelder for M1. Øvrige M og N skal ha passende avisings-/avduggingsanlegg installert.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 672/2010](eu/32010r0672) | 01.11.20161 | 30.09.2022\* |
+| [(EU) 2021/535](eu/32021r0535) vedlegg VI | 01.10.2022 |  |
+
+\* Kjøretøy som er typegodkjent i henhold til forordning [(EU) nr. 672/2010](eu/32010r0672) kan fortsatt registreres etter denne dato, jf. forordning [(EU) 2019/2144](eu/32019r2144) artikkel 15.
 
 ### B12 – Vindusvisker/vindusspyler
 
-Gjelder for M1. Øvrige M og N skal ha passende vindusvisker-/vindusspyleranlegg installert.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 1008/2010](eu/32010r1008)01.11.2016130.09.2022[(EU) 2021/535](eu/32021r0535) vedlegg IV01.10.2022*
+Gjelder for M1. Øvrige M og N skal ha passende vindusvisker-/vindusspyleranlegg installert.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 1008/2010](eu/32010r1008) | 01.11.20161 | 30.09.2022 |
+| [(EU) 2021/535](eu/32021r0535) vedlegg IV | 01.10.2022\* |  |
+
+\* Kjøretøy som er typegodkjent i henhold til forordning [(EU) nr. 1008/2010](eu/32010r1008) kan fortsatt registreres etter denne dato, jf. forordning [(EU) 2019/2144](eu/32019r2144) artikkel 15.
 
 ### B13 – Innretninger for indirekte sikt
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 46.0301.11.2016130.09.2022FN-reg. 46.0401.10.2022
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 46.03 | 01.11.20161 | 30.09.2022 |
+| FN-reg. 46.04 | 01.10.2022 |  |
 
 ### B14 – Akustisk kjøretøyvarslingssystem (AVAS)
 
-Gjelder for alle M og N med elektrisk framdriftsmotor. Det vil si batterielektriske, brenselcelle og hybridbiler.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 540/2014](eu/32014r0540) som endret ved [(EU) 2017/1576](eu/32017r1576)01.07.2021[(EU) nr. 540/2014](eu/32014r0540) som endret ved [(EU) 2019/839](eu/32019r0839)01.09.2023FN-regulativ som er alternative krav til rettsaktene i tabellen ovenfor.*Emne**EU rettsakt**FN-regulativ*AVAS[(EU) nr. 540/2014](eu/32014r0540) som endret ved [(EU) 2017/1576](eu/32017r1576)138.01AVAS[(EU) nr. 540/2014](eu/32014r0540) som endret ved [(EU) 2019/839](eu/32019r0839)138.01
+Gjelder for alle M og N med elektrisk framdriftsmotor. Det vil si batterielektriske, brenselcelle og hybridbiler.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 540/2014](eu/32014r0540) som endret ved [(EU) 2017/1576](eu/32017r1576) | 01.07.2021 |  |
+| [(EU) nr. 540/2014](eu/32014r0540) som endret ved [(EU) 2019/839](eu/32019r0839) | 01.09.2023 |  |
+
+FN-regulativ som er alternative krav til rettsaktene i tabellen ovenfor.
+
+| *Emne* | *EU rettsakt* | *FN-regulativ* |
+| --- | --- | --- |
+| AVAS | [(EU) nr. 540/2014](eu/32014r0540) som endret ved [(EU) 2017/1576](eu/32017r1576) | 138.01 |
+| AVAS | [(EU) nr. 540/2014](eu/32014r0540) som endret ved [(EU) 2019/839](eu/32019r0839) | 138.01 |
 
 ### C – Chassis, bremser, dekk og styring
 
 ### C1 – Styreinnretning
 
-Gjelder for alle M, N og O.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 79.0101.11.2016131.08.2021FN-reg. 79.0301.09.2021*31.08.2026FN-reg. 79.0401.09.2026
+Gjelder for alle M, N og O.
 
-### C2 – Kjørefeltvarsler (LDWS)*
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 79.01 | 01.11.20161 | 31.08.2021 |
+| FN-reg. 79.03 | 01.09.2021\* | 31.08.2026 |
+| FN-reg. 79.04 | 01.09.2026 |  |
 
-Gjelder for M2, M3, N2 og N3.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 351/2012](eu/32012r0351)01.11.2016130.09.2022FN-reg. 130.0001.10.2022
+\* FN-regulativ 79.03 er obligatorisk fra 1. september 2021, men FN-typegodkjenninger for kjøretøy i henhold til en tidligere endringsserie, når kjøretøyet ikke omfattes av endringene i 03-serien, skal fortsatt aksepteres (jf. 12.2.5 i FN-regulativ 79.03).
+
+### C2 – Kjørefeltvarsler (LDWS)\*
+
+Gjelder for M2, M3, N2 og N3.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 351/2012](eu/32012r0351) | 01.11.20161 | 30.09.2022 |
+| FN-reg. 130.00 | 01.10.2022 |  |
+
+\* Nasjonale unntak i kapittel 10 gjelder som alternative krav ved enkeltgodkjenning.
 
 ### C3 – Kjørefeltassistent for nødstilfeller (ELKS)
 
-Gjelder for M1 og N1.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) 2021/646](eu/32021r0646)01.02.2025*
+Gjelder for M1 og N1.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) 2021/646](eu/32021r0646) | 01.02.2025\* |  |
+
+\* For biler med hydraulisk servostyring gjelder kravet fra 7. juli 2026. Disse bilene skal i stedet være utstyrt med et system for feltskiftevarsel.
 
 ### C4 – Bremser
 
-Gjelder for alle M, N og O.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 13.11
-FN-reg. 13H.0001.11.20161
+Gjelder for alle M, N og O.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 13.11<br>FN-reg. 13H.00 | 01.11.20161 |  |
 
 ### C6 – Bremseassistering
 
-Gjelder for M1 og N1.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 139.00*01.02.2025
+Gjelder for M1 og N1.
 
-### C7 – Stabilitetskontroll*
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 139.00\* | 01.02.2025 |  |
 
-Gjelder for alle M, N og O.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 13.11
-FN-reg. 140.00**01.02.2025
-01.02.2025
+\* Typegodkjenning ustedt i henhold til FN-regulativ nr. 13-H.00 anses for å være likeverdig med en typegodkjenning i henhold til FN-regulativ nr. 139.00.
+
+### C7 – Stabilitetskontroll\*
+
+Gjelder for alle M, N og O.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 13.11<br>FN-reg. 140.00\*\* | 01.02.2025<br>01.02.2025 |  |
 
 Unntak er angitt i rettsaktene.
 
+\* Før 1. februar 2025 var dette kravet regulert av kravområdene 9A og 9B bremser, se nåværende C4 bremser.
+
+\*\* Typegodkjenning ustedt i henhold til FN-regulativ nr. 13-H.00 anses for å være likeverdig med en typegodkjenning i henhold til FN-regulativ nr. 140.00.
+
 ### C8 – Avansert nødbremsesystem i tunge kjøretøyer (AEBS)
 
-Gjelder for M2, M3, N2 og N3.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 347/2012](eu/32012r0347)01.11.2016130.09.2022FN-reg. 131.0101.10.2012
+Gjelder for M2, M3, N2 og N3.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 347/2012](eu/32012r0347) | 01.11.20161 | 30.09.2022 |
+| FN-reg. 131.01 | 01.10.2012 |  |
 
 Nasjonale unntak i kapittel 10 gjelder som alternative krav ved enkeltgodkjenning (i tillegg til unntakene i forordningen)
 
 ### C9 – Avansert nødbremsesystem i lette kjøretøyer
 
-Gjelder for M1 og N1*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 152.0001.02.202530.06.2026FN-reg. 152.0201.07.2026*
+Gjelder for M1 og N1
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 152.00 | 01.02.2025 | 30.06.2026 |
+| FN-reg. 152.02 | 01.07.2026\* |  |
+
+\* FN-regulativ 152.02 er obligatorisk fra 1. juli 2026, men FN-typegodkjenninger for kjøretøy i henhold til en tidligere endringsserie, når kjøretøyet ikke omfattes av endringene i 02-serien skal fortsatt aksepteres (jf. 12.2.5 i FN-regulativ 152.02).
 
 ### C11 – Reservehjul og systemer for sikkerhetsdekk
 
-Gjelder for M1 og N1: Gjelder kun når kjøretøyet har montert utstyr som dekkes av FN-reg. 64.*Teknisk rettsakt (krav)**Brukes fra**Brukes til og med*FN-reg. 64.0201.02.2025
+Gjelder for M1 og N1: Gjelder kun når kjøretøyet har montert utstyr som dekkes av FN-reg. 64.
+
+| *Teknisk rettsakt (krav)* | *Brukes fra* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 64.02 | 01.02.2025 |  |
 
 ### C13 – Overvåking av dekktrykk i lette kjøretøyer
 
-Gjelder for M1 med tillatt totalvekt ikke over 3500 kg Dersom M1 med tillatt totalvekt over 3500 kg og N1 har dekktrykksovervåking, skal kjøretøyet tilfredsstille kravet.*Teknisk rettsakt (krav)**Brukes fra**Brukes til og med*FN-reg. 64.0231.01.2025*
+Gjelder for M1 med tillatt totalvekt ikke over 3500 kg Dersom M1 med tillatt totalvekt over 3500 kg og N1 har dekktrykksovervåking, skal kjøretøyet tilfredsstille kravet.
 
-Gjelder for M1 med tillatt totalvekt ikke over 3500 kg og N1. Dersom M1 med tillatt totalvekt over 3500 kg har dekktrykksovervåking, skal kjøretøyet tilfredsstille kravet.*Teknisk rettsakt (krav)**Brukes fra**Brukes til og med*FN-reg. 141.0101.02.2025*
+| *Teknisk rettsakt (krav)* | *Brukes fra* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 64.02 |  | 31.01.2025\* |
+
+Gjelder for M1 med tillatt totalvekt ikke over 3500 kg og N1. Dersom M1 med tillatt totalvekt over 3500 kg har dekktrykksovervåking, skal kjøretøyet tilfredsstille kravet.
+
+| *Teknisk rettsakt (krav)* | *Brukes fra* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 141.01 | 01.02.2025\* |  |
+
+\* Typegodkjenning ustedt i henhold til FN-regulativ nr. 64.02 anses for å være likeverdig med en typegodkjenning i henhold til FN-regulativ nr. 141.00
 
 ### C14 – Overvåking av dekktrykk i tunge kjøretøyer
 
-Gjelder for M2, M3, N2, N3, O3 og O4.*Teknisk rettsakt (krav)**Brukes fra**Brukes til og med*FN-reg. 141.0101.02.2025
+Gjelder for M2, M3, N2, N3, O3 og O4.
+
+| *Teknisk rettsakt (krav)* | *Brukes fra* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 141.01 | 01.02.2025 |  |
 
 ### C15 – Dekkmontering
 
-Gjelder for alle M, N og O. Gjelder for monteringen på kjøretøyet. Samsvarserklæring tillatt.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 458/2011](eu/32011r0458) (med senere endringer)31.01.2025FN-reg. 142.00*01.10.202231.01.2025FN-reg. 142.01**01.02.2025
+Gjelder for alle M, N og O. Gjelder for monteringen på kjøretøyet. Samsvarserklæring tillatt.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 458/2011](eu/32011r0458) (med senere endringer) |  | 31.01.2025 |
+| FN-reg. 142.00\* | 01.10.2022 | 31.01.2025 |
+| FN-reg. 142.01\*\* | 01.02.2025 |  |
+
+\* Kun for M1.
+
+\*\* For alle M, N og O.
 
 ### D – Instrumentering, elektrisk system, belysning, og beskyttelse mot uautorisert bruk, inkludert cyberangrep
 
 ### D1 – Signalhorn
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 28.0001.11.20161
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 28.00 | 01.11.20161 |  |
 
 ### D2 – Radiostøy (elektromagnetisk kompatibilitet)
 
-Gjelder for alle M, N og O.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 10.0401.11.2016130.09.2022FN-reg. 10.0501.10.2022
+Gjelder for alle M, N og O.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 10.04 | 01.11.20161 | 30.09.2022 |
+| FN-reg. 10.05 | 01.10.2022 |  |
 
 ### D3 – Beskyttelse mot uautorisert bruk, startsperre og alarmsystemer
 
 Gjelder for M1 og N1: Tyverisikringsanordninger skal monteres på kjøretøy i klasse M1 og N1, og startsperre skal monteres på kjøretøy i klasse M1.
-Gjelder for M2, M3, N2 og N3: Dersom slikt utstyr er montert på M2, M3, N2 og N3 skal kjøretøyet tilfredsstille kravene.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 161.00
-FN-reg. 162.00
-FN-reg. 163.00
-FN-reg. 116.00
-FN-reg. 97.01
-FN-reg. 18.0301.02.2025
+Gjelder for M2, M3, N2 og N3: Dersom slikt utstyr er montert på M2, M3, N2 og N3 skal kjøretøyet tilfredsstille kravene.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 161.00<br>FN-reg. 162.00<br>FN-reg. 163.00<br>FN-reg. 116.00<br>FN-reg. 97.01<br>FN-reg. 18.03 | 01.02.2025 |  |
 
 En eller flere av de tekniske rettsaktene kan benyttes.
 
 ### D4 – Beskyttelse av kjøretøy mot cyberangrep
 
-Gjelder for alle M og N:*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 155.0001.02.2025
+Gjelder for alle M og N:
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 155.00 | 01.02.2025 |  |
 
 ### D5 – Hastighetsmåler
 
-Gjelder alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 39.0001.11.2016130.09.2022FN-reg. 39.0101.10.2022
+Gjelder alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 39.00 | 01.11.20161 | 30.09.2022 |
+| FN-reg. 39.01 | 01.10.2022 |  |
 
 ### D6 – Kilometerteller
 
-Gjelder alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 39.0001.11.2016130.09.2022FN-reg. 39.0101.10.2022
+Gjelder alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 39.00 | 01.11.20161 | 30.09.2022 |
+| FN-reg. 39.01 | 01.10.2022 |  |
 
 ### D7 – Hastighetsbegrensere
 
-Gjelder for M2, M3, N2, N3.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 89.0001.11.20161
+Gjelder for M2, M3, N2, N3.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 89.00 | 01.11.20161 |  |
 
 ### D8 – Intelligente fartstilpasningssystemer (ISA)
 
-Gjelder for alle M og N:*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) 2021/1958](eu/32021r1958)01.02.2025
+Gjelder for alle M og N:
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) 2021/1958](eu/32021r1958) | 01.02.2025 |  |
 
 ### D9 – Merking av betjeningsinnretninger, kontrollinnretninger og indikatorer
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 121.0001.11.2016130.09.2022FN-reg. 121.0101.10.2022
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 121.00 | 01.11.20161 | 30.09.2022 |
+| FN-reg. 121.01 | 01.10.2022 |  |
 
 ### D10 – Varmeanlegg
 
-Gjelder for alle M, N og O.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 122.0001.11.20161
+Gjelder for alle M, N og O.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 122.00 | 01.11.20161 |  |
 
 ### D15 – Montering av lyssignalinnretninger, innretninger for belysning av veien og lysreflekterende innretninger
 
-Gjelder montering av godkjente lys- og refleksanordninger på alle M, N og O. Samsvarserklæring tillatt.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 48.0601.11.2016131.01.2025FN-reg. 48.0701.02.2025
+Gjelder montering av godkjente lys- og refleksanordninger på alle M, N og O. Samsvarserklæring tillatt.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 48.06 | 01.11.20161 | 31.01.2025 |
+| FN-reg. 48.07 | 01.02.2025 |  |
 
 Alternative nasjonale bestemmelser i kapittel 8 og 14 gjelder i tillegg til gjeldende utgave av FN-regulativ 48.
 
 ### D16 – Nødbremssignal
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 48.0701.02.2025
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 48.07 | 01.02.2025 |  |
 
 ### D17 – Innretninger for rengjøring av frontlykter
 
-Gjelder for alle M og N når innretningen er montert.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 45.0101.02.2025
+Gjelder for alle M og N når innretningen er montert.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 45.01 | 01.02.2025 |  |
 
 ### D18 – Girskiftindikator
 
-Gjelder for M1, men er ikke obligatorisk ved enkeltgodkjenning.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) 2021/535](eu/32021r0535) vedlegg IX
+Gjelder for M1, men er ikke obligatorisk ved enkeltgodkjenning.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) 2021/535](eu/32021r0535) vedlegg IX |  |  |
 
 ### E – Systemfunksjoner for førerstøtte eller automatiserte kjøresystemer
 
 ### E1 – Grensesnitt for ettermontering av alkolås
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) 2021/1243](eu/32021r1243)01.02.2025
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) 2021/1243](eu/32021r1243) | 01.02.2025 |  |
 
 ### E2 – Tretthets- og oppmerksomhetsvarsel
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) 2021/1341](eu/32021r1341)01.02.2025
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) 2021/1341](eu/32021r1341) | 01.02.2025 |  |
 
 ### E3 – Avansert distraksjonsvarsel
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*Ikke fastsatt krav07.07.2026
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| Ikke fastsatt krav | 07.07.2026 |  |
 
 ### E4 – System for overvåking av førertilgjengelighet
 
-Gjelder for automatiserte M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 157.0001.02.2025
+Gjelder for automatiserte M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 157.00 | 01.02.2025 |  |
 
 ### E5 – Hendelsesdatalogger (Kollisjonsdataopptaker)
 
-Gjelder for alle M1 og N1.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) 2022/545](eu/32022r0545)
-FN-reg. 160.0101.02.2025
+Gjelder for alle M1 og N1.
 
-Gjelder for alle M2, M3, N2 og N3.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) 2024/2220](eu/32024r2220)
-FN-reg. 169.0007.01.2029
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) 2022/545](eu/32022r0545)<br>FN-reg. 160.01 | 01.02.2025 |  |
+
+Gjelder for alle M2, M3, N2 og N3.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) 2024/2220](eu/32024r2220)<br>FN-reg. 169.00 | 07.01.2029 |  |
 
 ### E6 – Systemer som overtar førerens kontroll
 
-Gjelder for automatiserte M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 157.0001.02.2025
+Gjelder for automatiserte M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 157.00 | 01.02.2025 |  |
 
 ### E7 – Systemer som gir kjøretøyet informasjon om kjøretøyets tilstand og området rundt
 
-Gjelder for automatiserte M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 157.0001.02.2025
+Gjelder for automatiserte M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 157.00 | 01.02.2025 |  |
 
 ### F – Generell kjøretøykonstruksjon og -egenskaper
 
 ### F1 – Monteringssted for kjennemerker
 
-Gjelder for alle M, N og O. Samsvarserklæring tillatt.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 1003/2010](eu/32010r1003)01.11.2016130.09.2022*[(EU) 2021/535](eu/32021r0535) vedlegg III01.10.2022**06.07.2026[(EU) 2021/535](eu/32021r0535) vedlegg III som endret ved [(EU) 2024/883](eu/32024r0883)07.07.2026**
+Gjelder for alle M, N og O. Samsvarserklæring tillatt.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 1003/2010](eu/32010r1003) | 01.11.20161 | 30.09.2022\* |
+| [(EU) 2021/535](eu/32021r0535) vedlegg III | 01.10.2022\*\* | 06.07.2026 |
+| [(EU) 2021/535](eu/32021r0535) vedlegg III som endret ved [(EU) 2024/883](eu/32024r0883) | 07.07.2026\*\* |  |
 
 Nasjonalt unntak: Ved enkeltgodkjenning er det ikke krav til plass for to kjennemerker bak på O3 og O4.
 
+\* Kjøretøy som er typegodkjent i henhold til forordning [(EF) nr. 1003/2010](eu/32010r1003) kan fortsatt registreres fram til 7. juli 2026, jf. forordning [(EU) 2019/2144](eu/32019r2144) artikkel 15.
+
+\*\* Ved enkeltgodkjenning trer krav til flate for montering av kjennemerke foran i kraft 7. juli 2026, jf. artikkel 12 nr.4 i forordning [(EU) 2021/535](eu/32021r0535) som endret ved [(EU) 2024/883](eu/32024r0883).
+
 ### F2 – Ryggefunksjon
 
-Gjelder alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 130/2012](eu/32012r0130)01.11.201630.09.2022[(EU) 2021/535](eu/32021r0535) vedlegg XI01.10.2022*
+Gjelder alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 130/2012](eu/32012r0130) | 01.11.2016 | 30.09.2022 |
+| [(EU) 2021/535](eu/32021r0535) vedlegg XI | 01.10.2022\* |  |
+
+\* Kjøretøy som er typegodkjent (også chassis) i henhold til forordning [(EU) nr. 130/2012](eu/32012r0130) kan fortsatt registreres etter denne dato, jf. forordning [(EU) 2019/2144](eu/32019r2144) artikkel 15
 
 ### F3 – Dørlåser og dørhengsler
 
-Gjelder for M1 og N1.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 11.0301.11.2016130.09.2022FN-reg. 11.0401.10.2022
+Gjelder for M1 og N1.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 11.03 | 01.11.20161 | 30.09.2022 |
+| FN-reg. 11.04 | 01.10.2022 |  |
 
 ### F4 – Innstigningstrinn, håndtak og stigbrett
 
-Gjelder for M1, N1, N2 og N3.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 130/2012](eu/32012r0130)30.09.2022*[(EU) 2021/535](eu/32021r0535) vedlegg X01.10.2022
+Gjelder for M1, N1, N2 og N3.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 130/2012](eu/32012r0130) |  | 30.09.2022\* |
+| [(EU) 2021/535](eu/32021r0535) vedlegg X | 01.10.2022 |  |
+
+\* Kjøretøy som er typegodkjent i henhold til forordning [(EU) nr. 130/2012](eu/32012r0130) kan fortsatt registreres etter denne dato, jf. forordning [(EU) 2019/2144](eu/32019r2144) artikkel 15
 
 ### F5 – Utvendige utstikkende deler
 
-Gjelder for M1.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 26.0301.11.20161
+Gjelder for M1.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 26.03 | 01.11.20161 |  |
 
 ### F6 – Utvendige utstikkende deler på førerhus i nyttekjøretøy
 
-Gjelder alle N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 61.0001.11.20161
+Gjelder alle N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 61.00 | 01.11.20161 |  |
 
 ### F7 – Understellsnummer og fabrikasjonsplate
 
-Gjelder for alle M, N og O. Samsvarserklæring tillatt.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 19/2011](eu/32011r0019)01.11.2016130.09.2022*[(EU) 2021/535](eu/32021r0535) vedlegg II01.10.2022**[(EU) 2021/535](eu/32021r0535) vedlegg II som endret ved [(EU) 2024/883](eu/32024r0883)07.07.2026
+Gjelder for alle M, N og O. Samsvarserklæring tillatt.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 19/2011](eu/32011r0019) | 01.11.20161 | 30.09.2022\* |
+| [(EU) 2021/535](eu/32021r0535) vedlegg II | 01.10.2022\*\* |  |
+| [(EU) 2021/535](eu/32021r0535) vedlegg II som endret ved [(EU) 2024/883](eu/32024r0883) | 07.07.2026 |  |
+
+\* Kjøretøy som er typegodkjent i henhold til forordning [(EF) nr. 19/2011](eu/32011r0019) som endret ved [(EU) nr. 249/2012](eu/32012r0249) kan fortsatt registreres fram til 7. juli 2026, jf. forordning [(EU) 2019/2144](eu/32019r2144) artikkel 15.
+
+\*\* Krav til kontrollsiffer trer i kraft 7. juli 2026 ved enkeltgodkjenning. Se artikkel 12 nr. 2 til [(EU) 2021/535](eu/32021r0535)
 
 ### F8 – Slepeinnretninger
 
-Gjelder for alle M og N.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 1005/2010](eu/32010r1005)01.11.2016130.09.2022*[(EU) 2021/535](eu/32021r0535) vedlegg VII01.10.202206.07.2027[(EU) 2021/535](eu/32021r0535) vedlegg VII som endret ved [(EU) 2024/883](eu/32024r0883)07.07.2027
+Gjelder for alle M og N.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 1005/2010](eu/32010r1005) | 01.11.20161 | 30.09.2022\* |
+| [(EU) 2021/535](eu/32021r0535) vedlegg VII | 01.10.2022 | 06.07.2027 |
+| [(EU) 2021/535](eu/32021r0535) vedlegg VII som endret ved [(EU) 2024/883](eu/32024r0883) | 07.07.2027 |  |
+
+\* Kjøretøy som er typegodkjent i henhold til forordning [(EU) nr. 1005/2010](eu/32010r1005) kan fortsatt registreres fram til 7. juli 2027, jf. forordning [(EU) 2019/2144](eu/32019r2144) artikkel 15.
 
 ### F9 – Hjulavskjerming
 
-Gjelder for M1.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 1009/2010](eu/32010r1009)01.11.2016130.09.2022*[(EU) 2021/535](eu/32021r0535) vedlegg V01.10.2022
+Gjelder for M1.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 1009/2010](eu/32010r1009) | 01.11.20161 | 30.09.2022\* |
+| [(EU) 2021/535](eu/32021r0535) vedlegg V | 01.10.2022 |  |
+
+\* Kjøretøy som er typegodkjent i henhold til forordning [(EU) nr. 1009/2010](eu/32010r1009), kan fortsatt registreres etter denne dato, jf. forordning [(EU) 2019/2144](eu/32019r2144) artikkel 15.
 
 ### F10 – Innretninger mot vannsprut
 
-Gjelder for alle N og O.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 109/2011](eu/32011r0109)01.11.2016130.09.2022*[(EU) 2021/535](eu/32021r0535) vedlegg VIII01.10.2022
+Gjelder for alle N og O.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 109/2011](eu/32011r0109) | 01.11.20161 | 30.09.2022\* |
+| [(EU) 2021/535](eu/32021r0535) vedlegg VIII | 01.10.2022 |  |
 
 *Nasjonalt unntak*, gitt i rundskriv datert 7. november 2012: Som alternativt krav ved enkeltgodkjenning kan [kjøretøyforskriften § 32-1](forskrift/1994-10-04-918/§32-1) og [§ 32-2](forskrift/1994-10-04-918/§32-2) benyttes for alle N, og [§ 32-1](forskrift/1994-10-04-918/§32-1) og [§ 32-6](forskrift/1994-10-04-918/§32-6) benyttes for alle O. Samsvarserklæring tillatt for nasjonale krav.
 
+\* Kjøretøy som er typegodkjent i henhold til forordning [(EU) nr. 109/2011](eu/32011r0109) kan fortsatt registreres etter denne dato, jf. forordning [(EU) 2019/2144](eu/32019r2144) artikkel 15.
+
 ### F11 – Masser og dimensjoner
 
-Gjelder alle M, N og O.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) nr. 1230/2012](eu/32012r1230)01.11.2016130.09.2022*[(EU) 2021/535](eu/32021r0535) vedlegg XIII01.10.2022
+Gjelder alle M, N og O.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) nr. 1230/2012](eu/32012r1230) | 01.11.20161 | 30.09.2022\* |
+| [(EU) 2021/535](eu/32021r0535) vedlegg XIII | 01.10.2022 |  |
 
 Bestemmelsene i kapittel 10 i denne forskrift gjelder som alternative krav ved enkeltgodkjenning
 
+\* Kjøretøy som er typegodkjent i henhold til [(EF) nr. 661/2009](eu/32009r0661) som endret ved [(EU) nr. 1230/2012](eu/32012r1230) kan fortsatt registreres etter denne dato, jf. forordning [(EU) 2019/2144](eu/32019r2144) artikkel 15.
+
 ### F12 – Mekaniske koblingsdeler
 
-Gjelder for alle M, N når kobling er montert og O.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 55.0101.11.20161
+Gjelder for alle M, N når kobling er montert og O.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 55.01 | 01.11.20161 |  |
 
 Bestemmelsen i [§ 10-9](forskrift/2022-06-28-1233/§10-9) i denne forskrift gjelder som alternativt krav ved enkeltgodkjenning.
+
+*CCD-kobling*
+
+Gjelder for N2, N3, O3 og O4 når CCD-kobling er montert.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 102.00 | 12.11.2013 |  |
 
 Dette er en tilleggsgodkjenning til FN-regulativ 55.01 for denne typen koblinger
 
 ### F13 – Kjøretøyer beregnet på transport av farlig gods
 
-Kravområdet skal ikke vurderes som en del av enkelgodkjenningen. Godkjenning for ADR er en tilleggsgodkjenning for N og O som kun forvaltes av utpekte ADR-kontrollstasjoner.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 105.0501.11.20161
+Kravområdet skal ikke vurderes som en del av enkelgodkjenningen. Godkjenning for ADR er en tilleggsgodkjenning for N og O som kun forvaltes av utpekte ADR-kontrollstasjoner.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 105.05 | 01.11.20161 |  |
 
 ### F14 – Generell busskonstruksjon
 
-Gjelder for M2 og M3.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 107.0516.11.201630.09.2022FN-reg. 107.0701.10.2022
+Gjelder for M2 og M3.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 107.05 | 16.11.2016 | 30.09.2022 |
+| FN-reg. 107.07 | 01.10.2022 |  |
 
 ### F15 – Overbygningens styrke på busser
 
-Gjelder for M2 og M3.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 66.0201.11.20161
+Gjelder for M2 og M3.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 66.02 | 01.11.20161 |  |
 
 ### F16 – Brannegenskaper innvendig i busser
 
-Gjelder for M3, klasse II og III.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*FN-reg. 118.0116.11.201630.09.2022FN-reg. 118.0201.10.202231.01.2025FN-reg. 118.0301.02.2025
+Gjelder for M3, klasse II og III.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| FN-reg. 118.01 | 16.11.2016 | 30.09.2022 |
+| FN-reg. 118.02 | 01.10.2022 | 31.01.2025 |
+| FN-reg. 118.03 | 01.02.2025 |  |
 
 ### G – Miljøegenskaper og utslipp
 
 ### G1 – Støynivå
 
-*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[2007/34/EF](eu/32007l0034)30.06.2027*[(EU) nr. 540/2014](eu/32014r0540)01.07.2027*
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [2007/34/EF](eu/32007l0034) |  | 30.06.2027\* |
+| [(EU) nr. 540/2014](eu/32014r0540) | 01.07.2027\* |  |
 
-FN-regulativ som er alternative krav til rettsaktene i tabellen ovenfor.*Emne**EU rettsakt**FN-regulativ*Tillatt støynivå[70/157/EØF](eu/31970l0157) som endret ved [2007/34/EF](eu/32007l0034)51.02Tillatt støynivå[(EU) nr. 540/2014](eu/32014r0540)51.03
+\* Nye grenseverdier innføres i faser og skjerpes i to trinn, avhengig av kjøretøykategori. Kjøretøykategorier, grenseverdier og datoer for ikrafttreden fremgår av vedlegg III til forordning [(EU) nr. 540/2014](eu/32014r0540).
+
+FN-regulativ som er alternative krav til rettsaktene i tabellen ovenfor.
+
+| *Emne* | *EU rettsakt* | *FN-regulativ* |
+| --- | --- | --- |
+| Tillatt støynivå | [70/157/EØF](eu/31970l0157) som endret ved [2007/34/EF](eu/32007l0034) | 51.02 |
+| Tillatt støynivå | [(EU) nr. 540/2014](eu/32014r0540) | 51.03 |
 
 ### G2 – Eksosutslipp fra kjøretøy i laboratorium
 
-Gjelder M1, M2, N1 og N2 med referansemasse inntil 2 610 kg. På fabrikantens begjæring kan forordning [(EF) nr. 715/2007](eu/32007r0715) også benyttes på kjøretøy med referansemasse inntil 2 840 kg.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 715/2007](eu/32007r0715)2*28.11.2027Forordning [(EU) 2024/1257](eu/32024r1257)229.11.2027
+Gjelder M1, M2, N1 og N2 med referansemasse inntil 2 610 kg. På fabrikantens begjæring kan forordning [(EF) nr. 715/2007](eu/32007r0715) også benyttes på kjøretøy med referansemasse inntil 2 840 kg.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 715/2007](eu/32007r0715)2 | \* | 28.11.2027 |
+| Forordning [(EU) 2024/1257](eu/32024r1257)2 | 29.11.2027 |  |
+
+\* Ikrafttredelsesdatoer og siste dato for registrering finnes i vedlegg I tillegg 6 tabell 1 til forordning [(EU) 2017/1151](eu/32017r1151) (WLTP), seneste endrede utgave.
 
 ### G2a – Bestemmelse av spesifikke CO2-utslipp og drivstofforbruk, og krav til forbruksmåler
 
-Gjelder for M1, M2, N1 og N2*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 715/2007](eu/32007r0715)2Forordning [(EU) 2024/1257](eu/32024r1257)2
+Gjelder for M1, M2, N1 og N2
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 715/2007](eu/32007r0715)2 |  |  |
+| Forordning [(EU) 2024/1257](eu/32024r1257)2 |  |  |
 
 ### G3 – Eksosutslipp fra motor i laboratorium
 
-Gjelder for M3 og N3. Gjelder også M1, M2, N1 og N2 med referansemasse over 2 610 kg som ikke er typegodkjent (på fabrikantens begjæring og forutsatt at referansemassen ikke overstiger 2 840 kg) etter forordning [(EF) nr. 715/2007](eu/32007r0715)*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 595/2009](eu/32009r0595)2*28.05.2029Forordning [(EU) 2024/1257](eu/32024r1257)229.05.2029
+Gjelder for M3 og N3. Gjelder også M1, M2, N1 og N2 med referansemasse over 2 610 kg som ikke er typegodkjent (på fabrikantens begjæring og forutsatt at referansemassen ikke overstiger 2 840 kg) etter forordning [(EF) nr. 715/2007](eu/32007r0715)
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 595/2009](eu/32009r0595)2 | \* | 28.05.2029 |
+| Forordning [(EU) 2024/1257](eu/32024r1257)2 | 29.05.2029 |  |
+
+\* Ikrafttredelsesdatoer og siste dato for registrering finnes i vedlegg I tillegg 9 tabell 1 til forordning [(EU) nr. 582/2011](eu/32011r0582), seneste endrede utgave.
 
 ### G3a – Bestemmelse av bilens spesifikke CO2-utslipp og drivstofforbruk
 
-Gjelder for M3, N2 og N3*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 595/2009](eu/32009r0595)2Forordning [(EU) 2024/1257](eu/32024r1257)2
+Gjelder for M3, N2 og N3
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 595/2009](eu/32009r0595)2 |  |  |
+| Forordning [(EU) 2024/1257](eu/32024r1257)2 |  |  |
 
 ### G3b – Bestemmelse av tilhengerens spesifikke energieffektivitet
 
-Gjelder for O3 og O4*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 595/2009](eu/32009r0595)2Forordning [(EU) 2024/1257](eu/32024r1257)2
+Gjelder for O3 og O4
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 595/2009](eu/32009r0595)2 |  |  |
+| Forordning [(EU) 2024/1257](eu/32024r1257)2 |  |  |
 
 ### G4 – Eksosutslipp på veien
 
-Gjelder for M og N*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 715/2007](eu/32007r0715)2 eller [(EF) nr. 595/2009](eu/32009r0595)2Forordning [(EU) 2024/1257](eu/32024r1257)2
+Gjelder for M og N
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 715/2007](eu/32007r0715)2 eller [(EF) nr. 595/2009](eu/32009r0595)2 |  |  |
+| Forordning [(EU) 2024/1257](eu/32024r1257)2 |  |  |
 
 ### G5 – Eksosutslippets holdbarhet
 
-Gjelder for M og N*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 715/2007](eu/32007r0715)2 eller [(EF) nr. 595/2009](eu/32009r0595)2Forordning [(EU) 2024/1257](eu/32024r1257)2
+Gjelder for M og N
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 715/2007](eu/32007r0715)2 eller [(EF) nr. 595/2009](eu/32009r0595)2 |  |  |
+| Forordning [(EU) 2024/1257](eu/32024r1257)2 |  |  |
 
 ### G6 – Utslipp av veivhusgasser
 
-Gjelder for M og N*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 715/2007](eu/32007r0715)2 eller [(EF) nr. 595/2009](eu/32009r0595)2Forordning [(EU) 2024/1257](eu/32024r1257)2
+Gjelder for M og N
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 715/2007](eu/32007r0715)2 eller [(EF) nr. 595/2009](eu/32009r0595)2 |  |  |
+| Forordning [(EU) 2024/1257](eu/32024r1257)2 |  |  |
 
 ### G7 – Fordampingsutslipp
 
-Gjelder for M1, M2, N1 og N2*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 715/2007](eu/32007r0715)2Forordning [(EU) 2024/1257](eu/32024r1257)2
+Gjelder for M1, M2, N1 og N2
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 715/2007](eu/32007r0715)2 |  |  |
+| Forordning [(EU) 2024/1257](eu/32024r1257)2 |  |  |
 
 ### G8 – Lavtemperatur eksosutslipp i laboratorium
 
-Gjelder for M1, M2, N1 og N2*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 715/2007](eu/32007r0715)2Forordning [(EU) 2024/1257](eu/32024r1257)2
+Gjelder for M1, M2, N1 og N2
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 715/2007](eu/32007r0715)2 |  |  |
+| Forordning [(EU) 2024/1257](eu/32024r1257)2 |  |  |
 
 ### G9 – Egendiagnosesystem (OBD)
 
-Gjelder for M og N*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 715/2007](eu/32007r0715)2 eller [(EF) nr. 595/2009](eu/32009r0595)2Forordning [(EU) 2024/1257](eu/32024r1257)2
+Gjelder for M og N
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 715/2007](eu/32007r0715)2 eller [(EF) nr. 595/2009](eu/32009r0595)2 |  |  |
+| Forordning [(EU) 2024/1257](eu/32024r1257)2 |  |  |
 
 ### G10 – Fravær av manipulasjonsinnretning
 
-Gjelder for M og N*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 715/2007](eu/32007r0715)2 eller [(EF) nr. 595/2009](eu/32009r0595)2Forordning [(EU) 2024/1257](eu/32024r1257)2
+Gjelder for M og N
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 715/2007](eu/32007r0715)2 eller [(EF) nr. 595/2009](eu/32009r0595)2 |  |  |
+| Forordning [(EU) 2024/1257](eu/32024r1257)2 |  |  |
 
 ### G11 – Hjelpestrategier for utslippsreduksjon
 
-Gjelder for M og N*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 715/2007](eu/32007r0715)2 eller [(EF) nr. 595/2009](eu/32009r0595)2Forordning [(EU) 2024/1257](eu/32024r1257)2
+Gjelder for M og N
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 715/2007](eu/32007r0715)2 eller [(EF) nr. 595/2009](eu/32009r0595)2 |  |  |
+| Forordning [(EU) 2024/1257](eu/32024r1257)2 |  |  |
 
 ### G12 – Innretning mot ulovlige inngrep
 
-Gjelder for M og N*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EF) nr. 715/2007](eu/32007r0715)2 eller [(EF) nr. 595/2009](eu/32009r0595)2Forordning [(EU) 2024/1257](eu/32024r1257)2
+Gjelder for M og N
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EF) nr. 715/2007](eu/32007r0715)2 eller [(EF) nr. 595/2009](eu/32009r0595)2 |  |  |
+| Forordning [(EU) 2024/1257](eu/32024r1257)2 |  |  |
 
 ### G13 – Gjenvinning
 
-Gjelder for M1 og N1, men er ikke obligatorisk ved enkeltgodkjenning.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[2005/64/EF](eu/32005l0064) som endret ved [2009/1/EF](eu/32009l0001)
+Gjelder for M1 og N1, men er ikke obligatorisk ved enkeltgodkjenning.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [2005/64/EF](eu/32005l0064) som endret ved [2009/1/EF](eu/32009l0001) |  |  |
 
 ### G14 – Klimaanlegg
 
-Gjelder for M1. Gjelder for N1, gruppe I, som vist i vedlegg I til forordning [(EF) nr. 715/2007](eu/32007r0715)*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[2006/40/EF](eu/32006l0040)
-[(EF) nr. 706/2007](eu/32007r0706)15.09.2012
+Gjelder for M1. Gjelder for N1, gruppe I, som vist i vedlegg I til forordning [(EF) nr. 715/2007](eu/32007r0715)
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [2006/40/EF](eu/32006l0040)<br>[(EF) nr. 706/2007](eu/32007r0706) | 15.09.2012 |  |
 
 ### H – Tilgang til kjøretøyinformasjon og programvareoppdatering
 
 ### H2 – Programvareoppdatering
 
-Gjelder for alle M, N og O som tillater programvareoppdatering.*Teknisk rettsakt (krav)**Obligatorisk nye kjøretøy**Brukes til og med*[(EU) 2018/858](eu/32018r0858) vedlegg IV nr. 5
-FN-reg. 156.0007.07.2029
+Gjelder for alle M, N og O som tillater programvareoppdatering.
+
+| *Teknisk rettsakt (krav)* | *Obligatorisk nye kjøretøy* | *Brukes til og med* |
+| --- | --- | --- |
+| [(EU) 2018/858](eu/32018r0858) vedlegg IV nr. 5<br>FN-reg. 156.00 | 07.07.2029 |  |
 
 ### Fotnoter til vedlegg 11 Gitt generelt unntak, MIME 15/209132-03, om utsatt ikrafttredelse til 1. november 2016 (+ ett år overgang med hjemmel i § 9 BF 2012)2 Overholdelse av punktene fra G2 til G12 er obligatorisk, men bare én typegodkjenning i henhold til enten forordning [(EF) nr. 715/2007](eu/32007r0715), forordning [(EF) nr. 595/2009](eu/32009r0595) eller forordning [(EU) 2024/1257](eu/32024r1257) forutsettes, avhengig av forordningens virkeområde.
 
 ## Vedlegg 2 – Tekniske krav og administrative bestemmelser for nasjonal småserietypegodkjenning for tilhenger i gruppe O1 og O2
+
+| *Kravområde* | *Basisrettsakt* | *Seneste endringsrettsakt eller gjennomføringsrettsakt (direktiv, forordning, regulativ)* | *Ikrafttredelse i Norge* | *Administrative bestemmelser* |
+| --- | --- | --- | --- | --- |
+| 3: Drivstofftanker/bakre verneinnretninger | Direktiv [70/221/EØF](eu/31970l0221) | Direktiv [2006/20/EF](eu/32006l0020) | 20.04.2007 | – Krav til drivstofftank, kun hvis drivstofftanken benyttes til fremdrift av det trekkende kjøretøy.<br>*Bakre verneinnretninger dokumenteres ved*<br>Enten:<br>– Dokumentasjon for typegodkjent innretning,<br>Eller:<br>– Erklæring om at egenprodusert komponent og/eller montering er i samsvar med krav, supplert med målsatt skisse eller målsatt fotografi som viser kravene.<br>– Husk blant annet kravet til bakkeklaring for når dette kravområdet er gjeldende for O1 og O2, (ikke under 55 cm). |
+| 3A: Forebygging av brannrisiko (drivstofftanker) | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 34.02 | 16.07.2003 | – Krav til drivstofftank kun hvis drivstofftank benyttes til fremdrift av det trekkende kjøretøy. |
+| 3B: Bakre verneinnretninger | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 58.02 | 11.07.2008 | *Dokumenteres ved*<br>Enten:<br>– Dokumentasjon for typegodkjent innretning,<br>Eller:<br>– Erklæring om at egenprodusert komponent og/eller montering er i samsvar med krav, supplert med målsatt skisse eller målsatt fotografi som viser kravene.<br>– Husk blant annet kravet til bakkeklaring for når dette kravområdet er gjeldende for O1 og O2, (ikke under 55 cm).<br>Eller:<br>– Ekstra bakre verneinnretning kreves ikke for O1 og O2 der mer enn halvparten av dekkenes bredde stikker utenfor karosseriet (ikke medregnet skjermer) eller rammen, og karosseriet ikke er smalere enn bredden mellom innsiden av hjulene minus 100 mm. (Originalt karosseri/bakre støtfanger tilfredsstiller kravene). Endring til FN-reg. 58 i kraft 26. juli 2012 som endrer kravet til bredde på karosseri som godtas som verneinnretning. Direktivet skal fases ut, og blir dermed ikke oppdatert slik at kravene i FN-reg. 58 er mest riktige å følge. |
+| 4: Bakre kjennemerke | Direktiv [70/222/EØF](eu/31970l0222) |  | 12.08.1993 | – Direktivets krav sier at monteringsflaten skal være 520 mm X 120 mm eller 340 mm X 240 mm. Midtmontert eller mot venstre. Min. 30 cm fra veibanen og max 200 cm over.<br>– Målkravene er så å si identiske med KF. |
+| 4A: Monteringssted for bakre kjennemerke | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 1003/2010](eu/32010r1003) | 15.09.2012 | Se ovenfor. |
+| 5: Styring | Direktiv [70/311/EØF](eu/31970l0311) | Direktiv [1999/7/EF](eu/31999l0007) | 27.11.1999 | – Kun krav hvis det er styrbare aksler. |
+| 5A: Styreinnretninger | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 79.01 | 14.08.1995 | Se punkt 5. |
+| 9: Bremser | Direktiv [71/320/EØF](eu/31971l0320) | Direktiv [2002/78/EF](eu/32002l0078) | 17.05.2003 | – Valgfritt på O1.<br>– Obligatorisk på O2.<br>– Krav hvis det er bremseanlegg (også på O1).<br>– Attest eller merking på komponenter. |
+| 9A: Bremser | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 13.11 | 11.07.2008 | Se punkt 9. |
+| 10: Radiostøy | Direktiv [72/245/EØF](eu/31972l0245) | Direktiv [2009/19/EF](eu/32009l0019) | 07.02.2013 |  |
+| 10A: Elektromagnetisk kompatibilitet | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 10.04 | 11.07.2008 |  |
+| 18: Fabrikasjonsplate | Direktiv [76/114/EØF](eu/31976l0114) | Direktiv [78/507/EØF](eu/31978l0507) | 04.10.1994 |  |
+| 18A: Understellsnummer (VIN) og fabrikasjonsplate | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Forordning [(EU) nr. 19/2011](eu/32011r0019) | Forordning [(EU) nr. 249/2012](eu/32012r0249) | 15.09.2012 |  |
+| 20: Lysmontering | Direktiv [76/756/EØF](eu/31976l0756) | Direktiv [2008/89/EF](eu/32008l0089) | 25.04.2009 | – Målsatt skisse eller målsatt fotografi over lysplassering. |
+| 20A: Lysmontering | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 48.05 | 30.01.2011 | Se punkt 20. |
+| 21: Refleks | Direktiv [76/757/EØF](eu/31976l0757) | Direktiv [97/29/EF](eu/31997l0029) | 28.08.1998 |  |
+| 21A: Refleks for bil og tilhengere | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 03.02 | 18.01.1998 |  |
+| 22: Markerings-, stopp-, bak- og kjørelys | Direktiv [76/758/EØF](eu/31976l0758) | Direktiv [97/30/EF](eu/31997l0030) | 26.06.1998 |  |
+| 22A: Markeringslys foran og bak, stopplys og toppmarkeringslys | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 07.02 | 02.02.2007 |  |
+| 22C: Sidemarkeringslys for bil og tilhengere | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 91.00 | 15.10.1993 |  |
+| 23: Retningslys | Direktiv [76/759/EØF](eu/31976l0759) | Direktiv [1999/15/EF](eu/31999l0015) | 27.11.1999 |  |
+| 23A: Retningslys for bil og tilhenger | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 06.01 | 11.07.2008 |  |
+| 24: Kjennemerkelys | Direktiv [76/760/EØF](eu/31976l0760) | Direktiv [97/31/EF](eu/31997l0031) | 26.06.1998 |  |
+| 24A: Kjennemerkelys | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 04.00 | 18.01.1998 |  |
+| 25B: Glødepære i godkjent lykt | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 37.03 | 01.06.1984 |  |
+| 28: Lykter for tåkelys bak | Direktiv [77/538/EØF](eu/31977l0538) | Direktiv [1999/14/EF](eu/31999l0014) | 27.11.1999 |  |
+| 28A: Tåkelys bak | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 38.00 | 05.05.1991 |  |
+| 29: Lykter for ryggelys | Direktiv [77/539/EØF](eu/31977l0539) | Direktiv [97/32/EF](eu/31997l0032) | 26.06.1998 |  |
+| 29A: Ryggelys | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 23.00 | 22.03.1977 |  |
+| 36: Varmeanlegg | Direktiv [2001/56/EF](eu/32001l0056) | Direktiv [2006/119/EF](eu/32006l0119) | 30.09.2007 |  |
+| 36A: Varmeanlegg | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 122.00 | 18.01.2006 |  |
+| 43: Innretninger mot vannsprut | Direktiv [91/226/EØF](eu/31991l0226) | Direktiv [2011/415/EF](eu/32011*0415) | 15.09.2012 | Enten:<br>– Dokumentasjon for typegodkjent innretning.<br>Eller:<br>– Erklæring om at egen løsning er i samsvar med krav, supplert med målsatt skisse eller målsatt fotografi som viser dette. |
+| 43A: Innretninger mot vannsprut | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 678/2011](eu/32011r0678) | 15.09.2012 | Se punkt 43 |
+| 45: Sikkerhetsglass | Direktiv [92/22/EØF](eu/31992l0022) | Direktiv [2001/92/EF](eu/32001l0092) | 01.06.2002 |  |
+| 45A: Sikkerhetsglass | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 43.01 | 28.10.2011 |  |
+| 46: Dekk | Direktiv [92/23/EØF](eu/31992l0023) | Direktiv [2005/11/EF](eu/32005l0011) | 31.12.2005 |  |
+| 46A: Montering av dekk | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 458/2011](eu/32011r0458) | 15.09.2012 |  |
+| 46B: Luftfylte dekk (klasse C1) | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 30.02 | 15.03.1981 |  |
+| 48: Masser og dimensjoner (utenom M1) | Direktiv [97/27/EF](eu/31997l0027) |  | 01.08.1998 |  |
+| 48A: Masser og dimensjoner | Forordning [(EU) nr. 1230/2012](eu/32012r1230) |  | 23.09.2014 | Alternativ til krav 48<br>Ved nasjonal småserietypegodkjenning er det ingen høydebegrensning. |
+| 50: Koblinger | Direktiv [94/20/EF](eu/31994l0020) |  | 01.06.1995 |  |
+| 50A: Mekaniske koblingsdeler | Forordning [(EF) nr. 661/2009](eu/32009r0661) | Forordning [(EU) nr. 407/2011](eu/32011r0407) | 15.09.2012 |  |
+|  | Regulativ | FN-reg. 55.01 | 16.09.2001 |  |
 
 ## Vedlegg 3 – Tempo 100-ordning
 
@@ -1436,53 +2080,307 @@ FN-reg. 156.0007.07.2029
 
 Minimumskravet til trekkende bils egenvekt med fører beregnes ved å dividere den laveste av de følgende vektene for tilhengeren med vektkvotienten i tabellen:Summen av tillatte akselvekterTillatt vekt for akselkombinasjonen/akselgruppenTillatt totalvekt.
 
+| *Utstyr på tilhenger* | *Utstyr på trekkende bil* | *Vektkvotient for campingvogn* | *Vektkvotient for øvrige tilhengere* |
+| --- | --- | --- | --- |
+| Tilhenger uten bremser, med eller uten hydrauliske støtdempere, og med eller uten stabiliseringsanordning. | Bil med eller uten stabilitetssystem. | 0,3 | 0,3 |
+| Tilhenger med bremser, men uten hydrauliske støtdempere, og med eller uten stabiliseringsanordning. | Bil med eller uten stabilitetssystem | 0,3 | 0,3 |
+| Tilhenger med bremser og hydrauliske støtdempere, men uten stabiliseringsanordning. | Bil uten stabilitetssystem | 0,8 | 1,1 |
+|  | Bil med stabilitetssystem | 1,0 | 1,2 |
+| Tilhenger med bremser, hydrauliske støtdempere og stabiliseringsanordning. | Bil med eller uten stabilitetssystem | 1,0 | 1,2 |
+
 ### Del B: Tempo 100-merke
 
 ## Vedlegg 4 – Alternative krav ved enkeltgodkjenning av N1
 
-Tabellen kan benyttes for kjøretøy som tilfredsstiller kravene for N2 og som ønskes klassifisert som N1. Tabellen kan benyttes både for kjøretøy som ikke tidligere er klassifisert, godkjent og registrert i Norge og for kjøretøy som er klassifisert, godkjent og registrert i Norge. Tabellen gir overgangsbestemmelser der det stilles andre eller lempeligere krav til N2 enn til N1, inkludert der hvor det ikke stilles krav til N2 for det aktuelle kravområdet. Tabellen kan også benyttes for kjøretøy som tilfredsstiller kravene i forskriften § 10b (FMVSS/CMVSS). (For kravområdene som er omtalt har FMVSS/CMVSS samme krav for alle kjøretøy med største totalvekt ≤ 4 536 kg.). For kravområder som ikke er omtalt i denne tabellen, anses kravene for N1 å være tilfredsstilt dersom kravene for N2 er tilfredsstilt. Kravområder som kreves for N2 men ikke N1 behøver ikke være tilfredsstilt.*Kravområde**Basisrettsakt**Alternative krav*6B: Dørlåser og døroppheng[EF 661/2009](eu/32009*0661) ECE 11Dører som på lukket bil gir adgang til førerplassen må kunne låses på en sikker måte. Dørlåsene skal være konstruert slik at utilsiktet åpning av dørene forhindres. Dører på sidene må ikke være hengslet i bakkant. For dobbeltdører gjelder dette for den dør som åpnes først; den andre døren skal kunne forbli uåpnet. Alternativt kan det dokumenteres at punkt 6.5.4. i ECE 11 er overholdt.13B: Beskyttelse mot uautorisert bruk[EF 661/2009](eu/32009*0661) ECE 116Motorvogn, herunder lukket to- eller trehjuls motorvogn, skal, foruten eventuell dørlås, ha fast montert enten tenningslås, girlås, rattlås eller annen fast montert låsinnretning med likeverdig sikkerhet, slik at uvedkommende hindres i å bruke motorvognen.14A: Førers beskyttelse mot styremekanismen[EF 661/2009](eu/32009*0661) ECE 12Lastebil gruppe N2 som er godkjent (og registrert) i Norge eller et annet EØS-land, kan omklassifiseres til N1 uten at det framlegges ytterligere dokumentasjon.
-Kjøretøy med største tekniske vekt over 3 500 kg som ikke tidligere er godkjent eller registrert i Norge eller et annet EØS-land og som tilfredsstiller kravene til N2, kan klassifiseres som N1 uten at det framlegges ytterligere dokumentasjon.44A: Masser og dimensjonerEF [661/2009 EU](eu/32009*0661) 1230/2012Ved omklassifisering fra N2 til N1 gjelder begrensningene for største tilhengervekt i vedlegg I del A nr. 3.1.54A: Beskyttelse av passasjerer ved kollisjon fra siden[EF 661/2009](eu/32009*0661) ECE 95Lastebil gruppe N2 som er godkjent (og registrert) i Norge eller et annet EØS-land, kan omklassifiseres til N2 uten at det framlegges ytterligere dokumentasjon.
-Kjøretøy med største tekniske vekt over 3 500 kg som ikke tidligere er godkjent eller registrert i Norge eller et annet EØS-land og som tilfredsstiller kravene til N2, kan klassifiseres som N1 uten at det framlegges ytterligere dokumentasjon.58: Fotgjengerbeskyttelse[EF 78/2009](eu/32009*0078)Lastebil gruppe N2 som er godkjent (og registrert) i Norge eller et annet EØS-land, kan omklassifiseres til N2 uten at det framlegges ytterligere dokumentasjon, likevel slik at kravene til fotgjengerbeskyttelse skal være tilfredsstilt for kjøretøy registrert eller tatt i bruk 24. august 2019 eller senere.
-Alle systemer til frontal beskyttelse, som er montert på kjøretøyet, skal tilfredsstille gjeldende krav for N1 i henhold til dato for registrering/ibruktaking av kjøretøyet.59: Gjenbruk/gjenvinning[2005/64/EF](eu/32005*0064)N/A61: Klimaanlegg[2006/40/EF](eu/32006*0040)Ingen ytterligere krav for kjøretøy som tilfredsstiller kravene for N265: Avansert nødbremsesystem[EF 661/2009](eu/32009*0661)Dersom slikt utstyr er montert, skal det tilfredsstille kravene i gjeldende rettsakter for N2. Eventuell utkobling skal skje i henhold til fabrikantens anvisninger.66: Kjørefeltvarsler[EF 661/2009](eu/32009*0661)Dersom slikt utstyr er montert, skal det tilfredsstille kravene i gjeldende rettsakter for N2. Eventuell utkobling skal skje i henhold til fabrikantens anvisninger.68: Alarmsystemer (VAS)[EF 661/2009](eu/32009*0661) ECE 97Ingen ytterligere krav for kjøretøy som tilfredsstiller kravene for N272: eCall system[EU 2015/758](eu/32015*0758)Ingen ytterligere krav for kjøretøy som tilfredsstiller kravene for N2
+Tabellen kan benyttes for kjøretøy som tilfredsstiller kravene for N2 og som ønskes klassifisert som N1. Tabellen kan benyttes både for kjøretøy som ikke tidligere er klassifisert, godkjent og registrert i Norge og for kjøretøy som er klassifisert, godkjent og registrert i Norge. Tabellen gir overgangsbestemmelser der det stilles andre eller lempeligere krav til N2 enn til N1, inkludert der hvor det ikke stilles krav til N2 for det aktuelle kravområdet. Tabellen kan også benyttes for kjøretøy som tilfredsstiller kravene i forskriften § 10b (FMVSS/CMVSS). (For kravområdene som er omtalt har FMVSS/CMVSS samme krav for alle kjøretøy med største totalvekt ≤ 4 536 kg.). For kravområder som ikke er omtalt i denne tabellen, anses kravene for N1 å være tilfredsstilt dersom kravene for N2 er tilfredsstilt. Kravområder som kreves for N2 men ikke N1 behøver ikke være tilfredsstilt.
+
+| *Kravområde* | *Basisrettsakt* | *Alternative krav* |
+| --- | --- | --- |
+| 6B: Dørlåser og døroppheng | [EF 661/2009](eu/32009*0661) ECE 11 | Dører som på lukket bil gir adgang til førerplassen må kunne låses på en sikker måte. Dørlåsene skal være konstruert slik at utilsiktet åpning av dørene forhindres. Dører på sidene må ikke være hengslet i bakkant. For dobbeltdører gjelder dette for den dør som åpnes først; den andre døren skal kunne forbli uåpnet. Alternativt kan det dokumenteres at punkt 6.5.4. i ECE 11 er overholdt. |
+| 13B: Beskyttelse mot uautorisert bruk | [EF 661/2009](eu/32009*0661) ECE 116 | Motorvogn, herunder lukket to- eller trehjuls motorvogn, skal, foruten eventuell dørlås, ha fast montert enten tenningslås, girlås, rattlås eller annen fast montert låsinnretning med likeverdig sikkerhet, slik at uvedkommende hindres i å bruke motorvognen. |
+| 14A: Førers beskyttelse mot styremekanismen | [EF 661/2009](eu/32009*0661) ECE 12 | Lastebil gruppe N2 som er godkjent (og registrert) i Norge eller et annet EØS-land, kan omklassifiseres til N1 uten at det framlegges ytterligere dokumentasjon.<br>Kjøretøy med største tekniske vekt over 3 500 kg som ikke tidligere er godkjent eller registrert i Norge eller et annet EØS-land og som tilfredsstiller kravene til N2, kan klassifiseres som N1 uten at det framlegges ytterligere dokumentasjon. |
+| 44A: Masser og dimensjoner | EF [661/2009 EU](eu/32009*0661) 1230/2012 | Ved omklassifisering fra N2 til N1 gjelder begrensningene for største tilhengervekt i vedlegg I del A nr. 3.1. |
+| 54A: Beskyttelse av passasjerer ved kollisjon fra siden | [EF 661/2009](eu/32009*0661) ECE 95 | Lastebil gruppe N2 som er godkjent (og registrert) i Norge eller et annet EØS-land, kan omklassifiseres til N2 uten at det framlegges ytterligere dokumentasjon.<br>Kjøretøy med største tekniske vekt over 3 500 kg som ikke tidligere er godkjent eller registrert i Norge eller et annet EØS-land og som tilfredsstiller kravene til N2, kan klassifiseres som N1 uten at det framlegges ytterligere dokumentasjon. |
+| 58: Fotgjengerbeskyttelse | [EF 78/2009](eu/32009*0078) | Lastebil gruppe N2 som er godkjent (og registrert) i Norge eller et annet EØS-land, kan omklassifiseres til N2 uten at det framlegges ytterligere dokumentasjon, likevel slik at kravene til fotgjengerbeskyttelse skal være tilfredsstilt for kjøretøy registrert eller tatt i bruk 24. august 2019 eller senere.<br>Alle systemer til frontal beskyttelse, som er montert på kjøretøyet, skal tilfredsstille gjeldende krav for N1 i henhold til dato for registrering/ibruktaking av kjøretøyet. |
+| 59: Gjenbruk/gjenvinning | [2005/64/EF](eu/32005*0064) | N/A |
+| 61: Klimaanlegg | [2006/40/EF](eu/32006*0040) | Ingen ytterligere krav for kjøretøy som tilfredsstiller kravene for N2 |
+| 65: Avansert nødbremsesystem | [EF 661/2009](eu/32009*0661) | Dersom slikt utstyr er montert, skal det tilfredsstille kravene i gjeldende rettsakter for N2. Eventuell utkobling skal skje i henhold til fabrikantens anvisninger. |
+| 66: Kjørefeltvarsler | [EF 661/2009](eu/32009*0661) | Dersom slikt utstyr er montert, skal det tilfredsstille kravene i gjeldende rettsakter for N2. Eventuell utkobling skal skje i henhold til fabrikantens anvisninger. |
+| 68: Alarmsystemer (VAS) | [EF 661/2009](eu/32009*0661) ECE 97 | Ingen ytterligere krav for kjøretøy som tilfredsstiller kravene for N2 |
+| 72: eCall system | [EU 2015/758](eu/32015*0758) | Ingen ytterligere krav for kjøretøy som tilfredsstiller kravene for N2 |
 
 ## Vedlegg 5 – EU-rettsakter tatt inn i forskriften
 
-> Endret ved forskrifter [30 sep 2022 nr. 1773](forskrift/2022-09-30-1773) (i kraft 1 okt 2022, tidligere vedlegg 1), [23 aug 2023 nr. 1353](forskrift/2023-08-23-1353), [20 mars 2024 nr. 510](forskrift/2024-03-20-510), [10 des 2024 nr. 3034](forskrift/2024-12-10-3034) (i kraft 12 des 2024), [29 jan 2025 nr. 105](forskrift/2025-01-29-105) (i kraft 1 feb 2025), [3 april 2025 nr. 615](forskrift/2025-04-03-615) (i kraft 7 april 2025), [10 okt 2025 nr. 2022](forskrift/2025-10-10-2022) (i kraft 16 okt 2025), [24 mars 2026 nr. 472](forskrift/2026-03-24-472) (i kraft 15 april 2026).
+> Endret ved forskrifter [30 sep 2022 nr. 1773](forskrift/2022-09-30-1773) (i kraft 1 okt 2022, tidligere vedlegg 1), [23 aug 2023 nr. 1353](forskrift/2023-08-23-1353), [20 mars 2024 nr. 510](forskrift/2024-03-20-510), [10 des 2024 nr. 3034](forskrift/2024-12-10-3034) (i kraft 12 des 2024), [29 jan 2025 nr. 105](forskrift/2025-01-29-105) (i kraft 1 feb 2025), [3 april 2025 nr. 615](forskrift/2025-04-03-615) (i kraft 7 april 2025), [10 okt 2025 nr. 2022](forskrift/2025-10-10-2022) (i kraft 16 okt 2025), [24 mars 2026 nr. 472](forskrift/2026-03-24-472) (i kraft 15 april 2026). **Endres** ved forskrift [6 juli 2026 nr. 1512](forskrift/2026-07-06-1512) (i kraft 10 juli 2026).
 
 De endringsrettsakter til listen over rettsakter i forordning [(EU) 2018/858](eu/32018r0858) vedlegg II med senere endringer, som framgår av kolonne 3 i tabellen nedenfor, gjelder som norsk rett.
 
 ### A – Belter og barnesikring, kollisjonstesting, sikkerhet til drivstoffsystem og elektrisk sikkerhet
 
-*Punkt**Emne**Basisrettsakt**M1**M2**M3**N1**N2**N3**O1**O2**O3**O4**Separat teknisk enhet**Komponent*A1Innvendig utformingForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 21XA2Seter og hodestøtterForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 17XXXXXXXXXXA3Buss-seterForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 80XXXA4BilbeltefesterForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 14XXXXXXA5Bilbelter og sikringsutstyrForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 16XXXXXXXXXXXXA6BilbeltevarslereForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 16XXXXXXA7Skillevegg for M1Forordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 126XA8BarnesikringsfesterForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 145XX1X1X1X1X1A9BarnesikringsutstyrForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 44X1X1X1X1X1X1XXA10Forbedret barnesikringsutstyrForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 129XXXXXXXXA11Underkjøringshinder foranForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 93XXXXA12Underkjøringshinder bakForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 58XXXXXXXXXXXXA13SidevernForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 73XXXXA14Drivstofftankers sikkerhetForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 34X1X1X1X1X1X1X1X1X1X1X1A15LPG-sikkerhet 2Forordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 67X1X1X1X1X1X1X1A16CNG- og LNG-sikkerhetForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 110X1X1X1X1X1X1X1A17HydrogensikkerhetForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 134X1X1X1X1X1X1X1A18Hydrogensystem materialsikkerhetForordning [(EU) 2019/2144](eu/32019r2144)[EU 2021/535](eu/32021r0535), XIVX1X1X1X1X1X1X1A19El-sikkerhet under brukForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 100X1X1X1X1X1X1X1A20Frontkollisjon, delvisForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 94XXA21Frontkollisjon, fullbreddeForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 137XXA22Kollisjonssikret styreinnretningForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 12XXXA23ErstatningsairbagForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 114XXXA24Førerhusets styrkeForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 29XXXA25SidekollisjonForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 95XXA26Sidekollisjon mot stolperForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 135XXA27Kollisjon bakfraForordning [(EU) 2019/2144](eu/32019r2144)FN-reg 153XXA28eCall systemForordning [(EU) 2015/758](eu/32015r0758)XXXX
+| *Punkt* | *Emne* | *Basisrettsakt* | *M1* | *M2* | *M3* | *N1* | *N2* | *N3* | *O1* | *O2* | *O3* | *O4* | *Separat teknisk enhet* | *Komponent* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A1 | Innvendig utforming | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 21 | X |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| A2 | Seter og hodestøtter | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 17 | X | X | X | X | X | X | X | X | X | X |  |  |  |  |
+| A3 | Buss-seter | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 80 |  | X | X |  |  |  |  |  |  |  |  | X |  |  |
+| A4 | Bilbeltefester | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 14 | X | X | X | X | X | X |  |  |  |  |  |  |  |  |
+| A5 | Bilbelter og sikringsutstyr | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 16 | X | X | X | X | X | X | X | X | X | X | X | X |  |  |
+| A6 | Bilbeltevarslere | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 16 | X | X | X | X | X | X |  |  |  |  |  |  |  |  |
+| A7 | Skillevegg for M1 | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 126 |  |  |  |  |  |  |  |  |  |  | X |  |  |  |
+| A8 | Barnesikringsfester | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 145 | X | X1 | X1 | X1 | X1 | X1 |  |  |  |  |  |  |  |  |
+| A9 | Barnesikringsutstyr | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 44 | X1 | X1 | X1 | X1 | X1 | X1 |  |  |  |  | X | X |  |  |
+| A10 | Forbedret barnesikringsutstyr | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 129 | X | X | X | X | X | X |  |  |  |  | X | X |  |  |
+| A11 | Underkjøringshinder foran | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 93 |  |  |  |  | X | X |  |  |  |  | X | X |  |  |
+| A12 | Underkjøringshinder bak | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 58 | X | X | X | X | X | X | X | X | X | X | X | X |  |  |
+| A13 | Sidevern | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 73 |  |  |  |  | X | X |  |  | X | X |  |  |  |  |
+| A14 | Drivstofftankers sikkerhet | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 34 | X1 | X1 | X1 | X1 | X1 | X1 | X1 | X1 | X1 | X1 | X1 |  |  |  |
+| A15 | LPG-sikkerhet 2 | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 67 | X1 | X1 | X1 | X1 | X1 | X1 |  |  |  |  |  | X1 |  |  |
+| A16 | CNG- og LNG-sikkerhet | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 110 | X1 | X1 | X1 | X1 | X1 | X1 |  |  |  |  |  | X1 |  |  |
+| A17 | Hydrogensikkerhet | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 134 | X1 | X1 | X1 | X1 | X1 | X1 |  |  |  |  |  | X1 |  |  |
+| A18 | Hydrogensystem materialsikkerhet | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [EU 2021/535](eu/32021r0535), XIV | X1 | X1 | X1 | X1 | X1 | X1 |  |  |  |  |  | X1 |  |  |
+| A19 | El-sikkerhet under bruk | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 100 | X1 | X1 | X1 | X1 | X1 | X1 |  |  |  |  |  | X1 |  |  |
+| A20 | Frontkollisjon, delvis | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 94 | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| A21 | Frontkollisjon, fullbredde | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 137 | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| A22 | Kollisjonssikret styreinnretning | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 12 | X |  |  | X |  |  |  |  |  |  | X |  |  |  |
+| A23 | Erstatningsairbag | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 114 | X |  |  | X |  |  |  |  |  |  | X |  |  |  |
+| A24 | Førerhusets styrke | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 29 |  |  |  | X | X | X |  |  |  |  |  |  |  |  |
+| A25 | Sidekollisjon | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 95 | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| A26 | Sidekollisjon mot stolper | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 135 | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| A27 | Kollisjon bakfra | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg 153 | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| A28 | eCall system | Forordning [(EU) 2015/758](eu/32015r0758) | X |  |  | X |  |  |  |  |  |  | X | X |
 
 ### B – Myke trafikanter, synsfelt og sikt
 
-*Punkt**Emne**Basisrettsakt**M1**M2**M3**N1**N2**N3**O1**O2**O3**O4**Separat teknisk enhet**Komponent*B1Beskyttelse av fotgjengerens bein og hodeForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 127XXB2Utvidet beskyttelses-område for hodestøtForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 127XXB3FontalbeskyttelsessystemForordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/535](eu/32021r0535), XIIXXB4Avansert nødbremsing for fotgjengere og syklisterForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 152XXB5Advarsel om kollisjon med fotgjengere og syklisterForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 159XXXXXB6System for informasjon om blindsonerForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 151XXXXXB7RyggeassistentForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 158XXXXXXXB8Synsfelt forover for lette kjøretøyForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 125XXB9Direkte sikt for tunge kjøretøyForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 167XXXXB10SikkerhetsglassForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 43XXXXXXXXXXXB11Avising/avduggingForordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/535](eu/32021r0535), VIXXXXXXB12Vindusvisker/ vindusspylerForordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/535](eu/32021r0535), IVXXXXXXXB13Innretninger for indirekte siktForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 46XXXXXXXB14Akustisk kjøretøyvarslingssystem (AVAS)Forordning [(EU) nr. 540/2014](eu/32014r0540)XXXXXX
+| *Punkt* | *Emne* | *Basisrettsakt* | *M1* | *M2* | *M3* | *N1* | *N2* | *N3* | *O1* | *O2* | *O3* | *O4* | *Separat teknisk enhet* | *Komponent* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| B1 | Beskyttelse av fotgjengerens bein og hode | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 127 | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| B2 | Utvidet beskyttelses-område for hodestøt | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 127 | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| B3 | Fontalbeskyttelsessystem | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/535](eu/32021r0535), XII | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| B4 | Avansert nødbremsing for fotgjengere og syklister | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 152 | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| B5 | Advarsel om kollisjon med fotgjengere og syklister | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 159 |  | X | X |  | X | X |  |  |  |  | X |  |  |  |
+| B6 | System for informasjon om blindsoner | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 151 |  | X | X |  | X | X |  |  |  |  | X |  |  |  |
+| B7 | Ryggeassistent | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 158 | X | X | X | X | X | X |  |  |  |  | X |  |  |  |
+| B8 | Synsfelt forover for lette kjøretøy | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 125 | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| B9 | Direkte sikt for tunge kjøretøy | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 167 |  | X | X |  | X | X |  |  |  |  |  |  |  |  |
+| B10 | Sikkerhetsglass | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 43 | X | X | X | X | X | X | X | X | X | X |  | X |  |  |
+| B11 | Avising/avdugging | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/535](eu/32021r0535), VI | X | X | X | X | X | X |  |  |  |  |  |  |  |  |
+| B12 | Vindusvisker/ vindusspyler | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/535](eu/32021r0535), IV | X | X | X | X | X | X |  |  |  |  | X |  |  |  |
+| B13 | Innretninger for indirekte sikt | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 46 | X | X | X | X | X | X |  |  |  |  |  | X |  |  |
+| B14 | Akustisk kjøretøyvarslingssystem (AVAS) | Forordning [(EU) nr. 540/2014](eu/32014r0540) | X | X | X | X | X | X |  |  |  |  |  |  |
 
 ### CO2 – Chassis, bremser, dekk og styring
 
-*Punkt**Emne**Basisrettsakt**M1**M2**M3**N1**N2**N3**O1**O2**O3**O4**Separat teknisk enhet**Komponent*C1StyreinnretningForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 79XXXXXXXXXXC2Kjørefeltvarsler (LDWS)Forordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 130XXXXC3Kjørefeltassistent for nødstilfeller (ELKS)Forordning [(EU) 2019/2144](eu/32019r2144)[EU 2021/646](eu/32021r0646)XXC4BremserForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 13, 13HXXXXXXXXXXC5Utskiftning av bremsedelerForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 90XC6BremseassisteringForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 139XXC7StabilitetskontrollForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 13, 140XXXXXXXXXXC8Avansert nødbremsesystem i tunge kjøretøy (AEBS)Forordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 131XXXXC9Avansert nødbremsesystem i lette kjøretøyForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 152XXC10Dekk, sikkerhet og miljøprestasjonForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 30, 54, 117XXXXXXXXXXXC11Reservehjul og systemer for sikkerhetsdekkForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 64X1X1C12Regummierte dekkForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 108 og 109XC13Overvåking av dekktrykk i lette kjøretøyForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 141XXC14Overvåking av dekktrykk i tunge kjøretøyForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 141XXXXXXC15DekkmonteringForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 142XXXXXXXXXXC16ErstatningsfelgerForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 124X
+| *Punkt* | *Emne* | *Basisrettsakt* | *M1* | *M2* | *M3* | *N1* | *N2* | *N3* | *O1* | *O2* | *O3* | *O4* | *Separat teknisk enhet* | *Komponent* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| C1 | Styreinnretning | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 79 | X | X | X | X | X | X | X | X | X | X |  |  |  |  |
+| C2 | Kjørefeltvarsler (LDWS) | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 130 |  | X | X |  | X | X |  |  |  |  |  |  |  |  |
+| C3 | Kjørefeltassistent for nødstilfeller (ELKS) | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [EU 2021/646](eu/32021r0646) | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| C4 | Bremser | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 13, 13H | X | X | X | X | X | X | X | X | X | X |  |  |  |  |
+| C5 | Utskiftning av bremsedeler | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 90 |  |  |  |  |  |  |  |  |  |  | X |  |  |  |
+| C6 | Bremseassistering | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 139 | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| C7 | Stabilitetskontroll | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 13, 140 | X | X | X | X | X | X | X | X | X | X |  |  |  |  |
+| C8 | Avansert nødbremsesystem i tunge kjøretøy (AEBS) | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 131 |  | X | X |  | X | X |  |  |  |  |  |  |  |  |
+| C9 | Avansert nødbremsesystem i lette kjøretøy | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 152 | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| C10 | Dekk, sikkerhet og miljøprestasjon | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 30, 54, 117 | X | X | X | X | X | X | X | X | X | X |  | X |  |  |
+| C11 | Reservehjul og systemer for sikkerhetsdekk | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 64 | X1 |  |  | X1 |  |  |  |  |  |  |  |  |  |  |
+| C12 | Regummierte dekk | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 108 og 109 |  |  |  |  |  |  |  |  |  |  |  | X |  |  |
+| C13 | Overvåking av dekktrykk i lette kjøretøy | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 141 | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| C14 | Overvåking av dekktrykk i tunge kjøretøy | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 141 |  | X | X |  | X | X |  |  | X | X |  |  |  |  |
+| C15 | Dekkmontering | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 142 | X | X | X | X | X | X | X | X | X | X |  |  |  |  |
+| C16 | Erstatningsfelger | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 124 |  |  |  |  |  |  |  |  |  |  |  | X |  |  |
 
 ### D – Instrumentering, elektrisk system, belysning, og beskyttelse mot uatorisert bruk, inkludert cyberangrep
 
-*Punkt**Emne**Basisrettsakt**M1**M2**M3**N1**N2**N3**O1**O2**O3**O4**Separat teknisk enhet**Komponent*D1SignalhornForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 28XXXXXXXD2Radiostøy (elektromagnetisk kompatibilitet)Forordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 10XXXXXXXXXXXXD3Beskyttelse mot uautorisert bruk, startsperre og alarmsystemerForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 18, 97, 116, 161, 162, 163XX1X1X1X1X1XXD4Beskyttelse av kjøretøyer mot cyberangrepForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 155XXXXXXXXD5HastighetsmålerForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 39XXXXXXD6KilometertellerForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 39XXXXXXD7HastighetsbegrensereForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 89XXXXXD8Intelligente fartstilpasningssystemer (ISA)Forordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/1958](eu/32021r1958)XXXXXXXD9Merking av betjeningsinnretninger, kontrollinnretninger og indikatorerForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 121XXXXXXD10VarmeanleggForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 122XXXXXXXXXXXD11LyssignalinnretningerForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 4,6, 7, 19, 23, 38, 77, 87, 91, 148XD12Innretninger for belysning av veienForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 31, 98, 112, 119, 123, 149XD13Lysreflekterende innretningerForordning [(EU) 2019/2144](eu/32019r2144)FN-reg 3, 104, 150XD14LyskilderForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 37, 99, 128XD15Montering av lyssignalinnretninger, innretninger for belysning av veien og lysreflekterende innretningerForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 48XXXXXXXXXXD16NødbremsesignalForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 48XXXXXXD17Innretning for rengjøring av frontlykterForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 45X1X1X1X1X1X1XD18GearskiftindikatorForordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/535](eu/32021r0535), IXX
+| *Punkt* | *Emne* | *Basisrettsakt* | *M1* | *M2* | *M3* | *N1* | *N2* | *N3* | *O1* | *O2* | *O3* | *O4* | *Separat teknisk enhet* | *Komponent* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| D1 | Signalhorn | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 28 | X | X | X | X | X | X |  |  |  |  |  | X |  |  |
+| D2 | Radiostøy (elektromagnetisk kompatibilitet) | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 10 | X | X | X | X | X | X | X | X | X | X | X | X |  |  |
+| D3 | Beskyttelse mot uautorisert bruk, startsperre og alarmsystemer | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 18, 97, 116, 161, 162, 163 | X | X1 | X1 | X1 | X1 | X1 |  |  |  |  | X | X |  |  |
+| D4 | Beskyttelse av kjøretøyer mot cyberangrep | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 155 | X | X | X | X | X | X |  |  |  |  | X | X |  |  |
+| D5 | Hastighetsmåler | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 39 | X | X | X | X | X | X |  |  |  |  |  |  |  |  |
+| D6 | Kilometerteller | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 39 | X | X | X | X | X | X |  |  |  |  |  |  |  |  |
+| D7 | Hastighetsbegrensere | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 89 |  | X | X |  | X | X |  |  |  |  |  | X |  |  |
+| D8 | Intelligente fartstilpasningssystemer (ISA) | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/1958](eu/32021r1958) | X | X | X | X | X | X |  |  |  |  | X |  |  |  |
+| D9 | Merking av betjeningsinnretninger, kontrollinnretninger og indikatorer | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 121 | X | X | X | X | X | X |  |  |  |  |  |  |  |  |
+| D10 | Varmeanlegg | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 122 | X | X | X | X | X | X | X | X | X | X |  | X |  |  |
+| D11 | Lyssignalinnretninger | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 4,6, 7, 19, 23, 38, 77, 87, 91, 148 |  |  |  |  |  |  |  |  |  |  |  | X |  |  |
+| D12 | Innretninger for belysning av veien | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 31, 98, 112, 119, 123, 149 |  |  |  |  |  |  |  |  |  |  |  | X |  |  |
+| D13 | Lysreflekterende innretninger | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg 3, 104, 150 |  |  |  |  |  |  |  |  |  |  |  | X |  |  |
+| D14 | Lyskilder | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 37, 99, 128 |  |  |  |  |  |  |  |  |  |  |  | X |  |  |
+| D15 | Montering av lyssignalinnretninger, innretninger for belysning av veien og lysreflekterende innretninger | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 48 | X | X | X | X | X | X | X | X | X | X |  |  |  |  |
+| D16 | Nødbremsesignal | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 48 | X | X | X | X | X | X |  |  |  |  |  |  |  |  |
+| D17 | Innretning for rengjøring av frontlykter | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 45 | X1 | X1 | X1 | X1 | X1 | X1 |  |  |  |  |  | X |  |  |
+| D18 | Gearskiftindikator | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/535](eu/32021r0535), IX | X |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ### E – Fører- og systemfunksjon
 
-*Punkt**Emne**Basisrettsakt**M1**M2**M3**N1**N2**N3**O1**O2**O3**O4**Separat teknisk enhet**Komponent*E1Grensesnitt for ettermontering av alkolåsForordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/1243](eu/32021r1243)XXXXXXE2Tretthets- og oppmerksomhetsvarselForordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/1341](eu/32021r1341)XXXXXXE3Avansert distraksjonsvarselForordning [(EU) 2019/2144](eu/32019r2144)Ennå ikke vedtatt teknisk regelverkXXXXXXE4System for overvåkning av førertilgjengelighetForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 157XXXXXXE5Hendelses­datalogger (kollisjons­dataopptaker)Forordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2022/545](eu/32022r0545) og FN-reg. 160XXX[(EU) 2024/2220](eu/32024r2220) og FN-reg. 169XXXXXE6Systemer, som overtar førerens kontrollForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 157
-
-Forordning [(EU) 2022/1426](eu/32022r1426) (for helautomatiserte kjøretøy)X2X2X2X2X2X2E7Systemer som gir kjøretøyet informasjon om kjøretøyets tilstand og området rundtForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 157
-
-Forordning [(EU) 2022/1426](eu/32022r1426) (for helautomatiserte kjøretøy)X2X2X2X2X2X2E8Automatisert kolonnekjøring (Platooning)Forordning [(EU) 2019/2144](eu/32019r2144)Ennå ikke vedtatt teknisk regelverkX1X1X1X1E9Systemer som gir sikkerhetsinformasjon til andre trafikanterForordning [(EU) 2019/2144](eu/32019r2144)Ennå ikke vedtatt teknisk regelverkX2X2X2X2X2X2E10Systemer for å assistere fører i å utføre dynamisk kontrollForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 171IFIFIFIFIFIFE11Automatisk parkeringForordning [(EU) 2019/2144](eu/32019r2144)Forordning [(EU) 2022/1426](eu/32022r1426), VIFIFIFIFIFIF
+| *Punkt* | *Emne* | *Basisrettsakt* | *M1* | *M2* | *M3* | *N1* | *N2* | *N3* | *O1* | *O2* | *O3* | *O4* | *Separat teknisk enhet* | *Komponent* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| E1 | Grensesnitt for ettermontering av alkolås | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/1243](eu/32021r1243) | X | X | X | X | X | X |  |  |  |  |  |  |  |  |
+| E2 | Tretthets- og oppmerksomhetsvarsel | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/1341](eu/32021r1341) | X | X | X | X | X | X |  |  |  |  |  |  |  |  |
+| E3 | Avansert distraksjonsvarsel | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ennå ikke vedtatt teknisk regelverk | X | X | X | X | X | X |  |  |  |  |  |  |  |  |
+| E4 | System for overvåkning av førertilgjengelighet | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 157 | X | X | X | X | X | X |  |  |  |  |  |  |  |  |
+| E5 | Hendelses­datalogger (kollisjons­dataopptaker) | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2022/545](eu/32022r0545) og FN-reg. 160 | X |  |  | X |  |  |  |  |  |  | X |  |  |  |
+| [(EU) 2024/2220](eu/32024r2220) og FN-reg. 169 |  | X | X |  | X | X |  |  |  |  | X |  |  |  |
+| E6 | Systemer, som overtar førerens kontroll | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 157<br><br>Forordning [(EU) 2022/1426](eu/32022r1426) (for helautomatiserte kjøretøy) | X2 | X2 | X2 | X2 | X2 | X2 |  |  |  |  |  |  |  |  |
+| E7 | Systemer som gir kjøretøyet informasjon om kjøretøyets tilstand og området rundt | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 157<br><br>Forordning [(EU) 2022/1426](eu/32022r1426) (for helautomatiserte kjøretøy) | X2 | X2 | X2 | X2 | X2 | X2 |  |  |  |  |  |  |  |  |
+| E8 | Automatisert kolonnekjøring (Platooning) | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ennå ikke vedtatt teknisk regelverk |  | X1 | X1 |  | X1 | X1 |  |  |  |  |  |  |  |  |
+| E9 | Systemer som gir sikkerhetsinformasjon til andre trafikanter | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ennå ikke vedtatt teknisk regelverk | X2 | X2 | X2 | X2 | X2 | X2 |  |  |  |  |  |  |  |  |
+| E10 | Systemer for å assistere fører i å utføre dynamisk kontroll | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 171 |  | IF | IF | IF | IF | IF | IF |  |  |  |  |  |  |  |
+| E11 | Automatisk parkering | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| Forordning [(EU) 2022/1426](eu/32022r1426), V |  | IF | IF | IF | IF | IF | IF |  |  |  |  |  |  |  |
 
 ### Forordning (EU) nr. – Generell kjøretøykonstruksjon og -egenskaper
 
-*Punkt**Emne**Basisrettsakt**M1**M2**M3**N1**N2**N3**O1**O2**O3**O4**Separat teknisk enhet**Komponent*F1Monteringssted for kjennemerkerForordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/535](eu/32021r0535), IIIXXXXXXXXXXF2RyggefunksjonForordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/535](eu/32021r0535), XIXXXXXXF3Dørlåser og dørhengslerForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 11XXF4Innstigningstrinn, håndtak og stigbrettForordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/535](eu/32021r0535), XXXXXF5Utvendig utstikkende delerForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 26XF6Utvendig utstikkende deler på førerhus i nyttekjøretøyForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 61XXXF7Understellsnummer og fabrikasjonsplateForordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/535](eu/32021r0535), IIXXXXXXXXXXF8SlepeinnretningerForordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/535](eu/32021r0535), VIIXXXXXXF9HjulavskjermingForordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/535](eu/32021r0535), VXF10Innretninger mot vannsprutForordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/535](eu/32021r0535), VIIIXXXXXXXXF11Masser og dimensionerForordning [(EU) 2019/2144](eu/32019r2144)[(EU) 2021/535](eu/32021r0535), XIIIXXXXXXXXXXF12Mekaniske koblingsdelerForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 55, 102X1X1X1X1X1X1XXXXXXF13Kjøretøy beregnet på transport av farlig gods 2Forordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 105X1X1X1X1X1X1X1F14Generell busskonstruksjonForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 107XXF15Overbygningens styrke på busserForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 66XXF16Brannegenskaper innvendig i busserForordning [(EU) 2019/2144](eu/32019r2144)FN-reg. 118XX
+| *Punkt* | *Emne* | *Basisrettsakt* | *M1* | *M2* | *M3* | *N1* | *N2* | *N3* | *O1* | *O2* | *O3* | *O4* | *Separat teknisk enhet* | *Komponent* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| F1 | Monteringssted for kjennemerker | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/535](eu/32021r0535), III | X | X | X | X | X | X | X | X | X | X |  |  |  |  |
+| F2 | Ryggefunksjon | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/535](eu/32021r0535), XI | X | X | X | X | X | X |  |  |  |  |  |  |  |  |
+| F3 | Dørlåser og dørhengsler | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 11 | X |  |  | X |  |  |  |  |  |  |  |  |  |  |
+| F4 | Innstigningstrinn, håndtak og stigbrett | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/535](eu/32021r0535), X | X |  |  | X | X | X |  |  |  |  |  |  |  |  |
+| F5 | Utvendig utstikkende deler | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 26 | X |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| F6 | Utvendig utstikkende deler på førerhus i nyttekjøretøy | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 61 |  |  |  | X | X | X |  |  |  |  |  |  |  |  |
+| F7 | Understellsnummer og fabrikasjonsplate | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/535](eu/32021r0535), II | X | X | X | X | X | X | X | X | X | X |  |  |  |  |
+| F8 | Slepeinnretninger | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/535](eu/32021r0535), VII | X | X | X | X | X | X |  |  |  |  |  |  |  |  |
+| F9 | Hjulavskjerming | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/535](eu/32021r0535), V | X |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| F10 | Innretninger mot vannsprut | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/535](eu/32021r0535), VIII |  |  |  | X | X | X | X | X | X | X | X |  |  |  |
+| F11 | Masser og dimensioner | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| [(EU) 2021/535](eu/32021r0535), XIII | X | X | X | X | X | X | X | X | X | X |  |  |  |  |
+| F12 | Mekaniske koblingsdeler | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 55, 102 | X1 | X1 | X1 | X1 | X1 | X1 | X | X | X | X | X | X |  |  |
+| F13 | Kjøretøy beregnet på transport av farlig gods 2 | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 105 |  |  |  | X1 | X1 | X1 | X1 | X1 | X1 | X1 |  |  |  |  |
+| F14 | Generell busskonstruksjon | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 107 |  | X | X |  |  |  |  |  |  |  |  |  |  |  |
+| F15 | Overbygningens styrke på busser | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 66 |  | X | X |  |  |  |  |  |  |  |  |  |  |  |
+| F16 | Brannegenskaper innvendig i busser | Forordning [(EU) 2019/2144](eu/32019r2144) |  |  |  |  |  |  |  |  |  |  |  |  |
+| FN-reg. 118 |  |  | X |  |  |  |  |  |  |  |  | X |  |  |
 
 ### G – Miljøegenskaper og utslipp
 
-*Punkt**Emne**Basisrettsakt**M1**M2**M3**N1**N2**N3**O1**O2**O3**O4**Separat teknisk enhet**Komponent*G1StøynivåForordning [(EU) nr. 540/2014](eu/32014r0540)XXXXXXXG2Eksosutslipp fra kjøretøy i laboratoriumForordning [(EU) 2024/1257](eu/32024r1257)3XXXXXG2aBestemmelse av spesifikke CO2-utslipp og drivstofforbruk, og krav til forbruksmålerForordning [(EU) 2024/1257](eu/32024r1257)3XXXXXG3Eksosutslipp fra motor i laboratoriumForordning [(EU) 2024/1257](eu/32024r1257)3XXXXXXXG3aBestemmelse av bilens spesifikke CO2-utslipp og drivstofforbrukForordning [(EU) 2024/1257](eu/32024r1257)3XXXG3bBestemmelse av tilhengerens spesifikke energieffektivitetForordning [(EU) 2024/1257](eu/32024r1257)3XXG4Eksosutslipp på veienForordning [(EU) 2024/1257](eu/32024r1257)3XXXXXXXG5Eksosutslippets holdbarhetForordning [(EU) 2024/1257](eu/32024r1257)3XXXXXXXG6Utslipp fra veivhusgasserForordning [(EU) 2024/1257](eu/32024r1257)3XXXXXXXG7FordampningsutslippForordning [(EU) 2024/1257](eu/32024r1257)3XXXXG8Lavtemperatur eksosutslipp i laboratoriumForordning [(EU) 2024/1257](eu/32024r1257)3XXXXG9Egendiagnosesystem (OBD)Forordning [(EU) 2024/1257](eu/32024r1257)3XXXXXXXG10Fravær av manipulasjonsanordningForordning [(EU) 2024/1257](eu/32024r1257)3XXXXXXXG11Hjelpestrategier for utslippsreduksjonForordning [(EU) 2024/1257](eu/32024r1257)3XXXXXXXG12Innretning mot ulovlige inngrepForordning [(EU) 2024/1257](eu/32024r1257)3XXXXXXG13GjenvinningDirektiv [2005/64/EF](eu/32005l0064)XXG14KlimaanleggDirektiv [2006/40/EF](eu/32006l0040)XXX
+| *Punkt* | *Emne* | *Basisrettsakt* | *M1* | *M2* | *M3* | *N1* | *N2* | *N3* | *O1* | *O2* | *O3* | *O4* | *Separat teknisk enhet* | *Komponent* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| G1 | Støynivå | Forordning [(EU) nr. 540/2014](eu/32014r0540) | X | X | X | X | X | X |  |  |  |  | X |  |
+| G2 | Eksosutslipp fra kjøretøy i laboratorium | Forordning [(EU) 2024/1257](eu/32024r1257)3 | X | X |  | X | X |  |  |  |  |  |  | X |
+| G2a | Bestemmelse av spesifikke CO2-utslipp og drivstofforbruk, og krav til forbruksmåler | Forordning [(EU) 2024/1257](eu/32024r1257)3 | X | X |  | X | X |  |  |  |  |  |  | X |
+| G3 | Eksosutslipp fra motor i laboratorium | Forordning [(EU) 2024/1257](eu/32024r1257)3 | X | X | X | X | X | X |  |  |  |  | X |  |
+| G3a | Bestemmelse av bilens spesifikke CO2-utslipp og drivstofforbruk | Forordning [(EU) 2024/1257](eu/32024r1257)3 |  |  | X |  | X | X |  |  |  |  |  |  |
+| G3b | Bestemmelse av tilhengerens spesifikke energieffektivitet | Forordning [(EU) 2024/1257](eu/32024r1257)3 |  |  |  |  |  |  |  |  | X | X |  |  |
+| G4 | Eksosutslipp på veien | Forordning [(EU) 2024/1257](eu/32024r1257)3 | X | X | X | X | X | X |  |  |  |  | X |  |
+| G5 | Eksosutslippets holdbarhet | Forordning [(EU) 2024/1257](eu/32024r1257)3 | X | X | X | X | X | X |  |  |  |  | X |  |
+| G6 | Utslipp fra veivhusgasser | Forordning [(EU) 2024/1257](eu/32024r1257)3 | X | X | X | X | X | X |  |  |  |  | X |  |
+| G7 | Fordampningsutslipp | Forordning [(EU) 2024/1257](eu/32024r1257)3 | X | X |  | X | X |  |  |  |  |  |  |  |
+| G8 | Lavtemperatur eksosutslipp i laboratorium | Forordning [(EU) 2024/1257](eu/32024r1257)3 | X | X |  | X | X |  |  |  |  |  |  |  |
+| G9 | Egendiagnosesystem (OBD) | Forordning [(EU) 2024/1257](eu/32024r1257)3 | X | X | X | X | X | X |  |  |  |  | X |  |
+| G10 | Fravær av manipulasjonsanordning | Forordning [(EU) 2024/1257](eu/32024r1257)3 | X | X | X | X | X | X |  |  |  |  | X |  |
+| G11 | Hjelpestrategier for utslippsreduksjon | Forordning [(EU) 2024/1257](eu/32024r1257)3 | X | X | X | X | X | X |  |  |  |  | X |  |
+| G12 | Innretning mot ulovlige inngrep | Forordning [(EU) 2024/1257](eu/32024r1257)3 | X | X | X | X | X | X |  |  |  |  |  |  |
+| G13 | Gjenvinning | Direktiv [2005/64/EF](eu/32005l0064) | X |  |  | X |  |  |  |  |  |  |  |  |
+| G14 | Klimaanlegg | Direktiv [2006/40/EF](eu/32006l0040) | X |  |  | X |  |  |  |  |  |  |  | X |
 
 ### H – Tilgang til kjøretøyinformasjon og programvareoppdatering
 
-*Punkt**Emne**Basisrettsakt**M1**M2**M3**N1**N2**N3**O1**O2**O3**O4**Separat teknisk enhet**Komponent*H1Tilgang til kjøretøyets OBD, og opplysninger om reparasjon og vedlikeholdForordning [(EU) 2018/858](eu/32018r0858), artikkel 61–66 og vedlegg X.XXXXXXXXXXH2ProgramvareoppdateringForordning [(EU) 2018/858](eu/32018r0858), vedlegg IV, FN-reg. 156XXXXXXXXXX
+| *Punkt* | *Emne* | *Basisrettsakt* | *M1* | *M2* | *M3* | *N1* | *N2* | *N3* | *O1* | *O2* | *O3* | *O4* | *Separat teknisk enhet* | *Komponent* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| H1 | Tilgang til kjøretøyets OBD, og opplysninger om reparasjon og vedlikehold | Forordning [(EU) 2018/858](eu/32018r0858), artikkel 61–66 og vedlegg X. | X | X | X | X | X | X | X | X | X | X |  |  |
+| H2 | Programvareoppdatering | Forordning [(EU) 2018/858](eu/32018r0858), vedlegg IV, FN-reg. 156 | X | X | X | X | X | X | X | X | X | X |  |  |
+
+1 Gjelder kun dersom slikt utstyr/enhet/system Gjelder kun dersom slikt utstyr/enhet/system finnes i eller er montert i kjøretøyet.
+
+2 Gjelder for automatiserte kjøretøy.
+
+3 Forordning [(EF) nr. 715/2007](eu/32007r0715) er likevel gyldig til 1. juli 2030 og forordning [(EF) nr. 595/2009](eu/32009r0595) er likevel gyldig til 1. juli 2031.
