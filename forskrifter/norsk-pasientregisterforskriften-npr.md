@@ -10,12 +10,12 @@ ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2009-04-15"
 last_change_in_force: "2026-07-01"
-last_updated: "2021-06-15"
-xml_hash: "3438a2796439bd663bbfe5c70e81cf1560dd9ecbad17d4791fa47dcd99fa9276"
+last_updated: "2026-07-08"
+xml_hash: "b59648939c8557e08c580d52dd2d256ad3daba140d46b1e6d02f5dc6176ebdca"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-09T07:34:50.708170+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -72,8 +72,12 @@ Med avidentifiserte opplysninger forstås i denne forskriften helseopplysninger 
 
 Når det er relevant og nødvendig for å fremme registerets hovedformål skal følgende opplysninger om personer nevnt i [§ 1-5](forskrift/2007-12-07-1389/§1-5) registreres i Norsk pasientregister uten samtykke fra den opplysningen gjelder:
 
+personopplysninger:
+
 1. fødselsnummer eller annet entydig identifikasjonsnummer
 2. bosted.
+
+administrative opplysninger:
 
 1. om henvisning
 2. om behandlende institusjon
@@ -82,6 +86,8 @@ Når det er relevant og nødvendig for å fremme registerets hovedformål skal f
 5. om dødstidspunkt
 6. samtykkeadministrative opplysninger for sykdoms- og kvalitetsregistre.
 
+medisinske opplysninger:
+
 1. fagområde
 2. diagnose/diagnosekoder
 3. behandling/prosedyrekoder
@@ -89,6 +95,8 @@ Når det er relevant og nødvendig for å fremme registerets hovedformål skal f
 5. takst
 6. opplysninger om bruk av tvang
 7. rusbruk.
+
+sosiale opplysninger:
 
 1. boligforhold
 2. omsorgssituasjon.
@@ -177,7 +185,7 @@ Sammenstilling med sykdoms- og kvalitetsregistre skal ikke føre til at Norsk pa
 
 Eventuell kontakt med pasienter ved etablering av sykdoms- eller kvalitetsregistre skal ikke gjøres av Norsk pasientregister. Slik eventuell førstegangskontakt skal gjøres av behandlende institusjon. Dersom et sykdoms- eller kvalitetsregister eller annen institusjon skal kunne ta førstegangskontakt, kreves det dispensasjon fra taushetsplikten jf. [helsepersonelloven § 29e](lov/1999-07-02-64/§29e).
 
-> Endret ved [forskrifter 15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018), [23 april 2021 nr. 1269](forskrift/2021-04-23-1269) som endret ved forskrift [12 mai 2021 nr. 1902](forskrift/2021-05-12-1902) (i kraft 1 juni 2021, tidligere § 3-7), [19 juni 2026 nr. 1242](forskrift/2026-06-19-1242) (i kraft 1 juli 2026, endringen utført i tredje ledd tredje punktum og ikke andre punktum i påvente av protokolltilførsel fra Statsministerens kontor, Lovdatas anm.).
+> Endret ved [forskrifter 15 juni 2018 nr. 876](forskrift/2018-06-15-876) (i kraft 20 juli 2018), [23 april 2021 nr. 1269](forskrift/2021-04-23-1269) som endret ved forskrift [12 mai 2021 nr. 1902](forskrift/2021-05-12-1902) (i kraft 1 juni 2021, tidligere § 3-7), [19 juni 2026 nr. 1242](forskrift/2026-06-19-1242) (i kraft 1 juli 2026).
 
 ### § 3-6. Informasjonsstrategi rettet mot brukergrupper
 
@@ -289,6 +297,8 @@ Den dataansvarlige og databehandleren skal erstatte skade som er oppstått som f
 
 Forskriften trer i kraft fra den tid departementet bestemmer.1
 
+1 I kraft 15 april 2009, jf. [vedtak 14 april 2009 nr. 408](forskrift/2009-04-14-408).
+
 ### § 7-4. Endringer i andre forskrifter
 
 Fra forskriftens ikrafttredelse gjøres følgende endringer i andre forskrifter: – – –
@@ -398,6 +408,8 @@ Bestemmelsen fastslår at Helsedirektoratet som databehandlingsansvarlig for Nor
 Det kan foretas en nærmere kvalitetskontroll av opplysninger i Norsk pasientregister gjennom at registeret gis anledning til å sammenlikne innsendte opplysninger med innsenders dokumentasjon. Dette kan for eksempel være pasientjournal, sykepleierapporter eller liknende. Slik kvalitetskontroll kan gjøres av Norsk pasientregister gjennom kompetent helsepersonell som arbeider under registerets instruksjonsmyndighet, jf. [helseregisterloven § 13](lov/2014-06-20-43/§13). Kvalitetskontroll etter andre ledd kan bare skje hos innsender av opplysningene (sykehuset), hvilket innebærer at opplysninger fra kildedokumentet (pasientjournal eller lignende) ikke skal sendes til registeret. Kvalitetskontroll etter andre ledd skal meldes til Datatilsynet etter [helseregisterloven § 29](lov/2014-06-20-43/§29).
 
 Tredje ledd i forskriften fastslår at dersom meldingsskjema er mangelfullt utfylt, skal avsenderen av skjema varsles. Bestemmelsen er en presisering av [helseregisterloven § 9](lov/2014-06-20-43/§9) andre ledd andre punktum. Mangelfullt utfylt skjema omfatter også ikke-utfylt skjema. Ved fortsatt mangelfull utfylling av skjema kan Fylkesmannen varsles. Dersom det må gjøres gjentatte purringer (mer enn to), anses dette å være fortsatt mangelfull utfylling av skjema.
+
+*Til [kapittel 3](forskrift/2007-12-07-1389/kap3) om behandling av helseopplysninger i Norsk pasientregister*
 
 [Kapittel](forskrift/2007-12-07-1389/kap2) 2 gir bestemmelser om Norsk pasientregisters behandling av opplysninger i forbindelse med innsamling, kvalitetskontroll mv., mens [kapittel 3](forskrift/2007-12-07-1389/kap3) gir regler om videre behandling, herunder tilrettelegging, sammenstilling og utlevering av opplysningene i registeret.
 
@@ -534,6 +546,8 @@ Vi har i dag enkelte sykdoms- og kvalitetsregistre som gir informasjon om foreko
 Det er en uttrykt målsetning, blant annet i Nasjonal helseplan for 2007–2010 (St.prp.nr.1 (2006–2007)) at det skal etableres nasjonale medisinske kvalitetsregistre innenfor de fleste medisinske fagområder. Videre er det fra ulike miljøer fremmet forslag om etablering av nye sykdomsregistre, for eksempel et register for hjerte-karsykdommer som er en av de største folkesykdommene.
 
 Norsk pasientregister er i [Ot.prp.nr.49 (2005–2006)](forarbeid/otprp-49-200506) tillagt en rolle ved etablering og kvalitetssikring av ulike sykdoms- og kvalitetsregistre, blant annet for å gjøre det mindre ressurskrevende å etablere registre, og for å legge til rette for bedre datakvalitet. Det vises til proposisjonens punkt 5.5. som blant annet fremhever at
+
+«Sykdoms- og kvalitetsregistre kan ha stor betydning for å sikre pasienter behandling av god kvalitet og utvikle effektive forebyggende tiltak. Norsk pasientregister vil ikke inneholde tilstrekkelig med informasjon til alene å gi grunnlag for økt kunnskap om behandlingsresultater og -kvalitet (...).Norsk pasientregister kan imidlertid, dersom det blir personidentifiserbart, bli et godt virkemiddel både for kvalitetsforbedring og etablering av kvalitetsregistre gjennom at opplysningene kan benyttes til forskning og som datagrunnlag for kvalitetsregistre.»
 
 Første ledd gir Norsk pasientregister adgang til å utlevere personidentifiserbare opplysninger til sykdoms- og kvalitetsregistre for etablering og kvalitetssikring av opplysninger i et sykdoms- eller kvalitetsregister. Det er bare registre som har hjemmel (enten i konsesjon eller i forskrift) for å motta opplysninger fra Norsk pasientregister, som kan benytte Norsk pasientregister som datagrunnlag.
 
