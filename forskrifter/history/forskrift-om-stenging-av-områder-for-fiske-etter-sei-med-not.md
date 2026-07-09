@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not — Change history
 
-_9 events; doc_id `sf-20260409-0579`._
+_10 events; doc_id `sf-20260409-0579`._
+
+## 2026-07-09 — Content updated
+Lines: +15 -7.
+Subject: `update(forskrift): forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not`
+Commit: `a538af2`.
 
 ## 2026-06-24 — Content updated
 Lines: +18 -6.
@@ -32,13 +44,13 @@ Lines: +18 -12.
 Subject: `update(forskrift): forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not`
 Commit: `b194fa2`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20260409-0579.md` → `"forskrifter/forskrift-om-stenging-av-omr\303\245der-for-fiske-etter-sei-med-not.md"`.
+Renamed: `forskrifter/sf-20260409-0579.md` → `forskrifter/forskrift-om-stenging-av-områder-for-fiske-etter-sei-med-not.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

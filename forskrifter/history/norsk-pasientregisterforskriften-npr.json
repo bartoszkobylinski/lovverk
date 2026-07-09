@@ -2,6 +2,16 @@
   "doc_id": "sf-20071207-1389",
   "events": [
     {
+      "commit": "7add53a",
+      "date": "2026-07-09",
+      "from_path": null,
+      "lines_added": 18,
+      "lines_removed": 4,
+      "subject": "update(forskrift): norsk-pasientregisterforskriften-npr",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,
@@ -29,7 +39,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",

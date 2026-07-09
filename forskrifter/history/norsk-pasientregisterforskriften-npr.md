@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "norsk-pasientregisterforskriften-npr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # norsk-pasientregisterforskriften-npr — Change history
 
-_5 events; doc_id `sf-20071207-1389`._
+_6 events; doc_id `sf-20071207-1389`._
+
+## 2026-07-09 — Content updated
+Lines: +18 -4.
+Subject: `update(forskrift): norsk-pasientregisterforskriften-npr`
+Commit: `7add53a`.
 
 ## 2026-07-01 — Content updated
 Lines: +5 -5.
@@ -12,7 +24,7 @@ Lines: +3 -3.
 Subject: `update(forskrift): norsk-pasientregisterforskriften-npr`
 Commit: `07a8407`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

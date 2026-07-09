@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "bilforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bilforskriften — Change history
 
-_5 events; doc_id `sf-20220628-1233`._
+_6 events; doc_id `sf-20220628-1233`._
+
+## 2026-07-09 — Content updated
+Lines: +1044 -146.
+Subject: `update(forskrift): bilforskriften`
+Commit: `ad9b732`.
 
 ## 2026-06-08 — Content updated
 Lines: +7 -9.
@@ -12,7 +24,7 @@ Lines: +6 -2.
 Subject: `update(forskrift): bilforskriften`
 Commit: `565602a`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

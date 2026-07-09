@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5147 current documents_
+_5148 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1261,6 +1261,7 @@ _5147 current documents_
 - [elsam-forskriften](elsam-forskriften.md) — Forskrift om elektronisk kommunikasjon med domstolene
 - [endr-delegering-etter-sjøfartsloven](endr-delegering-etter-sjøfartsloven.md) — Endring vedrørende delegering av myndighet etter sjøfartsloven (kjenningssignal – fiskerifartøyer).
 - [endr-i-aktivitetsforskriften](endr-i-aktivitetsforskriften.md) — Forskrift om endring i forskrift om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)
+- [endr-i-bilforskriften](endr-i-bilforskriften.md) — Forskrift om endring i forskrift om godkjenning av bil og tilhenger til bil
 - [endr-i-blåreseptforskriften](endr-i-blåreseptforskriften.md) — Forskrift om endring i forskrift om stønad til dekning av utgifter til viktige legemidler mv. (blåreseptforskriften)
 - [endr-i-delvis-ikrafts-av-lov-2005-101](endr-i-delvis-ikrafts-av-lov-2005-101.md) — Vedtak om endring i delvis ikraftsetting av lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova)
 - [endr-i-departementsstruktur-og-ansvarsfordeling](endr-i-departementsstruktur-og-ansvarsfordeling.md) — Endring i departementsstrukturen og i ansvarsfordelingen mellom departementene

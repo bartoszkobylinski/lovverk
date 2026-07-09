@@ -1,6 +1,23 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet — Change history
 
-_2 events; doc_id `sf-20240619-1221`._
+_4 events; doc_id `sf-20240619-1221`._
+
+## 2026-07-09 — Content updated
+Lines: +28 -10.
+Subject: `update(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet`
+Commit: `f560e12`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20240619-1221.md` → `forskrifter/forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet.md`.
