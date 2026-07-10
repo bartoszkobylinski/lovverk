@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-04-15"
-last_change_in_force: "2026-07-06"
+last_change_in_force: "2026-07-07"
 last_updated: null
-xml_hash: "85ca8a2add37d7e6aef1ec794ce66165ab34ea3eb5ef0955e971cf202f272b06"
+xml_hash: "9599b9e2012768f0042533156a439b9cc96b8dc03cba7840ff38d6f3afd3b544"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-09T07:34:50.708170+00:00"
+retrieved_at: "2026-07-10T07:32:26.015051+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -45,7 +45,9 @@ Det er forbudt å fiske etter sei med not i et område på Runningen i Finnmark 
 
 ## § 6. Sværholt, Porsanger og Laksefjorden i Finnmark
 
-Det er forbudt å fiske etter sei med not i et område på Sværholt, Porsanger og Laksefjorden i Finnmark avgrenset av rette linjer mellom følgende posisjoner:Nord 71 grader 10,300 minutter   Øst 025 grader 47,000 minutterNord 71 grader 12,300 minutter   Øst 026 grader 50,500 minutterNord 71 grader 08,000 minutter   Øst 027 grader 39,450 minutterNord 70 grader 54,600 minutter   Øst 025 grader 41,100 minutterNord 70 grader 56,500 minutter   Øst 025 grader 41,300 minutter.Mellom posisjon 3 og 4 og mellom 5 og 1 følger grensen sjølinjen.
+Det er forbudt å fiske etter sei med not i et område på «Sværholt, Porsanger og Laksefjorden i Finnmark», avgrenset av rette linjer mellom følgende posisjoner:Nord 71 grader 07,000 minutter   Øst 026 grader 03,300 minutterNord 71 grader 07,000 minutter   Øst 026 grader 16,000 minutterNord 71 grader 11,200 minutter   Øst 026 grader 16,000 minutterNord 71 grader 12,300 minutter   Øst 026 grader 50,500 minutterNord 71 grader 08,000 minutter   Øst 027 grader 39,450 minutterNord 70 grader 54,600 minutter   Øst 025 grader 41,100 minutterNord 70 grader 56,500 minutter   Øst 025 grader 41,300 minutter.Mellom posisjon 5 og 6 og mellom 7 og 1 følger grensen sjølinjen.
+
+> Endret ved forskrift [7 juli 2026 nr. 1528](forskrift/2026-07-07-1528).
 
 ## § 7. Hasvik i Finnmark
 
