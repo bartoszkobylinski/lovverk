@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2020-04-15"
 last_change_in_force: "2026-04-24"
 last_updated: null
-xml_hash: "e0a9e5bbecff0919800c0ce517327c0cad722865378501577d928d8e6c183f04"
+xml_hash: "14722f9e811adc5da70834155a7151de4b01d67cf25b1a004b0a4d509b0a2d3d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-30T06:43:29.855289+00:00"
+retrieved_at: "2026-07-10T07:32:26.015051+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -406,7 +406,16 @@ Dette gjelder likevel ikke forlærlinger, praksisbrevkandidater, lærekandidater
 
 ### § 50. Utstyrsstipend
 
-En søker har rett til et stipend per studieår til individuelt utstyr som er nødvendig i opplæringen. Lærlinger, lærekandidater, praksisbrevkandidater og kandidater for fagbrev på jobb har ikke rett til stipendet. En søknad gir rett til følgende stipend i studieåret 2026–2027 til følgende utdanningsprogram og programområder:*1 427 kr**2 685 kr**4 331 kr**5 883 kr**7 353 kr*Studiespesialisering og påbygging til generell studiekompetanseHelse- og oppvekstfagStudiespesialisering med toppidrettIdrettsfagRestaurant- og matfagMedier og kommunikasjonNaturbruk, programområdene landbruk og studieforberedende for Vg3Elektro og datateknologiMusikk, dans og drama, programområde dansHåndverk, design og produktutviklingMusikk, dans og drama, unntatt programområde dansKunst, design og arkitekturFrisør, blomster, interiør og eksponeringsdesign, unntatt programområde frisørBygg- og anleggsteknikkSalg, service og reiselivTeknologi og industrifag, unntatt programområde kjemiprosess- og laboratoriefagFrisør, blomster, interiør og eksponeringsdesign, programområde frisørInformasjonsteknologi og medieproduksjonNaturbruk, unntatt programområdene landbruk og studieforberedende for Vg3Teknologi- og industrifag, programområde kjemiprosess- og laboratoriefag
+En søker har rett til et stipend per studieår til individuelt utstyr som er nødvendig i opplæringen. Lærlinger, lærekandidater, praksisbrevkandidater og kandidater for fagbrev på jobb har ikke rett til stipendet. En søknad gir rett til følgende stipend i studieåret 2026–2027 til følgende utdanningsprogram og programområder:
+
+| *1 427 kr* | *2 685 kr* | *4 331 kr* | *5 883 kr* | *7 353 kr* |
+| --- | --- | --- | --- | --- |
+| Studiespesialisering og påbygging til generell studiekompetanse | Helse- og oppvekstfag | Studiespesialisering med toppidrett | Idrettsfag | Restaurant- og matfag |
+| Medier og kommunikasjon | Naturbruk, programområdene landbruk og studieforberedende for Vg3 | Elektro og datateknologi | Musikk, dans og drama, programområde dans | Håndverk, design og produktutvikling |
+| Musikk, dans og drama, unntatt programområde dans | Kunst, design og arkitektur | Frisør, blomster, interiør og eksponeringsdesign, unntatt programområde frisør |  | Bygg- og anleggsteknikk |
+|  | Salg, service og reiseliv | Teknologi og industrifag, unntatt programområde kjemiprosess- og laboratoriefag |  | Frisør, blomster, interiør og eksponeringsdesign, programområde frisør |
+|  | Informasjonsteknologi og medieproduksjon |  |  | Naturbruk, unntatt programområdene landbruk og studieforberedende for Vg3 |
+|  | Teknologi- og industrifag, programområde kjemiprosess- og laboratoriefag |  |  |  |
 
 Søkere som tar hele den videregående opplæringen i utlandet, har rett til stipend etter laveste sats. Søkere som tar deler av den videregående opplæringen i utlandet, har rett til stipend etter samme sats som for utdanningsprogrammet eller programområdet søkeren tar i Norge.
 
@@ -442,7 +451,27 @@ En søker fra en familie med svak økonomi kan få stipend som et bidrag til å 
 
 Tabellene under viser satser per måned for inntektsavhengig stipend for studieåret 2026–2027, avhengig av forsørgernes inntekt og antall barn i søkerens familie. Inntekten som blir lagt til grunn er personinntekt og netto positiv kapitalinntekt ved fastsettingen av formues- og inntektsskatt for 2024. Inntekt i utlandet eller på Svalbard, som ikke er med i fastsettingen, skal også regnes med.
 
-Inntekten til forsørgeren økes med 61 359 kr for studieåret 2026–2027 dersom forsørgeren har ektefelle eller samboer som ikke er søkerens forsørger. En separert person regnes ikke som ektefelle i denne bestemmelsen. Med samboere menes par som lever i et ekteskapslignende forhold i en felles husholdning, og som har levd slik i minst 12 av de siste 18 månedene.*Tabell A: Inntektsgrense for forsørgere som bor sammen, og forsørger som er alene om forsørgeransvaret**Antall barn:**Satser:**Kr 4071**Kr 2714**Kr 1356*10–341 033 kr341 034–413 564 kr413 565–486 095 kr20–420 961 kr420 962–493 492 kr493 493–566 023 kr30–500 889 kr500 890–573 420 kr573 421–645 951 kr4 eller flere0–580 817 kr580 818–653 348 kr653 349–725 879 kr *Tabell B: Inntektsgrense for to forsørgere som ikke bor sammen**Antall barn:**Satser:**Kr 4071**Kr 2714**Kr 1356*10–511 551 kr511 552–584 082 kr584 083–656 613 kr20–591 479 kr591 480–664 010 kr664 011–736 541 kr30–671 407 kr671 408–743 938 kr743 939–816 469 kr4 eller flere0–751 335 kr751 336–823 866 kr823 867–896 397 kr
+Inntekten til forsørgeren økes med 61 359 kr for studieåret 2026–2027 dersom forsørgeren har ektefelle eller samboer som ikke er søkerens forsørger. En separert person regnes ikke som ektefelle i denne bestemmelsen. Med samboere menes par som lever i et ekteskapslignende forhold i en felles husholdning, og som har levd slik i minst 12 av de siste 18 månedene.
+
+*Tabell A: Inntektsgrense for forsørgere som bor sammen, og forsørger som er alene om forsørgeransvaret*
+
+| *Antall barn:* | *Satser:* |  |  |
+| --- | --- | --- | --- |
+| *Kr 4071* | *Kr 2714* | *Kr 1356* |  |
+| 1 | 0–341 033 kr | 341 034–413 564 kr | 413 565–486 095 kr |
+| 2 | 0–420 961 kr | 420 962–493 492 kr | 493 493–566 023 kr |
+| 3 | 0–500 889 kr | 500 890–573 420 kr | 573 421–645 951 kr |
+| 4 eller flere | 0–580 817 kr | 580 818–653 348 kr | 653 349–725 879 kr |
+
+*Tabell B: Inntektsgrense for to forsørgere som ikke bor sammen*
+
+| *Antall barn:* | *Satser:* |  |  |
+| --- | --- | --- | --- |
+| *Kr 4071* | *Kr 2714* | *Kr 1356* |  |
+| 1 | 0–511 551 kr | 511 552–584 082 kr | 584 083–656 613 kr |
+| 2 | 0–591 479 kr | 591 480–664 010 kr | 664 011–736 541 kr |
+| 3 | 0–671 407 kr | 671 408–743 938 kr | 743 939–816 469 kr |
+| 4 eller flere | 0–751 335 kr | 751 336–823 866 kr | 823 867–896 397 kr |
 
 Stipendet blir redusert hvis søkeren får lønn som lærling, praksisbrevkandidat, lærekandidat eller kandidat for fagbrev på jobb eller trygde- og pensjonsytelser i den perioden søkeren får lån og stipend. 60 prosent av bruttobeløpet trekkes fra stipendet. Dersom inntekten varierer, blir gjennomsnittlig månedsinntekt per semester lagt til grunn.
 
@@ -500,7 +529,13 @@ Stipendet blir ikke gjort om til lån etter [§ 103](forskrift/2020-04-15-798/§
 
 ### § 62. Antall år med flyktningstipend
 
-En søker har rett til flyktningstipend i inntil 3 år, innenfor en periode på 6 år etter datoen beskyttelsen ble innvilget. Innenfor denne perioden gis stipendet med varighet etter denne tabellen:*Tidspunktet utdanningen startet**Varighet av flyktningstipendet*Innen 3 år etter innvilget beskyttelse3 årInnen 4 år etter innvilget beskyttelse2 årInnen 5 år etter innvilget beskyttelse1 år
+En søker har rett til flyktningstipend i inntil 3 år, innenfor en periode på 6 år etter datoen beskyttelsen ble innvilget. Innenfor denne perioden gis stipendet med varighet etter denne tabellen:
+
+| *Tidspunktet utdanningen startet* | *Varighet av flyktningstipendet* |
+| --- | --- |
+| Innen 3 år etter innvilget beskyttelse | 3 år |
+| Innen 4 år etter innvilget beskyttelse | 2 år |
+| Innen 5 år etter innvilget beskyttelse | 1 år |
 
 Søkeren har rett til flyktningstipend i inntil 3 år, innenfor en periode på 8 år etter datoen beskyttelsen ble innvilget, når søkeren oppfyller ett av følgende vilkår:Søkeren har barn eller får barn i løpet av den tiden flyktningstipendet normalt kan gis. Søkeren skal begynne på utdanningen før barnet er fylt 10 år.Søkeren tar forberedende opplæring for voksne.
 
@@ -508,7 +543,13 @@ Søkeren har rett til flyktningstipend i inntil 3 år, innenfor en periode på 8
 
 ### § 63. Stipend til reiser i Norge
 
-En søker som ikke bor sammen med en av eller begge foreldrene, har rett til et stipend til dekning av utgifter til 3 reiser tur-retur per studieår mellom foreldrehjemmet og skolen i Norge. Søkeren skal selv dekke en egenandel som i studieåret 2026–2027 er 1 472 kr.*Avstand mellom foreldrehjemmet og skolen**Sats i studieåret 2026–2027*Inntil 300 kilometer2,26 kr per kilometerFra og med 300 til og med 1 500 kilometer1,25 kr per kilometerOver 1 500 kilometer0,45 kr per kilometer
+En søker som ikke bor sammen med en av eller begge foreldrene, har rett til et stipend til dekning av utgifter til 3 reiser tur-retur per studieår mellom foreldrehjemmet og skolen i Norge. Søkeren skal selv dekke en egenandel som i studieåret 2026–2027 er 1 472 kr.
+
+| *Avstand mellom foreldrehjemmet og skolen* | *Sats i studieåret 2026–2027* |
+| --- | --- |
+| Inntil 300 kilometer | 2,26 kr per kilometer |
+| Fra og med 300 til og med 1 500 kilometer | 1,25 kr per kilometer |
+| Over 1 500 kilometer | 0,45 kr per kilometer |
 
 Søkere som tar et nettstudium ved et norsk lærested, har rett til stipend til reiser når obligatorisk klasseromsundervisning er en del av utdanningen.
 
@@ -518,7 +559,13 @@ Søkere som får støtte til reiser fra andre, har ikke rett til stipend til rei
 
 ### § 64. Stipend til reiser i Norden
 
-En søker som tar utdanning i Norden og som ikke bor sammen med en av eller begge foreldrene, har rett til et stipend til dekning av utgifter til 3 reiser tur-retur per studieår fra Norge til lærestedet i Norden. Stipendet blir beregnet etter satsene i tabellen under.*Land**Sats i studieåret 2026–2027*Sverige, Finland, Danmark5 622 krIsland9 504 krFærøyene13 704 kr
+En søker som tar utdanning i Norden og som ikke bor sammen med en av eller begge foreldrene, har rett til et stipend til dekning av utgifter til 3 reiser tur-retur per studieår fra Norge til lærestedet i Norden. Stipendet blir beregnet etter satsene i tabellen under.
+
+| *Land* | *Sats i studieåret 2026–2027* |
+| --- | --- |
+| Sverige, Finland, Danmark | 5 622 kr |
+| Island | 9 504 kr |
+| Færøyene | 13 704 kr |
 
 Satsene i tabellen over gjelder for utdanning i et helt studieår. Søkere som tar utdanning som varer 6 måneder eller mindre per studieår, har rett til halv sats.
 
@@ -534,9 +581,27 @@ Søkere som får støtte til reiser fra andre, har ikke rett til stipend til rei
 
 En søker som tar utdanning i land utenfor Norden, og som har bostedsadresse i Folkeregisteret i Norge, har rett til lån og stipend til dekning av utgifter til reiser mellom Norge og regionen lærestedet ligger i.
 
-Søkeren har rett til 65 prosent per region som lån og 35 prosent per region som stipend etter satsene i fjerde kolonne i tabellen under.*Region**Lån (65 %)**Stipend (35 %)**Sum i studieåret 2026–2027*Europa2 022 kr1 089 kr3 110 krAfrika8 307 kr4 473 kr12 780 krAsia6 941 kr3 737 kr10 678 krNord- og Mellom-Amerika7 543 kr4 061 kr11 604 krSør-Amerika9 658 kr5 200 kr14 858 krOseania11 005 kr5 926 kr16 930 kr
+Søkeren har rett til 65 prosent per region som lån og 35 prosent per region som stipend etter satsene i fjerde kolonne i tabellen under.
 
-Søkere som tar utdanning som varer lenger enn 6 måneder per studieår, har også rett til et lån etter satsene i tabellen under.*Region**Lån i studieåret 2026–2027*Europa3 110 krAfrika12 780 krAsia10 678 krNord- og Mellom-Amerika11 604 krSør-Amerika14 858 krOseania16 930 kr
+| *Region* | *Lån (65 %)* | *Stipend (35 %)* | *Sum i studieåret 2026–2027* |
+| --- | --- | --- | --- |
+| Europa | 2 022 kr | 1 089 kr | 3 110 kr |
+| Afrika | 8 307 kr | 4 473 kr | 12 780 kr |
+| Asia | 6 941 kr | 3 737 kr | 10 678 kr |
+| Nord- og Mellom-Amerika | 7 543 kr | 4 061 kr | 11 604 kr |
+| Sør-Amerika | 9 658 kr | 5 200 kr | 14 858 kr |
+| Oseania | 11 005 kr | 5 926 kr | 16 930 kr |
+
+Søkere som tar utdanning som varer lenger enn 6 måneder per studieår, har også rett til et lån etter satsene i tabellen under.
+
+| *Region* | *Lån i studieåret 2026–2027* |
+| --- | --- |
+| Europa | 3 110 kr |
+| Afrika | 12 780 kr |
+| Asia | 10 678 kr |
+| Nord- og Mellom-Amerika | 11 604 kr |
+| Sør-Amerika | 14 858 kr |
+| Oseania | 16 930 kr |
 
 Søkere som har bostedsadresse i Folkeregisteret i Norge, har også rett til stipend til dekning av utgifter til 2 reiser tur-retur per studieår fra foreldrehjemmet i Norge til grensestasjon i Norge. Stipendet blir gitt etter satsene i tabellen i [§ 63](forskrift/2020-04-15-798/§63). Søkeren skal selv dekke en egenandel som i studieåret 2026–2027 er 980 kr.
 
@@ -545,8 +610,6 @@ Søkere som får støtte til reiser fra andre eller som bor sammen med en av ell
 > Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
 ### § 66. Stipend til skolepenger til videregående opplæring ved utenlandske eller internasjonale skoler
-
-En søker som tar videregående opplæring ved utenlandske eller
 
 En søker som tar videregående opplæring ved utenlandske eller internasjonale skoler i Norge eller utlandet som ikke er godkjent etter [privatskolelova](lov/2003-07-04-84), har i studieåret 2026–2027 rett til stipend til skolepenger på inntil 117 641 kr. Stipendet kan likevel ikke tilsvare mer enn 85 prosent av skolepengene som søkeren skal betale.
 
@@ -780,7 +843,13 @@ Stipendet behovsprøves etter reglene i [kapittel 12](forskrift/2020-04-15-798/k
 
 ### § 85. Antall år med flyktningstipend
 
-En søker har rett til flyktningstipend i inntil 3 år, innenfor en periode på 6 år etter datoen beskyttelsen ble innvilget. Innenfor denne perioden gis stipendet med varighet etter denne tabellen:*Tidspunktet utdanningen startet**Varighet av flyktningstipendet*Innen 3 år etter innvilget beskyttelse3 årInnen 4 år etter innvilget beskyttelse2 årInnen 5 år etter innvilget beskyttelse1 år
+En søker har rett til flyktningstipend i inntil 3 år, innenfor en periode på 6 år etter datoen beskyttelsen ble innvilget. Innenfor denne perioden gis stipendet med varighet etter denne tabellen:
+
+| *Tidspunktet utdanningen startet* | *Varighet av flyktningstipendet* |
+| --- | --- |
+| Innen 3 år etter innvilget beskyttelse | 3 år |
+| Innen 4 år etter innvilget beskyttelse | 2 år |
+| Innen 5 år etter innvilget beskyttelse | 1 år |
 
 Søkeren har rett til flyktningstipend i inntil 3 år, innenfor en periode på 8 år etter datoen beskyttelsen ble innvilget, dersom søkeren har barn eller får barn i løpet av den tiden flyktningstipendet normalt kan gis. Søkeren skal begynne på utdanningen før barnet er fylt 10 år.
 
@@ -864,9 +933,27 @@ Søkeren kan få utbetalt et høyere beløp dersom den norske kronen har svekket
 
 En søker som tar utdanning i land utenfor Norden, og som har bostedsadresse i Folkeregisteret i Norge, har rett til lån og stipend til dekning av utgifter til reiser mellom Norge og regionen lærestedet ligger i.
 
-Søkeren har rett til 65 prosent per region som lån og 35 prosent per region som stipend etter satsene i fjerde kolonne i tabellen under.*Region**Lån (65 %)**Stipend (35 %)**Sum i studieåret 2026–2027*Europa2 022 kr1 089 kr3 110 krAfrika8 307 kr4 473 kr12 780 krAsia6 941 kr3 737 kr10 678 krNord- og Mellom-Amerika7 543 kr4 061 kr11 604 krSør-Amerika9 658 kr5 200 kr14 858 krOseania11 005 kr5 926 kr16 930 kr
+Søkeren har rett til 65 prosent per region som lån og 35 prosent per region som stipend etter satsene i fjerde kolonne i tabellen under.
 
-Søkere som tar utdanning som varer lenger enn 6 måneder per studieår, har også rett til et lån etter satsene i tabellen under.*Region**Lån i studieåret 2026–2027*Europa3 110 krAfrika12 780 krAsia10 678 krNord- og Mellom-Amerika11 604 krSør-Amerika14 858 krOseania16 930 kr
+| *Region* | *Lån (65 %)* | *Stipend (35 %)* | *Sum i studieåret 2026–2027* |
+| --- | --- | --- | --- |
+| Europa | 2 022 kr | 1 089 kr | 3 110 kr |
+| Afrika | 8 307 kr | 4 473 kr | 12 780 kr |
+| Asia | 6 941 kr | 3 737 kr | 10 678 kr |
+| Nord- og Mellom-Amerika | 7 543 kr | 4 061 kr | 11 604 kr |
+| Sør-Amerika | 9 658 kr | 5 200 kr | 14 858 kr |
+| Oseania | 11 005 kr | 5 926 kr | 16 930 kr |
+
+Søkere som tar utdanning som varer lenger enn 6 måneder per studieår, har også rett til et lån etter satsene i tabellen under.
+
+| *Region* | *Lån i studieåret 2026–2027* |
+| --- | --- |
+| Europa | 3 110 kr |
+| Afrika | 12 780 kr |
+| Asia | 10 678 kr |
+| Nord- og Mellom-Amerika | 11 604 kr |
+| Sør-Amerika | 14 858 kr |
+| Oseania | 16 930 kr |
 
 Søkere som tar kurs som varer i mindre enn 4 uker ved de norske studiesentrene og instituttene i utlandet, har bare rett til lån til reiser. Lånet gis etter satsene i tabellen i tredje ledd.
 
@@ -936,7 +1023,12 @@ Separerte søkere regnes ikke som gift i dette kapittelet. Ved behovsprøving le
 
 ### § 98. Behovsprøving mot person- og kapitalinntekt
 
-En søker som har brutto person- og kapitalinntekt over grensene i tabellen under, får stipendet redusert med 5 prosent per måned av den delen av inntekten som overstiger grensene.*Kalenderår**Lån og stipend i mer enn 7 måneder per kalenderår**Lån og stipend i 7 måneder eller mindre per kalenderår*2026234 821 kr587 053 kr2027243 040 kr607 600 kr
+En søker som har brutto person- og kapitalinntekt over grensene i tabellen under, får stipendet redusert med 5 prosent per måned av den delen av inntekten som overstiger grensene.
+
+| *Kalenderår* | *Lån og stipend i mer enn 7 måneder per kalenderår* | *Lån og stipend i 7 måneder eller mindre per kalenderår* |
+| --- | --- | --- |
+| 2026 | 234 821 kr | 587 053 kr |
+| 2027 | 243 040 kr | 607 600 kr |
 
 Eksempler på ytelser etter [folketrygdloven](lov/1997-02-28-19) som behovsprøves etter [§ 98](forskrift/2020-04-15-798/§98):sykepengerpleiepenger, omsorgspenger og opplæringspengerforeldrepengerdagpenger under arbeidsløshet med unntak for søkere som tar høyere utdanning eller høyere utdanning i kombinasjon med annen utdanning, jf. [§ 99](forskrift/2020-04-15-798/§99) tredje ledd.
 
@@ -946,7 +1038,12 @@ Følgende inntekter regnes ikke med:renteinntekter fra Boligsparing for ungdomba
 
 ### § 99. Behovsprøving mot trygde- eller pensjonsytelser
 
-En søker som får trygde- eller pensjonsytelser over grensene i tabellen under, får stipendet redusert med 5 prosent per måned av den delen av ytelsene som overstiger grensene.*Kalenderår**Lån og stipend i mer enn 7 måneder per kalenderår**Lån og stipend i 7 måneder eller mindre per kalenderår*2026125 643 kr352 231 kr2027130 041 kr364 559 kr
+En søker som får trygde- eller pensjonsytelser over grensene i tabellen under, får stipendet redusert med 5 prosent per måned av den delen av ytelsene som overstiger grensene.
+
+| *Kalenderår* | *Lån og stipend i mer enn 7 måneder per kalenderår* | *Lån og stipend i 7 måneder eller mindre per kalenderår* |
+| --- | --- | --- |
+| 2026 | 125 643 kr | 352 231 kr |
+| 2027 | 130 041 kr | 364 559 kr |
 
 Eksempler på ytelser etter [folketrygdloven](lov/1997-02-28-19), [integreringsloven](lov/2020-11-06-127) og [sosialtjenesteloven](lov/2009-12-18-131) som behovsprøves etter [§ 99](forskrift/2020-04-15-798/§99):stønad til enslig mor eller far/overgangsstønadarbeidsavklaringspengeruføretrygdgjenlevendepensjon (etterlattepensjon)alderspensjonintroduksjonsstønadkvalifiseringsstønad.
 
@@ -962,7 +1059,12 @@ En etterbetalt trygde- eller pensjonsytelse som er opptjent i en tidligere perio
 
 En søker som har formue over grensene i tabellen under, får stipendet redusert med 2 prosent per måned av den delen av formuen som overstiger grensene.
 
-Gifte søkere som har formue over grensene i tabellen under, får stipendet redusert med 1 prosent per måned av den delen av samlet formue for søkeren og ektefellen som overstiger grensene. Formue som ektefellen har i særeie, regnes med. Søkere som er gift når Lånekassen mottar søknaden om lån og stipend, regnes som gift ved behovsprøvingen.*Kalenderår**Enslig søker**Samlet for søkeren og søkerens ektefelle*2026534 225 kr1 026 024 kr2027552 923 kr1 061 935 kr
+Gifte søkere som har formue over grensene i tabellen under, får stipendet redusert med 1 prosent per måned av den delen av samlet formue for søkeren og ektefellen som overstiger grensene. Formue som ektefellen har i særeie, regnes med. Søkere som er gift når Lånekassen mottar søknaden om lån og stipend, regnes som gift ved behovsprøvingen.
+
+| *Kalenderår* | *Enslig søker* | *Samlet for søkeren og søkerens ektefelle* |
+| --- | --- | --- |
+| 2026 | 534 225 kr | 1 026 024 kr |
+| 2027 | 552 923 kr | 1 061 935 kr |
 
 Følgende regnes ikke som formue:barns formue dersom formuen forvaltes av statsforvalterenerstatnings- og forsikringsutbetaling som følge av kritisk sykdom eller personskade på søkeren eller søkerens ektefelleformuesverdien av trygdefinansiert bil. Dersom formuesverdien av bilen er høyere enn tilskuddet til innkjøp av bilen fra folketrygden, skal differansen mellom disse beløpene regnes som en del av formuen.
 
@@ -970,7 +1072,12 @@ Følgende regnes ikke som formue:barns formue dersom formuen forvaltes av statsf
 
 ### § 101. Behovsprøving av barnestipend mot ektefelles person- og kapitalinntekt
 
-Barnestipendet blir redusert dersom søkeren har en ektefelle med brutto person- og kapitalinntekt over grensene i tabellen under i den perioden søkeren får barnestipend. Renteinntekter fra Boligsparing for ungdom regnes ikke med. Stipendet blir redusert med 5 prosent per måned av den delen av ektefellens brutto person- og kapitalinntekt som overstiger grensene.*Kalenderår**Person- og kapitalinntekt til søkerens ektefelle*2026529 861 kr2027548 406 kr
+Barnestipendet blir redusert dersom søkeren har en ektefelle med brutto person- og kapitalinntekt over grensene i tabellen under i den perioden søkeren får barnestipend. Renteinntekter fra Boligsparing for ungdom regnes ikke med. Stipendet blir redusert med 5 prosent per måned av den delen av ektefellens brutto person- og kapitalinntekt som overstiger grensene.
+
+| *Kalenderår* | *Person- og kapitalinntekt til søkerens ektefelle* |
+| --- | --- |
+| 2026 | 529 861 kr |
+| 2027 | 548 406 kr |
 
 > Endret ved forskrifter [24 mars 2021 nr. 1028](forskrift/2021-03-24-1028) (i kraft 15 april 2021, med virkning fra 16 aug 2021), [10 feb 2022 nr. 282](forskrift/2022-02-10-282) (i kraft 1 mars 2022, med virkning fra 16 aug 2022), [16 mars 2023 nr. 353](forskrift/2023-03-16-353) (i kraft 15 april 2023 med virkning fra 16 aug 2023), [4 mars 2024 nr. 376](forskrift/2024-03-04-376) (i kraft 15 april 2024 med virkning fra 16 aug 2024), [27 feb 2025 nr. 348](forskrift/2025-02-27-348) (i kraft 15 april 2025 med virkning fra 16 aug 2025), [24 april 2026 nr. 649](forskrift/2026-04-24-649) (i kraft 24 april 2026 med virkning fra 16 aug 2026, endring endret ved forskrift [24 mai 2026 nr. 896](forskrift/2026-05-24-896)).
 
